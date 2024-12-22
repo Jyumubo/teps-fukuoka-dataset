@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DEM DownloadURL="http://sawbe.com/DEM/">
+  <RequiredDataRegions>e100n40,e140n40,e140n90</RequiredDataRegions>
+</DEM>
+<!--
+DEM (digital elevation model) is used for MSAW alerting and radar coverage line of sight simulation. It's not neccessary to define. The coordinate is the top left of the coverage area.
+https://forums.vatsim.net/topic/31115-min-set-of-files/?tab=comments#comment-177322
+-->

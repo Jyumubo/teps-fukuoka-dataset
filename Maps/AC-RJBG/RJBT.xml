@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Maps>
+  <Map Type="System" Name="RJBT" Priority="0" Center="+35.512778+134.786945">
+    <Runway Name="01_19">
+      <Threshold Name="01" Position="+35.507436+134.786631" ExtendedCentrelineTrack="183" ExtendedCentrelineLength="5" ExtendedCentrelineTickInterval="2"/>
+      <Threshold Name="19" Position="+35.518284+134.787325" ExtendedCentrelineTrack="003" ExtendedCentrelineLength="5" ExtendedCentrelineTickInterval="2"/>
+    </Runway>
+    <Symbol Type="HollowTriangle">
+      <Point>GUNZE</Point>
+      <Point>ROKKO</Point>
+      <Point>ASAGI</Point>
+      <Point>FOSTA</Point>
+      <Point>BT159</Point>
+      <Point>TAKDA</Point>
+      <Point>BT158</Point>
+      <Point>BT150</Point>
+      <Point>BT151</Point>
+      <Point>OLSOP</Point>
+      <Point>BT156</Point>
+      <Point>BT157</Point>
+      <Point>BT950</Point>
+      <Point>BT951</Point>
+      <Point>BT952</Point>
+    </Symbol>
+    <Symbol Type="Hexagon">
+      <Point>YME</Point>
+    </Symbol>
+    <Symbol Type="HollowSquare">
+      <Point>YME</Point>
+    </Symbol>
+  </Map>
+  <Map Type="System" Name="RJBT_LABEL" Priority="2" Center="+35.512778+134.786945">
+    <Label>
+      <Point>GUNZE</Point>
+      <Point>ROKKO</Point>
+      <Point>ASAGI</Point>
+      <Point>FOSTA</Point>
+      <Point>BT159</Point>
+      <Point>TAKDA</Point>
+      <Point>BT158</Point>
+      <Point>BT150</Point>
+      <Point>BT151</Point>
+      <Point>OLSOP</Point>
+      <Point>BT156</Point>
+      <Point>BT157</Point>
+      <Point>BT950</Point>
+      <Point>BT951</Point>
+      <Point>BT952</Point>
+      <Point>YME</Point>
+    </Label>
+  </Map>
+</Maps>

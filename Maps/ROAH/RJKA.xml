@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Maps>
+  <Map Type="System" Name="RJKA" Priority="0" Center="+28.430833+129.712500">
+    <Runway Name="03_21">
+      <Threshold Name="03" Position="+28.422538+129.708111" ExtendedCentrelineTrack="206" ExtendedCentrelineLength="5" ExtendedCentrelineTickInterval="2" />
+      <Threshold Name="21" Position="+28.438768+129.717028" ExtendedCentrelineTrack="026" ExtendedCentrelineLength="5" ExtendedCentrelineTickInterval="2"/>
+    </Runway>
+    <Symbol Type="HollowTriangle">
+      <Point>KA104</Point>
+      <Point>KA303</Point>
+      <Point>IKEJI</Point>
+      <Point>MUCHA</Point>
+      <Point>PINNE</Point>
+      <Point>KA102</Point>
+      <Point>RURIK</Point>
+      <Point>KA103</Point>
+      <Point>KA302</Point>
+      <Point>POMAS</Point>
+      <Point>YUWAN</Point>
+      <Point>KA301</Point>
+      <Point>KA101</Point>
+      <Point>KANAH</Point>
+      <Point>KYORA</Point>
+      <Point>YUMGI</Point>
+      <Point>UGAMI</Point>
+      <Point>SUKOM</Point>
+      <Point>KA359</Point>
+      <Point>SAMAX</Point>
+      <Point>IKYUN</Point>
+      <Point>KA360</Point>
+      <Point>TUMGI</Point>
+      <Point>UPTEM</Point>
+      <Point>ANBOL</Point>
+      <Point>BOROS</Point>
+      <Point>ESTRA</Point>
+      <Point>IGREK</Point>
+    </Symbol>
+    <Symbol Type="Hexagon">
+      <Point>AME</Point>
+    </Symbol>
+    <Symbol Type="HollowSquare">
+      <Point>AME</Point>
+    </Symbol>
+  </Map>
+  <Map Type="System" Name="RJKA_LABEL" Priority="2" Center="+28.430833+129.712500">
+    <Label>
+      <Point>KA104</Point>
+      <Point>KA303</Point>
+      <Point>IKEJI</Point>
+      <Point>MUCHA</Point>
+      <Point>PINNE</Point>
+      <Point>KA102</Point>
+      <Point>RURIK</Point>
+      <Point>KA103</Point>
+      <Point>KA302</Point>
+      <Point>POMAS</Point>
+      <Point>YUWAN</Point>
+      <Point>KA301</Point>
+      <Point>KA101</Point>
+      <Point>KANAH</Point>
+      <Point>KYORA</Point>
+      <Point>YUMGI</Point>
+      <Point>UGAMI</Point>
+      <Point>SUKOM</Point>
+      <Point>KA359</Point>
+      <Point>SAMAX</Point>
+      <Point>IKYUN</Point>
+      <Point>KA360</Point>
+      <Point>TUMGI</Point>
+      <Point>UPTEM</Point>
+      <Point>ANBOL</Point>
+      <Point>BOROS</Point>
+      <Point>ESTRA</Point>
+      <Point>IGREK</Point>
+      <Point>AME</Point>
+    </Label>
+  </Map>
+</Maps>

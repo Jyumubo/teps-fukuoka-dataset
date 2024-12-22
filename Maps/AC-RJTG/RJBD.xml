@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Maps>
+  <Map Type="System" Name="RJBD" Priority="0" Center="+33.662222+135.364445">
+    <Runway Name="15_33">
+      <Threshold Name="15" Position="+33.669306+135.357744" ExtendedCentrelineTrack="321" ExtendedCentrelineLength="5" ExtendedCentrelineTickInterval="2" />
+      <Threshold Name="33" Position="+33.655298+135.371330" ExtendedCentrelineTrack="141" ExtendedCentrelineLength="5" ExtendedCentrelineTickInterval="2"/>
+    </Runway>
+    <Symbol Type="HollowTriangle">
+      <Point>BD300</Point>
+      <Point>BD301</Point>
+      <Point>RAYJO</Point>
+      <Point>YATAR</Point>
+      <Point>MUROH</Point>
+      <Point>BD550</Point>
+      <Point>BD551</Point>
+      <Point>BD552</Point>
+      <Point>BD350</Point>
+      <Point>BD351</Point>
+    </Symbol>
+    <Symbol Type="Hexagon">
+      <Point>KEC</Point>
+      <Point>NKE</Point>
+    </Symbol>
+    <Symbol Type="HollowSquare">
+      <Point>KEC</Point>
+      <Point>NKE</Point>
+    </Symbol>
+  </Map>
+  <Map Type="System" Name="RJBD_LABEL" Priority="2" Center="+33.662222+135.364445">
+    <Label>
+      <Point>BD300</Point>
+      <Point>BD301</Point>
+      <Point>RAYJO</Point>
+      <Point>YATAR</Point>
+      <Point>MUROH</Point>
+      <Point>BD550</Point>
+      <Point>BD551</Point>
+      <Point>BD552</Point>
+      <Point>BD350</Point>
+      <Point>BD351</Point>
+      <Point>KEC</Point>
+      <Point>NKE</Point>
+    </Label>
+  </Map>
+</Maps>

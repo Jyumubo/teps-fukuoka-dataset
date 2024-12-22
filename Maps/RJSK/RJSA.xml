@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Maps>
+  <Map Type="System" Name="RJSA" Priority="0" Center="+40.733333+140.688611">
+    <Runway Name="06_24">
+      <Threshold Name="06" Position="+40.724943+140.674591" ExtendedCentrelineTrack="232" ExtendedCentrelineLength="5" ExtendedCentrelineTickInterval="2" />
+      <Threshold Name="24" Position="+40.741594+140.702589" ExtendedCentrelineTrack="052" ExtendedCentrelineLength="5" ExtendedCentrelineTickInterval="2"/>
+    </Runway>
+    <Symbol Type="HollowTriangle">
+      <Point>GONOU</Point>
+      <Point>NYUDO</Point>
+      <Point>SMELT</Point>
+      <Point>TSUKI</Point>
+      <Point>OHMAR</Point>
+      <Point>SA611</Point>
+      <Point>SA612</Point>
+      <Point>SA411</Point>
+      <Point>BYOBU</Point>
+      <Point>GOLUS</Point>
+      <Point>MELOS</Point>
+      <Point>YACHI</Point>
+      <Point>SA671</Point>
+      <Point>ABURA</Point>
+      <Point>RINGO</Point>
+      <Point>SA451</Point>
+      <Point>ASAMU</Point>
+      <Point>ALDET</Point>
+    </Symbol>
+    <Symbol Type="Hexagon">
+      <Point>MRE</Point>
+      <Point>UWE</Point>
+    </Symbol>
+    <Symbol Type="HollowSquare">
+      <Point>MRE</Point>
+      <Point>UWE</Point>
+    </Symbol>
+  </Map>
+  <Map Type="System" Name="RJSA_LABEL" Priority="2" Center="+40.733333+140.688611">
+    <Label>
+      <Point>GONOU</Point>
+      <Point>NYUDO</Point>
+      <Point>SMELT</Point>
+      <Point>TSUKI</Point>
+      <Point>OHMAR</Point>
+      <Point>SA611</Point>
+      <Point>SA612</Point>
+      <Point>SA411</Point>
+      <Point>BYOBU</Point>
+      <Point>GOLUS</Point>
+      <Point>MELOS</Point>
+      <Point>YACHI</Point>
+      <Point>SA671</Point>
+      <Point>ABURA</Point>
+      <Point>RINGO</Point>
+      <Point>SA451</Point>
+      <Point>ASAMU</Point>
+      <Point>ALDET</Point>
+      <Point>MRE</Point>
+      <Point>UWE</Point>
+    </Label>
+  </Map>
+</Maps>

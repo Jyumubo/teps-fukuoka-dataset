@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Maps>
+  <Map Type="System" Name="RJFU_14" Priority="0" Center="+32.916945+129.913611">
+    <Runway Name="14_32">
+      <Threshold Name="14" Position="+32.927006+129.902726" ExtendedCentrelineTrack="318" ExtendedCentrelineLength="21" ExtendedCentrelineTickInterval="2"/>
+      <Threshold Name="32" Position="+32.906921+129.924185"/>
+    </Runway>
+    <Symbol Type="HollowTriangle">
+      <Point>AKNAG</Point>
+      <Point>MIGAP</Point>
+      <Point>FU400</Point>
+      <Point>AKMEP</Point>
+      <Point>CARCO</Point>
+      <Point>FU401</Point>
+      <Point>UNZEN</Point>
+      <Point>WARAS</Point>
+      <Point>GOROH</Point>
+      <Point>KROKI</Point>
+      <Point>OOITA</Point>
+      <Point>SALTY</Point>
+      <Point>KAZSA</Point>
+      <Point>PEARL</Point>
+      <Point>SUMOU</Point>
+      <Point>OHGIE</Point>
+      <Point>GLOVR</Point>
+      <Point>OTAXA</Point>
+      <Point>SARUK</Point>
+      <Point>OSETO</Point>
+      <Point>IORIE</Point>
+      <Point>TENBO</Point>
+      <Point>KOHNO</Point>
+    </Symbol>
+    <Symbol Type="Hexagon">
+      <Point>IKE</Point>
+      <Point>OLE</Point>
+      <Point>DGC</Point>      
+    </Symbol>
+    <Symbol Type="HollowSquare">
+      <Point>IKE</Point>
+      <Point>OLE</Point>
+      <Point>DGC</Point>       
+    </Symbol>
+  </Map>
+  <Map Type="System" Name="RJFU_14_LABEL" Priority="2" Center="+32.916945+129.913611">
+    <Label>
+      <Point>AKNAG</Point>
+      <Point>MIGAP</Point>
+      <Point>FU400</Point>
+      <Point>AKMEP</Point>
+      <Point>CARCO</Point>
+      <Point>FU401</Point>
+      <Point>UNZEN</Point>
+      <Point>WARAS</Point>
+      <Point>GOROH</Point>
+      <Point>KROKI</Point>
+      <Point>OOITA</Point>
+      <Point>SALTY</Point>
+      <Point>KAZSA</Point>
+      <Point>PEARL</Point>
+      <Point>SUMOU</Point>
+      <Point>OHGIE</Point>
+      <Point>GLOVR</Point>
+      <Point>OTAXA</Point>
+      <Point>SARUK</Point>
+      <Point>OSETO</Point>
+      <Point>IORIE</Point>
+      <Point>TENBO</Point>
+      <Point>KOHNO</Point>
+      <Point>IKE</Point>
+      <Point>OLE</Point>
+      <Point>DGC</Point>     
+    </Label>
+  </Map>
+</Maps>

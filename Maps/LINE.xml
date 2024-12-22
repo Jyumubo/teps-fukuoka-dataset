@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Maps>
+  <Map Type="System" Name="LINE_TEST" Priority="0" Center="+34.434167+135.232778">
+    <Line Name="Solid" Pattern="Solid">
+      +241715.1318+1264949.5172/
+      +233427.3523+1260459.5697
+    </Line>
+    <Line Name="Broken" Pattern="Broken">
+      +265242.4558+1260723.7378/
+      +261152.4291+1252342.9218
+    </Line>
+    <Line Name="Hash" Pattern="Hash">
+      +230018.663+1243817.1863/
+      +213743.0325+1231251.2128
+    </Line>
+    <Line Name="Dashed" Pattern="Dashed">
+      +261217.1208+1302020.2515/
+      +245515.0627+1292424.2578
+    </Line>
+    <Line Name="Dotted" Pattern="Dotted">
+      +253353.7204+1245606.1835/
+      +242234.3465+1240950.8722
+    </Line>
+    <Label>
+      <Point Name="Solid">+241715.1318+1264949.5172</Point>
+      <Point Name="Broken">+265242.4558+1260723.7378</Point>
+      <Point Name="Hash">+230018.663+1243817.1863</Point>
+      <Point Name="Dashed">+261217.1208+1302020.2515</Point>
+      <Point Name="Dotted">+253353.7204+1245606.1835</Point>
+    </Label>
+  </Map>
+</Maps>

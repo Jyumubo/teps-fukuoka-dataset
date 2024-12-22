@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Maps>
+  <Map Type="System" Name="RJKB" Priority="0" Center="+27.431667+128.705556">
+    <Runway Name="04_22">
+      <Threshold Name="04" Position="+27.426581+128.701715" ExtendedCentrelineTrack="214" ExtendedCentrelineLength="5" ExtendedCentrelineTickInterval="2" />
+      <Threshold Name="22" Position="+27.436647+128.709366" ExtendedCentrelineTrack="034" ExtendedCentrelineLength="5" ExtendedCentrelineTickInterval="2"/>
+    </Runway>
+    <Symbol Type="HollowTriangle">
+      <Point>ASATO</Point>
+      <Point>AZEFU</Point>
+      <Point>INOBE</Point>
+      <Point>MEKAX</Point>
+      <Point>KB200</Point>
+      <Point>HORAI</Point>
+      <Point>YUWAN</Point>
+      <Point>NEORI</Point>
+      <Point>SONNA</Point>
+      <Point>HACHA</Point>
+      <Point>LILLY</Point>
+      <Point>WOODS</Point>
+      <Point>PAULO</Point>
+      <Point>PINNE</Point>
+      <Point>DINGO</Point>
+      <Point>GOMES</Point>
+      <Point>UJIJI</Point>
+      <Point>KB450</Point>
+      <Point>MARIX</Point>
+      <Point>WANJO</Point>
+      <Point>KB250</Point>
+      <Point>KUNIG</Point>
+      <Point>FUCHA</Point>  
+      <Point>ANOXA</Point>  
+    </Symbol>
+    <Symbol Type="Hexagon">
+      <Point>ONC</Point>
+    </Symbol>
+    <Symbol Type="HollowSquare">
+      <Point>ONC</Point>
+    </Symbol>
+  </Map>
+  <Map Type="System" Name="RJKB_LABEL" Priority="2" Center="+27.431667+128.705556">
+    <Label>
+      <Point>ASATO</Point>
+      <Point>AZEFU</Point>
+      <Point>INOBE</Point>
+      <Point>MEKAX</Point>
+      <Point>KB200</Point>
+      <Point>HORAI</Point>
+      <Point>YUWAN</Point>
+      <Point>NEORI</Point>
+      <Point>SONNA</Point>
+      <Point>HACHA</Point>
+      <Point>LILLY</Point>
+      <Point>WOODS</Point>
+      <Point>PAULO</Point>
+      <Point>PINNE</Point>
+      <Point>DINGO</Point>
+      <Point>GOMES</Point>
+      <Point>UJIJI</Point>
+      <Point>KB450</Point>
+      <Point>MARIX</Point>
+      <Point>WANJO</Point>
+      <Point>KB250</Point>
+      <Point>KUNIG</Point>
+      <Point>FUCHA</Point>
+      <Point>ANOXA</Point> 
+      <Point>ONC</Point>
+    </Label>
+  </Map>
+</Maps>

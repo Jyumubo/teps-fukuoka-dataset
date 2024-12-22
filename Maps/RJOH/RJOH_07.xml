@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Maps>
+  <Map Type="System" Name="RJOH_07" Priority="0" Center="+35.493333+133.239167">
+    <Runway Name="07_25">
+      <Threshold Name="07" Position="+35.488420+133.226819" ExtendedCentrelineTrack="243" ExtendedCentrelineLength="21" ExtendedCentrelineTickInterval="2"/>
+      <Threshold Name="25" Position="+35.498327+133.251604"/>
+    </Runway>
+    <Symbol Type="HollowTriangle">
+      <Point>DOZEN</Point>
+      <Point>INABA</Point>
+      <Point>OH701</Point>
+      <Point>OH703</Point>
+      <Point>MIHOU</Point>
+      <Point>NIIMI</Point>
+      <Point>MIYOS</Point>
+      <Point>STAGE</Point>
+      <Point>YAPPA</Point>
+      <Point>KUMIK</Point>
+      <Point>RAKDA</Point>
+      <Point>OH762</Point>
+      <Point>OH761</Point>
+      <Point>KYURI</Point>
+      <Point>PEPOS</Point>
+      <Point>OH763</Point>
+      <Point>UGEPA</Point>
+    </Symbol>
+    <Symbol Type="Hexagon">
+      <Point>YGE</Point>
+      <Point>TRE</Point>
+      <Point>YME</Point>
+      <Point>KMC</Point>
+      <Point>JET</Point>
+    </Symbol>
+    <Symbol Type="HollowSquare">
+      <Point>YGE</Point>
+      <Point>TRE</Point>
+      <Point>YME</Point>
+      <Point>KMC</Point>
+      <Point>JET</Point>
+    </Symbol>
+  </Map>
+  <Map Type="System" Name="RJOH_07_LABEL" Priority="2" Center="+35.493333+133.239167">
+    <Label>
+      <Point>DOZEN</Point>
+      <Point>INABA</Point>
+      <Point>OH701</Point>
+      <Point>OH703</Point>
+      <Point>MIHOU</Point>
+      <Point>NIIMI</Point>
+      <Point>MIYOS</Point>
+      <Point>STAGE</Point>
+      <Point>YAPPA</Point>
+      <Point>KUMIK</Point>
+      <Point>RAKDA</Point>
+      <Point>OH762</Point>
+      <Point>OH761</Point>
+      <Point>KYURI</Point>
+      <Point>PEPOS</Point>
+      <Point>OH763</Point>
+      <Point>UGEPA</Point>
+      <Point>JET</Point>
+      <Point>YGE</Point>
+      <Point>TRE</Point>
+      <Point>YME</Point>
+      <Point>KMC</Point>
+    </Label>
+  </Map>
+</Maps>

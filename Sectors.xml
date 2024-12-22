@@ -1,0 +1,964 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Sectors xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <!-- RJJJ -->
+  <Sector FullName="JJ Combined" Frequency="126.700" Callsign="RJJJ_FSS" Name="JJ ALL">
+    <Volumes></Volumes>
+  </Sector>
+  <!-- RJDG -->
+  <Sector FullName="DG North" Frequency="133.300" Callsign="RJDG_N_CTR" Name="DG N">
+    <Volumes>DG N</Volumes>
+    <ResponsibleSectors>F01,T30,T31,T32</ResponsibleSectors>
+  </Sector>
+  <Sector FullName="DG South" Frequency="123.900" Callsign="RJDG_S_CTR" Name="DG S">
+    <Volumes>DG S</Volumes>
+    <ResponsibleSectors>N55,F15,F16,F17</ResponsibleSectors>
+  </Sector>
+  <Sector FullName="F01" Frequency="133.3" Callsign="RJDG_01_CTR" Name="F01">
+    <Volumes>F01_335-UNL,F01_SFC-UNL</Volumes>
+  </Sector>
+
+  <Sector FullName="F04" Frequency="120.750" Callsign="RJDG_04_CTR" Name="F04">
+    <Volumes>F04_335-UNL,F04_SFC-UNL</Volumes>
+  </Sector>
+  <Sector FullName="F05" Frequency="128.125" Callsign="RJDG_05_CTR" Name="F05">
+    <Volumes>F05_335-UNL</Volumes>
+  </Sector>
+  
+  <Sector FullName="F07" Frequency="133.025" Callsign="RJDG_07_CTR" Name="F07">
+    <Volumes>F07_335-UNL,F07_SFC-UNL</Volumes>
+  </Sector>
+  <Sector FullName="F08" Frequency="124.150" Callsign="RJDG_08_CTR" Name="F08">
+    <Volumes>F08_335-UNL,F08_SFC-UNL,F08_RJOH-CAP_100-UNL,F08_RJOH-CAP_150-UNL</Volumes>
+  </Sector>
+  <Sector FullName="F09" Frequency="119.350" Callsign="RJDG_09_CTR" Name="F09">
+    <Volumes>F09_335-UNL</Volumes>
+  </Sector>
+  <Sector FullName="F10" Frequency="134.350" Callsign="RJDG_10_CTR" Name="F10">
+    <Volumes>F10_335-UNL</Volumes>
+  </Sector>
+  <Sector FullName="F11" Frequency="124.550" Callsign="RJDG_11_CTR" Name="F11">
+    <Volumes>F11_SFC-UNL</Volumes>
+  </Sector>
+  <Sector FullName="F12" Frequency="133.150" Callsign="RJDG_12_CTR" Name="F12">
+    <Volumes>F12_335-UNL</Volumes>
+  </Sector>
+  <Sector FullName="F13" Frequency="135.300" Callsign="RJDG_13_CTR" Name="F13">
+    <Volumes>F13_SFC-UNL,F13_335-UNL</Volumes>
+  </Sector>
+  <Sector FullName="F14" Frequency="127.500" Callsign="RJDG_14_CTR" Name="F14">
+    <Volumes>F14_335-UNL</Volumes>
+  </Sector>
+  <Sector FullName="F15" Frequency="127.500" Callsign="RJDG_15_CTR" Name="F15">
+    <Volumes>F15_SFC-UNL</Volumes>
+  </Sector>
+  <Sector FullName="F16" Frequency="132.300" Callsign="RJDG_16_CTR" Name="F16">
+    <Volumes>F16_SFC-UNL,F16_335-UNL</Volumes>
+  </Sector>
+  <Sector FullName="F17" Frequency="123.900" Callsign="RJDG_17_CTR" Name="F17">
+    <Volumes>F17_SFC-UNL,F17_RORS-CAP_160-UNL,F17_RORS-CAP_070-UNL_N,F17_RORS-CAP_070-UNL_S,F17_RORS-CAP_280-UNL,F17_ROAH-CAP_250-UNL</Volumes>
+    <ResponsibleSectors>ORS APP</ResponsibleSectors>
+  </Sector>
+  <!-- RJTG -->
+  <Sector FullName="TG North" Frequency="127.500" Callsign="RJTG_N_CTR" Name="TG N">
+    <Volumes>TG N</Volumes>
+    <ResponsibleSectors>T30,T31,T32</ResponsibleSectors>
+  </Sector>
+  <Sector FullName="T30" Frequency="127.500" Callsign="RJTG_30_CTR" Name="T30">
+    <Volumes>T30_SFC-335,T30_RJCH-CAP_130-335,T30_RJCC-CAP_200-335,T30_RJCC-CAP_160-335,T30_RJCO-CAP_110-335,T30_RJEC-CAP_180-335,T30_RJEC-CAP_130-335_N,T30_RJCO-CAP_080-335</Volumes>
+    <ResponsibleSectors></ResponsibleSectors>
+  </Sector>
+  <Sector FullName="T31" Frequency="119.300" Callsign="RJTG_31_CTR" Name="T31">
+    <Volumes>T31_SFC-335_E,T31_SFC-335_W,T31_RJCH-CAP_130-335,T31_RJSM-CAP_150-335,T31_245-335</Volumes>
+    <ResponsibleSectors></ResponsibleSectors>
+  </Sector>
+  <Sector FullName="T32" Frequency="124.500" Callsign="RJTG_32_CTR" Name="T32">
+    <Volumes>T32_RJSK-CAP_180-335,T32_RJSM-CAP_200-335,T32_RJSM-CAP_150-335,T32_RJSM-CAP_170-335,T32_SFC-335_E,T32_SFC-335_W,T32_RJSK-CAP_130-245,T32_RJSM-CAP_200-245,T32_SFC-245</Volumes>
+    <ResponsibleSectors></ResponsibleSectors>
+  </Sector>
+  <!-- RJBG -->
+  <Sector FullName="N43" Frequency="132.450" Callsign="RJBG_43_CTR" Name="N43">
+    <Volumes>N43_SFC-335,N43_RJNK-CAP_230-335,N43_RJNK-CAP_150-335,N43_RJNK-CAP_070-335,N43_RJGG-CAP_150-335,N43_RJTY-CAP_230-335</Volumes>
+    <ResponsibleSectors></ResponsibleSectors>
+  </Sector>
+  <Sector FullName="N44" Frequency="123.900" Callsign="RJBG_44_CTR" Name="N44">
+    <Volumes>N44_SFC-335_N,N44_SFC-335_S,N44_RJGG-CAP_150-335,N44_RJGG-CAP_120-335,N44_RJBB-CAP_160-335,N44_RJBB-CAP_200-335,N44_195-335</Volumes>
+    <ResponsibleSectors></ResponsibleSectors>
+  </Sector>
+
+
+  <Sector FullName="N47" Frequency="133.550" Callsign="RJBG_47_CTR" Name="N47">
+    <Volumes>N47_SFC-335,N47_RJGG-CAP_150-335,N47_RJGG-CAP_120-335,N47_RJBB-CAP_150-335_W,N47_RJBB-CAP_190-335</Volumes>
+    <ResponsibleSectors></ResponsibleSectors>
+  </Sector>
+  <Sector FullName="N48" Frequency="133.800" Callsign="RJBG_48_CTR" Name="N48">
+    <Volumes>N48_SFC-335,N48_RJNK-CAP_230-335,N48_RJNK-CAP_150-335,N48_RJNK-CAP_070-335,N48_RJGG-CAP_150-335,N48_RJBB-CAP_090-335,N48_RJOH-CAP_150-335,N48_RJOH-CAP_100-335,N48_RJOH-CAP_080-335,N48_RJOA-CAP_150-335,N48_RJOA-CAP_150-235</Volumes>
+    <ResponsibleSectors></ResponsibleSectors>
+  </Sector>
+  <Sector FullName="N49" Frequency="132.700" Callsign="RJBG_49_CTR" Name="N49">
+    <Volumes>N49_235-335,N49_SFC-335,N49_RJOA-CAP_150-335,N49_RJBB-CAP_090-335,N49_RJBB-CAP_120-335,N49_RJBB-CAP_190-335,N49_RJBB-CAP_200-335</Volumes>
+    <ResponsibleSectors></ResponsibleSectors>
+  </Sector>
+  <Sector FullName="N50" Frequency="127.150" Callsign="RJBG_50_CTR" Name="N50">
+    <Volumes>N50_215-335,N50_RJBB-CAP_200-335,N50_SFC-335_E,N50_RJOS-CAP_060-335,N50_SFC-335_W,N50_RJBB-CAP_150-335,N50_175-335,N50_RJBB-CAP_180-335</Volumes>
+    <ResponsibleSectors></ResponsibleSectors>
+  </Sector>
+  <Sector FullName="N51" Frequency="132.500" Callsign="RJBG_51_CTR" Name="N51">
+    <Volumes>N51_RJFO-CAP_120-335,N51_RJFO-CAP_120-150,N51_SFC-335_W,N51_RJFZ-CAP_100-335_W,N51_RJFF-CAP_180-335,N51_RJFZ-CAP_160-335,N51_RJOI-CAP_230-335,N51_RJOI-CAP_100-335_S,N51_RJOI-CAP_100-335_N,N51_RJOI-CAP_100-150_W,N51_RJOA-CAP_080-150,N51_SFC-060,N51_SFC-140,N51_SFC-200,N51_SFC-150,N51_RJOI-CAP_060-150,N51_RJOI-CAP_100-150,N51_CAP_150-335,N51_RJOA-CAP_080-335,N51_RJOH-CAP_150-335_N,N51_SFC-335_E,N51_SFC-335</Volumes>
+    <ResponsibleSectors></ResponsibleSectors>
+  </Sector>
+  <Sector FullName="N52" Frequency="135.650" Callsign="RJBG_52_CTR" Name="N52">
+    <Volumes>N52_RJBB-CAP_150-335,N52_RJBB-CAP_150-175,N52_RJBB-CAP_120-335_E,N52_RJFZ-CAP_160-335,N52_RJFZ-CAP_130-335,N52_RJFZ-CAP_090-335,N52_RJFO-CAP_120-335_W,N52_SFC-335_W,N52_SFC-070,N52_SFC-335,N52_RJOI-CAP_150-335</Volumes>
+    <ResponsibleSectors></ResponsibleSectors>
+  </Sector>
+  <Sector FullName="N53" Frequency="118.900" Callsign="RJBG_53_CTR" Name="N53">
+    <Volumes>N53_SFC-335_W,N53_RJFF-CAP_180-335,N53_CAP_160-335,N53_SFC-335_E,N53_RJFK-CAP_200-335,N53_RJFT-CAP_060-335,N53_RJFU-CAP_170-335,N53_RJFU-CAP_120-335</Volumes>
+    <ResponsibleSectors></ResponsibleSectors>
+  </Sector>
+  <Sector FullName="N54" Frequency="133.850" Callsign="RJBG_54_CTR" Name="N54">
+    <Volumes>N54_SFC-335,N54_RJFK-CAP_200-335,N54_RJFK-CAP_160-335,N54_RJFK-CAP_150-335,N54_RJFY-CAP_060-335,N54_RJFY-CAP_050-335,N54_SFC-215,N54_150-215,N54_SFC-275</Volumes>
+    <ResponsibleSectors>JFK APP,JFY APP</ResponsibleSectors>
+  </Sector>
+  <Sector FullName="N55" Frequency="132.350" Callsign="RJBG_55_CTR" Name="N55">
+    <Volumes>N55_SFC-335,N55_ROAH-CAP_250-335,N55_ROAH-CAP_200-335,N55_275-335</Volumes>
+    <ResponsibleSectors>OAH APP</ResponsibleSectors>
+  </Sector>
+  <!-- Approach -->
+  <!-- Sapporo -->
+  <Sector FullName="CO Radar" Frequency="119.225" Callsign="RJCO_APP" Name="CO APP">
+    <Volumes>RJCO_ACA_SFC-110,RJCO_ACA_SFC-080,RJCO_ACA_SFC-070</Volumes>
+  </Sector>
+  <!-- Chitose -->
+  <Sector FullName="CC Approach" Frequency="120.100" Callsign="RJCC_APP" Name="CC APP">
+    <Volumes>RJCC_ACA_081-160,RJCC_ACA_SFC-160,RJCC_ACA_SFC-200_E,RJCC_ACA_SFC-200_W,RJCC_ACA_111-200,RJCC_ACA_131-200</Volumes>
+  </Sector>
+  <!-- Shirakami -->
+  <Sector FullName="SK Approach" Frequency="119.250" Callsign="RJSK_APP" Name="SK APP">
+    <Volumes>RJSK_ACA_SFC-130,RJSK_ACA_SFC-180,RJSK_ACA_SFC-089</Volumes>
+  </Sector>
+  <!-- Hidaka -->
+  <Sector FullName="EC Approach" Frequency="128.325" Callsign="RJEC_APP" Name="EC APP">
+    <Volumes>RJEC_ACA_071-130,RJEC_ACA_SFC-080,RJEC_ACA_081-130,RJEC_ACA_SFC-130,RJEC_ACA_SFC-180</Volumes>
+  </Sector>
+  <!-- Hakodate -->
+  <Sector FullName="CH Approach" Frequency="119.000" Callsign="RJCH_APP" Name="CH APP">
+    <Volumes>RJCH_ACA_SFC-130</Volumes>
+  </Sector>
+  <!-- Misawa -->
+  <Sector FullName="SM Approach" Frequency="120.700" Callsign="RJSM_APP" Name="SM APP">
+    <Volumes>RJSM_ACA_090-200,RJSM_ACA_SFC-150,RJSM_ACA_SFC-200,RJSM_ACA_SFC-170</Volumes>
+  </Sector>
+  <!-- Sendai -->
+  <Sector FullName="SS Approach" Frequency="120.400" Callsign="RJSS_APP" Name="SS APP">
+    <Volumes>RJSS_ACA_SFC-160</Volumes>
+  </Sector>
+  <!-- Sendai -->
+  <Sector FullName="ST Approach" Frequency="120.100" Callsign="RJST_APP" Name="ST APP">
+    <Volumes>RJST_ACA_SFC-060,RJST_ACA_SFC-100,RJST_ACA_SFC-140</Volumes>
+  </Sector>
+  <!-- Nigata -->
+  <Sector FullName="SN Radar" Frequency="121.400" Callsign="RJSN_APP" Name="SN APP">
+    <Volumes>RJSN_ACA_SFC-140,RJSN_ACA_SFC-080</Volumes>
+  </Sector>
+  <!-- Hyakuri -->
+  <Sector FullName="AH Approach" Frequency="120.100" Callsign="RJAH_APP" Name="AH APP">
+    <Volumes>RJAH_ACA_SFC-130,RJAH_ACA_SFC-230,RJAH_ACA_SFC-080_E,RJAH_ACA_SFC-059,RJAH_ACA_SFC-080_W,RJAH_ACA_SFC-100,RJAH_ACA_SFC-070,RJAH_ACA_SFC-049,RJAH_ACA_SFC-039_E,RJAH_ACA_SFC-025,RJAH_ACA_SFC-018,RJAH_ACA_SFC-029,RJAH_ACA_SFC-039_W</Volumes>
+  </Sector>
+  <!-- Utsunomiya -->
+  <Sector FullName="TU Approach" Frequency="120.100" Callsign="RJTU_APP" Name="TU APP">
+    <Volumes>RJTU_ACA_SFC-070,RJTU_ACA_SFC-040</Volumes>
+  </Sector>
+  <!-- Yokota -->
+  <Sector FullName="TY Approach" Frequency="118.300" Callsign="RJTY_APP" Name="TY APP">
+    <Volumes>RJTY_ACA_SFC-230,RJTY_ACA_SFC-180,RJTY_ACA_SFC-160,RJTY_ACA_SFC-140,RJTY_ACA_SFC-120,RJTY_ACA_SFC-080</Volumes>
+  </Sector>
+  <!-- Tokyo -->
+  <Sector FullName="TT Approach" Frequency="119.100" Callsign="RJTT_APP" Name="TT APP">
+    <Volumes>RJTT_ACA_SFC-230,RJTT_ACA_SFC-240,RJTT_ACA_181-240,RJTT_ACA_081-240,RJTT_ACA_121-240,RJTT_ACA_141-240,RJTT_ACA_041-240,RJTT_ACA_071-240,RJTT_ACA_131-240,RJTT_ACA_040-240_W,RJTT_ACA_030-240,RJTT_ACA_019-240,RJTT_ACA_101-240,RJTT_ACA_026-240,RJTT_ACA_040-240_E,RJTT_ACA_050-240,RJTT_ACA_060-240,RJTT_ACA_081-240_N,RJTT_ACA_081-240_S</Volumes>
+  </Sector>
+  <!-- Komatsu -->
+  <Sector FullName="NK Approach" Frequency="121.250" Callsign="RJNK_APP" Name="NK APP">
+    <Volumes>RJNK_ACA_SFC-230,RJNK_ACA_SFC-150,RJNK_ACA_SFC-070</Volumes>
+  </Sector>
+  <!-- Hamamatsu-->
+  <Sector FullName="NH Approach" Frequency="120.100" Callsign="RJNH_APP" Name="NH APP">
+    <Volumes>RJNH_ACA_SFC-040,RJNH_ACA_SFC-060,RJNH_ACA_SFC-140</Volumes>
+  </Sector>
+  <!-- Centrair-->
+  <Sector FullName="GG Approach" Frequency="121.050" Callsign="RJGG_APP" Name="GG APP">
+    <Volumes>RJGG_ACA_SFC-120_N,RJGG_ACA_SFC-150,RJGG_ACA_061-150,RJGG_ACA_041-150,RJGG_ACA_026-120,RJGG_ACA_041-120,RJGG_ACA_051-120,RJGG_ACA_SFC-120_S</Volumes>
+  </Sector>
+  <!-- Akeno -->
+  <Sector FullName="OE Approach" Frequency="120.100" Callsign="RJOE_APP" Name="OE APP">
+    <Volumes>RJOE_ACA_SFC-025,RJOE_ACA_SFC-040,RJOE_ACA_SFC-050</Volumes>
+  </Sector>
+  <!-- Tokushima -->
+  <Sector FullName="OS Approach" Frequency="124.000" Callsign="RJOS_APP" Name="OS APP">
+    <Volumes>RJOS_ACA_SFC-030,RJOS_ACA_SFC-050,RJOS_ACA_SFC-060</Volumes>
+  </Sector>
+  <!-- Kansai -->
+  <Sector FullName="BB Approach" Frequency="120.250" Callsign="RJBB_APP" Name="BB APP">
+    <Volumes>RJBB_ACA_SFC-120_W,RJBB_ACA_SFC-160,RJBB_ACA_SFC-180_E,RJBB_ACA_051-180_E,RJBB_ACA_031-200,RJBB_ACA_051-200,RJBB_ACA_051-180_W,RJBB_ACA_061-180,RJBB_ACA_061-150,RJBB_ACA_SFC-200,RJBB_ACA_061-200,RJBB_ACA_SFC-190,RJBB_ACA_SFC-180_W,RJBB_ACA_SFC-090,RJBB_ACA_061-090,RJBB_ACA_061-120,RJBB_ACA_SFC-120_E,RJBB_ACA_SFC-150</Volumes>
+  </Sector>
+  <!-- Miho -->
+  <Sector FullName="OH Approach" Frequency="125.400" Callsign="RJOH_APP" Name="OH APP">
+    <Volumes>RJOH_ACA_SFC-150,RJOH_ACA_SFC-100,RJOH_ACA_SFC-080</Volumes>
+  </Sector>
+  <!-- Hiroshima -->
+  <Sector FullName="OA Approach" Frequency="124.050" Callsign="RJOA_APP" Name="OA APP">
+    <Volumes>RJOA_ACA_SFC-150,RJOA_ACA_SFC-080,RJOA_ACA_SFC-059,RJOA_ACA_061-080,RJOA_ACA_SFC-060</Volumes>
+  </Sector>
+  <!-- Iwakuni -->
+  <Sector FullName="OI Approach" Frequency="128.000" Callsign="RJOI_APP" Name="OI APP">
+    <Volumes>RJOI_ACA_SFC-150_S,RJOI_ACA_SFC-100_E,RJOI_ACA_150_E,RJOI_ACA_060_E,RJOI_ACA_200-230,RJOI_ACA_140-230,RJOI_ACA_SFC-230,RJOI_ACA_SFC-100_N,RJOI_ACA_150-230_N,RJOI_ACA_SFC-100_W,RJOI_ACA_150-230_S,RJOI_ACA_SFC-100_C,RJOI_ACA_150_C</Volumes>
+  </Sector>
+  <!-- Oita -->
+  <Sector FullName="FO Approach" Frequency="120.600" Callsign="RJFO_APP" Name="FO APP">
+    <Volumes>RJFO_ACA_070-120,RJFO_ACA_SFC-099,RJFO_ACA_SFC-120</Volumes>
+  </Sector>
+  <!-- Tsuiki -->
+  <Sector FullName="FZ Approach" Frequency="119.225" Callsign="RJFZ_APP" Name="FZ APP">
+    <Volumes>RJFZ_ACA_SFC-100,RJFZ_ACA_150-160,RJFZ_ACA_100-160,RJFZ_ACA_SFC-160,RJFZ_ACA_SFC-130,RJFZ_ACA_120-160_S,RJFZ_ACA_SFC-090,RJFZ_ACA_SFC-060,RJFZ_ACA_120-160_N,RJFZ_ACA_SFC-079,RJFZ_ACA_SFC-119,RJFZ_ACA_SFC-099</Volumes>
+  </Sector>
+  <!-- Fukuoka -->
+  <Sector FullName="FF Approach" Frequency="119.650" Callsign="RJFF_APP" Name="FF APP">
+    <Volumes>RJFF_ACA_120-180,RJFF_ACA_100-180,RJFF_ACA_080-180,RJFF_ACA_120-160,RJFF_ACA_080-160,RJFF_ACA_061-119,RJFF_ACA_SFC-119,RJFF_ACA_SFC-160,RJFF_ACA_SFC-180,RJFF_ACA_SFC-060,RJFF_ACA_121-180</Volumes>
+  </Sector>
+  <!-- Nagasaki -->
+  <Sector FullName="FU Approach" Frequency="119.175" Callsign="RJFU_APP" Name="FU APP">
+    <Volumes>RJFU_ACA_SFC-120_N,RJFU_ACA_SFC-120_S,RJFU_ACA_060-170_N,RJFU_ACA_060-170_S,RJFU_ACA_SFC-170</Volumes>
+  </Sector>
+  <!-- Kumamoto -->
+  <Sector FullName="FT Approach" Frequency="129.000" Callsign="RJFT_APP" Name="FT APP">
+    <Volumes>RJFT_ACA_SFC-160,RJFT_ACA_SFC-060</Volumes>
+  </Sector>
+  <!-- Kagoshima -->
+  <Sector FullName="FK Approach" Frequency="126.000" Callsign="RJFK_APP" Name="FK APP">
+    <Volumes>RJFK_ACA_SFC-200,RJFK_ACA_SFC-160,RJFK_ACA_SFC-150,RJFK_ACA_060-150,RJFK_ACA_060-200,RJFK_ACA_050-200</Volumes>
+  </Sector>
+  <!-- Kanoya -->
+  <Sector FullName="FY Approach" Frequency="122.150" Callsign="RJFY_APP" Name="FY APP">
+    <Volumes>RJFY_ACA_SFC-050,RJFY_ACA_SFC-060</Volumes>
+  </Sector>
+  <!-- Naha -->
+  <Sector FullName="OAH Approach" Frequency="119.100" Callsign="ROAH_APP" Name="OAH APP">
+    <Volumes>ROAH_ACA_SFC-200,ROAH_ACA_SFC-250</Volumes>
+  </Sector>
+  <!-- Sakishima -->
+  <Sector FullName="先島APP 拡大" Frequency="133.7" Callsign="ROMY_K_APP" Name="ORSK">
+    <Volumes>RORS_ACA_SFC-280_W,RORS_ACA_SFC-280_E,RORS_ACA_SFC-160,RORS_ACA_SFC-070_N,RORS_ACA_SFC-070_S</Volumes>
+  </Sector>
+  <Sector FullName="先島APP 宮古" Frequency="125.0" Callsign="ROMY_E_APP" Name="OMYA">
+    <Volumes>RORS_ACA_SFC-280_W,RORS_ACA_SFC-280_E,RORS_ACA_SFC-160,RORS_ACA_SFC-070_N,RORS_ACA_SFC-070_S</Volumes>
+  </Sector>
+  <Sector FullName="先島APP 石垣" Frequency="120.3" Callsign="ROMY_W_APP" Name="OIGA">
+    <Volumes>RORS_ACA_SFC-280_W,RORS_ACA_SFC-280_E,RORS_ACA_SFC-160,RORS_ACA_SFC-070_N,RORS_ACA_SFC-070_S</Volumes>
+  </Sector>
+
+ <!-- Tower -->
+  <!-- RJCM -->
+    <Sector FullName="CM Local" Frequency="118.85" Callsign="RJCM_TWR" Name="CM LCL">
+      <Volumes>RJCM_D</Volumes>
+    </Sector>
+  <!-- RJCT -->
+    <Sector FullName="CK Local" Frequency="118.05" Callsign="RJCK_TWR" Name="CK LCL">
+      <Volumes>RJCK_D</Volumes>
+    </Sector>
+  <!-- RJCT -->
+    <Sector FullName="CT Local" Frequency="122.2" Callsign="RJCT_TWR" Name="CT LCL">
+      <Volumes>RJCT_D</Volumes>
+    </Sector>
+  <!-- RJCB -->
+    <Sector FullName="CB Local" Frequency="118.7" Callsign="RJCB_TWR" Name="CB LCL">
+      <Volumes>RJCB_D</Volumes>
+    </Sector>
+  <!-- RJCA -->
+    <Sector FullName="CA Local" Frequency="126.2" Callsign="RJCA_TWR" Name="CA LCL">
+      <Volumes>RJCA_D</Volumes>
+    </Sector>
+  <!-- RJEC -->
+    <Sector FullName="EC Local" Frequency="118.55" Callsign="RJEC_TWR" Name="EC LCL">
+      <Volumes>RJEC_D</Volumes>
+    </Sector>
+  <!-- RJCO -->
+    <Sector FullName="CO Local" Frequency="118.1" Callsign="RJCO_TWR" Name="CO LCL">
+      <Volumes>RJCO_D</Volumes>
+    </Sector>
+    <Sector FullName="CO Ground" Frequency="121.8" Callsign="RJCO_GND" Name="CO GND">
+      <Volumes>RJCO_D</Volumes>
+    </Sector>
+  <!-- RJCC -->
+    <Sector FullName="CC Local" Frequency="118.8" Callsign="RJCC_TWR" Name="CC LCL">
+      <Volumes>RJCC_D,RJCJ_D</Volumes>
+    </Sector>
+    <Sector FullName="CC Local E" Frequency="118.8" Callsign="RJCC_E_TWR" Name="CC LCL E">
+      <Volumes>RJCC_D,RJCJ_D</Volumes>
+    </Sector>
+    <Sector FullName="CC Local W" Frequency="118.8" Callsign="RJCC_W_TWR" Name="CC LCL W">
+      <Volumes>RJCC_D,RJCJ_D</Volumes>
+    </Sector>
+    <Sector FullName="CC Ground" Frequency="121.6" Callsign="RJCC_GND" Name="CC GND" DisplayInHandoffWindow="False">
+      <Volumes>RJCC_D,RJCJ_D</Volumes>
+    </Sector>
+    <Sector FullName="CC Ground E" Frequency="121.6" Callsign="RJCC_E_GND" Name="CC GND E" DisplayInHandoffWindow="False">
+      <Volumes>RJCC_D,RJCJ_D</Volumes>
+    </Sector>
+    <Sector FullName="CC Ground C" Frequency="121.95" Callsign="RJCC_C_GND" Name="CC GND C" DisplayInHandoffWindow="False">
+      <Volumes>RJCC_D,RJCJ_D</Volumes>
+    </Sector>
+    <Sector FullName="CC Ground W" Frequency="121.7" Callsign="RJCC_W_GND" Name="CC GND W" DisplayInHandoffWindow="False">
+      <Volumes>RJCC_D,RJCJ_D</Volumes>
+    </Sector>
+    <Sector FullName="CC Delivery" Frequency="121.9" Callsign="RJCC_DEL" Name="CC CD" DisplayInHandoffWindow="False">
+      <Volumes>RJCC_D,RJCJ_D</Volumes>
+    </Sector>
+  <!-- RJCH -->
+    <Sector FullName="CH Local" Frequency="118.35" Callsign="RJCH_TWR" Name="CH LCL">
+      <Volumes>RJCH_D</Volumes>
+    </Sector>
+  <!-- RJSO -->
+    <Sector FullName="SO Local" Frequency="122.0" Callsign="RJSO_TWR" Name="SO LCL">
+      <Volumes>RJSO_D</Volumes>
+    </Sector>
+  <!-- RJSA -->
+    <Sector FullName="SA Local" Frequency="118.3" Callsign="RJSA_TWR" Name="SA LCL">
+      <Volumes>RJSA_D</Volumes>
+    </Sector>
+  <!-- RJSM -->
+    <Sector FullName="SM Local" Frequency="118.1" Callsign="RJSM_TWR" Name="SM LCL">
+      <Volumes>RJSM_D</Volumes>
+    </Sector>
+    <Sector FullName="SM Ground" Frequency="118.65" Callsign="RJSM_GND" Name="SM GND" DisplayInHandoffWindow="False">
+      <Volumes>RJSM_D</Volumes>
+    </Sector>
+  <!-- RJSH -->
+    <Sector FullName="SH Local" Frequency="126.2" Callsign="RJSH_TWR" Name="SH LCL">
+      <Volumes>RJSH_D</Volumes>
+    </Sector>
+  <!-- RJSK -->
+    <Sector FullName="SK Local" Frequency="118.6" Callsign="RJSK_TWR" Name="SK LCL">
+      <Volumes>RJSK_D</Volumes>
+    </Sector>
+  <!-- RJST -->
+    <Sector FullName="ST Local" Frequency="126.2" Callsign="RJST_TWR" Name="ST LCL">
+      <Volumes>RJST_D</Volumes>
+    </Sector>
+  <!-- RJSU -->
+    <Sector FullName="SU Local" Frequency="122.2" Callsign="RJSU_TWR" Name="SU LCL">
+      <Volumes>RJSU_D</Volumes>
+    </Sector>
+  <!-- RJSS -->
+    <Sector FullName="SS Local" Frequency="118.7" Callsign="RJSS_TWR" Name="SS LCL">
+      <Volumes>RJSS_D</Volumes>
+    </Sector>
+    <Sector FullName="SS Ground" Frequency="121.7" Callsign="RJSS_GND" Name="SS GND" DisplayInHandoffWindow="False">
+      <Volumes>RJSS_D</Volumes>
+    </Sector>
+  <!-- RJTU -->
+    <Sector FullName="TU Local" Frequency="122.2" Callsign="RJTU_TWR" Name="TU LCL">
+      <Volumes>RJTU_D</Volumes>
+    </Sector>
+  <!-- RJTS -->
+    <Sector FullName="TS Local" Frequency="126.2" Callsign="RJTS_TWR" Name="TS LCL">
+      <Volumes>RJTS_D</Volumes>
+    </Sector>
+  <!-- RJTJ -->
+    <Sector FullName="TJ Local" Frequency="122.05" Callsign="RJTJ_TWR" Name="TJ LCL">
+      <Volumes>RJTJ_D</Volumes>
+    </Sector>
+  <!-- RJTY -->
+    <Sector FullName="TY Local" Frequency="134.3" Callsign="RJTY_TWR" Name="TY LCL">
+      <Volumes>RJTY_D</Volumes>
+    </Sector>
+    <Sector FullName="TY Ground" Frequency="133.2" Callsign="RJTY_GND" Name="TY GND" DisplayInHandoffWindow="False">
+      <Volumes>RJTY_D</Volumes>
+    </Sector>
+    <Sector FullName="TY Clearance" Frequency="131.4" Callsign="RJTY_DEL" Name="TY CD" DisplayInHandoffWindow="False">
+      <Volumes>RJTY_D</Volumes>
+    </Sector>
+  <!-- RJTR -->
+    <Sector FullName="TR Local" Frequency="122.5" Callsign="RJTR_TWR" Name="TR LCL">
+      <Volumes>RJTR_D</Volumes>
+    </Sector>
+  <!-- RJTC -->
+    <Sector FullName="TC Local" Frequency="118.85" Callsign="RJTC_TWR" Name="TC LCL">
+      <Volumes>RJTC_D</Volumes>
+    </Sector>
+  <!-- RJTA -->
+    <Sector FullName="TA Local" Frequency="128.7" Callsign="RJTA_TWR" Name="TA LCL">
+      <Volumes>RJTA_D_017,RJTA_D_060</Volumes>
+    </Sector>
+  <!-- RJTT -->
+    <Sector FullName="TT Local" Frequency="118.1" Callsign="RJTT_TWR" Name="TT LCL">
+      <Volumes>RJTT_D</Volumes>
+    </Sector>
+    <Sector FullName="TT Local W" Frequency="118.1" Callsign="RJTT_W_TWR" Name="TT LCL W">
+      <Volumes>RJTT_D</Volumes>
+    </Sector>
+    <Sector FullName="TT Local E" Frequency="124.35" Callsign="RJTT_E_TWR" Name="TT LCL E">
+      <Volumes>RJTT_D</Volumes>
+    </Sector>
+    <Sector FullName="TT Local N" Frequency="118.575" Callsign="RJTT_N_TWR" Name="TT LCL N">
+      <Volumes>RJTT_D</Volumes>
+    </Sector>
+    <Sector FullName="TT Local S" Frequency="118.725" Callsign="RJTT_S_TWR" Name="TT LCL S">
+      <Volumes>RJTT_D</Volumes>
+    </Sector>
+    <Sector FullName="TT Ground" Frequency="121.7" Callsign="RJTT_GND" Name="TT GND" DisplayInHandoffWindow="False">
+      <Volumes>RJTT_D</Volumes>
+    </Sector>
+    <Sector FullName="TT Ground C" Frequency="121.7" Callsign="RJTT_C_GND" Name="TT GND C" DisplayInHandoffWindow="False">
+      <Volumes>RJTT_D</Volumes>
+    </Sector>
+    <Sector FullName="TT Ground E" Frequency="118.225" Callsign="RJTT_E_GND" Name="TT GND E" DisplayInHandoffWindow="False">
+      <Volumes>RJTT_D</Volumes>
+    </Sector>
+    <Sector FullName="TT Ground W" Frequency="121.625" Callsign="RJTT_W_GND" Name="TT GND W" DisplayInHandoffWindow="False">
+      <Volumes>RJTT_D</Volumes>
+    </Sector>
+    <Sector FullName="TT Ground N" Frequency="122.075" Callsign="RJTT_N_GND" Name="TT GND N" DisplayInHandoffWindow="False">
+      <Volumes>RJTT_D</Volumes>
+    </Sector>
+    <Sector FullName="TT Ground S" Frequency="121.975" Callsign="RJTT_S_GND" Name="TT GND S" DisplayInHandoffWindow="False">
+      <Volumes>RJTT_D</Volumes>
+    </Sector>
+    <Sector FullName="TT Delivery" Frequency="121.825" Callsign="RJTT_DEL" Name="TT CD" DisplayInHandoffWindow="False">
+      <Volumes>RJTT_D</Volumes>
+    </Sector>
+    <Sector FullName="TT Delivery 2" Frequency="121.875" Callsign="RJTT_2_DEL" Name="TT CD 2" DisplayInHandoffWindow="False">
+      <Volumes>RJTT_D</Volumes>
+    </Sector>
+  <!-- RJAH -->
+    <Sector FullName="AH Local" Frequency="118.025" Callsign="RJAH_TWR" Name="AH LCL">
+      <Volumes>RJAH_D_060,RJAH_D_059,RJAH_D_030</Volumes>
+    </Sector>
+    <Sector FullName="AH Ground" Frequency="119.5" Callsign="RJAH_GND" Name="AH GND" DisplayInHandoffWindow="False">
+      <Volumes>RJAH_D_060,RJAH_D_059,RJAH_D_030</Volumes>
+    </Sector>
+  <!-- RJAK -->
+    <Sector FullName="AK Local" Frequency="122.2" Callsign="RJAK_TWR" Name="AK LCL">
+      <Volumes>RJAK_D</Volumes>
+    </Sector>
+  <!-- RJTL -->
+    <Sector FullName="TL Local" Frequency="126.2" Callsign="RJTL_TWR" Name="TL LCL">
+      <Volumes>RJTL_D_035,RJTL_D_020</Volumes>
+    </Sector>
+  <!-- RJAA -->
+    <Sector FullName="AA Local" Frequency="118.2" Callsign="RJAA_TWR" Name="AA LCL">
+      <Volumes>RJAA_D</Volumes>
+    </Sector>
+    <Sector FullName="AA Local West" Frequency="118.2" Callsign="RJAA_W_TWR" Name="AA LCL W">
+      <Volumes>RJAA_D</Volumes>
+    </Sector>
+    <Sector FullName="AA Local East" Frequency="118.35" Callsign="RJAA_E_TWR" Name="AA LCL E">
+      <Volumes>RJAA_D</Volumes>
+    </Sector>
+    <Sector FullName="AA Ground" Frequency="121.95" Callsign="RJAA_GND" Name="AA GND" DisplayInHandoffWindow="False">
+      <Volumes>RJAA_D</Volumes>
+    </Sector>
+    <Sector FullName="AA Ground West" Frequency="121.95" Callsign="RJAA_W_GND" Name="AA GND W" DisplayInHandoffWindow="False">
+      <Volumes>RJAA_D</Volumes>
+    </Sector>
+    <Sector FullName="AA Ground East" Frequency="121.85" Callsign="RJAA_E_GND" Name="AA GND E" DisplayInHandoffWindow="False">
+      <Volumes>RJAA_D</Volumes>
+    </Sector>
+    <Sector FullName="AA Ramp" Frequency="121.6" Callsign="RJAA_RMP" Name="AA RMP" DisplayInHandoffWindow="False">
+      <Volumes>RJAA_D</Volumes>
+    </Sector>
+    <Sector FullName="AA Ramp West" Frequency="121.6" Callsign="RJAA_W_RMP" Name="AA RMP W" DisplayInHandoffWindow="False">
+      <Volumes>RJAA_D</Volumes>
+    </Sector>
+    <Sector FullName="AA Ramp Central" Frequency="118.15" Callsign="RJAA_C_RMP" Name="AA RMP C" DisplayInHandoffWindow="False">
+      <Volumes>RJAA_D</Volumes>
+    </Sector>
+    <Sector FullName="AA Ramp East" Frequency="121.75" Callsign="RJAA_E_RMP" Name="AA RMP E" DisplayInHandoffWindow="False">
+      <Volumes>RJAA_D</Volumes>
+    </Sector>
+    <Sector FullName="AA Delivery" Frequency="121.9" Callsign="RJAA_DEL" Name="AA CD" DisplayInHandoffWindow="False">
+      <Volumes>RJAA_D</Volumes>
+    </Sector>
+    <Sector FullName="AA Delivery 2" Frequency="121.65" Callsign="RJAA_2_DEL" Name="AA CD 2" DisplayInHandoffWindow="False">
+      <Volumes>RJAA_D</Volumes>
+    </Sector>
+  <!-- RJTK -->
+    <Sector FullName="TK Local" Frequency="126.2" Callsign="RJTK_TWR" Name="TK LCL">
+      <Volumes>RJTK_D_010,RJTK_D_015,RTKJ_D_020</Volumes>
+    </Sector>
+  <!-- RJTE -->
+    <Sector FullName="TE Local" Frequency="122.0" Callsign="RJTE_TWR" Name="TE LCL">
+      <Volumes>RJTE_D</Volumes>
+    </Sector>
+  <!-- RJAW -->
+    <Sector FullName="AW Local" Frequency="126.2" Callsign="RJAW_TWR" Name="AW LCL">
+      <Volumes>RJAW_D</Volumes>
+    </Sector>
+  <!-- RJNS -->
+    <Sector FullName="SN Local" Frequency="118.0" Callsign="RJNS_TWR" Name="NS LCL">
+      <Volumes>RJSN_D</Volumes>
+    </Sector>
+  <!-- RJNT -->
+    <Sector FullName="NT Local" Frequency="124.3" Callsign="RJNT_TWR" Name="NT LCL">
+      <Volumes>RJNT_D</Volumes>
+    </Sector>
+  <!-- RJNK -->
+    <Sector FullName="NK Local" Frequency="118.25" Callsign="RJNK_TWR" Name="NK LCL">
+      <Volumes>RJNK_D</Volumes>
+    </Sector>
+    <Sector FullName="NK Ground" Frequency="121.7" Callsign="RJNK_GND" Name="NK GND" DisplayInHandoffWindow="False">
+      <Volumes>RJNK_D</Volumes>
+    </Sector>
+  <!-- RJGG -->
+    <Sector FullName="GG Local" Frequency="118.85" Callsign="RJGG_TWR" Name="GG LCL">
+      <Volumes>RJGG_D</Volumes>
+    </Sector>
+    <Sector FullName="GG Ground" Frequency="121.8" Callsign="RJGG_GND" Name="GG GND" DisplayInHandoffWindow="False">
+      <Volumes>RJGG_D</Volumes>
+    </Sector>
+    <Sector FullName="GG Delivery" Frequency="121.85" Callsign="RJGG_DEL" Name="GG CD" DisplayInHandoffWindow="False">
+      <Volumes>RJGG_D</Volumes>
+    </Sector>
+  <!-- RJBM -->
+    <Sector FullName="BM Local" Frequency="122.0" Callsign="RJBM_TWR" Name="BM LCL">
+      <Volumes>RJBM_D</Volumes>
+    </Sector>
+  <!-- RJNH -->
+    <Sector FullName="NH Local" Frequency="123.1" Callsign="RJNH_TWR" Name="NH LCL">
+      <Volumes>RJNH_D</Volumes>
+    </Sector>
+    <Sector FullName="NH Ground" Frequency="126.2" Callsign="RJNH_GND" Name="NH GND" DisplayInHandoffWindow="False">
+      <Volumes>RJNH_D</Volumes>
+    </Sector>
+  <!-- RJNA -->
+    <Sector FullName="NA Local" Frequency="118.7" Callsign="RJNA_TWR" Name="NA LCL">
+      <Volumes>RJNA_D</Volumes>
+    </Sector>
+    <Sector FullName="NA Ground" Frequency="121.7" Callsign="RJNA_GND" Name="NA GND" DisplayInHandoffWindow="False">
+      <Volumes>RJNA_D</Volumes>
+    </Sector>
+    <Sector FullName="NA Delivery" Frequency="121.75" Callsign="RJNA_DEL" Name="NA CD" DisplayInHandoffWindow="False">
+      <Volumes>RJNA_D</Volumes>
+    </Sector>
+  <!-- RJBE -->
+    <Sector FullName="BE Local" Frequency="118.5" Callsign="RJBE_TWR" Name="BE LCL">
+      <Volumes>RJBE_D_025,RJBE_D_020</Volumes>
+    </Sector>
+    <Sector FullName="BE Ground" Frequency="122.075" Callsign="RJBE_GND" Name="BE GND" DisplayInHandoffWindow="False">
+      <Volumes>RJBE_D_025,RJBE_D_020</Volumes>
+    </Sector>
+ <!-- RJBB -->
+    <Sector FullName="BB Local" Frequency="118.2" Callsign="RJBB_TWR" Name="BB LCL">
+      <Volumes>RJBB_D</Volumes>
+    </Sector>
+    <Sector FullName="BB Local E" Frequency="118.2" Callsign="RJBB_E_TWR" Name="BB LCL E">
+      <Volumes>RJBB_D</Volumes>
+    </Sector>
+    <Sector FullName="BB Local W" Frequency="118.05" Callsign="RJBB_W_TWR" Name="BB LCL W">
+      <Volumes>RJBB_D</Volumes>
+    </Sector>
+    <Sector FullName="BB Ground" Frequency="121.6" Callsign="RJBB_GND" Name="BB GND" DisplayInHandoffWindow="False">
+      <Volumes>RJBB_D</Volumes>
+    </Sector>
+    <Sector FullName="BB Ground E" Frequency="121.6" Callsign="RJBB_E_GND" Name="BB GND E" DisplayInHandoffWindow="False">
+      <Volumes>RJBB_D</Volumes>
+    </Sector>
+    <Sector FullName="BB Ground W" Frequency="121.65" Callsign="RJBB_W_GND" Name="BB GND W" DisplayInHandoffWindow="False">
+      <Volumes>RJBB_D</Volumes>
+    </Sector>
+    <Sector FullName="BB Delivery" Frequency="121.9" Callsign="RJBB_DEL" Name="BB CD" DisplayInHandoffWindow="False">
+      <Volumes>RJBB_D</Volumes>
+    </Sector>
+  <!-- RJOO -->
+    <Sector FullName="OO Local" Frequency="118.1" Callsign="RJOO_TWR" Name="OO LCL">
+      <Volumes>RJOO_D</Volumes>
+    </Sector>
+    <Sector FullName="OO Ground" Frequency="121.7" Callsign="RJOO_GND" Name="OO GND" DisplayInHandoffWindow="False">
+      <Volumes>RJOO_D</Volumes>
+    </Sector>
+    <Sector FullName="OO Delivery" Frequency="118.8" Callsign="RJOO_DEL" Name="OO CD" DisplayInHandoffWindow="False">
+      <Volumes>RJOO_D</Volumes>
+    </Sector>
+  <!-- RJOY -->
+    <Sector FullName="OY Local" Frequency="124.35" Callsign="RJOY_TWR" Name="OY LCL">
+      <Volumes>RJOY_D_013,RJOY_D_020</Volumes>
+    </Sector>
+    <Sector FullName="OY Ground" Frequency="121.8" Callsign="RJOY_GND" Name="OY GND" DisplayInHandoffWindow="False">
+      <Volumes>RJOY_D_013,RJOY_D_020</Volumes>
+    </Sector>
+  <!-- RJOE -->
+    <Sector FullName="OE Local" Frequency="126.2" Callsign="RJOE_TWR" Name="OE LCL">
+      <Volumes>RJOE_D</Volumes>
+    </Sector>
+  <!-- RJOH -->
+    <Sector FullName="OH Local" Frequency="126.2" Callsign="RJOH_TWR" Name="OH LCL">
+      <Volumes>RJOH_D</Volumes>
+    </Sector>
+    <Sector FullName="OH Ground" Frequency="118.0" Callsign="RJOH_GND" Name="OH GND" DisplayInHandoffWindow="False">
+      <Volumes>RJOH_D</Volumes>
+    </Sector>
+  <!-- RJOB -->
+    <Sector FullName="OB Local" Frequency="124.3" Callsign="RJOB_TWR" Name="OB LCL">
+      <Volumes>RJOB_D</Volumes>
+    </Sector>
+  <!-- RJOA -->
+    <Sector FullName="OA Local" Frequency="118.6" Callsign="RJOA_TWR" Name="OA LCL">
+      <Volumes>RJOA_D</Volumes>
+    </Sector>
+  <!-- RJOI -->
+    <Sector FullName="OI Local" Frequency="123.8" Callsign="RJOI_TWR" Name="OI LCL">
+      <Volumes>RJOI_D</Volumes>
+    </Sector>
+    <Sector FullName="OI Ground" Frequency="121.3" Callsign="RJOI_GND" Name="OI GND" DisplayInHandoffWindow="False">
+      <Volumes>RJOI_D</Volumes>
+    </Sector>
+    <Sector FullName="OI Clearance" Frequency="135.7" Callsign="RJOI_DEL" Name="OI CD" DisplayInHandoffWindow="False">
+      <Volumes>RJOI_D</Volumes>
+    </Sector>
+  <!-- RJOF -->
+    <Sector FullName="OF Local" Frequency="133.4" Callsign="RJOF_TWR" Name="OF LCL">
+      <Volumes>RJOF_D</Volumes>
+    </Sector>
+    <Sector FullName="OF Ground" Frequency="133.0" Callsign="RJOF_GND" Name="OF GND" DisplayInHandoffWindow="False">
+      <Volumes>RJOF_D</Volumes>
+    </Sector>
+  <!-- RJOZ -->
+    <Sector FullName="OZ Local" Frequency="122.0" Callsign="RJOZ_TWR" Name="OZ LCL">
+      <Volumes>RJOZ_D</Volumes>
+    </Sector>
+    <Sector FullName="OZ Ground" Frequency="126.2" Callsign="RJOZ_GND" Name="OZ GND" DisplayInHandoffWindow="False">
+      <Volumes>RJOZ_D</Volumes>
+    </Sector>
+  <!-- RJOT-->
+    <Sector FullName="OT Local" Frequency="118.3" Callsign="RJOT_TWR" Name="OT LCL">
+      <Volumes>RJOT_D</Volumes>
+    </Sector>
+  <!-- RJOM -->
+    <Sector FullName="OM Local" Frequency="118.35" Callsign="RJOM_TWR" Name="OM LCL">
+      <Volumes>RJOM_D</Volumes>
+    </Sector>
+  <!-- RJOS -->
+    <Sector FullName="OS Local" Frequency="126.2" Callsign="RJOS_TWR" Name="OS LCL">
+      <Volumes>RJOS_D</Volumes>
+    </Sector>
+    <Sector FullName="OS Ground" Frequency="118.0" Callsign="RJOS_GND" Name="OS GND" DisplayInHandoffWindow="False">
+      <Volumes>RJOS_D</Volumes>
+    </Sector>
+  <!-- RJOP -->
+    <Sector FullName="OP Local" Frequency="126.2" Callsign="RJOP_TWR" Name="OP LCL">
+      <Volumes>RJOP_D</Volumes>
+    </Sector>
+  <!-- RJFR -->
+    <Sector FullName="FR Local" Frequency="118.85" Callsign="RJFR_TWR" Name="FR LCL">
+      <Volumes>RJFR_D</Volumes>
+    </Sector>
+  <!-- RJFA -->
+    <Sector FullName="FA Local" Frequency="126.2" Callsign="RJFA_TWR" Name="FA LCL">
+      <Volumes>RJFA_D</Volumes>
+    </Sector>
+  <!-- RJFF -->
+    <Sector FullName="FF Local" Frequency="118.4" Callsign="RJFF_TWR" Name="FF LCL">
+      <Volumes>RJFF_D</Volumes>
+    </Sector>
+    <Sector FullName="FF Ground" Frequency="121.7" Callsign="RJFF_GND" Name="FF GND" DisplayInHandoffWindow="False">
+      <Volumes>RJFF_D</Volumes>
+    </Sector>
+    <Sector FullName="FF Delivery" Frequency="121.925" Callsign="RJFF_DEL" Name="FF CD" DisplayInHandoffWindow="False">
+      <Volumes>RJFF_D</Volumes>
+    </Sector>
+  <!-- RJFZ -->
+    <Sector FullName="FZ Local" Frequency="123.1" Callsign="RJFZ_TWR" Name="FZ LCL">
+      <Volumes>RJFZ_D</Volumes>
+    </Sector>
+    <Sector FullName="FZ Ground" Frequency="126.2" Callsign="RJFZ_GND" Name="FZ GND">
+      <Volumes>RJFZ_D</Volumes>
+    </Sector>
+  <!-- RJDM -->
+    <Sector FullName="DM Local" Frequency="126.2" Callsign="RJDM_TWR" Name="DM LCL">
+      <Volumes>RJDM_D</Volumes>
+    </Sector>
+  <!-- RJFU -->
+    <Sector FullName="FU Local" Frequency="118.5" Callsign="RJFU_TWR" Name="FU LCL">
+      <Volumes>RJFU_D</Volumes>
+    </Sector>
+    <Sector FullName="FU Ground" Frequency="121.6" Callsign="RJFU_GND" Name="FU GND" DisplayInHandoffWindow="False">
+      <Volumes>RJFU_D</Volumes>
+    </Sector>
+  <!-- RJFO -->
+    <Sector FullName="FO Local" Frequency="118.8" Callsign="RJFO_TWR" Name="FO LCL">
+      <Volumes>RJFO_D</Volumes>
+    </Sector>
+    <Sector FullName="FO Ground" Frequency="121.6" Callsign="RJFO_GND" Name="FO GND" DisplayInHandoffWindow="False">
+      <Volumes>RJFO_D</Volumes>
+    </Sector>
+  <!-- RJFT -->
+    <Sector FullName="FT Local" Frequency="118.7" Callsign="RJFT_TWR" Name="FT LCL">
+      <Volumes>RJFT_D</Volumes>
+    </Sector>
+    <Sector FullName="FT Ground" Frequency="121.8" Callsign="RJFT_GND" Name="FT GND" DisplayInHandoffWindow="False">
+      <Volumes>RJFT_D</Volumes>
+    </Sector>
+  <!-- RJFN -->
+     <Sector FullName="FN Local" Frequency="120.1" Callsign="RJFN_TWR" Name="FN LCL">
+       <Volumes>RJFN_D</Volumes>
+     </Sector>
+ <!-- RJFM -->
+    <Sector FullName="FM Local" Frequency="118.3" Callsign="RJFM_TWR" Name="FM LCL">
+      <Volumes>RJFM_D</Volumes>
+    </Sector>
+    <Sector FullName="FM Ground" Frequency="121.9" Callsign="RJFM_GND" Name="FM GND" DisplayInHandoffWindow="False">
+      <Volumes>RJFM_D</Volumes>
+    </Sector>
+ <!-- RJFK -->
+    <Sector FullName="FK Local" Frequency="118.2" Callsign="RJFK_TWR" Name="FK LCL">
+      <Volumes>RJFK_D</Volumes>
+    </Sector>
+    <Sector FullName="FK Ground" Frequency="121.7" Callsign="RJFK_GND" Name="FK GND" DisplayInHandoffWindow="False">
+      <Volumes>RJFK_D</Volumes>
+    </Sector>
+    <Sector FullName="FK Delivery" Frequency="121.8" Callsign="RJFK_DEL" Name="FK CD" DisplayInHandoffWindow="False">
+      <Volumes>RJFK_D</Volumes>
+    </Sector>
+<!-- RJFY -->
+    <Sector FullName="FY Local" Frequency="133.4" Callsign="RJFY_TWR" Name="FY LCL">
+      <Volumes>RJFY_D_050N,RJFY_D_050W,RJFY_D_060</Volumes>
+    </Sector>
+ <!-- RODN -->
+    <Sector FullName="ODN Local" Frequency="134.1" Callsign="RODN_TWR" Name="ODN LCL">
+      <Volumes>RODN_D_2246,RODN_D_3142</Volumes>
+    </Sector>
+    <Sector FullName="ODN Ground" Frequency="118.5" Callsign="RODN_GND" Name="ODN GND" DisplayInHandoffWindow="False">
+      <Volumes>RODN_D_2246,RODN_D_3142</Volumes>
+    </Sector>
+    <Sector FullName="ODN Delivery" Frequency="123.3" Callsign="RODN_DEL" Name="ODN CD" DisplayInHandoffWindow="False">
+      <Volumes>RODN_D_2246,RODN_D_3142</Volumes>
+    </Sector>
+ <!-- ROTM -->
+    <Sector FullName="OTM Ground" Frequency="122.8" Callsign="ROTM_GND" Name="OTM GND" DisplayInHandoffWindow="False">
+      <Volumes>ROTM_D</Volumes>
+    </Sector>
+ <!-- ROAH -->
+    <Sector FullName="OAH Local" Frequency="118.1" Callsign="ROAH_TWR" Name="OAH LCL">
+      <Volumes>ROAH_D_019,ROAH_B_006</Volumes>
+    </Sector>
+    <Sector FullName="OAH Local E" Frequency="118.1" Callsign="ROAH_E_TWR" Name="OAH LCL E">
+      <Volumes>ROAH_D_019,ROAH_B_006</Volumes>
+    </Sector>
+    <Sector FullName="OAH Local W" Frequency="118.75" Callsign="ROAH_W_TWR" Name="OAH LCL W">
+      <Volumes>ROAH_D_019,ROAH_B_006</Volumes>
+    </Sector>
+    <Sector FullName="OAH Ground" Frequency="121.8" Callsign="ROAH_E_GND" Name="OAH GND" DisplayInHandoffWindow="False">
+      <Volumes>ROAH_D_019,ROAH_B_006</Volumes>
+    </Sector>
+    <Sector FullName="OAH Ground E" Frequency="121.8" Callsign="ROAH_GND" Name="OAH GND E" DisplayInHandoffWindow="False">
+      <Volumes>ROAH_D_019,ROAH_B_006</Volumes>
+    </Sector>
+    <Sector FullName="OAH Ground W" Frequency="121.9" Callsign="ROAH_W_GND" Name="OAH GND W" DisplayInHandoffWindow="False">
+      <Volumes>ROAH_D_019,ROAH_B_006</Volumes>
+    </Sector>
+    <Sector FullName="OAH Delivery" Frequency="122.075" Callsign="ROAH_DEL" Name="OAH CD" DisplayInHandoffWindow="False">
+      <Volumes>ROAH_D_019,ROAH_B_006</Volumes>
+    </Sector>
+  <!-- RORS -->
+    <Sector FullName="ORS Local" Frequency="118.3" Callsign="RORS_TWR" Name="ORS LCL">
+      <Volumes>RORS_D</Volumes>
+    </Sector>
+    <Sector FullName="ORS Ground" Frequency="121.7" Callsign="RORS_GND" Name="ORS GND" DisplayInHandoffWindow="False">
+      <Volumes>RORS_D</Volumes>
+    </Sector>
+  <!-- ROMY -->
+    <Sector FullName="OMY Local" Frequency="118.2" Callsign="ROMY_TWR" Name="OMY LCL">
+      <Volumes>ROMY_D</Volumes>
+    </Sector>
+  <!-- ROIG -->
+    <Sector FullName="OIG Local" Frequency="118.0" Callsign="ROIG_TWR" Name="OIG LCL">
+      <Volumes>ROIG_D</Volumes>
+    </Sector>
+
+<!-- Radio -->
+  <Sector FullName="CW Radio" Frequency="118.3" Callsign="RJCW_R_TWR" Name="CW AFIS" DisplayInHandoffWindow="False">
+    <Volumes>RJCW_E</Volumes>
+  </Sector>
+  <Sector FullName="ER Radio" Frequency="122.7" Callsign="RJER_R_TWR" Name="ER AFIS" DisplayInHandoffWindow="False">
+    <Volumes>RJER_E</Volumes>
+  </Sector>
+  <Sector FullName="EB Radio" Frequency="118.15" Callsign="RJEB_R_TWR" Name="EB AFIS" DisplayInHandoffWindow="False">
+    <Volumes>RJEB_E</Volumes>
+  </Sector>
+  <Sector FullName="CN Radio" Frequency="122.7" Callsign="RJCN_R_TWR" Name="CN AFIS" DisplayInHandoffWindow="False">
+    <Volumes>RJCN_E</Volumes>
+  </Sector>
+  <Sector FullName="SR Radio" Frequency="118.75" Callsign="RJSR_R_TWR" Name="SR AFIS" DisplayInHandoffWindow="False">
+    <Volumes>RJSR_E</Volumes>
+  </Sector>
+  <Sector FullName="SI Radio" Frequency="118.2" Callsign="RJSI_R_TWR" Name="SI AFIS" DisplayInHandoffWindow="False">
+    <Volumes>RJSI_E</Volumes>
+  </Sector>
+  <Sector FullName="SY Radio" Frequency="118.8" Callsign="RJSY_R_TWR" Name="SY AFIS" DisplayInHandoffWindow="False">
+    <Volumes>RJSY_E</Volumes>
+  </Sector>
+  <Sector FullName="SC Radio" Frequency="122.7" Callsign="RJSC_R_TWR" Name="SC AFIS" DisplayInHandoffWindow="False">
+    <Volumes>RJSC_E</Volumes>
+  </Sector>
+  <Sector FullName="NW Radio" Frequency="118.05" Callsign="RJNW_R_TWR" Name="NW AFIS" DisplayInHandoffWindow="False">
+    <Volumes>RJNW_E</Volumes>
+  </Sector>
+  <Sector FullName="SF Radio" Frequency="118.05" Callsign="RJSF_R_TWR" Name="SF AFIS" DisplayInHandoffWindow="False">
+    <Volumes>RJSF_E</Volumes>
+  </Sector>
+  <Sector FullName="NO Radio" Frequency="118.65" Callsign="RJNO_R_TWR" Name="NO AFIS" DisplayInHandoffWindow="False">
+    <Volumes>RJNO_E</Volumes>
+  </Sector>
+  <Sector FullName="AF Radio" Frequency="118.65" Callsign="RJAF_R_TWR" Name="AF AFIS" DisplayInHandoffWindow="False">
+    <Volumes>RJAF_E</Volumes>
+  </Sector>
+  <Sector FullName="NF Radio" Frequency="118.6" Callsign="RJNF_R_TWR" Name="NF AFIS" DisplayInHandoffWindow="False">
+    <Volumes>RJNF_E</Volumes>
+  </Sector>
+  <Sector FullName="OR Radio" Frequency="118.15" Callsign="RJOR_R_TWR" Name="OR AFIS" DisplayInHandoffWindow="False">
+    <Volumes>RJOR_E</Volumes>
+  </Sector>
+  <Sector FullName="OC Radio" Frequency="122.7" Callsign="RJOC_R_TWR" Name="OC AFIS" DisplayInHandoffWindow="False">
+    <Volumes>RJOC_E</Volumes>
+  </Sector>
+  <Sector FullName="NS Radio" Frequency="118.0" Callsign="RJNS_R_TWR" Name="NS AFIS" DisplayInHandoffWindow="False">
+    <Volumes>RJNS_E</Volumes>
+  </Sector>
+  <Sector FullName="TO Radio" Frequency="118.6" Callsign="RJTO_R_TWR" Name="TO AFIS" DisplayInHandoffWindow="False">
+    <Volumes>RJTO_E</Volumes>
+  </Sector>
+  <Sector FullName="OW Radio" Frequency="122.2" Callsign="RJOW_R_TWR" Name="OW AFIS" DisplayInHandoffWindow="False">
+    <Volumes>RJOW_E</Volumes>
+  </Sector>
+  <Sector FullName="OC Radio" Frequency="124.3" Callsign="RJAN_R_TWR" Name="AN AFIS" DisplayInHandoffWindow="False">
+    <Volumes>RJAN_E,RJAZ_E</Volumes>
+  </Sector>
+  <Sector FullName="DT Radio" Frequency="124.3" Callsign="RJDT_R_TWR" Name="DT AFIS" DisplayInHandoffWindow="False">
+    <Volumes>RJDT_E</Volumes>
+  </Sector>
+  <Sector FullName="TQ Radio" Frequency="118.05" Callsign="RJTQ_R_TWR" Name="TQ AFIS" DisplayInHandoffWindow="False">
+    <Volumes>RJTQ_E</Volumes>
+  </Sector>
+  <Sector FullName="DC Radio" Frequency="118.05" Callsign="RJDC_R_TWR" Name="DC AFIS" DisplayInHandoffWindow="False">
+    <Volumes>RJDC_E</Volumes>
+  </Sector>
+  <Sector FullName="DB Radio" Frequency="118.2" Callsign="RJDB_R_TWR" Name="DB AFIS" DisplayInHandoffWindow="False">
+    <Volumes>RJDB_E</Volumes>
+  </Sector>
+  <Sector FullName="BD Radio" Frequency="118.55" Callsign="RJBD_R_TWR" Name="BD AFIS" DisplayInHandoffWindow="False">
+    <Volumes>RJBD_E</Volumes>
+  </Sector>
+  <Sector FullName="FS Radio" Frequency="118.025" Callsign="RJFS_R_TWR" Name="FS AFIS" DisplayInHandoffWindow="False">
+    <Volumes>RJFS_E</Volumes>
+  </Sector>
+  <Sector FullName="TH Radio" Frequency="118.7" Callsign="RJTH_R_TWR" Name="TH AFIS" DisplayInHandoffWindow="False">
+    <Volumes>RJTH_E</Volumes>
+  </Sector>
+  <Sector FullName="FE Radio" Frequency="118.35" Callsign="RJFE_R_TWR" Name="FE AFIS" DisplayInHandoffWindow="False">
+    <Volumes>RJFE_E</Volumes>
+  </Sector>
+  <Sector FullName="FG Radio" Frequency="118.75" Callsign="RJFG_R_TWR" Name="FG AFIS" DisplayInHandoffWindow="False">
+    <Volumes>RJFG_E</Volumes>
+  </Sector>
+  <Sector FullName="FC Radio" Frequency="118.65" Callsign="RJFC_R_TWR" Name="FC AFIS" DisplayInHandoffWindow="False">
+    <Volumes>RJFC_E</Volumes>
+  </Sector>
+  <Sector FullName="KA Radio" Frequency="118.15" Callsign="RJKA_R_TWR" Name="KA AFIS" DisplayInHandoffWindow="False">
+    <Volumes>RJKA_E</Volumes>
+  </Sector>
+  <Sector FullName="KI Radio" Frequency="118.0" Callsign="RJKI_R_TWR" Name="KI AFIS" DisplayInHandoffWindow="False">
+    <Volumes>RJKI_E</Volumes>
+  </Sector>
+  <Sector FullName="KN Radio" Frequency="122.7" Callsign="RJKN_R_TWR" Name="KN AFIS" DisplayInHandoffWindow="False">
+    <Volumes>RJKN_E</Volumes>
+  </Sector>
+  <Sector FullName="KB Radio" Frequency="118.05" Callsign="RJKB_R_TWR" Name="KB AFIS" DisplayInHandoffWindow="False">
+    <Volumes>RJKB_E</Volumes>
+  </Sector>
+  <Sector FullName="RY Radio" Frequency="118.3" Callsign="RORY_R_TWR" Name="ORY AFIS" DisplayInHandoffWindow="False">
+    <Volumes>RORY_E</Volumes>
+  </Sector>
+  <Sector FullName="KJ Radio" Frequency="122.7" Callsign="ROKJ_R_TWR" Name="OKJ AFIS" DisplayInHandoffWindow="False">
+    <Volumes>ROKJ_E</Volumes>
+  </Sector>
+  <Sector FullName="MD Radio" Frequency="118.55" Callsign="ROMD_R_TWR" Name="OMD AFIS" DisplayInHandoffWindow="False">
+    <Volumes>RORK_E,ROMD_E</Volumes>
+  </Sector>
+  <Sector FullName="RT Radio" Frequency="118.6" Callsign="RORT_R_TWR" Name="ORT AFIS" DisplayInHandoffWindow="False">
+    <Volumes>RORT_E</Volumes>
+  </Sector>
+  <Sector FullName="YN Radio" Frequency="118.5" Callsign="ROYN_R_TWR" Name="OYN AFIS" DisplayInHandoffWindow="False">
+    <Volumes>ROYN_E</Volumes>
+  </Sector>
+  <Sector FullName="EO Radio" Frequency="122.7" Callsign="RJEO_R_TWR" Name="EO AFIS" DisplayInHandoffWindow="False">
+    <Volumes>RJEO_E</Volumes>
+  </Sector>
+  <Sector FullName="AM Radio" Frequency="126.2" Callsign="RJAM_R_TWR" Name="AM AFIS" DisplayInHandoffWindow="False">
+    <Volumes>RJAM_E</Volumes>
+  </Sector>
+    <Sector FullName="BT Radio" Frequency="118.4" Callsign="RJBT_R_TWR" Name="BT AFIS" DisplayInHandoffWindow="False">
+    <Volumes>RJBT_E</Volumes>
+  </Sector>
+  <Sector FullName="FR Radio" Frequency="118.85" Callsign="RJFR_R_TWR" Name="FR AFIS" DisplayInHandoffWindow="False">
+    <Volumes>RJFR_D</Volumes>
+  </Sector>
+  <Sector FullName="FU Radio" Frequency="118.5" Callsign="RJFU_R_TWR" Name="FU AFIS" DisplayInHandoffWindow="False">
+    <Volumes>RJFU_D</Volumes>
+  </Sector>
+  <Sector FullName="ORS Radio" Frequency="118.3" Callsign="RORS_R_TWR" Name="ORS AFIS" DisplayInHandoffWindow="False">
+    <Volumes>RORS_D</Volumes>
+  </Sector>
+
+  <!-- FSC -->
+  <!-- RJTI, RJFH -->
+  <Sector FullName="TF Flight Service" Frequency="130.8" Callsign="RJTF_F_TWR" Name="TF FS" DisplayInHandoffWindow="False">
+    <Volumes>RJTF_E</Volumes>
+  </Sector>
+  <Sector FullName="BT Flight Service" Frequency="122.7" Callsign="RJBT_F_TWR" Name="BT FS" DisplayInHandoffWindow="False">
+    <Volumes>RJBT_E</Volumes>
+  </Sector>
+  <Sector FullName="BK Flight Service" Frequency="130.75" Callsign="RJBK_F_TWR" Name="BK FS" DisplayInHandoffWindow="False">
+    <Volumes>RJBK_E</Volumes>
+  </Sector>
+  <Sector FullName="DA Flight Service" Frequency="130.775" Callsign="RJDA_F_TWR" Name="DA FS" DisplayInHandoffWindow="False">
+    <Volumes>RJDA_E</Volumes>
+  </Sector>
+  
+  <!-- RKRR -->
+  <Sector FullName="RKDA" Frequency="132.800" Callsign="RKDA_1_CTR" Name="KDA 1">
+    <Volumes></Volumes>
+  </Sector>
+  <Sector FullName="RKDA" Frequency="128.700" Callsign="RKDA_2_CTR" Name="KDA 2">
+    <Volumes></Volumes>
+  </Sector>
+  <Sector FullName="RKDA" Frequency="132.800" Callsign="RKDA_W_CTR" Name="KDA W">
+    <Volumes></Volumes>
+  </Sector>
+  <Sector FullName="RKDA" Frequency="120.575" Callsign="RKDA_CTR" Name="KDA">
+    <Volumes></Volumes>
+  </Sector>
+  <Sector FullName="RKRR" Frequency="132.150" Callsign="RKRR_1_CTR" Name="KRR 1">
+    <Volumes></Volumes>
+  </Sector>
+  <Sector FullName="RKRR" Frequency="132.150" Callsign="RKRR_3_CTR" Name="KRR 3">
+    <Volumes></Volumes>
+  </Sector>
+  <Sector FullName="RKRR" Frequency="124.525" Callsign="RKRR_5_CTR" Name="KRR 5">
+    <Volumes></Volumes>
+  </Sector>
+  <Sector FullName="RKRR" Frequency="133.425" Callsign="RKRR_6_CTR" Name="KRR 6">
+    <Volumes></Volumes>
+  </Sector>
+  <Sector FullName="RKRR" Frequency="125.725" Callsign="RKRR_7_CTR" Name="KRR 7">
+    <Volumes></Volumes>
+  </Sector>
+  <Sector FullName="RKRR" Frequency="132.150" Callsign="RKRR_N_CTR" Name="KRR N">
+    <Volumes></Volumes>
+  </Sector>
+  <Sector FullName="RKRR" Frequency="124.525" Callsign="RKRR_S_CTR" Name="KRR S">
+    <Volumes></Volumes>
+  </Sector>
+  <Sector FullName="RKRR" Frequency="126.175" Callsign="RKRR_CTR" Name="KRR">
+    <Volumes></Volumes>
+  </Sector>
+  <Sector FullName="RKRR" Frequency="128.325" Callsign="RKRR_A_CTR" Name="KRR A">
+    <Volumes></Volumes>
+  </Sector>
+</Sectors>

@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Maps>
+  <Map Type="System" Name="RJFS" Priority="0" Center="+33.149722+130.302222">
+    <Runway Name="11_29">
+      <Threshold Name="11" Position="+33.151155+130.291639" ExtendedCentrelineTrack="279" ExtendedCentrelineLength="5" ExtendedCentrelineTickInterval="2"/>
+      <Threshold Name="29" Position="+33.148258+130.312801" ExtendedCentrelineTrack="99" ExtendedCentrelineLength="5" ExtendedCentrelineTickInterval="2"/>
+    </Runway>
+    <Symbol Type="HollowTriangle">
+      <Point>KIKYU</Point>
+      <Point>WAITA</Point>
+      <Point>OOITA</Point>
+      <Point>IRPIN</Point>
+      <Point>MILEP</Point>
+      <Point>UGAMU</Point>
+      <Point>NIVAL</Point>
+      <Point>LEENO</Point>
+      <Point>OHKOK</Point>
+      <Point>GATAL</Point>
+      <Point>FS900</Point>
+      <Point>FS100</Point>
+      <Point>FS110</Point>
+      <Point>FS111</Point>
+      <Point>FS112</Point> 
+      <Point>IRPIN</Point>    
+      <Point>OMUTA</Point>  
+      <Point>ARAOH</Point>
+    </Symbol>
+    <Symbol Type="Hexagon">
+      <Point>SGE</Point>
+      <Point>TFE</Point>
+      <Point>OLE</Point>
+      <Point>KUE</Point>
+    </Symbol>
+    <Symbol Type="HollowSquare">
+      <Point>SGE</Point>
+      <Point>TFE</Point>
+      <Point>OLE</Point>
+      <Point>KUE</Point>
+    </Symbol>
+  </Map>
+  <Map Type="System" Name="RJFS_LABEL" Priority="2" Center="+33.149722+130.302222">
+    <Label>
+      <Point>KIKYU</Point>
+      <Point>WAITA</Point>
+      <Point>OOITA</Point>
+      <Point>IRPIN</Point>
+      <Point>MILEP</Point>
+      <Point>UGAMU</Point>
+      <Point>NIVAL</Point>
+      <Point>LEENO</Point>
+      <Point>OHKOK</Point>
+      <Point>GATAL</Point>
+      <Point>FS900</Point>
+      <Point>FS100</Point>
+      <Point>FS110</Point>
+      <Point>FS111</Point>
+      <Point>FS112</Point>
+      <Point>IRPIN</Point>    
+      <Point>OMUTA</Point>  
+      <Point>ARAOH</Point>
+      <Point>SGE</Point>
+      <Point>TFE</Point>
+      <Point>OLE</Point>
+      <Point>KUE</Point>
+    </Label>
+  </Map>
+</Maps>

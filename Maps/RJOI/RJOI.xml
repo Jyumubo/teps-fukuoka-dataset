@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Maps>
+  <Map Type="System" Name="RJOI" Priority="0" Center="+34.145000+132.246945">
+    <Runway Name="02_20">
+      <Threshold Name="02" Position="+34.134076+132.244874" ExtendedCentrelineTrack="188" ExtendedCentrelineLength="21" ExtendedCentrelineTickInterval="2"/>
+      <Threshold Name="20" Position="+34.155747+132.249082" ExtendedCentrelineTrack="009" ExtendedCentrelineLength="5" ExtendedCentrelineTickInterval="2"/>
+    </Runway>
+    <Symbol Type="HollowTriangle">
+      <Point>MALTA</Point>
+      <Point>MUHTA</Point>
+      <Point>MOOOE</Point>
+      <Point>BUCKI</Point>
+      <Point>PPOPS</Point>
+      <Point>TAZZZ</Point>
+      <Point>LOBRY</Point>
+      <Point>JASNN</Point>
+      <Point>SHIMN</Point>
+      <Point>STADK</Point>
+      <Point>SACOG</Point>
+      <Point>WEGAT</Point>
+      <Point>ONDOC</Point>
+    </Symbol>
+    <Symbol Type="Hexagon">
+      <Point>MYE</Point>
+      <Point>KRE</Point>
+      <Point>NEU</Point>
+      <Point>IWT</Point>
+      <Point>TFE</Point>
+    </Symbol>
+    <Symbol Type="HollowSquare">
+      <Point>MYE</Point>
+      <Point>KRE</Point>
+      <Point>NEU</Point>
+      <Point>IWT</Point>
+      <Point>TFE</Point>
+    </Symbol>
+  </Map>
+  <Map Type="System" Name="RJOI_LABEL" Priority="2" Center="+34.145000+132.246945">
+    <Label>
+      <Point>MALTA</Point>
+      <Point>MUHTA</Point>
+      <Point>MOOOE</Point>
+      <Point>BUCKI</Point>
+      <Point>PPOPS</Point>
+      <Point>TAZZZ</Point>
+      <Point>LOBRY</Point>
+      <Point>JASNN</Point>
+      <Point>SHIMN</Point>
+      <Point>STADK</Point>
+      <Point>SACOG</Point>
+      <Point>WEGAT</Point>
+      <Point>ONDOC</Point>
+      <Point>MYE</Point>
+      <Point>KRE</Point>
+      <Point>NEU</Point>
+      <Point>IWT</Point>
+      <Point>TFE</Point>
+    </Label>
+  </Map>
+</Maps>

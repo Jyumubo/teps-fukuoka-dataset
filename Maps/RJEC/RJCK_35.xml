@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Maps>
+  <Map Type="System" Name="RJCK_35" Priority="0" Center="+43.040833+144.193056">
+    <Runway Name="17_35">
+      <Threshold Name="17" Position="+43.051469+144.187482"/>
+      <Threshold Name="35" Position="+43.030472+144.198492" ExtendedCentrelineTrack="159" ExtendedCentrelineLength="5" ExtendedCentrelineTickInterval="2" />
+    </Runway>
+    <Symbol Type="HollowTriangle">
+      <Point>TASAB</Point>
+      <Point>MUBLA</Point>
+      <Point>ENTOD</Point>
+      <Point>RUGMO</Point>
+      <Point>YUDOH</Point>
+      <Point>RUNPA</Point>
+      <Point>BESRU</Point>
+      <Point>CRANE</Point>
+      <Point>IGAMO</Point>
+      <Point>OBKAL</Point>
+      <Point>LEKUP</Point>
+      <Point>OMDUX</Point>
+      <Point>NOKKA</Point>
+    </Symbol>
+    <Symbol Type="Hexagon">
+      <Point>OBE</Point>
+      <Point>TCE</Point>
+    </Symbol>
+    <Symbol Type="HollowSquare">
+      <Point>OBE</Point>
+      <Point>TCE</Point>
+    </Symbol>
+  </Map>
+  <Map Type="System" Name="RJCK_35_LABEL" Priority="2" Center="+43.040833+144.193056">
+    <Label>
+      <Point>TASAB</Point>
+      <Point>MUBLA</Point>
+      <Point>ENTOD</Point>
+      <Point>RUGMO</Point>
+      <Point>YUDOH</Point>
+      <Point>RUNPA</Point>
+      <Point>BESRU</Point>
+      <Point>CRANE</Point>
+      <Point>IGAMO</Point>
+      <Point>OBKAL</Point>
+      <Point>LEKUP</Point>
+      <Point>OMDUX</Point>
+      <Point>NOKKA</Point>
+      <Point>OBE</Point>
+      <Point>TCE</Point>
+    </Label>
+  </Map>
+</Maps>

@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Maps>
+  <Map Type="System" Name="RJCT" Priority="0" Center="+42.890278+143.158333">
+    <Runway Name="13_31">
+      <Threshold Name="13" Position="+42.894134+143.150790" ExtendedCentrelineTrack="303" ExtendedCentrelineLength="5" ExtendedCentrelineTickInterval="2" />
+      <Threshold Name="31" Position="+42.886736+143.166226" ExtendedCentrelineTrack="123" ExtendedCentrelineLength="5" ExtendedCentrelineTickInterval="2"/>
+    </Runway>
+    <Symbol Type="HollowTriangle">
+      <Point>RUGMO</Point>
+      <Point>NODUK</Point>
+      <Point>IBOSA</Point>
+    </Symbol>
+    <Symbol Type="Hexagon">
+      <Point>TKT</Point>
+    </Symbol>
+    <Symbol Type="HollowSquare">
+      <Point>TKT</Point>
+    </Symbol>
+  </Map>
+  <Map Type="System" Name="RJCT_LABEL" Priority="2" Center="+42.890278+143.158333">
+    <Label>
+      <Point>RUGMO</Point>
+      <Point>NODUK</Point>
+      <Point>IBOSA</Point>
+      <Point>TKT</Point>
+    </Label>
+  </Map>
+</Maps>

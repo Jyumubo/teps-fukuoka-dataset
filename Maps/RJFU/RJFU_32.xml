@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Maps>
+  <Map Type="System" Name="RJFU_32" Priority="0" Center="+32.916945+129.913611">
+    <Runway Name="14_32">
+      <Threshold Name="14" Position="+32.927006+129.902726"/>
+      <Threshold Name="32" Position="+32.906921+129.924185" ExtendedCentrelineTrack="138" ExtendedCentrelineLength="21" ExtendedCentrelineTickInterval="2"/>
+    </Runway>
+    <Symbol Type="HollowTriangle">
+      <Point>AKNAG</Point>
+      <Point>CARCO</Point>
+      <Point>AKMEP</Point>
+      <Point>FU200</Point>
+      <Point>TOHKI</Point>
+      <Point>HIZEN</Point>
+      <Point>MUTUU</Point>
+      <Point>GOROH</Point>
+      <Point>KROKI</Point>
+      <Point>OOITA</Point>
+      <Point>SALTY</Point>
+      <Point>FU201</Point>
+      <Point>FU202</Point>
+      <Point>PEARL</Point>
+      <Point>SUMOU</Point>
+      <Point>KAZSA</Point>
+      <Point>OSETO</Point>
+      <Point>OHGIE</Point>
+      <Point>PADDY</Point>
+      <Point>TARAH</Point>
+      <Point>TAKAK</Point>
+      <Point>OBAMA</Point>
+      <Point>AINOH</Point>
+      <Point>FUBKI</Point>
+      <Point>CHARA</Point>
+      <Point>NOBAK</Point>
+      <Point>MEKOK</Point>
+    </Symbol>
+    <Symbol Type="Hexagon">
+      <Point>IKE</Point>
+      <Point>OLE</Point>
+      <Point>DGC</Point>      
+    </Symbol>
+    <Symbol Type="HollowSquare">
+      <Point>IKE</Point>
+      <Point>OLE</Point>
+      <Point>DGC</Point>       
+    </Symbol>
+  </Map>
+  <Map Type="System" Name="RJFU_32_LABEL" Priority="2" Center="+32.916945+129.913611">
+    <Label>
+      <Point>AKNAG</Point>
+      <Point>CARCO</Point>
+      <Point>AKMEP</Point>
+      <Point>FU200</Point>
+      <Point>TOHKI</Point>
+      <Point>HIZEN</Point>
+      <Point>MUTUU</Point>
+      <Point>GOROH</Point>
+      <Point>KROKI</Point>
+      <Point>OOITA</Point>
+      <Point>SALTY</Point>
+      <Point>FU201</Point>
+      <Point>FU202</Point>
+      <Point>PEARL</Point>
+      <Point>SUMOU</Point>
+      <Point>KAZSA</Point>
+      <Point>OSETO</Point>
+      <Point>OHGIE</Point>
+      <Point>PADDY</Point>
+      <Point>TARAH</Point>
+      <Point>TAKAK</Point>
+      <Point>OBAMA</Point>
+      <Point>AINOH</Point>
+      <Point>FUBKI</Point>
+      <Point>CHARA</Point>
+      <Point>NOBAK</Point>
+      <Point>MEKOK</Point>
+      <Point>IKE</Point>
+      <Point>OLE</Point>
+      <Point>DGC</Point>     
+    </Label>
+  </Map>
+</Maps>

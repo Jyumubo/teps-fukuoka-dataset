@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Maps>
+  <Map Type="System" Name="RJSN_28" Priority="0" Center="+37.955833+139.111667">
+    <Runway Name="10_28">
+      <Threshold Name="10" Position="+37.956836+139.095611"/>
+      <Threshold Name="28" Position="+37.955787+139.124050" ExtendedCentrelineTrack="093" ExtendedCentrelineLength="21" ExtendedCentrelineTickInterval="2" />
+    </Runway>
+    <Runway Name="04_22">
+      <Threshold Name="04" Position="+37.948253+139.114685" ExtendedCentrelineTrack="217" ExtendedCentrelineLength="5" ExtendedCentrelineTickInterval="2" />
+      <Threshold Name="22" Position="+37.958766+139.122919" ExtendedCentrelineTrack="037" ExtendedCentrelineLength="5" ExtendedCentrelineTickInterval="2" />
+    </Runway>
+    <Symbol Type="HollowTriangle">
+      <Point>SN800</Point>
+      <Point>MOKBA</Point>
+      <Point>TAMBO</Point>
+      <Point>VIKET</Point>
+      <Point>TERAD</Point>
+      <Point>NAEBA</Point>
+      <Point>OKESA</Point>
+      <Point>HAKBA</Point>
+      <Point>NOPPE</Point>
+      <Point>TIGRA</Point>
+      <Point>KENSI</Point>
+      <Point>SUKOB</Point>
+      <Point>INAHO</Point>
+      <Point>SHIUN</Point>
+      <Point>KYOGA</Point>
+      <Point>GOSEN</Point>
+      <Point>MAGNA</Point>
+      <Point>SIBAT</Point>
+      <Point>RAISU</Point>
+    </Symbol>
+    <Symbol Type="Hexagon">
+      <Point>GTC</Point>
+    </Symbol>
+    <Symbol Type="HollowSquare">
+      <Point>GTC</Point>
+    </Symbol>
+  </Map>
+  <Map Type="System" Name="RJSN_28_LABEL" Priority="2" Center="+37.955833+139.111667">
+    <Label>
+      <Point>SN800</Point>
+      <Point>MOKBA</Point>
+      <Point>TAMBO</Point>
+      <Point>VIKET</Point>
+      <Point>TERAD</Point>
+      <Point>NAEBA</Point>
+      <Point>OKESA</Point>
+      <Point>HAKBA</Point>
+      <Point>NOPPE</Point>
+      <Point>TIGRA</Point>
+      <Point>KENSI</Point>
+      <Point>SUKOB</Point>
+      <Point>INAHO</Point>
+      <Point>SHIUN</Point>
+      <Point>KYOGA</Point>
+      <Point>GOSEN</Point>
+      <Point>MAGNA</Point>
+      <Point>SIBAT</Point>
+      <Point>RAISU</Point>
+      <Point>GTC</Point>
+    </Label>
+  </Map>
+</Maps>

@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Maps>
+  <Map Type="System" Name="RJFG" Priority="0" Center="+30.605000+130.991667">
+    <Runway Name="13_31">
+      <Threshold Name="13" Position="+24.465084+122.970229" ExtendedCentrelineTrack="303" ExtendedCentrelineLength="5" ExtendedCentrelineTickInterval="2" />
+      <Threshold Name="31" Position="+24.469676+122.989320" ExtendedCentrelineTrack="123" ExtendedCentrelineLength="5" ExtendedCentrelineTickInterval="2"/>
+    </Runway>
+    <Symbol Type="HollowTriangle">
+      <Point>FREDY</Point>
+      <Point>QUEEN</Point>
+      <Point>JACKY</Point>
+      <Point>KAGYA</Point>
+      <Point>FG801</Point>
+      <Point>KINKO</Point>
+      <Point>TEPPO</Point>
+      <Point>ASERO</Point>
+      <Point>MABIT</Point>
+      <Point>ATSOP</Point>
+      <Point>FG152</Point>
+    </Symbol>
+    <Symbol Type="Hexagon">
+      <Point>TGE</Point>
+    </Symbol>
+    <Symbol Type="HollowSquare">
+      <Point>YNE</Point>
+    </Symbol>
+  </Map>
+  <Map Type="System" Name="RJFG_LABEL" Priority="2" Center="+30.605000+130.991667">
+    <Label>
+      <Point>FREDY</Point>
+      <Point>QUEEN</Point>
+      <Point>JACKY</Point>
+      <Point>KAGYA</Point>
+      <Point>FG801</Point>
+      <Point>KINKO</Point>
+      <Point>TEPPO</Point>
+      <Point>ASERO</Point>
+      <Point>MABIT</Point>
+      <Point>ATSOP</Point>
+      <Point>FG152</Point> 
+      <Point>TGE</Point>
+    </Label>
+  </Map>
+</Maps>

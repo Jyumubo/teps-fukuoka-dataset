@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Maps>
+  <Map Type="System" Name="RJCN" Priority="0" Center="+43.577500+144.960000">
+    <Runway Name="08_26">
+      <Threshold Name="08" Position="+43.574517+144.948042" ExtendedCentrelineTrack="251" ExtendedCentrelineLength="5" ExtendedCentrelineTickInterval="2" />
+      <Threshold Name="26" Position="+43.580373+144.971510" ExtendedCentrelineTrack="071" ExtendedCentrelineLength="5" ExtendedCentrelineTickInterval="2"/>
+    </Runway>
+    <Symbol Type="HollowTriangle">
+      <Point>MASHU</Point>
+      <Point>CN743</Point>
+      <Point>NOKIK</Point>
+      <Point>NOMOX</Point>
+      <Point>ENKAT</Point>
+      <Point>OMOTI</Point>
+      <Point>HAGEN</Point>
+      <Point>CN661</Point>
+      <Point>BULDO</Point>
+      <Point>MENAN</Point>
+      <Point>MILKU</Point>
+      <Point>YUKIM</Point>
+      <Point>DIFUK</Point>
+    </Symbol>
+    <Symbol Type="Hexagon">
+      <Point>NSE</Point>
+      <Point>TCE</Point>
+    </Symbol>
+    <Symbol Type="HollowSquare">
+      <Point>NSE</Point>
+      <Point>TCE</Point>
+    </Symbol>
+  </Map>
+  <Map Type="System" Name="RJCN_LABEL" Priority="2" Center="+43.577500+144.960000">
+    <Label>
+      <Point>MASHU</Point>
+      <Point>CN743</Point>
+      <Point>NOKIK</Point>
+      <Point>NOMOX</Point>
+      <Point>ENKAT</Point>
+      <Point>OMOTI</Point>
+      <Point>HAGEN</Point>
+      <Point>CN661</Point>
+      <Point>BULDO</Point>
+      <Point>MENAN</Point>
+      <Point>MILKU</Point>
+      <Point>YUKIM</Point>
+      <Point>DIFUK</Point>
+      <Point>NSE</Point>
+      <Point>TCE</Point>
+    </Label>
+  </Map>
+</Maps>

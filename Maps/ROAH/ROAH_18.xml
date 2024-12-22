@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Maps>
+  <Map Type="System" Name="ROAH_18" Priority="0" Center="+26.193333+127.639722">
+    <Runway Name="18R_36L">
+      <Threshold Name="18R" Position="+26.203053+127.632424" ExtendedCentrelineTrack="357" ExtendedCentrelineLength="21" ExtendedCentrelineTickInterval="2" />
+      <Threshold Name="36L" Position="+26.178699+127.633562"/>
+    </Runway>
+    <Runway Name="18L_36R">
+      <Threshold Name="18L" Position="+26.209332+127.645231" ExtendedCentrelineTrack="357" ExtendedCentrelineLength="21" ExtendedCentrelineTickInterval="2" />
+      <Threshold Name="36R" Position="+26.182158+127.646511"/>
+    </Runway>
+    <Symbol Type="HollowTriangle">
+      <Point>H8L00</Point>
+      <Point>VIGER</Point>
+      <Point>KARII</Point>
+      <Point>DORIS</Point>
+      <Point>GANJU</Point>
+      <Point>KYANN</Point>
+      <Point>AH801</Point>
+      <Point>ESKOB</Point>
+      <Point>ADDAN</Point>
+      <Point>CHERY</Point>
+      <Point>AMAMI</Point>
+      <Point>LAFTY</Point>
+      <Point>OLVAL</Point>
+      <Point>LAVON</Point>
+      <Point>ENTOK</Point>
+      <Point>YEEZY</Point>
+      <Point>THETA</Point>
+      <Point>KAKUL</Point>
+      <Point>IHEYA</Point>
+      <Point>GUPTI</Point>
+      <Point>VELNO</Point>
+      <Point>FOCUS</Point>
+      <Point>OKUMA</Point>
+      <Point>CLIFF</Point>
+      <Point>SALSA</Point>
+      <Point>EISAR</Point>
+      <Point>JOINT</Point>
+      <Point>RYCOM</Point>
+      <Point>PRIUS</Point>
+      <Point>GEMNI</Point>
+      <Point>DODGE</Point>
+    </Symbol>
+    <Symbol Type="Hexagon">
+      <Point>NHC</Point>
+    </Symbol>
+    <Symbol Type="HollowSquare">
+      <Point>NHC</Point>
+    </Symbol>
+  </Map>
+  <Map Type="System" Name="ROAH_18_LABEL" Priority="2" Center="+26.193333+127.639722">
+    <Label>
+      <Point>H8L00</Point>
+      <Point>VIGER</Point>
+      <Point>KARII</Point>
+      <Point>DORIS</Point>
+      <Point>GANJU</Point>
+      <Point>KYANN</Point>
+      <Point>AH801</Point>
+      <Point>ESKOB</Point>
+      <Point>ADDAN</Point>
+      <Point>CHERY</Point>
+      <Point>AMAMI</Point>
+      <Point>LAFTY</Point>
+      <Point>OLVAL</Point>
+      <Point>LAVON</Point>
+      <Point>ENTOK</Point>
+      <Point>YEEZY</Point>
+      <Point>THETA</Point>
+      <Point>KAKUL</Point>
+      <Point>IHEYA</Point>
+      <Point>GUPTI</Point>
+      <Point>VELNO</Point>
+      <Point>FOCUS</Point>
+      <Point>OKUMA</Point>
+      <Point>CLIFF</Point>
+      <Point>SALSA</Point>
+      <Point>EISAR</Point>
+      <Point>JOINT</Point>
+      <Point>RYCOM</Point>
+      <Point>PRIUS</Point>
+      <Point>GEMNI</Point>
+      <Point>DODGE</Point>
+      <Point>NHC</Point>
+    </Label>
+  </Map>
+</Maps>

@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Maps>
+  <Map Type="System" Name="RORK" Priority="0" Center="+25.944722+131.326945">
+    <Runway Name="03_21">
+      <Threshold Name="03" Position="+25.938588+131.323529" ExtendedCentrelineTrack="205" ExtendedCentrelineLength="5" ExtendedCentrelineTickInterval="2" />
+      <Threshold Name="21" Position="+25.950804+131.329967" ExtendedCentrelineTrack="025" ExtendedCentrelineLength="5" ExtendedCentrelineTickInterval="2"/>
+    </Runway>
+    <Symbol Type="HollowTriangle">
+      <Point>CORCO</Point>
+      <Point>WHALE</Point>
+      <Point>EZAKI</Point>
+      <Point>TUBAS</Point>     
+    </Symbol>
+    <Symbol Type="Hexagon">
+      <Point>MDE</Point>
+    </Symbol>
+    <Symbol Type="HollowSquare">
+      <Point>MDE</Point>
+    </Symbol>
+  </Map>
+  <Map Type="System" Name="RORK_LABEL" Priority="2" Center="+25.944722+131.326945">
+    <Label>
+      <Point>CORCO</Point>
+      <Point>WHALE</Point>
+      <Point>EZAKI</Point>
+      <Point>TUBAS</Point>
+      <Point>MDE</Point>
+    </Label>
+  </Map>
+</Maps>

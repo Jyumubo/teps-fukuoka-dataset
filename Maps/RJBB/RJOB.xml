@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Maps>
+  <Map Type="System" Name="RJOB" Priority="0" Center="+34.756945+133.855278">
+    <Runway Name="07_25">
+      <Threshold Name="07" Position="+34.750019+133.841345" ExtendedCentrelineTrack="239" ExtendedCentrelineLength="21" ExtendedCentrelineTickInterval="2" />
+      <Threshold Name="25" Position="+34.763835+133.869505" ExtendedCentrelineTrack="059" ExtendedCentrelineLength="21" ExtendedCentrelineTickInterval="2"/>
+    </Runway>
+    <Symbol Type="HollowTriangle">
+      <Point>CHIZU</Point>
+      <Point>OB700</Point>
+      <Point>OLIVE</Point>
+      <Point>HYOGO</Point>
+      <Point>SANDA</Point>
+      <Point>DANGO</Point>
+      <Point>WASYU</Point>
+      <Point>INOOK</Point>
+      <Point>SARUU</Point>
+      <Point>OB791</Point>
+      <Point>ASIMO</Point>
+      <Point>BENES</Point>
+      <Point>INARI</Point>
+      <Point>MOMOU</Point>
+      <Point>BIKAN</Point>
+      <Point>OB560</Point>
+      <Point>WAKIT</Point>
+      <Point>TAKMA</Point>      
+    </Symbol>
+    <Symbol Type="Hexagon">
+      <Point>OYE</Point>
+      <Point>YME</Point>
+    </Symbol>
+    <Symbol Type="HollowSquare">
+      <Point>OYE</Point>
+      <Point>YME</Point>
+    </Symbol>
+  </Map>
+  <Map Type="System" Name="RJOB_LABEL" Priority="2" Center="+34.756945+133.855278">
+    <Label>
+      <Point>CHIZU</Point>
+      <Point>OB700</Point>
+      <Point>OLIVE</Point>
+      <Point>HYOGO</Point>
+      <Point>SANDA</Point>
+      <Point>DANGO</Point>
+      <Point>WASYU</Point>
+      <Point>INOOK</Point>
+      <Point>SARUU</Point>
+      <Point>OB791</Point>
+      <Point>ASIMO</Point>
+      <Point>BENES</Point>
+      <Point>INARI</Point>
+      <Point>MOMOU</Point>
+      <Point>BIKAN</Point>
+      <Point>OB560</Point>
+      <Point>WAKIT</Point>
+      <Point>TAKMA</Point>      
+      <Point>OYE</Point>
+      <Point>YME</Point>
+    </Label>
+  </Map>
+</Maps>

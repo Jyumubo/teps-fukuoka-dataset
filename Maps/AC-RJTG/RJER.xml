@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Maps>
+  <Map Type="System" Name="RJER" Priority="0" Center="+45.241945+141.187500">
+    <Runway Name="07_25">
+      <Threshold Name="07" Position="+45.237575+141.177943" ExtendedCentrelineTrack="237" ExtendedCentrelineLength="5" ExtendedCentrelineTickInterval="2" />
+      <Threshold Name="25" Position="+45.246407+141.197240" ExtendedCentrelineTrack="057" ExtendedCentrelineLength="5" ExtendedCentrelineTickInterval="2"/>
+    </Runway>
+    <Symbol Type="HollowTriangle">
+      <Point>ER500</Point>
+      <Point>ER700</Point>
+      <Point>ER701</Point>
+      <Point>LEDAX</Point>
+      <Point>ER770</Point>
+      <Point>ER771</Point>
+      <Point>ER772</Point>
+      <Point>ER773</Point>
+      <Point>ORISU</Point>
+      <Point>ENRIT</Point>
+      <Point>ER550</Point>
+      <Point>ER551</Point>
+    </Symbol>
+    <Symbol Type="Hexagon">
+      <Point>RSE</Point>
+    </Symbol>
+    <Symbol Type="HollowSquare">
+      <Point>RSE</Point>
+    </Symbol>
+  </Map>
+  <Map Type="System" Name="RJER_LABEL" Priority="2" Center="+45.241945+141.187500">
+    <Label>
+      <Point>ER500</Point>
+      <Point>ER700</Point>
+      <Point>ER701</Point>
+      <Point>LEDAX</Point>
+      <Point>ER770</Point>
+      <Point>ER771</Point>
+      <Point>ER772</Point>
+      <Point>ER773</Point>
+      <Point>ORISU</Point>
+      <Point>ENRIT</Point>
+      <Point>ER550</Point>
+      <Point>ER551</Point>
+      <Point>RSE</Point>
+    </Label>
+  </Map>
+</Maps>

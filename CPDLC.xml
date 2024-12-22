@@ -1,0 +1,317 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Messages>
+  <Category name="/T-DEL">
+    <Message Response="WU">Standby for clearance.</Message>
+    <Message Response="R">Readback is correct.</Message>
+    <Message Response="R">Runway [TEXT], QNH [TEXT].</Message>
+    <Message Response="WU">Contact [UNIT] [FREQUENCY].</Message>
+    <Message Response="WU">Monitor [UNIT] [FREQUENCY].</Message>
+    <Message Response="WU">Report when ready for pushback.</Message>
+    <Message Response="R">Request spot number.</Message>
+    <Message Response="R">No flight plan on file. Please refile.</Message>
+  </Category>
+  <Category name="CLNC" AutoloadElements="true">
+    <Message Response="WU">Cleared to [ADES] via [SID] departure,</Message>
+    <Message Response="WU">flight planned route. Maintain [LEVEL].</Message>
+    <Message Response="WU">Expect [LEVEL]. Squawk [SSR].</Message>
+  </Category>
+    <Category name="CLNC_TRS" AutoloadElements="true">
+    <Message Response="WU">Cleared to [ADES] via [SID] departure</Message>
+    <Message Response="WU">[TEXT] transition, flight planned route.</Message>
+    <Message Response="WU">Maintain [LEVEL]. Expect [LEVEL].</Message>
+    <Message Response="WU">Squawk [SSR].</Message>
+  </Category>
+  <Category name="AMD" AutoloadElements="true">
+    <Message Response="WU">Cleared to [ADES] via [SID] departure,</Message>
+    <Message Response="WU">[TEXT]</Message>
+    <Message Response="WU">Maintain [LEVEL]. Expect [LEVEL].</Message>
+    <Message Response="WU">Squawk [SSR].</Message>
+  </Category>
+    <Category name="TRS_AMD" AutoloadElements="true">
+    <Message Response="WU">Cleared to [ADES] via [SID] departure</Message>
+    <Message Response="WU">[TEXT] transition,</Message>
+    <Message Response="WU">[TEXT]</Message>
+    <Message Response="WU">Maintain [LEVEL]. Expect [LEVEL].</Message>
+    <Message Response="WU">Squawk [SSR].</Message>
+  </Category>
+  <Category name="/T-GND">
+    <Message Response="R">QNH [TEXT].</Message>
+    <Message Response="R">Standby for pushback.</Message>
+    <Message Response="WU">Pushback approved, runway [TEXT].</Message>
+    <Message Response="WU">Face [TEXT].</Message>
+    <Message Response="R">Standby for taxi.</Message>
+    <Message Response="R">Runway [TEXT],</Message>
+    <Message Response="R">taxi to holding point.</Message>
+    <Message Response="R">taxi to holding point [TEXT].</Message>
+    <Message Response="R">taxi to holding point [TEXT] via [TEXT].</Message>
+    <Message Response="R">taxi via [TEXT].</Message>
+    <Message Response="R">taxi via [TEXT] holdshort of [TEXT].</Message>
+    <Message Response="R">Hold present position.</Message>
+    <Message Response="R">Continue taxi.</Message>
+    <Message Response="R">Taxi to spot.</Message>
+    <Message Response="R">Taxi to spot [TEXT].</Message>
+    <Message Response="R">Taxi via [TEXT] to spot.</Message>
+    <Message Response="R">Taxi via [TEXT] to spot [TEXT].</Message>
+    <Message Response="WU">Contact [UNIT] [FREQUENCY]</Message>
+    <Message Response="WU">Monitor [UNIT] [FREQUENCY].</Message>
+  </Category>
+  <Category name="/T-TWR">
+    <Message Response="R">Runway [TEXT], QNH [TEXT].</Message>
+    <Message Response="R">Hold short of runway [TEXT].</Message>
+    <Message Response="WU">Runway [TEXT], line up and wait.</Message>
+    <Message Response="WU">Runway [TEXT], at [TEXT] line up and wait.</Message>
+    <Message Response="R">Wind [TEXT] at [TEXT].</Message>
+    <Message Response="R">Runway [TEXT], cleared for takeoff.</Message>
+    <Message Response="R">Runway [TEXT], at [TEXT] cleared for takeoff.</Message>
+    <Message Response="R">Runway [TEXT], cleared to land.</Message>
+    <Message Response="R">Runway [TEXT], cleared stop and go.</Message>
+    <Message Response="R">Runway [TEXT], cleared option.</Message>
+    <Message Response="R">Runway [TEXT], cleared option. Unable [TEXT].</Message>
+    <Message Response="R">Cancel takeoff clearance.</Message>
+    <Message Response="R">Stop immediately.</Message>
+    <Message Response="R">Continue approach.</Message>
+    <Message Response="R">Traffic [TEXT].</Message>
+    <Message Response="R">Hold present position.</Message>
+    <Message Response="R">Continue taxi.</Message>
+    <Message Response="R">Cross runway [TEXT] at [TEXT].</Message>
+    <Message Response="R">Turn right [TEXT].</Message>
+    <Message Response="R">Turn left [TEXT].</Message>
+    <Message Response="R">Contact [UNIT].</Message>
+    <Message Response="WU">Contact [UNIT] [FREQUENCY]</Message>
+    <Message Response="WU">Monitor [UNIT] [FREQUENCY].</Message>
+  </Category>
+  <Category name="/T-TWR-V">
+    <Message Response="R">Right turn approved.</Message>
+    <Message Response="R">Left turn approved.</Message>
+    <Message Response="R">Straight out departure approved.</Message>
+    <Message Response="R">Make right turn.</Message>
+    <Message Response="R">Make left turn.</Message>
+    <Message Response="R">Make straight out.</Message>
+    <Message Response="R">Left downwind approved.</Message>
+    <Message Response="R">Right downwind approved</Message>
+    <Message Response="R">Traffic [TEXT] Report traffic in sight.</Message>
+    <Message Response="R">Make right 360 on left downwind.</Message>
+    <Message Response="R">Make left 360 on right downwind.</Message>
+    <Message Response="R">Make 270 before base.</Message>
+    <Message Response="R">Follow the traffic.</Message>
+    <Message Response="R">Continue approach.</Message>
+    <Message Response="R">Report leaving control zone.</Message>
+    <Message Response="R">Report entering control zone.</Message>
+    <Message Response="R">Report [TEXT].</Message>
+    <Message Response="R">Cleared to cross control zone.</Message>
+    <Message Response="R">Keep out of control zone.</Message>
+    <Message Response="R">Due to traffic.</Message>
+    <Message Response="R">Contact [UNIT].</Message>
+    <Message Response="WU">Contact [UNIT] [FREQUENCY]</Message>
+  </Category>
+  <Category name="RDO">
+    <Message Response="R">Using runway [TEXT], QNH [TEXT].</Message>
+    <Message Response="WU">Runway [TEXT], line up and wait.</Message>
+    <Message Response="R">Wind [TEXT] at [TEXT].</Message>
+    <Message Response="R">Runway [TEXT], runway is clear.</Message>
+    <Message Response="R">Radio advises.</Message>
+    <Message Response="R">Hold short of runway [TEXT].</Message>
+    <Message Response="R">Stop immediately.</Message>
+    <Message Response="R">Continue approach.</Message>
+    <Message Response="R">Hold present position.</Message>
+    <Message Response="R">Traffic [TEXT].</Message>
+    <Message Response="R">Continue taxi.</Message>
+    <Message Response="R">ATC cleares,</Message>
+    <Message Response="R">ATC requests,</Message>
+    <Message Response="R">hold on the ground.</Message>
+    <Message Response="R">released for departure.</Message>
+    <Message Response="R">Expect release at [TIME].</Message>
+    <Message Response="WU">Report [POSITION].</Message>
+    <Message Response="R">Contact [UNIT].</Message>
+    <Message Response="WU">Contact [UNIT] [FREQUENCY]</Message>
+  </Category>
+  <Category name="/T-COM">
+    <Message Response="R">Contact [UNIT].</Message>
+    <Message Response="WU">Contact [UNIT] [FREQUENCY].</Message>
+    <Message Response="WU">Monitor [UNIT] [FREQUENCY].</Message>
+  </Category>
+  <Category name="/T-RDR">
+    <Message Response="R">Radar contact.</Message>
+    <Message Response="WU">Report altitude.</Message>
+    <Message Response="WU">Verify altimeter setting.</Message>
+    <Message Response="R">Verify assigned altitude.</Message>
+    <Message Response="R">Squawk [SSR].</Message>
+    <Message Response="R">Squawk [SSR] and IDENT.</Message>
+    <Message Response="R">IDENT.</Message>
+    <Message Response="R">Radar service terminated.</Message>
+    <Message Response="R">Squawk mode C.</Message>
+  </Category>
+  <Category name="/T-LVL">
+    <Message Response="WU">Maintain [LEVEL].</Message>
+    <Message Response="WU">Climb and maintain [LEVEL].</Message>
+    <Message Response="R">Climb via SID to [LEVEL].</Message>
+    <Message Response="R">Climb to reach [LEVEL] by [POSITION].</Message>
+    <Message Response="R">Climb to reach [LEVEL] by [TIME].</Message>
+    <Message Response="R">Climb to reach [LEVEL] by [TEXT].</Message>
+    <Message Response="R">Descend and maintain [LEVEL].</Message>
+    <Message Response="R">Descend via STAR to [LEVEL].</Message>
+    <Message Response="R">Descend to reach [LEVEL] by [POSITION].</Message>
+    <Message Response="R">Descend to reach [LEVEL] by [TIME].</Message>
+    <Message Response="R">Descend to reach [LEVEL] by [TEXT].</Message>
+    <Message Response="R">Maintain block [LEVEL] to [LEVEL].</Message>
+    <Message Response="R">Cross [POSITION] at [LEVEL].</Message>
+    <Message Response="R">Cross [POSITION] at or above [LEVEL].</Message>
+    <Message Response="R">Cross [POSITION] at or below [LEVEL].</Message>
+    <Message Response="R">Cross [TEXT] at [LEVEL].</Message>
+    <Message Response="R">Cross [TEXT] at or above [LEVEL].</Message>
+    <Message Response="R">Cross [TEXT] at or below [LEVEL].</Message>
+    <Message Response="R">Expedite climb.</Message>
+    <Message Response="R">Expedite descent.</Message>
+  </Category>
+  <Category name="/T-RTE">
+    <Message Response="WU">Recleared direct [POSITION].</Message>
+    <Message Response="WU">Recleared via [POSITION] direct [POSITION].</Message>
+    <Message Response="WU">Cleared via [STAR] arrival.</Message>
+    <Message Response="WU">Cleared to [POSITION] via [STAR] arrival.</Message>
+    <Message Response="R">Cleared to [ADES] via [TEXT].</Message>
+    <Message Response="R">Expect [TEXT] approach.</Message>
+    <Message Response="R">Expect visual approach runway [TEXT].</Message>
+    <Message Response="R">Request approach type intention.</Message>
+  </Category>
+  <Category name="/T-RV">
+    <Message Response="WU">Standby radar vector.</Message>
+    <Message Response="WU">Fly heading [TEXT].</Message>
+    <Message Response="WU">Turn right heading [TEXT].</Message>
+    <Message Response="WU">Turn left heading [TEXT].</Message>
+    <Message Response="WU">Turn [TEXT] degrees right.</Message>
+    <Message Response="WU">Turn [TEXT] degrees left.</Message>
+    <Message Response="R">Vector to [POSITION].</Message>
+    <Message Response="R">Vector to final approach course.</Message>
+    <Message Response="R">Vector for visual approach.</Message>
+    <Message Response="R">Vector for spacing.</Message>
+    <Message Response="R">Vector to [TEXT].</Message>
+    <Message Response="R">Vector for [TEXT].</Message>
+    <Message Response="R">Resume own navigation direct [POSITION].</Message>
+    <Message Response="R">Intercept final approach course.</Message>
+  </Category>
+  <Category name="/T-APCH">
+    <Message Response="R">Cleared for [TEXT] approach via [STAR] arrival.</Message>
+    <Message Response="R">Maintain [LEVEL] until [POSITION].</Message>
+    <Message Response="R">Maintain [LEVEL] until established.</Message>
+    <Message Response="R">Cross [POSITION] at [LEVEL].</Message>
+    <Message Response="R">Cross [POSITION] at or above [LEVEL].</Message>
+    <Message Response="WU">Cleared for [TEXT] approach.</Message>
+    <Message Response="WU">Cleared [TEXT] approach.</Message>
+    <Message Response="WU">Cleared visual approach runway [TEXT].</Message>
+    <Message Response="WU">Maintain [TEXT] knots.</Message>
+    <Message Response="WU">Maintain [TEXT] knots or greater.</Message>
+    <Message Response="WU">Maintain [TEXT] knots or less.</Message>
+    <Message Response="WU">Until [TEXT] DME.</Message>
+    <Message Response="WU">Until [TEXT] miles on final.</Message>
+    <Message Response="WU">Report [POSITION].</Message>
+    <Message Response="WU">Request [POSITION] estimate.</Message>
+  </Category>
+  <Category name="/T-HOLD">
+    <Message Response="WU">Hold [TEXT] of [POSITION]</Message>
+    <Message Response="WU">as published.</Message>
+    <Message Response="WU">on inbound track [TEXT], [TEXT] leg,</Message>
+    <Message Response="WU">[TEXT] turns.</Message>
+    <Message Response="R">Expect further clearance at [TIME].</Message>
+    <Message Response="R">Expect approach at [TIME].</Message>
+  </Category>
+  <Category name="/T-OFF">
+    <Message Response="WU">Proceed offset [TEXT] miles</Message>
+    <Message Response="WU">right of route.</Message>
+    <Message Response="WU">right of [TEXT].</Message>
+    <Message Response="WU">left of route.</Message>
+    <Message Response="WU">left of [TEXT].</Message>
+    <Message Response="WU">Expect back on route by [POSITION].</Message>
+    <Message Response="R">Cancel offset, rejoin route.</Message>
+    <Message Response="R">Cancel offset, recleared direct [POSITION].</Message>
+    <Message Response="R">Advise if able to proceed parallel offset.</Message>
+  </Category>
+  <Category name="/T-DEV">
+    <Message Response="NE">Unable</Message>
+    <Message Response="NE">Standby</Message>
+    <Message Response="WU">Fly heading [TEXT].</Message>
+    <Message Response="WU">Turn right heading [TEXT].</Message>
+    <Message Response="WU">Turn left heading [TEXT].</Message>
+    <Message Response="WU">Turn [TEXT] degrees right.</Message>
+    <Message Response="WU">Turn [TEXT] degrees left.</Message>
+    <Message Response="WU">Cleared to deviate up to</Message>
+    <Message Response="WU">[TEXT] miles right of route.</Message>
+    <Message Response="WU">[TEXT] miles left of route.</Message>
+    <Message Response="WU">[TEXT] miles both sides of route.</Message>
+    <Message Response="WU">Report clear of weather.</Message>
+    <Message Response="WU">Report back on route</Message>
+    <Message Response="WU">Resume own navigation direct [POSITION].</Message>
+  </Category>
+  <Category name="/T-MISC">
+    <Message Response="NE">Unable</Message>
+    <Message Response="NE">Standby</Message>
+    <Message Response="NE">Roger</Message>
+    <Message Response="NE">Affirm</Message>
+    <Message Response="NE">Negative</Message>
+    <Message Response="NE">Hello</Message>
+    <Message Response="NE">Have a good day</Message>
+  </Category>
+  <Category name="PDC_RCD" AutoloadElements="true" SendViaTM="true">
+    <Message Response="WU">FSM [TIMESTAMP] [ADEP]</Message>
+    <Message Response="WU">[CALLSIGN] RCD RECIEVED</Message>
+    <Message Response="WU">REQUEST BEING PROCESSED</Message>
+    <Message Response="WU">STANDBY</Message>
+  </Category>
+  <Category name="PDC_NONE" AutoloadElements="true" SendViaTM="true">
+    <Message Response="WU">CLD [TIMESTAMP] [ADEP] PDC [TEXT]</Message>
+    <Message Response="WU">[CALLSIGN] CLRD TO [ADES] OFF [TEXT]</Message>
+    <Message Response="WU">[SID] DEPARTURE [TEXT] FPR</Message>
+    <Message Response="WU">MNTN [LEVEL] EXP [LEVEL]</Message>
+    <Message Response="WU">SQUAWK [SSR] DEP FREQ [FREQUENCY]</Message>
+    <Message Response="WU">NEXT FREQ [FREQUENCY] ATIS [TEXT]</Message>
+  </Category>
+  <Category name="PDC_TRS" AutoloadElements="true" SendViaTM="true">
+    <Message Response="WU">CLD [TIMESTAMP] [ADEP] PDC [TEXT]</Message>
+    <Message Response="WU">[CALLSIGN] CLRD TO [ADES] OFF [TEXT]</Message>
+    <Message Response="WU">[SID] DEPARTURE [TEXT] TRANSITION FPR</Message>
+    <Message Response="WU">MNTN [LEVEL] EXP [LEVEL]</Message>
+    <Message Response="WU">SQUAWK [SSR] DEP FREQ [FREQUENCY]</Message>
+    <Message Response="WU">NEXT FREQ [FREQUENCY] ATIS [TEXT]</Message>
+  </Category>
+  <Category name="PDC_AMD" AutoloadElements="true" SendViaTM="true">
+    <Message Response="WU">CLD [TIMESTAMP] [ADEP] PDC [TEXT]</Message>
+    <Message Response="WU">[CALLSIGN] CLRD TO [ADES] OFF [TEXT]</Message>
+    <Message Response="WU">[SID] DEPARTURE [TEXT]</Message>
+    <Message Response="WU">MNTN [LEVEL] EXP [LEVEL]</Message>
+    <Message Response="WU">SQUAWK [SSR] DEP FREQ [FREQUENCY]</Message>
+    <Message Response="WU">NEXT FREQ [FREQUENCY] ATIS [TEXT]</Message>
+  </Category>
+  <Category name="PDC_TRS_AMD" AutoloadElements="true" SendViaTM="true">
+    <Message Response="WU">CLD [TIMESTAMP] [ADEP] PDC [TEXT]</Message>
+    <Message Response="WU">[CALLSIGN] CLRD TO [ADES] OFF [TEXT]</Message>
+    <Message Response="WU">[SID] DEPARTURE [TEXT] TRANSITION [TEXT]</Message>
+    <Message Response="WU">MNTN [LEVEL] EXP [LEVEL]</Message>
+    <Message Response="WU">SQUAWK [SSR] DEP FREQ [FREQUENCY]</Message>
+    <Message Response="WU">NEXT FREQ [FREQUENCY] ATIS [TEXT]</Message>
+  </Category>
+  <Category name="PDC_CDA" AutoloadElements="true" SendViaTM="true">
+    <Message Response="WU">FSM [TIMESTAMP] [ADEP]</Message>
+    <Message Response="WU">[CALLSIGN] CDA RECIEVED</Message>
+    <Message Response="WU">CLEARANCE CONFIRMED</Message>
+  </Category>
+  <Category name="PDC_CNL" AutoloadElements="true" SendViaTM="true">
+    <Message Response="WU">CDA REJECTED</Message>
+    <Message Response="WU">CLEARANCE CANCELLED</Message>
+    <Message Response="WU">REVERT TO VOICE PROCEDURES</Message>
+  </Category>
+  <Category name="TEPS-COM" SendViaTM="true">
+    <Message Response="WU">CONTACT [UNIT] [FREQUENCY]</Message>
+    <Message Response="WU">MONITOR [UNIT] [FREQUENCY]</Message>
+    <Message Response="WU">MONITOR [FREQUENCY]</Message>
+    <Message Response="R">SECONDARY FREQUENCY [FREQUENCY]</Message>
+    <Message Response="R">CHECK STUCK MICROPHONE [FREQUENCY]</Message>
+  </Category>
+  <Category name="TEPS-RADAR" SendViaTM="true">
+    <Message Response="WU">SQUAWK [SSR]</Message>
+    <Message Response="R">RADAR SERVICES TERMINATED</Message>
+  </Category>
+  <Category name="TEPS-SYS" SendViaTM="true">
+    <Message Response="NE">CURRENT DATA AUTHORITY [UNIT]</Message>
+    <Message Response="NE">NEXT DATA AUTHORITY [UNIT]</Message>
+    <Message Response="NE">END SERVICE</Message>
+  </Category>
+</Messages>

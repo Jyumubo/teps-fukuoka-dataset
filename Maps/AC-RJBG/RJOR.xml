@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Maps>
+  <Map Type="System" Name="RJOR" Priority="0" Center="+35.530000+134.165000">
+    <Runway Name="10_28">
+      <Threshold Name="10" Position="+35.530633+134.154024" ExtendedCentrelineTrack="273" ExtendedCentrelineLength="5" ExtendedCentrelineTickInterval="2"/>
+      <Threshold Name="28" Position="+35.529438+134.176074" ExtendedCentrelineTrack="093" ExtendedCentrelineLength="5" ExtendedCentrelineTickInterval="2"/>
+    </Runway>
+    <Symbol Type="HollowTriangle">
+      <Point>OR001</Point>
+      <Point>MARUB</Point>
+      <Point>KANNA</Point>
+      <Point>ISASA</Point>
+    </Symbol>
+    <Symbol Type="Hexagon">
+      <Point>YME</Point>
+      <Point>TRE</Point>
+    </Symbol>
+    <Symbol Type="HollowSquare">
+      <Point>YME</Point>
+      <Point>TRE</Point>
+    </Symbol>
+  </Map>
+  <Map Type="System" Name="RJOR_LABEL" Priority="2" Center="+35.530000+134.165000">
+    <Label>
+      <Point>OR001</Point>
+      <Point>MARUB</Point>
+      <Point>KANNA</Point>
+      <Point>ISASA</Point>
+      <Point>YME</Point>
+      <Point>TRE</Point>
+    </Label>
+  </Map>
+</Maps>

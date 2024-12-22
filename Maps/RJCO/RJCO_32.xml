@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Maps>
+  <Map Type="System" Name="RJCO_32" Priority="0" Center="+43.117500+141.381389">
+    <Runway Name="14_32">
+      <Threshold Name="14" Position="+43.122203+141.374740"/>
+      <Threshold Name="32" Position="+43.112639+141.387862" ExtendedCentrelineTrack="135" ExtendedCentrelineLength="7" ExtendedCentrelineTickInterval="2" />
+    </Runway>
+    <Symbol Type="HollowTriangle">
+      <Point>BANKE</Point>
+      <Point>KURIS</Point>
+      <Point>MOIWA</Point>
+      <Point>BEEBA</Point>
+      <Point>RUMOI</Point>
+      <Point>TOBET</Point>
+      <Point>JOZAN</Point>
+      <Point>OLYMP</Point>
+      <Point>BELMI</Point>
+      <Point>JIIMA</Point>
+      <Point>CLAKY</Point>
+      <Point>JODAI</Point>
+      <Point>OHKAM</Point>
+      <Point>YACHA</Point>
+      <Point>SOBEE</Point>
+      <Point>MAMAT</Point>
+      <Point>PALSI</Point>
+      <Point>ADPIN</Point>
+      <Point>OKEBA</Point>
+    </Symbol>
+    <Symbol Type="Hexagon">
+      <Point>SPE</Point>
+    </Symbol>
+    <Symbol Type="HollowSquare">
+      <Point>SPE</Point>
+    </Symbol>
+  </Map>
+  <Map Type="System" Name="RJCO_32_LABEL" Priority="2" Center="+43.117500+141.381389">
+    <Label>
+      <Point>BANKE</Point>
+      <Point>KURIS</Point>
+      <Point>MOIWA</Point>
+      <Point>BEEBA</Point>
+      <Point>RUMOI</Point>
+      <Point>TOBET</Point>
+      <Point>JOZAN</Point>
+      <Point>OLYMP</Point>
+      <Point>BELMI</Point>
+      <Point>JIIMA</Point>
+      <Point>CLAKY</Point>
+      <Point>JODAI</Point>
+      <Point>OHKAM</Point>
+      <Point>YACHA</Point>
+      <Point>SOBEE</Point>
+      <Point>MAMAT</Point>
+      <Point>PALSI</Point>
+      <Point>ADPIN</Point>
+      <Point>OKEBA</Point>
+      <Point>SPE</Point>
+    </Label>
+  </Map>
+</Maps>

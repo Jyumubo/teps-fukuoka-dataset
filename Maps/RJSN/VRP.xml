@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Maps>
+  <Map Type="System" Name="VRP" Priority="0" Center="+380823.000+1405501.000">
+    <Label>
+      <Point Name="TAINAI">+38.101723+139.366334</Point>
+      <Point Name="6NM_N">+38.055780+139.111667</Point>
+      <Point Name="AJIRO">+38.020106+139.232518</Point>
+      <Point Name="FERRY_POINT">+37.936170+139.062725</Point>
+      <Point Name="TAIHEI">+37.923469+139.144905</Point>
+      <Point Name="BANDAI">+37.919938+139.053399</Point>
+      <Point Name="SEKIYA">+37.894299+139.011779</Point>
+      <Point Name="TSUKIOKA">+37.888578+139.272088</Point>
+      <Point Name="OOAGA">+37.879351+139.163242</Point>
+      <Point Name="KAMEDA">+37.877588+139.108201</Point>
+      <Point Name="NIITSU">+37.799463+139.122060</Point>
+    </Label>
+    <Symbol Type="HollowTriangle">
+      <Point>+38.101723+139.366334</Point>
+      <Point>+38.055780+139.111667</Point>
+      <Point>+38.020106+139.232518</Point>
+      <Point>+37.936170+139.062725</Point>
+      <Point>+37.923469+139.144905</Point>
+      <Point>+37.919938+139.053399</Point>
+      <Point>+37.894299+139.011779</Point>
+      <Point>+37.888578+139.272088</Point>
+      <Point>+37.879351+139.163242</Point>
+      <Point>+37.877588+139.108201</Point>
+      <Point>+37.799463+139.122060</Point>
+    </Symbol>
+  </Map>
+</Maps>

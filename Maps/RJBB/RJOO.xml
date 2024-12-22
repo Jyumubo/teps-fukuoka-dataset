@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Maps>
+  <Map Type="System" Name="RJOO" Priority="0" Center="+34.784445+135.439167">
+    <Runway Name="32L_14R">
+      <Threshold Name="32L" Position="+34.772190+135.451869" ExtendedCentrelineTrack="135" ExtendedCentrelineLength="21" ExtendedCentrelineTickInterval="2" />
+      <Threshold Name="14R" Position="+34.791316+135.428687" ExtendedCentrelineTrack="315" ExtendedCentrelineLength="5" ExtendedCentrelineTickInterval="2"/>
+    </Runway>
+    <Runway Name="32R_14L">
+      <Threshold Name="32R" Position="+34.783603+135.442796" ExtendedCentrelineTrack="135" ExtendedCentrelineLength="21" ExtendedCentrelineTickInterval="2" />
+      <Threshold Name="14L" Position="+34.795274+135.428673" ExtendedCentrelineTrack="315" ExtendedCentrelineLength="5" ExtendedCentrelineTickInterval="2"/>
+    </Runway>
+    <Symbol Type="HollowTriangle">
+      <Point>ASUKA</Point>
+      <Point>SHTLE</Point>
+      <Point>IZUMI</Point>
+      <Point>YODOH</Point>
+      <Point>MINAC</Point>
+      <Point>YOKKA</Point>
+      <Point>GUJYO</Point>
+      <Point>PANAS</Point>
+      <Point>BYODO</Point>
+      <Point>REVOL</Point>
+      <Point>TIGER</Point>
+      <Point>ASAGI</Point>
+      <Point>TOZAN</Point>
+      <Point>BUMER</Point>
+      <Point>MAIKO</Point>
+      <Point>AWAJI</Point>
+      <Point>SUMAR</Point>
+      <Point>SETOH</Point>
+      <Point>AYAME</Point>
+      <Point>ONOPA</Point>
+      <Point>WASYU</Point>
+      <Point>SOUJA</Point>
+      <Point>OHDAI</Point>
+      <Point>AGPUK</Point>
+      <Point>IKOMA</Point>
+      <Point>BECKY</Point>
+      <Point>ZOROH</Point>
+      <Point>KAINA</Point>
+      <Point>MUGIE</Point>
+      <Point>HABIK</Point>
+      <Point>ROKKO</Point>
+      <Point>KAMEO</Point>
+      <Point>OTABE</Point>
+      <Point>ABENO</Point>
+      <Point>MIRAI</Point>
+      <Point>MIDOH</Point>
+      <Point>KOSAK</Point>
+      <Point>GAMBA</Point>
+      <Point>CEREZ</Point>
+      <Point>KIKYO</Point>
+    </Symbol>
+    <Symbol Type="Hexagon">
+      <Point>ITE</Point>
+      <Point>KCC</Point>
+      <Point>KMC</Point>
+      <Point>KTE</Point>
+    </Symbol>
+    <Symbol Type="HollowSquare">
+      <Point>ITE</Point>
+      <Point>KCC</Point>
+      <Point>KMC</Point>
+      <Point>KTE</Point>
+    </Symbol>
+  </Map>
+  <Map Type="System" Name="RJOO_LABEL" Priority="2" Center="+34.784445+135.439167">
+    <Label>
+      <Point>ASUKA</Point>
+      <Point>SHTLE</Point>
+      <Point>IZUMI</Point>
+      <Point>YODOH</Point>
+      <Point>MINAC</Point>
+      <Point>YOKKA</Point>
+      <Point>GUJYO</Point>
+      <Point>PANAS</Point>
+      <Point>BYODO</Point>
+      <Point>REVOL</Point>
+      <Point>TIGER</Point>
+      <Point>ASAGI</Point>
+      <Point>TOZAN</Point>
+      <Point>BUMER</Point>
+      <Point>MAIKO</Point>
+      <Point>AWAJI</Point>
+      <Point>SUMAR</Point>
+      <Point>SETOH</Point>
+      <Point>AYAME</Point>
+      <Point>ONOPA</Point>
+      <Point>WASYU</Point>
+      <Point>SOUJA</Point>
+      <Point>OHDAI</Point>
+      <Point>AGPUK</Point>
+      <Point>IKOMA</Point>
+      <Point>BECKY</Point>
+      <Point>ZOROH</Point>
+      <Point>KAINA</Point>
+      <Point>MUGIE</Point>
+      <Point>HABIK</Point>
+      <Point>ROKKO</Point>
+      <Point>KAMEO</Point>
+      <Point>OTABE</Point>
+      <Point>ABENO</Point>
+      <Point>MIRAI</Point>
+      <Point>MIDOH</Point>
+      <Point>KOSAK</Point>
+      <Point>GAMBA</Point>
+      <Point>CEREZ</Point>
+      <Point>KIKYO</Point>
+      <Point>ITE</Point>
+      <Point>KCC</Point>
+      <Point>KMC</Point>
+      <Point>KTE</Point>
+    </Label>
+  </Map>
+</Maps>

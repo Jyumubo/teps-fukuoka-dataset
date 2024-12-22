@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Maps>
+  <Map Type="System" Name="RJOT" Priority="0" Center="+34.214167+134.015556">
+    <Runway Name="08_26">
+      <Threshold Name="08" Position="+34.210731+134.002788" ExtendedCentrelineTrack="253" ExtendedCentrelineLength="5" ExtendedCentrelineTickInterval="2" />
+      <Threshold Name="26" Position="+34.217371+134.028724" ExtendedCentrelineTrack="073" ExtendedCentrelineLength="21" ExtendedCentrelineTickInterval="2"/>
+    </Runway>
+    <Symbol Type="HollowTriangle">
+      <Point>OLIVE</Point>
+      <Point>HYOGO</Point>
+      <Point>SANDA</Point>
+      <Point>SAYOH</Point>
+      <Point>CHIZU</Point>
+      <Point>TAROH</Point>
+      <Point>MIHOU</Point>
+      <Point>WASYU</Point>
+      <Point>WIMPY</Point>
+      <Point>WAKIT</Point>
+      <Point>BRUTE</Point>
+      <Point>POPAI</Point>
+      <Point>SANPO</Point>    
+    </Symbol>
+    <Symbol Type="Hexagon">
+      <Point>KTE</Point>
+      <Point>OYE</Point>
+      <Point>YME</Point>
+    </Symbol>
+    <Symbol Type="HollowSquare">
+      <Point>KTE</Point>
+      <Point>OYE</Point>
+      <Point>YME</Point>
+    </Symbol>
+  </Map>
+  <Map Type="System" Name="RJOT_LABEL" Priority="2" Center="+34.214167+134.015556">
+    <Label>
+      <Point>OLIVE</Point>
+      <Point>HYOGO</Point>
+      <Point>SANDA</Point>
+      <Point>SAYOH</Point>
+      <Point>CHIZU</Point>
+      <Point>TAROH</Point>
+      <Point>MIHOU</Point>
+      <Point>WASYU</Point>
+      <Point>WIMPY</Point>
+      <Point>WAKIT</Point>
+      <Point>BRUTE</Point>
+      <Point>POPAI</Point>
+      <Point>SANPO</Point>    
+      <Point>KTE</Point>
+      <Point>OYE</Point>
+      <Point>YME</Point>
+    </Label>
+  </Map>
+</Maps>

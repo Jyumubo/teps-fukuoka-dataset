@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Maps>
+  <Map Type="System" Name="ROMY_04" Priority="0" Center="+24.782778+125.295000">
+    <Runway Name="04_22">
+      <Threshold Name="04" Position="+24.775751+125.289022" ExtendedCentrelineTrack="218" ExtendedCentrelineLength="21" ExtendedCentrelineTickInterval="2" />
+      <Threshold Name="22" Position="+24.789912+125.301281" />
+    </Runway>
+    <Symbol Type="HollowTriangle">
+      <Point>FREED</Point>
+      <Point>PAYAO</Point>
+      <Point>WAIDO</Point>
+      <Point>UMAKI</Point>
+      <Point>YUNTA</Point>
+      <Point>YAIMA</Point>
+      <Point>JOTTO</Point>
+      <Point>SHUJI</Point>
+      <Point>YUTAH</Point>
+      <Point>TANDI</Point>
+      <Point>GAHRA</Point>
+      <Point>KURIM</Point>
+      <Point>DANKE</Point>
+      <Point>KACHU</Point>
+      <Point>MIJUN</Point>
+      <Point>AGRUY</Point>
+      <Point>SHIBY</Point>
+      <Point>SOARA</Point>
+    </Symbol>
+    <Symbol Type="Hexagon">
+      <Point>MJC</Point>
+    </Symbol>
+    <Symbol Type="HollowSquare">
+      <Point>MJC</Point>
+    </Symbol>
+  </Map>
+  <Map Type="System" Name="ROMY_04_LABEL" Priority="2" Center="+24.782778+125.295000">
+    <Label>
+      <Point>FREED</Point>
+      <Point>PAYAO</Point>
+      <Point>WAIDO</Point>
+      <Point>UMAKI</Point>
+      <Point>YUNTA</Point>
+      <Point>YAIMA</Point>
+      <Point>JOTTO</Point>
+      <Point>SHUJI</Point>
+      <Point>YUTAH</Point>
+      <Point>TANDI</Point>
+      <Point>GAHRA</Point>
+      <Point>KURIM</Point>
+      <Point>DANKE</Point>
+      <Point>KACHU</Point>
+      <Point>MIJUN</Point>
+      <Point>AGRUY</Point>
+      <Point>SHIBY</Point>
+      <Point>SOARA</Point>
+      <Point>MJC</Point>
+    </Label>
+  </Map>
+</Maps>

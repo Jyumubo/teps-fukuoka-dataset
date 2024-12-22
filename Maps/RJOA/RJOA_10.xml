@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Maps>
+  <Map Type="System" Name="RJOA_10" Priority="0" Center="+34.436111+132.919445">
+    <Runway Name="10_28">
+      <Threshold Name="10" Position="+34.436020+132.903132" ExtendedCentrelineTrack="270" ExtendedCentrelineLength="21" ExtendedCentrelineTickInterval="2"/>
+      <Threshold Name="28" Position="+34.436023+132.935758"/>
+    </Runway>
+    <Symbol Type="HollowTriangle">
+      <Point>OA021</Point>
+      <Point>TOJYO</Point>
+      <Point>BOLIG</Point>
+      <Point>IKUNO</Point>
+      <Point>MIDER</Point>
+      <Point>KIJYY</Point>
+      <Point>TOZAN</Point>
+      <Point>LEMON</Point>
+      <Point>MARCO</Point>
+      <Point>AKANA</Point>
+      <Point>SINFO</Point>
+      <Point>STAGE</Point>
+      <Point>AMURO</Point>
+      <Point>CAROL</Point>
+      <Point>TIIDA</Point>
+      <Point>VISTA</Point>
+      <Point>ATENZ</Point>
+      <Point>AXELA</Point>
+      <Point>MIATA</Point>
+      <Point>DEMIO</Point>
+      <Point>MISEN</Point>
+      <Point>SAILA</Point>
+      <Point>SEAWA</Point>
+      <Point>AVDAK</Point>
+      <Point>PUNUP</Point>
+      <Point>MACKY</Point>
+      <Point>PEGLU</Point>
+      <Point>OA454</Point>
+      <Point>BINGO</Point>  
+      <Point>SUNFL</Point>
+    </Symbol>
+    <Symbol Type="Hexagon">
+      <Point>YME</Point>
+      <Point>HGE</Point>
+    </Symbol>
+    <Symbol Type="HollowSquare">
+      <Point>YME</Point>
+      <Point>HGE</Point>
+    </Symbol>
+  </Map>
+  <Map Type="System" Name="RJOA_10_LABEL" Priority="2" Center="+34.436111+132.919445">
+    <Label>
+      <Point>OA021</Point>
+      <Point>TOJYO</Point>
+      <Point>BOLIG</Point>
+      <Point>IKUNO</Point>
+      <Point>MIDER</Point>
+      <Point>KIJYY</Point>
+      <Point>TOZAN</Point>
+      <Point>LEMON</Point>
+      <Point>MARCO</Point>
+      <Point>AKANA</Point>
+      <Point>SINFO</Point>
+      <Point>STAGE</Point>
+      <Point>AMURO</Point>
+      <Point>CAROL</Point>
+      <Point>TIIDA</Point>
+      <Point>VISTA</Point>
+      <Point>ATENZ</Point>
+      <Point>AXELA</Point>
+      <Point>MIATA</Point>
+      <Point>DEMIO</Point>
+      <Point>MISEN</Point>
+      <Point>SAILA</Point>
+      <Point>SEAWA</Point>
+      <Point>AVDAK</Point>
+      <Point>PUNUP</Point>
+      <Point>MACKY</Point>
+      <Point>PEGLU</Point>
+      <Point>OA454</Point>
+      <Point>BINGO</Point>
+      <Point>SUNFL</Point>
+      <Point>YME</Point>
+      <Point>HGE</Point>
+    </Label>
+  </Map>
+</Maps>

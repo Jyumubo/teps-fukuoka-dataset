@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Maps>
+  <Map Type="System" Name="TACAN" Priority="0" Center="+353312.000+1394652.000">
+    <Symbol Type="Hexagon">
+      <Point>AHT</Point>
+      <Point>AKT</Point>
+      <Point>ALT</Point>
+      <Point>CVT</Point>
+      <Point>FMT</Point>
+      <Point>GFT</Point>
+      <Point>GOT</Point>
+      <Point>HVT</Point>
+      <Point>IJT</Point>
+      <Point>IWT</Point>
+      <Point>JAT</Point>
+      <Point>JBT</Point>
+      <Point>JDT</Point>
+      <Point>JET</Point>
+      <Point>KJT</Point>
+      <Point>KZT</Point>
+      <Point>LHT</Point>
+      <Point>MIT</Point>
+      <Point>MLT</Point>
+      <Point>MXT</Point>
+      <Point>MZT</Point>
+      <Point>NEU</Point>
+      <Point>NFO</Point>
+      <Point>NHT</Point>
+      <Point>NJA</Point>
+      <Point>NJT</Point>
+      <Point>OCT</Point>
+      <Point>SHT</Point>
+      <Point>TET</Point>
+      <Point>TIT</Point>
+      <Point>TKT</Point>
+      <Point>TNT</Point>
+      <Point>TQT</Point>
+      <Point>TZT</Point>
+      <Point>XMT</Point>
+      <Point>YLT</Point>
+      <Point>YOK</Point>
+      <Point>YZT</Point>
+      <Point>ZYT</Point>
+      <Point>OCT</Point>
+      <Point>SHT</Point>
+      <Point>TET</Point>
+      <Point>TIT</Point>
+      <Point>TKT</Point>
+      <Point>TNT</Point>
+      <Point>TQT</Point>
+      <Point>TZT</Point>
+      <Point>XMT</Point>
+      <Point>YLT</Point>
+    </Symbol>
+  </Map>
+</Maps>

@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Maps>
+  <Map Type="System" Name="RJDU" Priority="0" Center="+32.928056+129.934167">
+    <Runway Name="18_36">
+      <Threshold Name="18" Position="+32.933485+129.933705" ExtendedCentrelineTrack="355" ExtendedCentrelineLength="5" ExtendedCentrelineTickInterval="2" />
+      <Threshold Name="36" Position="+32.922662+129.934753" ExtendedCentrelineTrack="175" ExtendedCentrelineLength="5" ExtendedCentrelineTickInterval="2"/>
+    </Runway>
+    <Symbol Type="HollowTriangle">
+      <Point>PEARL</Point>
+      <Point>KAZSA</Point>
+      <Point>SASIK</Point>
+      <Point>SUMOU</Point>
+      <Point>TERAS</Point>
+    </Symbol>
+    <Symbol Type="Hexagon">
+      <Point>OLE</Point>
+      <Point>DGC</Point>
+      <Point>IKE</Point>
+      <Point>HKC</Point>
+      <Point>FUE</Point>
+      <Point>JET</Point>
+    </Symbol>
+    <Symbol Type="HollowSquare">
+      <Point>OLE</Point>
+      <Point>DGC</Point>
+      <Point>IKE</Point>
+      <Point>HKC</Point>
+      <Point>FUE</Point>
+      <Point>JET</Point>
+    </Symbol>
+  </Map>
+  <Map Type="System" Name="RJDU_LABEL" Priority="2" Center="+32.928056+129.934167">
+    <Label>
+      <Point>PEARL</Point>
+      <Point>KAZSA</Point>
+      <Point>SASIK</Point>
+      <Point>SUMOU</Point>
+      <Point>TERAS</Point>
+      <Point>OLE</Point>
+      <Point>DGC</Point>
+      <Point>IKE</Point>
+      <Point>HKC</Point>
+      <Point>FUE</Point>
+      <Point>JET</Point>
+    </Label>
+  </Map>
+</Maps>

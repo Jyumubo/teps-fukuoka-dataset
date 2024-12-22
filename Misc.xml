@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Misc>
+  <RVSMBand Lower="29000" Upper="41000" />
+  <Transition Altitude="14000" />
+  <RVSMStatus FAAEquipment="L, W, Z" ICAOEquipment="W" />
+  <ADSBStatus FAAEquipment="I, L, G, Z" ICAOEquipment="J1, J2, J3, J4, J5, J6, J7, D1, G1" Remark="ADSC" />
+  <LATCValues>15, 22, 29, 38, 45, 61, 72, 89, 115, 165</LATCValues>
+  <FilterGroundTracks>RJCO,RJCJ,RJCC,RJCH,RJSS,RJSN,RJSM,RJTT,RJAA,RJTL,RJTI,RJTK,RJTE,RJAH,RJAK,RJTY,RJTA,RJTR,RJTC,RJTJ,RJTF,RJNY,RJGG,RJNA,RJNG,RJNK,RJBB,RJOO,RJBE,RJOY,RJOB,RJOK,RJOT,RJOE,RJBK,RJOH,RJOA,RJOI,RJOM,RJFO,RJFZ,RJFR,RJDC,RJFF,RJFU,RJDU,RJFM,RJFK,RJFT,ROAH,ROIG,ROMY</FilterGroundTracks>
+  <PDCAirports>RJAA,RJBB,RJFF,RJOO,RJTT,RJGG,RJFK,ROAH</PDCAirports>
+  <ASSR AutoAssign="True" ShowNonDiscreteErrors="True" />
+</Misc>

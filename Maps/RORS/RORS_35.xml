@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Maps>
+  <Map Type="System" Name="RORS_35" Priority="0" Center="+24.826667+125.144722">
+    <Runway Name="17_35">
+      <Threshold Name="17" Position="+24.840020+125.141353"/>
+      <Threshold Name="35" Position="+24.813755+125.148524" ExtendedCentrelineTrack="166" ExtendedCentrelineLength="21" ExtendedCentrelineTickInterval="2" />
+    </Runway>
+    <Symbol Type="HollowTriangle">
+      <Point>ANNIE</Point>
+      <Point>BETTY</Point>
+      <Point>FREED</Point>
+      <Point>ANNIE</Point>
+      <Point>DIANA</Point>
+      <Point>BETTY</Point>
+      <Point>CHIMI</Point>
+      <Point>DIANA</Point>
+      <Point>TAIKO</Point>
+      <Point>NUUSI</Point>
+      <Point>CHIMI</Point>
+    </Symbol>
+    <Symbol Type="Hexagon">
+      <Point>MJC</Point>
+      <Point>SJE</Point>
+    </Symbol>
+    <Symbol Type="HollowSquare">
+      <Point>MJC</Point>
+      <Point>SJE</Point>
+    </Symbol>
+  </Map>
+  <Map Type="System" Name="RORS_35_LABEL" Priority="2" Center="+24.826667+125.144722">
+    <Label>
+      <Point>ANNIE</Point>
+      <Point>BETTY</Point>
+      <Point>FREED</Point>
+      <Point>ANNIE</Point>
+      <Point>DIANA</Point>
+      <Point>BETTY</Point>
+      <Point>CHIMI</Point>
+      <Point>DIANA</Point>
+      <Point>TAIKO</Point>
+      <Point>NUUSI</Point>
+      <Point>CHIMI</Point>
+      <Point>MJC</Point>
+      <Point>SJE</Point>
+    </Label>
+  </Map>
+</Maps>

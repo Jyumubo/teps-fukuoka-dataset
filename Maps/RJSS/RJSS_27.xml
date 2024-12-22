@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Maps>
+  <Map Type="System" Name="RJSS_27" Priority="0" Center="+38.139722+140.916945">
+    <Runway Name="09_27">
+      <Threshold Name="09" Position="+38.138761+140.898762"/>
+      <Threshold Name="27" Position="+38.142263+140.932696" ExtendedCentrelineTrack="083" ExtendedCentrelineLength="21" ExtendedCentrelineTickInterval="2" />
+    </Runway>
+    <Runway Name="12_30">
+      <Threshold Name="12" Position="+38.139448+140.914785" ExtendedCentrelineTrack="298" ExtendedCentrelineLength="5" ExtendedCentrelineTickInterval="2" />
+      <Threshold Name="30" Position="+38.134415+140.926896" ExtendedCentrelineTrack="118" ExtendedCentrelineLength="5" ExtendedCentrelineTickInterval="2" />
+    </Runway>
+    <Symbol Type="HollowTriangle">
+      <Point>BUBLE</Point>
+      <Point>MONAK</Point>
+      <Point>CUBIC</Point>
+      <Point>SERRY</Point>
+      <Point>SAITI</Point>
+      <Point>SAMBO</Point>
+      <Point>SS701</Point>
+      <Point>EBOSI</Point>
+      <Point>DERBY</Point>
+      <Point>SASAP</Point>
+      <Point>RIKYU</Point>
+      <Point>MUSBI</Point>
+      <Point>STEED</Point>
+      <Point>LANCE</Point>
+      <Point>FUBOU</Point>
+      <Point>SNOOK</Point>
+      <Point>TOPAZ</Point>
+      <Point>PERID</Point>
+      <Point>RIBON</Point>
+      <Point>ORKID</Point>
+      <Point>OWLET</Point>
+      <Point>AOBAR</Point>
+      <Point>YUCCA</Point>
+    </Symbol>
+    <Symbol Type="Hexagon">
+      <Point>SDE</Point>
+      <Point>YTE</Point>
+      <Point>GTC</Point>
+      <Point>IXE</Point>
+    </Symbol>
+    <Symbol Type="HollowSquare">
+      <Point>SDE</Point>
+      <Point>YTE</Point>
+      <Point>GTC</Point>
+      <Point>IXE</Point>
+    </Symbol>
+  </Map>
+  <Map Type="System" Name="RJSS_27_LABEL" Priority="2" Center="+38.139722+140.916945">
+    <Label>
+      <Point>BUBLE</Point>
+      <Point>MONAK</Point>
+      <Point>CUBIC</Point>
+      <Point>SERRY</Point>
+      <Point>SAITI</Point>
+      <Point>SAMBO</Point>
+      <Point>SS701</Point>
+      <Point>EBOSI</Point>
+      <Point>DERBY</Point>
+      <Point>SASAP</Point>
+      <Point>RIKYU</Point>
+      <Point>MUSBI</Point>
+      <Point>STEED</Point>
+      <Point>LANCE</Point>
+      <Point>FUBOU</Point>
+      <Point>SNOOK</Point>
+      <Point>TOPAZ</Point>
+      <Point>PERID</Point>
+      <Point>RIBON</Point>
+      <Point>ORKID</Point>
+      <Point>OWLET</Point>
+      <Point>AOBAR</Point>
+      <Point>YUCCA</Point>
+      <Point>SDE</Point>
+      <Point>YTE</Point>
+      <Point>GTC</Point>
+      <Point>IXE</Point>
+    </Label>
+  </Map>
+</Maps>

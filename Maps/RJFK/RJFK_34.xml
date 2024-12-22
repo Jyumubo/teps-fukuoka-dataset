@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Maps>
+  <Map Type="System" Name="RJFK_34" Priority="0" Center="+31.803333+130.719445">
+    <Runway Name="16_34">
+      <Threshold Name="16" Position="+31.815115+130.711465"/>
+      <Threshold Name="34" Position="+31.791681+130.727299" ExtendedCentrelineTrack="150" ExtendedCentrelineLength="21" ExtendedCentrelineTickInterval="2"/>
+    </Runway>
+    <Symbol Type="HollowTriangle">
+      <Point>OVSID</Point>
+      <Point>ATRUK</Point>
+      <Point>SASIK</Point>
+      <Point>FK400</Point>
+      <Point>SMIKO</Point>
+      <Point>MIDAI</Point>
+      <Point>KINKO</Point>
+      <Point>IROHA</Point>
+      <Point>YOGAN</Point>
+      <Point>ZAIHO</Point>
+      <Point>SPICA</Point>
+      <Point>JANUS</Point>
+      <Point>CELES</Point>
+      <Point>KEPLA</Point>
+      <Point>MUSES</Point>
+      <Point>SIMAZ</Point>
+      <Point>ROKET</Point>
+      <Point>TOPPY</Point>
+      <Point>ISKID</Point>
+      <Point>MAGIL</Point>
+      <Point>RYUMO</Point>
+      <Point>MORII</Point>
+      <Point>VEKVO</Point>
+    </Symbol>
+    <Symbol Type="Hexagon">
+      <Point>HKC</Point>
+      <Point>KGE</Point>      
+    </Symbol>
+    <Symbol Type="HollowSquare">
+      <Point>HKC</Point>
+      <Point>KGE</Point>      
+    </Symbol>
+  </Map>
+  <Map Type="System" Name="RJFK_34_LABEL" Priority="2" Center="+31.803333+130.719445">
+    <Label>
+      <Point>OVSID</Point>
+      <Point>ATRUK</Point>
+      <Point>SASIK</Point>
+      <Point>FK400</Point>
+      <Point>SMIKO</Point>
+      <Point>MIDAI</Point>
+      <Point>KINKO</Point>
+      <Point>IROHA</Point>
+      <Point>YOGAN</Point>
+      <Point>ZAIHO</Point>
+      <Point>SPICA</Point>
+      <Point>JANUS</Point>
+      <Point>CELES</Point>
+      <Point>KEPLA</Point>
+      <Point>MUSES</Point>
+      <Point>SIMAZ</Point>
+      <Point>ROKET</Point>
+      <Point>TOPPY</Point>
+      <Point>ISKID</Point>
+      <Point>MAGIL</Point>
+      <Point>RYUMO</Point>
+      <Point>MORII</Point>
+      <Point>VEKVO</Point>
+      <Point>HKC</Point>
+      <Point>KGE</Point> 
+    </Label>
+  </Map>
+</Maps>

@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Maps>
+  <Map Type="System" Name="RJBE" Priority="0" Center="+34.632778+135.223889">
+    <Runway Name="09_27">
+      <Threshold Name="09" Position="+34.631643+135.210320" ExtendedCentrelineTrack="265" ExtendedCentrelineLength="21" ExtendedCentrelineTickInterval="2" />
+      <Threshold Name="27" Position="+34.633760+135.237448" ExtendedCentrelineTrack="085" ExtendedCentrelineLength="5" ExtendedCentrelineTickInterval="2"/>
+    </Runway>
+    <Symbol Type="HollowTriangle">
+      <Point>MAIKO</Point>
+      <Point>STEEL</Point>
+      <Point>REVUE</Point>
+      <Point>HYOGO</Point>
+      <Point>SANDA</Point>
+      <Point>MIDER</Point>
+      <Point>TRIPY</Point>
+      <Point>ASAGI</Point>
+      <Point>KAWAT</Point>
+      <Point>AYAYA</Point>
+      <Point>CHIZU</Point>
+      <Point>TAMBA</Point>
+      <Point>WENDY</Point>
+      <Point>SHION</Point>
+      <Point>SOUJA</Point>
+      <Point>WASYU</Point>
+      <Point>TRACY</Point>
+      <Point>SIOJI</Point>
+      <Point>BERTH</Point>
+      <Point>BECKY</Point>
+      <Point>KAKEF</Point>
+      <Point>OKADA</Point>
+      <Point>RANDY</Point>
+      <Point>KARIN</Point>
+      <Point>WAKIT</Point>
+      <Point>MARIN</Point> 
+    </Symbol>
+    <Symbol Type="Hexagon">
+      <Point>KCE</Point>
+      <Point>YME</Point>
+      <Point>OYE</Point>
+      <Point>KTE</Point>
+      <Point>TSC</Point>
+    </Symbol>
+    <Symbol Type="HollowSquare">
+      <Point>KCE</Point>
+      <Point>YME</Point>
+      <Point>OYE</Point>
+      <Point>KTE</Point>
+      <Point>TSC</Point>
+    </Symbol>
+  </Map>
+  <Map Type="System" Name="RJBE_LABEL" Priority="2" Center="+34.632778+135.223889">
+    <Label>
+      <Point>MAIKO</Point>
+      <Point>STEEL</Point>
+      <Point>REVUE</Point>
+      <Point>HYOGO</Point>
+      <Point>SANDA</Point>
+      <Point>MIDER</Point>
+      <Point>TRIPY</Point>
+      <Point>ASAGI</Point>
+      <Point>KAWAT</Point>
+      <Point>AYAYA</Point>
+      <Point>CHIZU</Point>
+      <Point>TAMBA</Point>
+      <Point>WENDY</Point>
+      <Point>SHION</Point>
+      <Point>SOUJA</Point>
+      <Point>WASYU</Point>
+      <Point>TRACY</Point>
+      <Point>SIOJI</Point>
+      <Point>BERTH</Point>
+      <Point>BECKY</Point>
+      <Point>KAKEF</Point>
+      <Point>OKADA</Point>
+      <Point>RANDY</Point>
+      <Point>KARIN</Point>
+      <Point>WAKIT</Point>
+      <Point>MARIN</Point>  
+      <Point>KCE</Point>
+      <Point>YME</Point>
+      <Point>OYE</Point>
+      <Point>KTE</Point>
+      <Point>TSC</Point>
+    </Label>
+  </Map>
+</Maps>

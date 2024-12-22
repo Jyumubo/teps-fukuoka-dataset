@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Maps>
+  <Map Type="System" Name="RJSR" Priority="0" Center="+40.191945+140.371667">
+    <Runway Name="11_29">
+      <Threshold Name="11" Position="+40.193464+140.359835" ExtendedCentrelineTrack="281" ExtendedCentrelineLength="5" ExtendedCentrelineTickInterval="2" />
+      <Threshold Name="29" Position="+40.190286+140.383027" ExtendedCentrelineTrack="111" ExtendedCentrelineLength="5" ExtendedCentrelineTickInterval="2"/>
+    </Runway>
+    <Symbol Type="HollowTriangle">
+      <Point>NOSSY</Point>
+      <Point>BONJI</Point>
+      <Point>TEBAR</Point>
+      <Point>GATSU</Point>
+      <Point>MAGGY</Point>
+      <Point>SR960</Point>
+      <Point>SR950</Point>
+    </Symbol>
+    <Symbol Type="Hexagon">
+      <Point>ODE</Point>
+      <Point>UWE</Point>
+    </Symbol>
+    <Symbol Type="HollowSquare">
+      <Point>ODE</Point>
+      <Point>UWE</Point>
+    </Symbol>
+  </Map>
+  <Map Type="System" Name="RJSR_LABEL" Priority="2" Center="+40.191945+140.371667">
+    <Label>
+      <Point>NOSSY</Point>
+      <Point>BONJI</Point>
+      <Point>TEBAR</Point>
+      <Point>GATSU</Point>
+      <Point>MAGGY</Point>
+      <Point>SR960</Point>
+      <Point>SR950</Point>
+      <Point>ODE</Point>
+      <Point>UWE</Point>
+    </Label>
+  </Map>
+</Maps>

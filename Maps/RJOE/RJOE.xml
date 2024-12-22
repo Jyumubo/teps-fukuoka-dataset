@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Maps>
+  <Map Type="System" Name="RJOE" Priority="0" Center="+34.533889+136.671667">
+    <Runway Name="13_31">
+      <Threshold Name="13" Position="+34.536275+136.668100" ExtendedCentrelineTrack="302" ExtendedCentrelineLength="5" ExtendedCentrelineTickInterval="2" />
+      <Threshold Name="31" Position="+34.532625+136.675352" ExtendedCentrelineTrack="122" ExtendedCentrelineLength="5" ExtendedCentrelineTickInterval="2"/>
+    </Runway>
+    <Runway Name="04_22">
+      <Threshold Name="04" Position="+34.532165+136.674522" ExtendedCentrelineTrack="212" ExtendedCentrelineLength="5" ExtendedCentrelineTickInterval="2" />
+      <Threshold Name="22" Position="+34.533158+136.675204" ExtendedCentrelineTrack="032" ExtendedCentrelineLength="5" ExtendedCentrelineTickInterval="2"/>
+    </Runway>
+    <Symbol Type="HollowTriangle">
+      <Point>HISAI</Point>
+      <Point>TRIKE</Point>
+      <Point>ANROX</Point>
+      <Point>ASAMA</Point>
+      <Point>OGILA</Point>
+      <Point>IGDAT</Point>
+    </Symbol>
+    <Symbol Type="Hexagon">
+      <Point>XMT</Point>
+      <Point>AKT</Point>
+    </Symbol>
+    <Symbol Type="HollowSquare">
+      <Point>XMT</Point>
+      <Point>AKT</Point>
+    </Symbol>
+  </Map>
+  <Map Type="System" Name="RJOE_LABEL" Priority="2" Center="+34.533889+136.671667">
+    <Label>
+      <Point>HISAI</Point>
+      <Point>TRIKE</Point>
+      <Point>ANROX</Point>
+      <Point>ASAMA</Point>
+      <Point>OGILA</Point>
+      <Point>IGDAT</Point>
+      <Point>XMT</Point>
+      <Point>AKT</Point>
+    </Label>
+  </Map>
+</Maps>

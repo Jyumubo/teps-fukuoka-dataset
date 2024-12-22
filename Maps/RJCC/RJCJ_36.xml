@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Maps>
+  <Map Type="System" Name="RJCJ_36" Priority="0" Center="+42.794445+141.666389">
+    <Runway Name="18L_36R">
+      <Threshold Name="18L" Position="+42.810922+141.665633"/>
+      <Threshold Name="36R" Position="+42.775227+141.671927" ExtendedCentrelineTrack="173" ExtendedCentrelineLength="21" ExtendedCentrelineTickInterval="2" />
+    </Runway>
+    <Runway Name="18R_36L">
+      <Threshold Name="18R" Position="+42.810584+141.661996"/>
+      <Threshold Name="36L" Position="+42.786476+141.666266" ExtendedCentrelineTrack="173" ExtendedCentrelineLength="5" ExtendedCentrelineTickInterval="2" />
+    </Runway>
+    <Symbol Type="HollowTriangle">
+      <Point>KURIS</Point>
+      <Point>TOBBY</Point>
+      <Point>NOHEY</Point>
+      <Point>APIOS</Point>
+      <Point>PANSY</Point>
+      <Point>BUTOS</Point>
+      <Point>SAVIT</Point>
+      <Point>POWAN</Point>
+      <Point>ZALAR</Point>
+      <Point>DALBI</Point>
+      <Point>TEKKO</Point>
+      <Point>FUNKA</Point>
+      <Point>BOKSO</Point>
+      <Point>RAKNO</Point>
+      <Point>NAVER</Point>
+      <Point>KOMAI</Point>
+      <Point>IDEMI</Point>
+      <Point>NOBIG</Point>
+      <Point>ARAPA</Point>
+      <Point>ABIRA</Point>
+      <Point>JOMMY</Point>
+    </Symbol>
+    <Symbol Type="Hexagon">
+      <Point>CHE</Point>
+      <Point>ZYT</Point>
+      <Point>HWE</Point>
+      <Point>MKE</Point>
+    </Symbol>
+    <Symbol Type="HollowSquare">
+      <Point>CHE</Point>
+      <Point>ZYT</Point>
+      <Point>HWE</Point>
+      <Point>MKE</Point>
+    </Symbol>
+  </Map>
+  <Map Type="System" Name="RJCJ_36_LABEL" Priority="2" Center="+42.794445+141.666389">
+    <Label>
+      <Point>KURIS</Point>
+      <Point>TOBBY</Point>
+      <Point>NOHEY</Point>
+      <Point>APIOS</Point>
+      <Point>PANSY</Point>
+      <Point>BUTOS</Point>
+      <Point>SAVIT</Point>
+      <Point>POWAN</Point>
+      <Point>ZALAR</Point>
+      <Point>DALBI</Point>
+      <Point>TEKKO</Point>
+      <Point>FUNKA</Point>
+      <Point>BOKSO</Point>
+      <Point>RAKNO</Point>
+      <Point>NAVER</Point>
+      <Point>KOMAI</Point>
+      <Point>IDEMI</Point>
+      <Point>NOBIG</Point>
+      <Point>ARAPA</Point>
+      <Point>ABIRA</Point>
+      <Point>JOMMY</Point>
+      <Point>CHE</Point>
+      <Point>ZYT</Point>
+      <Point>HWE</Point>
+      <Point>MKE</Point>
+    </Label>
+  </Map>
+</Maps>

@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Maps>
+  <Map Type="System" Name="RJFE" Priority="0" Center="+32.666389+128.832778">
+    <Runway Name="03_21">
+      <Threshold Name="03" Position="+32.658147+128.828191" ExtendedCentrelineTrack="206" ExtendedCentrelineLength="5" ExtendedCentrelineTickInterval="2" />
+      <Threshold Name="21" Position="+32.674376+128.837458" ExtendedCentrelineTrack="026" ExtendedCentrelineLength="5" ExtendedCentrelineTickInterval="2"/>
+    </Runway>
+    <Symbol Type="HollowTriangle">
+      <Point>AGRIT</Point>
+      <Point>KAMIG</Point>
+      <Point>OLVIN</Point>
+      <Point>FE351</Point>
+      <Point>FE350</Point>
+      <Point>KAYKN</Point>
+      <Point>FE151</Point>
+      <Point>FE150</Point>
+      <Point>FE100</Point>
+      <Point>FE101</Point>
+      <Point>FE300</Point>
+      <Point>CARCO</Point>
+    </Symbol>
+    <Symbol Type="Hexagon">
+      <Point>OLE</Point>
+      <Point>IKE</Point>
+      <Point>FUE</Point>
+    </Symbol>
+    <Symbol Type="HollowSquare">
+      <Point>OLE</Point>
+      <Point>IKE</Point>
+      <Point>FUE</Point>
+    </Symbol>
+  </Map>
+  <Map Type="System" Name="RJFE_LABEL" Priority="2" Center="+32.666389+128.832778">
+    <Label>
+      <Point>AGRIT</Point>
+      <Point>KAMIG</Point>
+      <Point>OLVIN</Point>
+      <Point>FE351</Point>
+      <Point>FE350</Point>
+      <Point>KAYKN</Point>
+      <Point>FE151</Point>
+      <Point>FE150</Point>
+      <Point>FE100</Point>
+      <Point>FE101</Point>
+      <Point>FE300</Point>
+      <Point>CARCO</Point>
+      <Point>OLE</Point>
+      <Point>IKE</Point>
+      <Point>FUE</Point>
+    </Label>
+  </Map>
+</Maps>

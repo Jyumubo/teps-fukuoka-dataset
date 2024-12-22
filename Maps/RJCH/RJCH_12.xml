@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Maps>
+  <Map Type="System" Name="RJCH_12" Priority="0" Center="+41.770000+140.821945">
+    <Runway Name="12_30">
+      <Threshold Name="12" Position="+41.774330+140.804885" ExtendedCentrelineTrack="288" ExtendedCentrelineLength="21" ExtendedCentrelineTickInterval="2" />
+      <Threshold Name="30" Position="+41.765986+140.839239"/>
+    </Runway>
+    <Symbol Type="HollowTriangle">
+      <Point>ESASI</Point>
+      <Point>TIKYU</Point>
+      <Point>TAPPI</Point>
+      <Point>TAXIR</Point>
+      <Point>KANTA</Point>
+      <Point>PATRA</Point>
+      <Point>UPLOK</Point>
+      <Point>NODES</Point>
+      <Point>EPKOP</Point>
+      <Point>KARPA</Point>
+      <Point>ISARI</Point>
+      <Point>YUNOK</Point>
+      <Point>BOHNI</Point>
+    </Symbol>
+    <Symbol Type="Hexagon">
+      <Point>HWE</Point>
+      <Point>UWE</Point>
+    </Symbol>
+    <Symbol Type="HollowSquare">
+      <Point>HWE</Point>
+      <Point>UWE</Point>
+    </Symbol>
+  </Map>
+  <Map Type="System" Name="RJCH_12_LABEL" Priority="2" Center="+41.770000+140.821945">
+    <Label>
+      <Point>ESASI</Point>
+      <Point>TIKYU</Point>
+      <Point>TAPPI</Point>
+      <Point>TAXIR</Point>
+      <Point>KANTA</Point>
+      <Point>PATRA</Point>
+      <Point>UPLOK</Point>
+      <Point>NODES</Point>
+      <Point>EPKOP</Point>
+      <Point>KARPA</Point>
+      <Point>ISARI</Point>
+      <Point>YUNOK</Point>
+      <Point>BOHNI</Point>
+      <Point>HWE</Point>
+      <Point>UWE</Point>
+    </Label>
+  </Map>
+</Maps>

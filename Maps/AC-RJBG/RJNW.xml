@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Maps>
+  <Map Type="System" Name="RJNW" Priority="0" Center="+37.293333+136.962222">
+    <Runway Name="07_25">
+      <Threshold Name="07" Position="+37.289671+136.951774" ExtendedCentrelineTrack="246" ExtendedCentrelineLength="5" ExtendedCentrelineTickInterval="2"/>
+      <Threshold Name="25" Position="+37.296789+136.972497" ExtendedCentrelineTrack="066" ExtendedCentrelineLength="5" ExtendedCentrelineTickInterval="2"/>
+    </Runway>
+    <Symbol Type="HollowTriangle">
+      <Point>HISUI</Point>
+      <Point>URUSI</Point>
+      <Point>HAPPO</Point>
+      <Point>GORYU</Point>
+      <Point>NOPPY</Point>
+      <Point>KILCO</Point>
+      <Point>TABNO</Point>
+      <Point>BENKO</Point>
+    </Symbol>
+    <Symbol Type="Hexagon">
+      <Point>NTE</Point>
+    </Symbol>
+    <Symbol Type="HollowSquare">
+      <Point>NTE</Point>
+    </Symbol>
+  </Map>
+  <Map Type="System" Name="RJNW_LABEL" Priority="2" Center="+37.293333+136.962222">
+    <Label>
+      <Point>HISUI</Point>
+      <Point>URUSI</Point>
+      <Point>HAPPO</Point>
+      <Point>GORYU</Point>
+      <Point>NOPPY</Point>
+      <Point>KILCO</Point>
+      <Point>TABNO</Point>
+      <Point>BENKO</Point>
+      <Point>NTE</Point>
+    </Label>
+  </Map>
+</Maps>

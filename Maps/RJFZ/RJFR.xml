@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Maps>
+  <Map Type="System" Name="RJFR" Priority="0" Center="+33.845556+131.035000">
+    <Runway Name="18_36">
+      <Threshold Name="18" Position="+33.856766+131.032802" ExtendedCentrelineTrack="350" ExtendedCentrelineLength="21" ExtendedCentrelineTickInterval="2"/>
+      <Threshold Name="36" Position="+33.834568+131.037327" ExtendedCentrelineTrack="170" ExtendedCentrelineLength="5" ExtendedCentrelineTickInterval="2"/>
+    </Runway>
+    <Symbol Type="HollowTriangle">
+      <Point>ASARI</Point>
+      <Point>HIMEH</Point>
+      <Point>KOHEI</Point>
+      <Point>ALFET</Point>
+      <Point>GONBE</Point>
+      <Point>MILAN</Point>
+      <Point>FIATO</Point>
+      <Point>ONGHA</Point>
+      <Point>BERBO</Point>
+      <Point>FR853</Point>
+      <Point>SAZOH</Point>
+    </Symbol>
+    <Symbol Type="Hexagon">
+      <Point>MYE</Point>
+      <Point>TFE</Point>
+      <Point>SWE</Point>
+    </Symbol>
+    <Symbol Type="HollowSquare">
+      <Point>MYE</Point>
+      <Point>TFE</Point>
+      <Point>SWE</Point>
+    </Symbol>
+  </Map>
+  <Map Type="System" Name="RJFR_LABEL" Priority="2" Center="+33.845556+131.035000">
+    <Label>
+      <Point>ASARI</Point>
+      <Point>HIMEH</Point>
+      <Point>KOHEI</Point>
+      <Point>ALFET</Point>
+      <Point>GONBE</Point>
+      <Point>MILAN</Point>
+      <Point>FIATO</Point>
+      <Point>ONGHA</Point>
+      <Point>BERBO</Point>
+      <Point>FR853</Point>
+      <Point>SAZOH</Point>
+      <Point>MYE</Point>
+      <Point>TFE</Point>
+      <Point>SWE</Point>
+    </Label>
+  </Map>
+</Maps>

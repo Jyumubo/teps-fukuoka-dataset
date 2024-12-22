@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Maps>
+  <Map Type="System" Name="RJEB" Priority="0" Center="+44.304167+143.404167">
+    <Runway Name="14_32">
+      <Threshold Name="14" Position="+44.309933+143.394673" ExtendedCentrelineTrack="312" ExtendedCentrelineLength="5" ExtendedCentrelineTickInterval="2" />
+      <Threshold Name="32" Position="+44.297899+143.413379" ExtendedCentrelineTrack="132" ExtendedCentrelineLength="5" ExtendedCentrelineTickInterval="2"/>
+    </Runway>
+    <Symbol Type="HollowTriangle">
+      <Point>EB210</Point>
+      <Point>EB211</Point>
+      <Point>LUBEK</Point>
+      <Point>EB450</Point>
+      <Point>EB250</Point>
+    </Symbol>
+    <Symbol Type="Hexagon">
+      <Point>MVE</Point>
+    </Symbol>
+    <Symbol Type="HollowSquare">
+      <Point>MVE</Point>
+    </Symbol>
+  </Map>
+  <Map Type="System" Name="RJEB_LABEL" Priority="2" Center="+44.304167+143.404167">
+    <Label>
+      <Point>EB210</Point>
+      <Point>EB211</Point>
+      <Point>LUBEK</Point>
+      <Point>EB450</Point>
+      <Point>EB250</Point>
+      <Point>MVE</Point>
+    </Label>
+  </Map>
+</Maps>

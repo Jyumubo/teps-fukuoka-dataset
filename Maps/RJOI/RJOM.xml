@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Maps>
+  <Map Type="System" Name="RJOM" Priority="0" Center="+33.827222+132.699722">
+    <Runway Name="14_32">
+      <Threshold Name="14" Position="+33.834583+132.689366" ExtendedCentrelineTrack="311" ExtendedCentrelineLength="21" ExtendedCentrelineTickInterval="2"/>
+      <Threshold Name="32" Position="+33.819923+132.709890" ExtendedCentrelineTrack="131" ExtendedCentrelineLength="5" ExtendedCentrelineTickInterval="2"/>
+    </Runway>
+    <Symbol Type="HollowTriangle">
+      <Point>SHONO</Point>
+      <Point>MARCO</Point>
+      <Point>SAKAR</Point>
+      <Point>NOUEH</Point>
+      <Point>NOKMO</Point>
+      <Point>ROSIE</Point>
+      <Point>MOTOQ</Point>
+      <Point>JINBE</Point>
+      <Point>RANDY</Point>
+      <Point>MIKAS</Point>
+      <Point>ROBIN</Point>
+      <Point>MADON</Point>
+      <Point>MAKSU</Point>
+      <Point>ROMAN</Point>
+      <Point>ITUKI</Point>
+      <Point>OM450</Point>
+      <Point>OM451</Point>
+      <Point>KIKMA</Point>
+      <Point>OM401</Point>
+      <Point>OM402</Point>
+      <Point>OM400</Point>
+      <Point>BAMBO</Point>
+    </Symbol>
+    <Symbol Type="Hexagon">
+      <Point>MYE</Point>
+      <Point>KRE</Point>
+    </Symbol>
+    <Symbol Type="HollowSquare">
+      <Point>MYE</Point>
+      <Point>KRE</Point>
+    </Symbol>
+  </Map>
+  <Map Type="System" Name="RJOM_LABEL" Priority="2" Center="+33.827222+132.699722">
+    <Label>
+      <Point>SHONO</Point>
+      <Point>MARCO</Point>
+      <Point>SAKAR</Point>
+      <Point>NOUEH</Point>
+      <Point>NOKMO</Point>
+      <Point>ROSIE</Point>
+      <Point>MOTOQ</Point>
+      <Point>JINBE</Point>
+      <Point>RANDY</Point>
+      <Point>MIKAS</Point>
+      <Point>ROBIN</Point>
+      <Point>MADON</Point>
+      <Point>MAKSU</Point>
+      <Point>ROMAN</Point>
+      <Point>ITUKI</Point>
+      <Point>OM450</Point>
+      <Point>OM451</Point>
+      <Point>KIKMA</Point>
+      <Point>OM401</Point>
+      <Point>OM402</Point>
+      <Point>OM400</Point>
+      <Point>BAMBO</Point>
+      <Point>MYE</Point>
+      <Point>KRE</Point>
+    </Label>
+  </Map>
+</Maps>

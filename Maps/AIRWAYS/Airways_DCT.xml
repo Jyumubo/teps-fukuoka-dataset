@@ -1,0 +1,2353 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Maps>
+  <Map Type="System" Name="Airways_DCT" Priority="0" Center="+36.013056+137.993333">
+    <Line Pattern="Solid" Width="0.3"  Name="WKE-MVE-5000">
+      <Point>+452426.5+1414820.34/
++441818.97+1432342.34</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="WKE-AWE-4000">
+      <Point>+452426.5+1414820.34/
++445527.53+1415918.38</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="WKE-AWE-6000">
+      <Point>+445527.53+1415918.38/
++434002.14+1422724.66</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="WKE-ENRIT-6000">
+      <Point>+452426.5+1414820.34/
++452105.08+1412538.53</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="WKE-ORISU-3000">
+      <Point>+452426.5+1414820.34/
++452757.55+1410350.5</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="MVE-ANIMO-12000">
+      <Point>+441818.97+1432342.34/
++451155.92+1434045.28</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="MVE-TBE-4000">
+      <Point>+441818.97+1432342.34/
++435305.67+1440958.25</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="MVE-TCE-8000">
+      <Point>+441818.97+1432342.34/
++430209.78+1441202.75</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="MVE-CHE-FL260">
+      <Point>+441818.97+1432342.34/
++424159.64+1414110.22</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="MVE-WKE-5000">
+      <Point>+441818.97+1432342.34/
++452426.5+1414820.34</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="TBE-RAUSU-3000">
+      <Point>+435305.67+1440958.25/
++440327.56+1442052.44</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="TBE-NSE-5000">
+      <Point>+435305.67+1440958.25/
++434821.55+1442210.38</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="TBE-NSE-8000">
+      <Point>+434821.55+1442210.38/
++433438.5+1445701.81</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="TBE-OZORA-5000">
+      <Point>+435305.67+1440958.25/
++434307.08+1441046.31</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="TBE-OZORA-7000">
+      <Point>+434307.08+1441046.31/
++432908.23+1441153.19</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="TBE-MVE-4000">
+      <Point>+435305.67+1440958.25/
++441818.97+1432342.34</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="NSE-TBE-8000">
+      <Point>+433438.5+1445701.81/
++434821.55+1442210.38</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="NSE-TBE-5000">
+      <Point>+434821.55+1442210.38/
++435305.67+1440958.25</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="NSE-DIFUK-5000">
+      <Point>+433438.5+1445701.81/
++432242.78+1451052.81</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="AWE-TCE-10000">
+      <Point>+434002.14+1422724.66/
++431542.23+1433523.0</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="AWE-TCE-5000">
+      <Point>+431542.23+1433523.0/
++430802.67+1435613.78</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="AWE-TCE-5000">
+      <Point>+430802.67+1435613.78/
++430209.78+1441202.75</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="AWE-RUMOI-5000">
+      <Point>+434002.14+1422724.66/
++434022.7+1421949.31</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="AWE-RUMOI-7000">
+      <Point>+434022.7+1421949.31/
++434157.61+1414344.53</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="AWE-WKE-6000">
+      <Point>+434002.14+1422724.66/
++445527.53+1415918.38</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="AWE-WKE-4000">
+      <Point>+445527.53+1415918.38/
++452426.5+1414820.34</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="SPE-RUMOI-5000">
+      <Point>+431028.7+1411808.59/
++431722.25+1412342.19</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="SPE-RUMOI-7000">
+      <Point>+431722.25+1412342.19/
++434157.61+1414344.53</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="SPE-KAGRA-6000">
+      <Point>+431028.7+1411808.59/
++432235.39+1414304.0</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="SPE-KAGRA-6000">
+      <Point>+432235.39+1414304.0/
++434022.7+1421949.31</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="TCE-OBE-5000">
+      <Point>+430209.78+1441202.75/
++425112.59+1433614.53</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="TCE-OBE-5000">
+      <Point>+425112.59+1433614.53/
++424402.27+1431313.66</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="TCE-MVE-8000">
+      <Point>+430209.78+1441202.75/
++441818.97+1432342.34</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="TCE-AWE-6000">
+      <Point>+430209.78+1441202.75/
++430802.67+1435613.78</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="TCE-AWE-6000">
+      <Point>+430802.67+1435613.78/
++431542.23+1433523.0</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="TCE-AWE-10000">
+      <Point>+431542.23+1433523.0/
++434002.14+1422724.66</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="TCE-OZORA-7000">
+      <Point>+430209.78+1441202.75/
++432908.23+1441153.19</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="OBE-TCE-5000">
+      <Point>+424402.27+1431313.66/
++425112.59+1433614.53</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="OBE-TCE-5000">
+      <Point>+425112.59+1433614.53/
++430209.78+1441202.75</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="OBE-AREPO-5000">
+      <Point>+424402.27+1431313.66/
++422706.3+1432128.19</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="OBE-AREPO-5000">
+      <Point>+422706.3+1432128.19/
++421133.34+1432901.66</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="OBE-AREPO-9000">
+      <Point>+421133.34+1432901.66/
++415802.42+1433531.06</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="OBE-AREPO-12000">
+      <Point>+415802.42+1433531.06/
++414315.66+1434234.0</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="OBE-AREPO-12000">
+      <Point>+414315.66+1434234.0/
++412937.09+1434900.38</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="OBE-MKE-9000">
+      <Point>+424402.27+1431313.66/
++423612.77+1421718.44</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="OBE-MKE-4000">
+      <Point>+423612.77+1421718.44/
++423318.02+1415720.25</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="OBE-BISEI-8000">
+      <Point>+424402.27+1431313.66/
++425154.67+1425543.63</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="OBE-NODUK-8000">
+      <Point>+424402.27+1431313.66/
++430605.53+1430004.44</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="OBE-TKT-4000">
+      <Point>+424402.27+1431313.66/
++425336.0+1430957.0</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="TKT-OBE-4000">
+      <Point>+425336.0+1430957.0/
++424402.27+1431313.66</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="CHE-MVE-FL260">
+      <Point>+424159.64+1414110.22/
++441818.97+1432342.34</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="CHE-MKE-3000">
+      <Point>+424159.64+1414110.22/
++423318.02+1415720.25</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="ZYT-MIS-FL240">
+      <Point>+424552.0+1414025.0/
++404213.77+1412251.97</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="ZYT-GTC-FL240">
+      <Point>+424552.0+1414025.0/
++411337.58+1404840.66</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="ZYT-GTC-FL280">
+      <Point>+411337.58+1404840.66/
++393028.5+1395351.31</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="ZYT-GTC-FL240">
+      <Point>+393028.5+1395351.31/
++375729.86+1390653.59</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="MKE-OBE-9000">
+      <Point>+423318.02+1415720.25/
++423612.77+1421718.44</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="MKE-OBE-9000">
+      <Point>+423612.77+1421718.44/
++424402.27+1431313.66</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="MKE-TOBBY-7000">
+      <Point>+423318.02+1415720.25/
++415507.3+1414535.88</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="MKE-HWE-7000">
+      <Point>+423318.02+1415720.25/
++414626.5+1404955.97</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="MKE-CHE-3000">
+      <Point>+423318.02+1415720.25/
++424159.64+1414110.22</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="MKE-KURIS-5000">
+      <Point>+423318.02+1415720.25/
++423804.89+1415522.0</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="MKE-KURIS-7000">
+      <Point>+423804.89+1415522.0/
++430918.81+1414221.63</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="NAVER-KAMDO-7000">
+      <Point>+420744.19+1413128.94/
++415729.3+1412114.53</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="NAVER-KAMDO-7000">
+      <Point>+415729.3+1412114.53/
++415148.28+1411535.59</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="HWE-MKE-7000">
+      <Point>+414626.5+1404955.97/
++423318.02+1415720.25</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="HWE-JYONA-7000">
+      <Point>+414626.5+1404955.97/
++411833.98+1405915.63</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="HWE-JYONA-7000">
+      <Point>+411833.98+1405915.63/
++404832.09+1410926.5</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="MRE-MIS-8000">
+      <Point>+404419.66+1404219.22/
++404213.77+1412251.97</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="MRE-ODE-7000">
+      <Point>+404419.66+1404219.22/
++401154.03+1402142.72</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="MIS-ZYT-FL240">
+      <Point>+404213.77+1412251.97/
++424552.0+1414025.0</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="MIS-OBCHI-3000">
+      <Point>+404213.77+1412251.97/
++405226.72+1415127.81</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="MIS-MQE-6000">
+      <Point>+404213.77+1412251.97/
++395156.3+1415703.84</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="MIS-MRE-8000">
+      <Point>+404213.77+1412251.97/
++404419.66+1404219.22</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="MIS-JYONA-4000">
+      <Point>+404213.77+1412251.97/
++404832.09+1410926.5</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="MQE-IXE-FL200">
+      <Point>+395156.3+1415703.84/
++370855.91+1405832.5</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="MQE-MIS-6000">
+      <Point>+395156.3+1415703.84/
++404213.77+1412251.97</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="ODE-MRE-7000">
+      <Point>+401154.03+1402142.72/
++404419.66+1404219.22</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="ODE-UWE-6000">
+      <Point>+401154.03+1402142.72/
++395913.44+1401752.53</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="ODE-UWE-6000">
+      <Point>+395913.44+1401752.53/
++393701.66+1401112.97</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="ODE-NOSSY-6000">
+      <Point>+401154.03+1402142.72/
++401321.83+1400854.66</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="UWE-ODE-6000">
+      <Point>+393701.66+1401112.97/
++395913.44+1401752.53</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="UWE-ODE-6000">
+      <Point>+395913.44+1401752.53/
++401154.03+1402142.72</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="UWE-HINAI-FL150">
+      <Point>+393701.66+1401112.97/
++401730.08+1403817.97</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="UWE-WAPPA-6000">
+      <Point>+393701.66+1401112.97/
++394204.06+1403305.56</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="UWE-HPE-7000">
+      <Point>+393701.66+1401112.97/
++392600.09+1410800.59</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="UWE-YSE-9000">
+      <Point>+393701.66+1401112.97/
++385801.06+1395225.13</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="UWE-YSE-5000">
+      <Point>+385801.06+1395225.13/
++384838.81+1394757.47</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="HPE-YSE-10000">
+      <Point>+392600.09+1410800.59/
++385626.86+1400424.0</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="HPE-YSE-5000">
+      <Point>+385626.86+1400424.0/
++384838.81+1394757.47</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="HPE-UWE-7000">
+      <Point>+392600.09+1410800.59/
++393701.66+1401112.97</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="HPE-WAPPA-10000">
+      <Point>+392600.09+1410800.59/
++394204.06+1403305.56</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="HPE-JYONA-13000">
+      <Point>+392600.09+1410800.59/
++402611.34+1410902.88</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="HPE-JYONA-13000">
+      <Point>+402611.34+1410902.88/
++404832.09+1410926.5</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="YTE-SDE-7000">
+      <Point>+382319.05+1402128.66/
++381556.23+1403807.41</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="YTE-SDE-7000">
+      <Point>+381556.23+1403807.41/
++380818.86+1405517.31</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="YTE-FKE-9000">
+      <Point>+382319.05+1402128.66/
++372625.86+1402521.28</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="YTE-FKE-6000">
+      <Point>+372625.86+1402521.28/
++371327.5+1402613.53</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="YTE-HATRI-9000">
+      <Point>+382319.05+1402128.66/
++380434.28+1401745.78</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="YTE-HATRI-9000">
+      <Point>+380434.28+1401745.78/
++375905.64+1401638.5</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="YTE-HATRI-9000">
+      <Point>+375905.64+1401638.5/
++373358.41+1401130.22</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="YTE-HATRI-12000">
+      <Point>+373358.41+1401130.22/
++372259.59+1400918.88</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="YTE-GTC-9000">
+      <Point>+382319.05+1402128.66/
++380903.61+1393954.38</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="YTE-GTC-9000">
+      <Point>+380903.61+1393954.38/
++375729.86+1390653.59</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="YTE-YSE-9000">
+      <Point>+382319.05+1402128.66/
++383214.02+1400944.84</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="YTE-YSE-9000">
+      <Point>+383214.02+1400944.84/
++384142.97+1395711.41</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="YTE-YSE-5000">
+      <Point>+384142.97+1395711.41/
++384838.81+1394757.47</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="YSE-UWE-9000">
+      <Point>+384838.81+1394757.47/
++385801.06+1395225.13</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="YSE-UWE-9000">
+      <Point>+385801.06+1395225.13/
++393701.66+1401112.97</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="YSE-HPE-10000">
+      <Point>+384838.81+1394757.47/
++385626.86+1400424.0</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="YSE-HPE-10000">
+      <Point>+385626.86+1400424.0/
++392600.09+1410800.59</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="YSE-YTE-9000">
+      <Point>+384838.81+1394757.47/
++384142.97+1395711.41</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="YSE-YTE-9000">
+      <Point>+384142.97+1395711.41/
++383214.02+1400944.84</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="YSE-YTE-9000">
+      <Point>+383214.02+1400944.84/
++382319.05+1402128.66</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="YSE-GTC-6000">
+      <Point>+384838.81+1394757.47/
++375729.86+1390653.59</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="SDE-AOBAR-3000">
+      <Point>+380818.86+1405517.31/
++380102.14+1410723.25</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="SDE-IXE-5000">
+      <Point>+380818.86+1405517.31/
++370855.91+1405832.5</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="SDE-YTE-7000">
+      <Point>+380818.86+1405517.31/
++381556.23+1403807.41</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="SDE-YTE-7000">
+      <Point>+381556.23+1403807.41/
++382319.05+1402128.66</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="GTC-ZYT-FL240">
+      <Point>+375729.86+1390653.59/
++393028.5+1395351.31</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="GTC-ZYT-FL280">
+      <Point>+393028.5+1395351.31/
++411337.58+1404840.66</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="GTC-ZYT-FL240">
+      <Point>+411337.58+1404840.66/
++424552.0+1414025.0</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="GTC-YSE-6000">
+      <Point>+375729.86+1390653.59/
++384838.81+1394757.47</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="GTC-YTE-9000">
+      <Point>+375729.86+1390653.59/
++380903.61+1393954.38</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="GTC-YTE-9000">
+      <Point>+380903.61+1393954.38/
++382319.05+1402128.66</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="GTC-FKE-9000">
+      <Point>+375729.86+1390653.59/
++372259.59+1400918.88</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="GTC-FKE-9000">
+      <Point>+372259.59+1400918.88/
++371839.86+1401700.56</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="GTC-FKE-6000">
+      <Point>+371839.86+1401700.56/
++371327.5+1402613.53</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="GTC-HAILY-FL150">
+      <Point>+375729.86+1390653.59/
++362423.95+1391653.44</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="GTC-HAILY-FL150">
+      <Point>+362423.95+1391653.44/
++361552.31+1391747.16</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="GTC-MBE-FL240">
+      <Point>+375729.86+1390653.59/
++360921.51+1375511.34</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="GTC-HISUI-5000">
+      <Point>+375729.86+1390653.59/
++373534.47+1375553.09</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="GTC-GOT-9000">
+      <Point>+375729.86+1390653.59/
++374553.69+1391854.84</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="GTC-GOT-10000">
+      <Point>+374553.69+1391854.84/
++370255.14+1400243.19</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="GTC-GOT-9000">
+      <Point>+370255.14+1400243.19/
++364441.47+1402058.44</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="IXE-SDE-5000">
+      <Point>+370855.91+1405832.5/
++380818.86+1405517.31</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="IXE-MQE-FL200">
+      <Point>+370855.91+1405832.5/
++395156.3+1415703.84</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="IXE-NAKAH-6000">
+      <Point>+370855.91+1405832.5/
++364021.75+1403436.41</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="IXE-NAKAH-6000">
+      <Point>+364021.75+1403436.41/
++363542.83+1403044.78</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="IXE-NAKAH-5000">
+      <Point>+363542.83+1403044.78/
++362609.88+1402250.75</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="IXE-HAGAR-6000">
+      <Point>+370855.91+1405832.5/
++364615.91+1402100.19</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="IXE-HAGAR-9000">
+      <Point>+364615.91+1402100.19/
++364111.44+1401241.63</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="IXE-HAGAR-10000">
+      <Point>+364111.44+1401241.63/
++363452.0+1400223.16</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="FKE-YTE-6000">
+      <Point>+371327.5+1402613.53/
++372625.86+1402521.28</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="FKE-YTE-9000">
+      <Point>+372625.86+1402521.28/
++382319.05+1402128.66</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="FKE-NASNO-11000">
+      <Point>+371327.5+1402613.53/
++365306.13+1401016.28</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="FKE-GTC-9000">
+      <Point>+371327.5+1402613.53/
++371839.86+1401700.56</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="FKE-GTC-9000">
+      <Point>+371839.86+1401700.56/
++372259.59+1400918.88</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="FKE-GTC-9000">
+      <Point>+372259.59+1400918.88/
++375729.86+1390653.59</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="FKE-STONE-6000">
+      <Point>+371327.5+1402613.53/
++364615.91+1402100.19</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="FKE-STONE-6000">
+      <Point>+364615.91+1402100.19/
++363058.95+1401805.56</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="FKE-STONE-8000">
+      <Point>+363058.95+1401805.56/
++361646.52+1401524.38</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="GOT-GTC-9000">
+      <Point>+364441.47+1402058.44/
++370255.14+1400243.19</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="GOT-GTC-10000">
+      <Point>+370255.14+1400243.19/
++374553.69+1391854.84</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="GOT-GTC-6000">
+      <Point>+374553.69+1391854.84/
++375729.86+1390653.59</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="GOT-CVT-FL140">
+      <Point>+364441.47+1402058.44/
++354336.06+1404759.69</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="JDT-HAGAR-5000">
+      <Point>+363100.61+1395231.94/
++363452.0+1400223.16</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="JDT-NAKAH-4000">
+      <Point>+363100.61+1395231.94/
++362609.88+1402250.75</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="JDT-HATAR-5000">
+      <Point>+363100.61+1395231.94/
++362018.4+1393624.31</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="JDT-HAILY-6000">
+      <Point>+363100.61+1395231.94/
++362307.05+1393420.03</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="JDT-HAILY-6000">
+      <Point>+362307.05+1393420.03/
++361552.31+1391747.16</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="KMC-MBE-FL200">
+      <Point>+362347.29+1362415.31/
++361613.58+1371252.5</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="KMC-MBE-FL200">
+      <Point>+361613.58+1371252.5/
++360921.51+1375511.34</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="KMC-TRE-FL160">
+      <Point>+362347.29+1362415.31/
++353138.29+1340953.59</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="KMC-JET-FL170">
+      <Point>+362347.29+1362415.31/
++361132.27+1353502.84</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="KMC-JET-FL170">
+      <Point>+361132.27+1353502.84/
++355500.63+1343104.5</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="KMC-JET-FL170">
+      <Point>+355500.63+1343104.5/
++353151.77+1330538.72</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="NTE-HISUI-5000">
+      <Point>+371723.86+1365746.47/
++372607.48+1372538.75</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="NTE-HISUI-5000">
+      <Point>+372607.48+1372538.75/
++373231.91+1374600.88</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="NTE-HISUI-5000">
+      <Point>+373231.91+1374600.88/
++373534.47+1375553.09</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="NTE-TOE-4000">
+      <Point>+371723.86+1365746.47/
++364909.16+1370753.5</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="NTE-TOE-4000">
+      <Point>+364909.16+1370753.5/
++364453.8+1370924.75</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="NTE-TOE-FL200">
+      <Point>+364453.8+1370924.75/
++363907.88+1371128.03</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="MBE-GTC-FL240">
+      <Point>+360921.51+1375511.34/
++375729.86+1390653.59</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="MBE-CBE-12000">
+      <Point>+360921.51+1375511.34/
++354220.19+1373146.72</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="MBE-CBE-9000">
+      <Point>+354220.19+1373146.72/
++353347.28+1372425.13</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="MBE-CBE-9000">
+      <Point>+353347.28+1372425.13/
++352321.94+1371529.44</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="MBE-CBE-5000">
+      <Point>+352321.94+1371529.44/
++345128.82+1364811.44</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="MBE-KMC-FL200">
+      <Point>+360921.51+1375511.34/
++361613.58+1371252.5</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="MBE-KMC-FL200">
+      <Point>+361613.58+1371252.5/
++362347.29+1362415.31</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="MBE-TOE-FL200">
+      <Point>+360921.51+1375511.34/
++363907.88+1371128.03</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="CHAUS-TENRU-FL150">
+      <Point>+352633.25+1380229.31/
++354010.52+1380025.0</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="TOE-MBE-FL200">
+      <Point>+363907.88+1371128.03/
++360921.51+1375511.34</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="TOE-NTE-FL200">
+      <Point>+363907.88+1371128.03/
++364453.8+1370924.75</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="TOE-NTE-4000">
+      <Point>+364453.8+1370924.75/
++364909.16+1370753.5</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="TOE-NTE-4000">
+      <Point>+364909.16+1370753.5/
++371723.86+1365746.47</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="YME-MIDER-7000">
+      <Point>+352850.48+1350813.28/
++350101.38+1354933.63</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="YME-OLSOP-5000">
+      <Point>+352850.48+1350813.28/
++353104.66+1344729.25</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="BOSPA-KAGIS-FL180">
+      <Point>+354757.34+1410511.25/
++354852.12+1420017.53</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="BOSPA-KAGIS-FL240">
+      <Point>+354852.12+1420017.53/
++354908.47+1422456.22</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="BOSPA-KAGIS-FL260">
+      <Point>+354908.47+1422456.22/
++354912.89+1423348.5</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="CVT-GOT-FL140">
+      <Point>+354336.06+1404759.69/
++364441.47+1402058.44</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="CVT-OJT-5000">
+      <Point>+354336.06+1404759.69/
++351102.89+1402217.16</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="OJT-CVT-5000">
+      <Point>+351102.89+1402217.16/
++354336.06+1404759.69</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="OJT-MERED-5000">
+      <Point>+351102.89+1402217.16/
++344626.75+1405022.41</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="OJT-MERED-6000">
+      <Point>+344626.75+1405022.41/
++342711.11+1411204.94</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="OJT-MERED-7000">
+      <Point>+342711.11+1411204.94/
++341950.53+1412017.78</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="OJT-MERED-10000">
+      <Point>+341950.53+1412017.78/
++341417.4+1412629.06</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="OJT-TET-5000">
+      <Point>+351102.89+1402217.16/
++345815.0+1395017.0</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="OJT-TSUGA-3000">
+      <Point>+351102.89+1402217.16/
++353613.73+1400959.31</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="BINKS-ONASU-10000">
+      <Point>+351116.3+1404356.66/
++345253.45+1405514.19</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="SHT-TSUGA-3000">
+      <Point>+354807.0+1400035.0/
++353613.73+1400959.31</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="SHT-LEMUM-3000">
+      <Point>+354807.0+1400035.0/
++360356.84+1395253.91</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="SHT-LEMUM-3000">
+      <Point>+360356.84+1395253.91/
++360806.03+1395052.38</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="LEMUM-KOGAR-6000">
+      <Point>+360806.03+1395052.38/
++360712.46+1394128.34</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="ASEKI-HAGAR-5000">
+      <Point>+360506.75+1400114.22/
++361137.65+1400129.25</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="ASEKI-HAGAR-5000">
+      <Point>+361137.65+1400129.25/
++363452.0+1400223.16</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="SYE-TOHNE-3000">
+      <Point>+360039.33+1395021.03/
++360356.84+1395253.91</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="SYE-OMIYA-3000">
+      <Point>+360039.33+1395021.03/
++355505.96+1393548.53</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="SYE-OKUJI-5000">
+      <Point>+360039.33+1395021.03/
++364615.91+1402100.19</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="TET-OJT-5000">
+      <Point>+345815.0+1395017.0/
++351102.89+1402217.16</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="TET-XAC-6000">
+      <Point>+345815.0+1395017.0/
++344244.11+1392450.47</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="TET-KOSKA-4000">
+      <Point>+345815.0+1395017.0/
++351520.97+1393515.09</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="EDARR-OMIYA-5000">
+      <Point>+353325.75+1393229.63/
++355505.96+1393548.53</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="ADDUM-OTAKI-5000">
+      <Point>+345329.49+1401420.66/
++344411.18+1402053.72</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="XAC-SCOTT-5000">
+      <Point>+344244.11+1392450.47/
++342320.41+1394056.28</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="XAC-KOUGA-5000">
+      <Point>+344244.11+1392450.47/
++343412.02+1392129.13</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="XAC-KOUGA-5000">
+      <Point>+343412.02+1392129.13/
++342053.16+1391616.53</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="XAC-SAGRA-7000">
+      <Point>+344244.11+1392450.47/
++344356.91+1382550.72</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="XAC-OSE-5000">
+      <Point>+344244.11+1392450.47/
++344715.88+1392153.47</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="XAC-TET-6000">
+      <Point>+344244.11+1392450.47/
++345815.0+1395017.0</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="XAC-OTAKI-5000">
+      <Point>+344244.11+1392450.47/
++344411.18+1402053.72</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="XAC-ATAMI-5000">
+      <Point>+344244.11+1392450.47/
++345648.58+1391603.66</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="XAC-KOSKA-5000">
+      <Point>+344244.11+1392450.47/
++345835.55+1392953.09</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="XAC-KOSKA-5000">
+      <Point>+345835.55+1392953.09/
++350326.21+1393126.03</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="XAC-KOSKA-5000">
+      <Point>+350326.21+1393126.03/
++351520.97+1393515.09</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="XAC-OLSEG-5000">
+      <Point>+344244.11+1392450.47/
++344438.05+1400543.38</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="XAC-OLSEG-5000">
+      <Point>+344438.05+1400543.38/
++344626.75+1405022.41</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="XAC-OLSEG-6000">
+      <Point>+344626.75+1405022.41/
++344715.04+1411244.75</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="XAC-OLSEG-10000">
+      <Point>+344715.04+1411244.75/
++344800.09+1413535.56</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="OSE-XAC-5000">
+      <Point>+344715.88+1392153.47/
++344244.11+1392450.47</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="DAIBU-EDARR-7000">
+      <Point>+352834.06+1393122.13/
++353325.75+1393229.63</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="DAIBU-KOSKA-7000">
+      <Point>+352834.06+1393122.13/
++351520.97+1393515.09</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="HCE-TEMAR-5000">
+      <Point>+330651.66+1394718.53/
++332019.63+1400622.59</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="MOE-RASYA-5000">
+      <Point>+340415.75+1393340.66/
++335407.62+1395008.38</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="YZT-DALMA-7000">
+      <Point>+344851.92+1381744.91/
++350049.78+1385122.09</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="YZT-LHT-7000">
+      <Point>+344851.92+1381744.91/
++344450.47+1374236.19</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="SZE-DALMA-7000">
+      <Point>+344748.63+1381135.5/
++350049.78+1385122.09</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="SZE-VADAR-FL170">
+      <Point>+344748.63+1381135.5/
++345937.0+1391547.53</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="SZE-VADAR-FL150">
+      <Point>+345937.0+1391547.53/
++350247.75+1393340.72</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="SZE-VADAR-10000">
+      <Point>+350247.75+1393340.72/
++350557.36+1395143.84</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="SZE-ZUSHI-7000">
+      <Point>+344748.63+1381135.5/
++345644.2+1385635.53</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="SZE-ZUSHI-7000">
+      <Point>+345644.2+1385635.53/
++350326.21+1393126.03</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="LHT-YZT-7000">
+      <Point>+344450.47+1374236.19/
++344851.92+1381744.91</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="LHT-SAGRA-7000">
+      <Point>+344450.47+1374236.19/
++344356.91+1382550.72</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="KCC-SWING-7000">
+      <Point>+351554.96+1365453.75/
++352321.94+1371529.44</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="KCC-ALPUS-FL150">
+      <Point>+351554.96+1365453.75/
++352656.99+1381749.03</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="KCC-SHATI-5000">
+      <Point>+351554.96+1365453.75/
++351659.3+1370703.03</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="KCC-NARAH-8000">
+      <Point>+351554.96+1365453.75/
++345008.72+1361333.66</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="KCC-NARAH-13000">
+      <Point>+345008.72+1361333.66/
++342958.8+1354102.88</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="KCC-SIGAK-9000">
+      <Point>+351554.96+1365453.75/
++345307.68+1360252.72</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="KCC-GFT-6000">
+      <Point>+351554.96+1365453.75/
++352330.0+1365130.0</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="ALPUS-TOSKO-FL170">
+      <Point>+352656.99+1381749.03/
++353142.46+1383040.88</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="ALPUS-TOSKO-FL150">
+      <Point>+353142.46+1383040.88/
++353615.45+1384409.31</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="TRUGA-SONBU-FL160">
+      <Point>+354546.34+1361225.59/
++361132.27+1353502.84</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="CBE-MBE-5000">
+      <Point>+345128.82+1364811.44/
++352321.94+1371529.44</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="CBE-MBE-9000">
+      <Point>+352321.94+1371529.44/
++353347.28+1372425.13</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="CBE-MBE-9000">
+      <Point>+353347.28+1372425.13/
++354220.19+1373146.72</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="CBE-MBE-12000">
+      <Point>+354220.19+1373146.72/
++360921.51+1375511.34</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="CBE-NATCH-6000">
+      <Point>+345128.82+1364811.44/
++343827.27+1363611.5</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="CBE-NATCH-6000">
+      <Point>+343827.27+1363611.5/
++342507.5+1362403.06</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="CBE-NATCH-8000">
+      <Point>+342507.5+1362403.06/
++341132.89+1361139.94</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="CBE-EGOGO-7000">
+      <Point>+345128.82+1364811.44/
++343951.24+1362957.19</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="CBE-EGOGO-8000">
+      <Point>+343951.24+1362957.19/
++342944.45+1361413.19</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="CBE-TRUGA-7000">
+      <Point>+345128.82+1364811.44/
++352032.8+1362905.56</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="CBE-TRUGA-7000">
+      <Point>+352032.8+1362905.56/
++353155.49+1362127.22</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="CBE-TRUGA-11000">
+      <Point>+353155.49+1362127.22/
++354013.89+1361553.88</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="CBE-TRUGA-11000">
+      <Point>+354013.89+1361553.88/
++354546.34+1361225.59</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="GFT-KCC-6000">
+      <Point>+352330.0+1365130.0/
++351554.96+1365453.75</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="GFT-MEIHO-6000">
+      <Point>+352330.0+1365130.0/
++353611.95+1364811.81</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="KEC-NATCH-9000">
+      <Point>+332651.88+1354740.19/
++341132.89+1361139.94</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="KEC-JOSIN-5000">
+      <Point>+332651.88+1354740.19/
++333908.8+1345457.09</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="KEC-TSC-7000">
+      <Point>+332651.88+1354740.19/
++334209.48+1352108.69</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="KEC-TSC-7000">
+      <Point>+334209.48+1352108.69/
++335543.95+1345732.06</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="KEC-TSC-4000">
+      <Point>+335543.95+1345732.06/
++340747.0+1343631.0</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="NKE-NORAN-7000">
+      <Point>+333940.55+1352133.91/
++335800.89+1352712.06</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="NKE-KISEI-4000">
+      <Point>+333940.55+1352133.91/
++332804.16+1351944.0</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="NKE-JOSIN-5000">
+      <Point>+333940.55+1352133.91/
++333908.8+1345457.09</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="NKE-ISIMA-4000">
+      <Point>+333940.55+1352133.91/
++335543.95+1345732.06</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="ITE-SIGAK-5000">
+      <Point>+344819.74+1352413.16/
++344953.57+1353637.75</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="ITE-SIGAK-8000">
+      <Point>+344953.57+1353637.75/
++345058.41+1354518.5</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="ITE-SIGAK-8000">
+      <Point>+345058.41+1354518.5/
++345307.68+1360252.72</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="IZUMI-EGOGO-5000">
+      <Point>+342628.54+1352531.28/
++342704.76+1353410.06</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="IZUMI-EGOGO-6000">
+      <Point>+342704.76+1353410.06/
++342854.15+1360114.16</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="IZUMI-EGOGO-7000">
+      <Point>+342854.15+1360114.16/
++342908.31+1360451.31</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="IZUMI-EGOGO-7000">
+      <Point>+342908.31+1360451.31/
++342944.45+1361413.19</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="IZUMI-KAIFU-5000">
+      <Point>+342628.54+1352531.28/
++341548.8+1351409.97</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="IZUMI-KAIFU-8000">
+      <Point>+341548.8+1351409.97/
++335601.2+1345315.75</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="IZUMI-KAIFU-11000">
+      <Point>+335601.2+1345315.75/
++333610.03+1343231.22</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="TSC-MIKAN-5000">
+      <Point>+340747.0+1343631.0/
++341548.8+1351409.97</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="TSC-KEC-4000">
+      <Point>+340747.0+1343631.0/
++335543.95+1345732.06</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="TSC-KEC-7000">
+      <Point>+335543.95+1345732.06/
++334209.48+1352108.69</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="TSC-KEC-7000">
+      <Point>+334209.48+1352108.69/
++332651.88+1354740.19</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="TSC-JOSIN-4000">
+      <Point>+340747.0+1343631.0/
++333908.8+1345457.09</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="TSC-KJT-4000">
+      <Point>+340747.0+1343631.0/
++340015.0+1343731.97</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="TSC-BECKY-6000">
+      <Point>+340747.0+1343631.0/
++335509.02+1343030.66</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="TSC-KRE-9000">
+      <Point>+340747.0+1343631.0/
++333230.41+1334048.56</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="TSC-BERTH-6000">
+      <Point>+340747.0+1343631.0/
++340911.45+1341900.0</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="TSC-KTE-5000">
+      <Point>+340747.0+1343631.0/
++340954.74+1342131.22</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="TSC-KTE-5000">
+      <Point>+340954.74+1342131.22/
++341135.01+1340941.72</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="TSC-KTE-6000">
+      <Point>+341135.01+1340941.72/
++341244.99+1340121.34</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="TSC-NIKAK-10000">
+      <Point>+340747.0+1343631.0/
++343042.63+1340804.13</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="TSC-NIKAK-11000">
+      <Point>+343042.63+1340804.13/
++343504.87+1340235.94</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="KJT-TSC-4000">
+      <Point>+340015.0+1343731.97/
++340747.0+1343631.0</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="KJT-ISIMA-4000">
+      <Point>+340015.0+1343731.97/
++335543.95+1345732.06</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="KJT-TOSAR-6000">
+      <Point>+340015.0+1343731.97/
++333002.09+1343555.25</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="JET-KMC-FL170">
+      <Point>+353151.77+1330538.72/
++355500.63+1343104.5</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="JET-KMC-FL170">
+      <Point>+355500.63+1343104.5/
++361132.27+1353502.84</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="JET-KMC-FL170">
+      <Point>+361132.27+1353502.84/
++362347.29+1362415.31</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="JET-OIE-4000">
+      <Point>+353151.77+1330538.72/
++361036.27+1331922.13</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="JET-IWT-7000">
+      <Point>+353151.77+1330538.72/
++351046.37+1325153.69</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="JET-IWT-7000">
+      <Point>+351046.37+1325153.69/
++340447.63+1320850.31</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="YGE-TSUNO-8000">
+      <Point>+353004.96+1331525.94/
++352514.2+1334130.16</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="YGE-TSUNO-9000">
+      <Point>+352514.2+1334130.16/
++351958.41+1340912.28</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="YGE-YUBAR-7000">
+      <Point>+353004.96+1331525.94/
++350052.41+1333511.03</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="YGE-KYOKA-7000">
+      <Point>+353004.96+1331525.94/
++351046.37+1325153.69</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="XZE-KYOKA-7000">
+      <Point>+352502.06+1325332.56/
++351046.37+1325153.69</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="XZE-YUBAR-6000">
+      <Point>+352502.06+1325332.56/
++351035.82+1331831.44</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="XZE-YUBAR-10000">
+      <Point>+351035.82+1331831.44/
++350052.41+1333511.03</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="XZE-SAMBA-7000">
+      <Point>+352502.06+1325332.56/
++350526.35+1320323.63</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="BLUES-SAMBA-7000">
+      <Point>+345159.02+1315423.09/
++350526.35+1320323.63</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="TRE-KMC-FL160">
+      <Point>+353138.29+1340953.59/
++362347.29+1362415.31</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="TRE-TOZAN-9000">
+      <Point>+353138.29+1340953.59/
++351615.44+1342904.19</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="TRE-SAEKI-13000">
+      <Point>+353138.29+1340953.59/
++350901.8+1340554.91</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="TRE-SAEKI-13000">
+      <Point>+350901.8+1340554.91/
++345707.99+1340350.16</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="OIE-JET-4000">
+      <Point>+361036.27+1331922.13/
++353151.77+1330538.72</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="OYE-MIMMY-4000">
+      <Point>+344501.38+1335006.19/
++345004.35+1340919.47</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="OYE-MIMMY-4000">
+      <Point>+345004.35+1340919.47/
++345147.47+1341555.16</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="OYE-MIMMY-7000">
+      <Point>+345147.47+1341555.16/
++345557.3+1343200.78</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="OYE-KTE-5000">
+      <Point>+344501.38+1335006.19/
++341244.99+1340121.34</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="OYE-TAKMA-5000">
+      <Point>+344501.38+1335006.19/
++342952.48+1333718.63</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="OYE-TAKMA-5000">
+      <Point>+342952.48+1333718.63/
++341509.8+1332458.66</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="OYE-RYUOH-5000">
+      <Point>+344501.38+1335006.19/
++344020.62+1332930.56</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="OYE-YUBAR-5000">
+      <Point>+344501.38+1335006.19/
++350052.41+1333511.03</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="KTE-SETOH-5000">
+      <Point>+341244.99+1340121.34/
++343225.34+1340838.78</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="KTE-SHION-5000">
+      <Point>+341244.99+1340121.34/
++342542.13+1341657.38</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="KTE-AKASI-5000">
+      <Point>+341244.99+1340121.34/
++343522.66+1344518.06</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="KTE-TSC-6000">
+      <Point>+341244.99+1340121.34/
++341135.01+1340941.72</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="KTE-TSC-5000">
+      <Point>+341135.01+1340941.72/
++340954.74+1342131.22</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="KTE-TSC-5000">
+      <Point>+340954.74+1342131.22/
++340747.0+1343631.0</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="KTE-BERTH-6000">
+      <Point>+341244.99+1340121.34/
++340911.45+1341900.0</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="KTE-TAKMA-5000">
+      <Point>+341244.99+1340121.34/
++341509.8+1332458.66</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="KTE-WASYU-5000">
+      <Point>+341244.99+1340121.34/
++341803.77+1334819.94</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="KTE-WASYU-4000">
+      <Point>+341803.77+1334819.94/
++342817.5+1332301.16</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="KTE-OYE-5000">
+      <Point>+341244.99+1340121.34/
++344501.38+1335006.19</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="NIKAK-SAEKI-11000">
+      <Point>+343504.87+1340235.94/
++345707.99+1340350.16</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="KRE-TSC-9000">
+      <Point>+333230.41+1334048.56/
++340747.0+1343631.0</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="KRE-KAIFU-9000">
+      <Point>+333230.41+1334048.56/
++333610.03+1343231.22</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="KRE-JAKAL-4000">
+      <Point>+333230.41+1334048.56/
++331121.25+1340517.63</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="KRE-JAKAL-4000">
+      <Point>+331121.25+1340517.63/
++330343.3+1341403.38</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="KRE-SUKMO-FL160">
+      <Point>+333230.41+1334048.56/
++331520.22+1331144.72</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="KRE-DONAR-7000">
+      <Point>+333230.41+1334048.56/
++332854.04+1331717.38</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="KRE-DONAR-7000">
+      <Point>+332854.04+1331717.38/
++332756.34+1331105.88</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="KRE-DONAR-10000">
+      <Point>+332756.34+1331105.88/
++332105.14+1322904.69</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="IWT-JET-7000">
+      <Point>+340447.63+1320850.31/
++351046.37+1325153.69</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="IWT-JET-7000">
+      <Point>+351046.37+1325153.69/
++353151.77+1330538.72</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="IWT-HGE-6000">
+      <Point>+340447.63+1320850.31/
++342601.59+1325526.28</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="IWT-TFE-5000">
+      <Point>+340447.63+1320850.31/
++332922.98+1314343.53</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="IWT-HIMEH-5000">
+      <Point>+340447.63+1320850.31/
++335248.8+1315008.94</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="IWT-HIMEH-5000">
+      <Point>+335248.8+1315008.94/
++334414.89+1313651.22</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="IWT-DGC-12000">
+      <Point>+340447.63+1320850.31/
++334916.5+1310026.19</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="IWT-DGC-12000">
+      <Point>+334916.5+1310026.19/
++334034.35+1302322.69</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="IWT-UBE-5000">
+      <Point>+340447.63+1320850.31/
++335608.26+1311700.69</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="IWT-NANYO-5000">
+      <Point>+340447.63+1320850.31/
++340236.25+1314448.25</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="IWT-FMT-5000">
+      <Point>+340447.63+1320850.31/
++340218.33+1313244.69</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="HGE-CLOVE-5000">
+      <Point>+342601.59+1325526.28/
++343439.6+1331558.63</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="HGE-CLOVE-5000">
+      <Point>+343439.6+1331558.63/
++344020.62+1332930.56</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="HGE-CLOVE-10000">
+      <Point>+344020.62+1332930.56/
++344926.59+1335113.44</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="HGE-BINGO-5000">
+      <Point>+342601.59+1325526.28/
++342425.71+1331040.66</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="HGE-ITUKI-5000">
+      <Point>+342601.59+1325526.28/
++341847.75+1325301.81</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="HGE-ITUKI-5000">
+      <Point>+341847.75+1325301.81/
++341025.8+1325014.81</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="HGE-ITUKI-6000">
+      <Point>+341025.8+1325014.81/
++340415.84+1324811.31</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="HGE-IWT-6000">
+      <Point>+342601.59+1325526.28/
++340447.63+1320850.31</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="HGE-SUNFL-5000">
+      <Point>+342601.59+1325526.28/
++342608.62+1323830.88</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="HGE-SUNFL-5000">
+      <Point>+342608.62+1323830.88/
++342611.52+1322906.5</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="HGE-KABKI-7000">
+      <Point>+342601.59+1325526.28/
++345336.99+1324955.38</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="HGE-KABKI-7000">
+      <Point>+345336.99+1324955.38/
++345748.47+1324904.78</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="HGE-KABKI-FL150">
+      <Point>+345748.47+1324904.78/
++352950.11+1324236.97</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="HGE-KABKI-FL180">
+      <Point>+352950.11+1324236.97/
++353451.67+1324135.66</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="HGE-KABKI-FL200">
+      <Point>+353451.67+1324135.66/
++354514.05+1323929.47</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="MYE-ITUKI-6000">
+      <Point>+334948.37+1324131.97/
++340415.84+1324811.31</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="MYE-BOTAN-11000">
+      <Point>+334948.37+1324131.97/
++332756.34+1331105.88</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="SUC-BECKY-8000">
+      <Point>+324521.49+1325947.91/
++325647.53+1331434.69</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="SUC-BECKY-8000">
+      <Point>+325647.53+1331434.69/
++332654.52+1335333.0</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="SUC-BECKY-8000">
+      <Point>+332654.52+1335333.0/
++334024.44+1341114.84</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="SUC-BECKY-12000">
+      <Point>+334024.44+1341114.84/
++335509.02+1343030.66</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="SUC-RYUGU-6000">
+      <Point>+324521.49+1325947.91/
++321231.55+1321510.06</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="SUC-RYUGU-6000">
+      <Point>+321231.55+1321510.06/
++320245.91+1320203.88</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="SUC-MZE-6000">
+      <Point>+324521.49+1325947.91/
++315243.41+1312614.88</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="SUC-TFE-9000">
+      <Point>+324521.49+1325947.91/
++331031.82+1321636.63</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="SUC-TFE-9000">
+      <Point>+331031.82+1321636.63/
++331706.96+1320511.06</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="SUC-TFE-4000">
+      <Point>+331706.96+1320511.06/
++332922.98+1314343.53</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="UBE-IWT-5000">
+      <Point>+335608.26+1311700.69/
++340447.63+1320850.31</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="UBE-ASARI-4000">
+      <Point>+335608.26+1311700.69/
++335338.98+1311252.34</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="FMT-IWT-5000">
+      <Point>+340218.33+1313244.69/
++340447.63+1320850.31</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="FMT-NANYO-5000">
+      <Point>+340218.33+1313244.69/
++340236.25+1314448.25</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="VCE-HASMA-4000">
+      <Point>+341653.44+1292013.22/
++341023.45+1292747.84</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="VCE-HASMA-3000">
+      <Point>+341023.45+1292747.84/
++340039.52+1293914.75</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="IKE-OLE-7000">
+      <Point>+334451.05+1294636.69/
++330115.77+1295355.41</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="IKE-OLE-7000">
+      <Point>+330115.77+1295355.41/
++325418.89+1295504.75</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="IKE-FUE-6000">
+      <Point>+334451.05+1294636.69/
++332853.51+1293223.31</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="IKE-FUE-6000">
+      <Point>+332853.51+1293223.31/
++324006.98+1284936.25</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="IKE-HASMA-3000">
+      <Point>+334451.05+1294636.69/
++340039.52+1293914.75</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="DGC-IWT-12000">
+      <Point>+334034.35+1302322.69/
++334916.5+1310026.19</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="DGC-IWT-12000">
+      <Point>+334916.5+1310026.19/
++340447.63+1320850.31</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="DGC-SGE-6000">
+      <Point>+334034.35+1302322.69/
++330855.03+1301734.41</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="DGC-OLE-7000">
+      <Point>+334034.35+1302322.69/
++331952.92+1301041.72</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="DGC-OLE-7000">
+      <Point>+331952.92+1301041.72/
++331120.98+1300529.75</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="DGC-OLE-7000">
+      <Point>+331120.98+1300529.75/
++325418.89+1295504.75</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="DGC-JBT-9000">
+      <Point>+334034.35+1302322.69/
++325533.01+1295556.0</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="DGC-ATLER-4000">
+      <Point>+334034.35+1302322.69/
++334320.96+1301252.72</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="DGC-LAGER-3000">
+      <Point>+334034.35+1302322.69/
++335238.34+1301504.66</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="SWE-ASARI-4000">
+      <Point>+335123.82+1310145.84/
++335338.98+1311252.34</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="SWE-EBISU-12000">
+      <Point>+335123.82+1310145.84/
++340220.14+1303527.66</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="TFE-IWT-5000">
+      <Point>+332922.98+1314343.53/
++340447.63+1320850.31</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="TFE-MARCO-4000">
+      <Point>+332922.98+1314343.53/
++334740.74+1315639.34</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="TFE-MARCO-5000">
+      <Point>+334740.74+1315639.34/
++340446.04+1320850.16</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="TFE-YANAI-3000">
+      <Point>+332922.98+1314343.53/
++333720.39+1315059.75</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="TFE-YANAI-3000">
+      <Point>+333720.39+1315059.75/
++334429.14+1315732.63</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="TFE-YANAI-4000">
+      <Point>+334429.14+1315732.63/
++334622.91+1315917.16</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="TFE-SUC-4000">
+      <Point>+332922.98+1314343.53/
++331706.96+1320511.06</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="TFE-SUC-9000">
+      <Point>+331706.96+1320511.06/
++331031.82+1321636.63</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="TFE-SUC-9000">
+      <Point>+331031.82+1321636.63/
++324521.49+1325947.91</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="TFE-MZE-8000">
+      <Point>+332922.98+1314343.53/
++324441.93+1313533.06</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="TFE-MZE-8000">
+      <Point>+324441.93+1313533.06/
++323747.36+1313418.06</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="TFE-MZE-8000">
+      <Point>+323747.36+1313418.06/
++315243.41+1312614.88</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="KUE-MZE-13000">
+      <Point>+325005.3+1305029.44/
++323743.32+1305816.13</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="KUE-MZE-10000">
+      <Point>+323743.32+1305816.13/
++323322.98+1310059.31</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="KUE-MZE-10000">
+      <Point>+323322.98+1310059.31/
++322813.03+1310413.25</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="KUE-MZE-10000">
+      <Point>+322813.03+1310413.25/
++322342.09+1310702.44</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="KUE-MZE-10000">
+      <Point>+322342.09+1310702.44/
++315243.41+1312614.88</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="KUE-FUGEN-6000">
+      <Point>+325005.3+1305029.44/
++323919.48+1302925.5</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="KUE-MISMI-6000">
+      <Point>+325005.3+1305029.44/
++324524.1+1303916.72</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="KUE-KOSHI-FL160">
+      <Point>+325005.3+1305029.44/
++314516.39+1301331.88</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="KUE-KOSHI-FL160">
+      <Point>+314516.39+1301331.88/
++311718.61+1295752.94</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="KUE-SGE-6000">
+      <Point>+325005.3+1305029.44/
++330101.74+1303122.69</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="KUE-SGE-4000">
+      <Point>+330101.74+1303122.69/
++330332.2+1302701.41</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="KUE-SGE-4000">
+      <Point>+330332.2+1302701.41/
++330855.03+1301734.41</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="KUE-HIGOH-13000">
+      <Point>+325005.3+1305029.44/
++323807.66+1305131.22</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="KUE-HIGOH-8000">
+      <Point>+323807.66+1305131.22/
++321912.73+1305308.28</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="KUE-HIGOH-8000">
+      <Point>+321912.73+1305308.28/
++321145.37+1305346.47</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="AKE-FUGEN-4000">
+      <Point>+322848.85+1300939.47/
++323919.48+1302925.5</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="AKE-IRUKA-5000">
+      <Point>+322848.85+1300939.47/
++322736.48+1302715.0</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="AKE-OLE-5000">
+      <Point>+322848.85+1300939.47/
++325418.89+1295504.75</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="OLE-DGC-7000">
+      <Point>+325418.89+1295504.75/
++331120.98+1300529.75</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="OLE-DGC-7000">
+      <Point>+331120.98+1300529.75/
++331952.92+1301041.72</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="OLE-DGC-7000">
+      <Point>+331952.92+1301041.72/
++334034.35+1302322.69</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="OLE-SGE-6000">
+      <Point>+325418.89+1295504.75/
++330401.82+1301001.22</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="OLE-SGE-5000">
+      <Point>+330401.82+1301001.22/
++330855.03+1301734.41</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="OLE-SASIK-6000">
+      <Point>+325418.89+1295504.75/
++323510.19+1301410.78</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="OLE-SASIK-10000">
+      <Point>+323510.19+1301410.78/
++321759.3+1303115.75</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="OLE-AKE-5000">
+      <Point>+325418.89+1295504.75/
++322848.85+1300939.47</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="OLE-HKC-5000">
+      <Point>+325418.89+1295504.75/
++323611.57+1300506.13</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="OLE-HKC-9000">
+      <Point>+323611.57+1300506.13/
++322519.23+1301104.78</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="OLE-HKC-9000">
+      <Point>+322519.23+1301104.78/
++314150.0+1303458.59</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="OLE-IKE-7000">
+      <Point>+325418.89+1295504.75/
++330115.77+1295355.41</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="OLE-IKE-7000">
+      <Point>+330115.77+1295355.41/
++334451.05+1294636.69</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="JBT-DGC-9000">
+      <Point>+325533.01+1295556.0/
++334034.35+1302322.69</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="JBT-HKC-9000">
+      <Point>+325533.01+1295556.0/
++314150.0+1303458.59</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="SGE-DGC-6000">
+      <Point>+330855.03+1301734.41/
++334034.35+1302322.69</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="SGE-KUE-4000">
+      <Point>+330855.03+1301734.41/
++330332.2+1302701.41</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="SGE-KUE-4000">
+      <Point>+330332.2+1302701.41/
++330101.74+1303122.69</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="SGE-KUE-6000">
+      <Point>+330101.74+1303122.69/
++325005.3+1305029.44</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="SGE-TAIME-5000">
+      <Point>+330855.03+1301734.41/
++325147.11+1302815.69</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="SGE-MILEP-5000">
+      <Point>+330855.03+1301734.41/
++325727.8+1301545.16</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="SGE-MILEP-6000">
+      <Point>+325727.8+1301545.16/
++325250.49+1301501.22</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="SGE-OLE-5000">
+      <Point>+330855.03+1301734.41/
++330401.82+1301001.22</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="SGE-OLE-6000">
+      <Point>+330401.82+1301001.22/
++325418.89+1295504.75</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="SGE-TAKEO-5000">
+      <Point>+330855.03+1301734.41/
++331120.98+1300529.75</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="FUE-IKE-6000">
+      <Point>+324006.98+1284936.25/
++332853.51+1293223.31</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="FUE-IKE-6000">
+      <Point>+332853.51+1293223.31/
++334451.05+1294636.69</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="MZE-FENIX-9000">
+      <Point>+315243.41+1312614.88/
++320830.42+1313529.31</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="MZE-DONKY-8000">
+      <Point>+315243.41+1312614.88/
++322036.87+1315256.59</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="MZE-DONKY-FL160">
+      <Point>+322036.87+1315256.59/
++323923.26+1321107.09</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="MZE-SUC-6000">
+      <Point>+315243.41+1312614.88/
++324521.49+1325947.91</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="MZE-HIROS-4000">
+      <Point>+315243.41+1312614.88/
++315340.52+1314134.34</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="MZE-HIROS-3000">
+      <Point>+315340.52+1314134.34/
++315500.37+1320352.47</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="MZE-HIROS-4000">
+      <Point>+315500.37+1320352.47/
++315530.2+1321230.53</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="MZE-JACKY-4000">
+      <Point>+315243.41+1312614.88/
++313316.78+1315147.22</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="MZE-TGE-8000">
+      <Point>+315243.41+1312614.88/
++313334.9+1311929.38</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="MZE-TGE-12000">
+      <Point>+313334.9+1311929.38/
++311426.03+1311246.69</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="MZE-TGE-6000">
+      <Point>+311426.03+1311246.69/
++303607.76+1305929.5</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="MZE-JINGU-8000">
+      <Point>+315243.41+1312614.88/
++315409.81+1310255.19</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="MZE-SASIK-10000">
+      <Point>+315243.41+1312614.88/
++321338.3+1304049.56</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="MZE-SASIK-10000">
+      <Point>+321338.3+1304049.56/
++321759.3+1303115.75</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="MZE-KUE-10000">
+      <Point>+315243.41+1312614.88/
++322342.09+1310702.44</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="MZE-KUE-10000">
+      <Point>+322342.09+1310702.44/
++322813.03+1310413.25</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="MZE-KUE-10000">
+      <Point>+322813.03+1310413.25/
++323322.98+1310059.31</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="MZE-KUE-10000">
+      <Point>+323322.98+1310059.31/
++323743.32+1305816.13</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="MZE-KUE-13000">
+      <Point>+323743.32+1305816.13/
++325005.3+1305029.44</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="MZE-TFE-8000">
+      <Point>+315243.41+1312614.88/
++323747.36+1313418.06</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="MZE-TFE-8000">
+      <Point>+323747.36+1313418.06/
++324441.93+1313533.06</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="MZE-TFE-8000">
+      <Point>+324441.93+1313533.06/
++332922.98+1314343.53</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="KGE-HIGOH-8000">
+      <Point>+314751.16+1304333.97/
++321145.37+1305346.47</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="KGE-JINGU-8000">
+      <Point>+314751.16+1304333.97/
++315409.81+1310255.19</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="KGE-HKC-5000">
+      <Point>+314751.16+1304333.97/
++314150.0+1303458.59</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="KGE-SASIK-7000">
+      <Point>+314751.16+1304333.97/
++321759.3+1303115.75</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="HKC-KGE-5000">
+      <Point>+314150.0+1303458.59/
++314751.16+1304333.97</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="HKC-YKE-6000">
+      <Point>+314150.0+1303458.59/
++311042.77+1303652.22</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="HKC-YKE-6000">
+      <Point>+311042.77+1303652.22/
++304243.6+1303833.88</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="HKC-YKE-3000">
+      <Point>+304243.6+1303833.88/
++303722.93+1303853.06</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="HKC-YKE-3000">
+      <Point>+303722.93+1303853.06/
++303240.31+1303910.09</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="HKC-YKE-7000">
+      <Point>+303240.31+1303910.09/
++302246.02+1303945.78</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="HKC-SAILS-FL160">
+      <Point>+314150.0+1303458.59/
++314516.39+1301331.88</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="HKC-OLE-9000">
+      <Point>+314150.0+1303458.59/
++322519.23+1301104.78</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="HKC-OLE-9000">
+      <Point>+322519.23+1301104.78/
++323611.57+1300506.13</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="HKC-OLE-5000">
+      <Point>+323611.57+1300506.13/
++325418.89+1295504.75</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="HKC-JBT-9000">
+      <Point>+314150.0+1303458.59/
++325533.01+1295556.0</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="JAT-JACKY-6000">
+      <Point>+312146.0+1304949.0/
++312905.67+1312854.34</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="JAT-JACKY-6000">
+      <Point>+312905.67+1312854.34/
++313316.78+1315147.22</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="JAT-KINKO-6000">
+      <Point>+312146.0+1304949.0/
++311958.21+1304312.0</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="JAT-MAKRA-6000">
+      <Point>+312146.0+1304949.0/
++311621.67+1302341.91</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="TGE-MZE-6000">
+      <Point>+303607.76+1305929.5/
++311426.53+1311246.84</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="TGE-MZE-12000">
+      <Point>+311426.53+1311246.84/
++313334.9+1311929.38</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="TGE-MZE-8000">
+      <Point>+313334.9+1311929.38/
++315243.41+1312614.88</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="TGE-CEDAR-4000">
+      <Point>+303607.76+1305929.5/
++301845.57+1304746.72</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="TGE-TOLOT-4000">
+      <Point>+303607.76+1305929.5/
++303240.31+1303910.09</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="YKE-HKC-7000">
+      <Point>+302246.02+1303945.78/
++303240.31+1303910.09</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="YKE-HKC-3000">
+      <Point>+303240.31+1303910.09/
++303722.93+1303853.06</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="YKE-HKC-3000">
+      <Point>+303722.93+1303853.06/
++304243.6+1303833.88</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="YKE-HKC-6000">
+      <Point>+304243.6+1303833.88/
++311042.77+1303652.22</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="YKE-HKC-6000">
+      <Point>+311042.77+1303652.22/
++314150.0+1303458.59</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="AKVAS-APITO-FL80">
+      <Point>+293513.2+1272752.88/
++293513.09+1254453.41</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="AKVAS-APITO-FL80">
+      <Point>+293513.09+1254453.41/
++293500.0+1240000.0</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="AKVAS-MELEN-FL80">
+      <Point>+293513.2+1272752.88/
++293134.1+1275757.28</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="ALT-BOMAP-FL230">
+      <Point>+282636.5+1293500.25/
++300013.16+1294928.06</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="AME-POMAS-6000">
+      <Point>+282604.98+1294241.06/
++283014.77+1300839.09</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="AME-TAMAK-4000">
+      <Point>+282604.98+1294241.06/
++280023.4+1292509.13</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="AME-TAMAK-7000">
+      <Point>+280023.4+1292509.13/
++273153.07+1290553.5</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="AME-TKE-5000">
+      <Point>+282604.98+1294241.06/
++274929.2+1285255.97</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="AME-ANOXA-4000">
+      <Point>+282604.98+1294241.06/
++284345.22+1293203.0</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="AME-ANOXA-12000">
+      <Point>+284345.22+1293203.0/
++285919.53+1292237.31</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="TKE-HACHA-4000">
+      <Point>+274929.2+1285255.97/
++280337.77+1285833.38</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="TKE-HACHA-6000">
+      <Point>+280337.77+1285833.38/
++280923.84+1290051.47</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="TKE-AME-5000">
+      <Point>+274929.2+1285255.97/
++282604.98+1294241.06</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="TKE-PINNE-5000">
+      <Point>+274929.2+1285255.97/
++274918.96+1290526.47</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="TKE-TAMAK-5000">
+      <Point>+274929.2+1285255.97/
++273153.07+1290553.5</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="ONC-TKE-3000">
+      <Point>+272558.38+1284156.25/
++273417.03+1284548.84</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="ONC-TKE-3000">
+      <Point>+273417.03+1284548.84/
++274015.37+1284836.38</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="ONC-TKE-4000">
+      <Point>+274015.37+1284836.38/
++274929.2+1285255.97</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="ONC-CHERY-3000">
+      <Point>+272558.38+1284156.25/
++265556.36+1283918.09</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="ONC-YRE-3000">
+      <Point>+272558.38+1284156.25/
++271054.18+1283014.66</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="ONC-YRE-3000">
+      <Point>+271054.18+1283014.66/
++270239.75+1282352.91</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="YRE-ONC-3000">
+      <Point>+270239.75+1282352.91/
++271054.18+1283014.66</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="YRE-ONC-3000">
+      <Point>+271054.18+1283014.66/
++272558.38+1284156.25</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="YRE-ADDAN-4000">
+      <Point>+270239.75+1282352.91/
++264110.0+1281829.47</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="YRE-NHC-5000">
+      <Point>+270239.75+1282352.91/
++261230.71+1273834.31</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="YRE-OKUMA-4000">
+      <Point>+270239.75+1282352.91/
++264016.98+1280219.16</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="KXC-GANAS-5000">
+      <Point>+262218.73+1264319.41/
++260826.47+1263048.38</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="KXC-GANAS-5000">
+      <Point>+260826.47+1263048.38/
++260202.48+1262456.78</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="KXC-GANAS-5000">
+      <Point>+260202.48+1262456.78/
++255901.3+1262211.16</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="KXC-GANAS-6000">
+      <Point>+255901.3+1262211.16/
++252606.06+1255238.97</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="NHC-YRE-5000">
+      <Point>+261230.71+1273834.31/
++270239.75+1282352.91</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="NHC-VIGER-3000">
+      <Point>+261230.71+1273834.31/
++255743.88+1273526.94</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="NHC-KAKDA-5000">
+      <Point>+261230.71+1273834.31/
++261013.46+1272205.31</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="NHC-KAKDA-5000">
+      <Point>+261013.46+1272205.31/
++260852.24+1271226.56</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="NHC-KAKDA-6000">
+      <Point>+260852.24+1271226.56/
++260430.51+1264153.31</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="NHC-KAKDA-11000">
+      <Point>+260430.51+1264153.31/
++260202.48+1262456.78</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="NHC-EISAR-3000">
+      <Point>+261230.71+1273834.31/
++262857.89+1273019.06</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="BIXAK-RYUKI-FL60">
+      <Point>+275250.18+1330815.22/
++273726.89+1321432.22</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="MJC-GANAS-5000">
+      <Point>+244638.61+1251736.28/
++252606.06+1255238.97</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="MJC-TEBEK-3000">
+      <Point>+244638.61+1251736.28/
++245450.24+1255001.66</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="MJC-TEBEK-8000">
+      <Point>+245450.24+1255001.66/
++245957.7+1261037.13</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="MJC-TEBEK-13000">
+      <Point>+245957.7+1261037.13/
++250930.87+1264932.31</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="MJC-ALBAX-FL210">
+      <Point>+244638.61+1251736.28/
++233409.87+1251932.09</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="MJC-SJE-3000">
+      <Point>+244638.61+1251736.28/
++244918.96+1250837.72</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="SJE-MJC-3000">
+      <Point>+244918.96+1250837.72/
++244638.61+1251736.28</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="SJE-BETTY-3000">
+      <Point>+244918.96+1250837.72/
++241220.14+1251803.84</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="SJE-ANNIE-3000">
+      <Point>+244918.96+1250837.72/
++245953.12+1250553.09</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="SJE-ANNIE-3000">
+      <Point>+245953.12+1250553.09/
++251837.72+1250100.16</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="IGE-TELMA-4000">
+      <Point>+242345.64+1241416.63/
++240338.51+1234812.34</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="IGE-AYAKA-4000">
+      <Point>+242345.64+1241416.63/
++242355.8+1240213.53</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="IGE-AYAKA-4000">
+      <Point>+242355.8+1240213.53/
++242414.89+1233531.38</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="IGE-BRENT-4000">
+      <Point>+242345.64+1241416.63/
++242946.62+1240410.06</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="IGE-BRENT-5000">
+      <Point>+242946.62+1240410.06/
++244429.68+1233917.5</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="IGE-BRENT-FL130">
+      <Point>+244429.68+1233917.5/
++250106.0+1231058.0</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="IGE-SEDKU-4000">
+      <Point>+242345.64+1241416.63/
++243740.17+1240808.03</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="IGE-SEDKU-6000">
+      <Point>+243740.17+1240808.03/
++244218.29+1240604.88</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="IGE-SEDKU-11000">
+      <Point>+244218.29+1240604.88/
++245600.0+1240000.0</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="YNE-AYAKA-3000">
+      <Point>+242753.72+1225951.88/
++242621.02+1231508.34</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="YNE-AYAKA-3000">
+      <Point>+242621.02+1231508.34/
++242414.89+1233531.38</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="YNE-BRENT-3000">
+      <Point>+242753.72+1225951.88/
++243824.91+1230322.22</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="YNE-BRENT-3000">
+      <Point>+243824.91+1230322.22/
++244214.41+1230438.88</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="YNE-BRENT-6000">
+      <Point>+244214.41+1230438.88/
++250106.0+1231058.0</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="TUNTO-GUMBO-FL60">
+      <Point>+230015.73+1290452.78/
++225440.38+1260825.63</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="TUNTO-GUMBO-FL60">
+      <Point>+225440.38+1260825.63/
++224751.19+1234900.53</Point>
+    </Line>
+    <Line Pattern="Solid" Width="0.3"  Name="TUNTO-GUMBO-FL60">
+      <Point>+224751.19+1234900.53/
++224554.0+1231506.0</Point>
+    </Line>
+  </Map>
+</Maps>

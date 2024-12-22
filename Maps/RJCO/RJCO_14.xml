@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Maps>
+  <Map Type="System" Name="RJCO_14" Priority="0" Center="+43.117500+141.381389">
+    <Runway Name="14_32">
+      <Threshold Name="14" Position="+43.122203+141.374740" ExtendedCentrelineTrack="315" ExtendedCentrelineLength="21" ExtendedCentrelineTickInterval="2" />
+      <Threshold Name="32" Position="+43.112639+141.387862"/>
+    </Runway>
+    <Symbol Type="HollowTriangle">
+      <Point>YAFFL</Point>
+      <Point>FUUTA</Point>
+      <Point>BANKE</Point>
+      <Point>MOIWA</Point>
+      <Point>KURIS</Point>
+      <Point>BEEBA</Point>
+      <Point>RUMOI</Point>
+      <Point>TOBET</Point>
+      <Point>MAMAT</Point>
+      <Point>MORAI</Point>
+      <Point>SOBEE</Point>
+      <Point>KIROL</Point>
+      <Point>NIKAN</Point>
+      <Point>OLSUT</Point>
+    </Symbol>
+    <Symbol Type="Hexagon">
+      <Point>SPE</Point>
+    </Symbol>
+    <Symbol Type="HollowSquare">
+      <Point>SPE</Point>
+    </Symbol>
+  </Map>
+  <Map Type="System" Name="RJCO_14_LABEL" Priority="2" Center="+43.117500+141.381389">
+    <Label>
+      <Point>YAFFL</Point>
+      <Point>FUUTA</Point>
+      <Point>BANKE</Point>
+      <Point>MOIWA</Point>
+      <Point>KURIS</Point>
+      <Point>BEEBA</Point>
+      <Point>RUMOI</Point>
+      <Point>TOBET</Point>
+      <Point>MAMAT</Point>
+      <Point>MORAI</Point>
+      <Point>SOBEE</Point>
+      <Point>KIROL</Point>
+      <Point>NIKAN</Point>
+      <Point>OLSUT</Point>
+      <Point>SPE</Point>
+    </Label>
+  </Map>
+</Maps>

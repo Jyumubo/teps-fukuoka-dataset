@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Maps>
+  <Map Type="System" Name="RJOC" Priority="0" Center="+35.413611+132.890000">
+    <Runway Name="07_25">
+      <Threshold Name="07" Position="+35.409100+132.880476" ExtendedCentrelineTrack="239" ExtendedCentrelineLength="5" ExtendedCentrelineTickInterval="2"/>
+      <Threshold Name="25" Position="+35.418277+132.899461" ExtendedCentrelineTrack="59" ExtendedCentrelineLength="5" ExtendedCentrelineTickInterval="2"/>
+    </Runway>
+    <Symbol Type="HollowTriangle">
+      <Point>DOZEN</Point>
+      <Point>OC715</Point>
+      <Point>OC716</Point>
+      <Point>KYOKA</Point>
+      <Point>CARPS</Point>
+      <Point>OC511</Point>
+      <Point>MIHOU</Point>
+      <Point>KAIKE</Point>
+      <Point>TSUNO</Point>
+      <Point>OC712</Point>
+      <Point>OC713</Point>
+      <Point>SAIGO</Point>
+      <Point>OC711</Point>
+      <Point>TAKHI</Point>
+      <Point>RAKDA</Point>
+      <Point>NAKAU</Point>
+      <Point>YOKAI</Point>
+      <Point>WATCH</Point>
+      <Point>OKUNI</Point>
+      <Point>AMAKO</Point>
+      <Point>SASAR</Point>
+      <Point>ENMUH</Point>
+      <Point>OC750</Point>
+      <Point>SUBIE</Point>
+    </Symbol>
+    <Symbol Type="Hexagon">
+      <Point>XZE</Point>
+    </Symbol>
+    <Symbol Type="HollowSquare">
+      <Point>XZE</Point>
+    </Symbol>
+  </Map>
+  <Map Type="System" Name="RJOC_LABEL" Priority="2" Center="+35.413611+132.890000">
+    <Label>
+      <Point>DOZEN</Point>
+      <Point>OC715</Point>
+      <Point>OC716</Point>
+      <Point>KYOKA</Point>
+      <Point>CARPS</Point>
+      <Point>OC511</Point>
+      <Point>MIHOU</Point>
+      <Point>KAIKE</Point>
+      <Point>TSUNO</Point>
+      <Point>OC712</Point>
+      <Point>OC713</Point>
+      <Point>SAIGO</Point>
+      <Point>OC711</Point>
+      <Point>TAKHI</Point>
+      <Point>RAKDA</Point>
+      <Point>NAKAU</Point>
+      <Point>YOKAI</Point>
+      <Point>WATCH</Point>
+      <Point>OKUNI</Point>
+      <Point>AMAKO</Point>
+      <Point>SASAR</Point>
+      <Point>ENMUH</Point>
+      <Point>OC750</Point>
+      <Point>SUBIE</Point>
+      <Point>XZE</Point>
+    </Label>
+  </Map>
+</Maps>

@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Maps>
+  <Map Type="System" Name="ROIG_22" Priority="0" Center="+24.396389+124.245000">
+    <Runway Name="04_22">
+      <Threshold Name="04" Position="+24.389099+124.239352" />
+      <Threshold Name="22" Position="+24.403783+124.250895" ExtendedCentrelineTrack="036" ExtendedCentrelineLength="21" ExtendedCentrelineTickInterval="2" />
+    </Runway>
+    <Symbol Type="HollowTriangle">
+      <Point>IG200</Point>
+      <Point>IG201</Point>
+      <Point>IG202</Point>
+      <Point>IG203</Point>
+      <Point>AYAKA</Point>
+      <Point>GAHRA</Point>
+      <Point>GUSUK</Point>
+      <Point>KOHAM</Point>
+      <Point>DENSA</Point>
+      <Point>DIANA</Point>
+      <Point>MASAN</Point>
+      <Point>YUNTA</Point>
+      <Point>OMOCK</Point>
+      <Point>MURAT</Point>
+      <Point>PAZUU</Point> 
+      <Point>GANAS</Point>     
+    </Symbol>
+    <Symbol Type="Hexagon">
+      <Point>MJC</Point>
+      <Point>IGE</Point>
+    </Symbol>
+    <Symbol Type="HollowSquare">
+      <Point>MJC</Point>
+      <Point>IGE</Point>
+    </Symbol>
+  </Map>
+  <Map Type="System" Name="ROIG_22_LABEL" Priority="2" Center="+24.396389+124.245000">
+    <Label>
+      <Point>IG200</Point>
+      <Point>IG201</Point>
+      <Point>IG202</Point>
+      <Point>IG203</Point>
+      <Point>AYAKA</Point>
+      <Point>GAHRA</Point>
+      <Point>GUSUK</Point>
+      <Point>KOHAM</Point>
+      <Point>DENSA</Point>
+      <Point>DIANA</Point>
+      <Point>MASAN</Point>
+      <Point>YUNTA</Point>
+      <Point>OMOCK</Point>
+      <Point>MURAT</Point>
+      <Point>PAZUU</Point>
+      <Point>GANAS</Point>
+      <Point>MJC</Point>
+      <Point>IGE</Point>
+    </Label>
+  </Map>
+</Maps>

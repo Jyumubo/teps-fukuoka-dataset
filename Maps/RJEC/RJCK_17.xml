@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Maps>
+  <Map Type="System" Name="RJCK_17" Priority="0" Center="+43.040833+144.193056">
+    <Runway Name="17_35">
+      <Threshold Name="17" Position="+43.051469+144.187482" ExtendedCentrelineTrack="339" ExtendedCentrelineLength="5" ExtendedCentrelineTickInterval="2" />
+      <Threshold Name="35" Position="+43.030472+144.198492"/>
+    </Runway>
+    <Symbol Type="HollowTriangle">
+      <Point>MULNA</Point>
+      <Point>ENTOD</Point>
+      <Point>RUGMO</Point>
+      <Point>YUDOH</Point>
+      <Point>AKESI</Point>
+      <Point>IGAMO</Point>
+      <Point>RUNPA</Point>
+      <Point>KANPO</Point>
+      <Point>LEKUP</Point>
+      <Point>OTGET</Point>
+      <Point>ONAGA</Point>
+      <Point>CRANE</Point>
+      <Point>MARNY</Point>
+      <Point>ANLAP</Point>
+      <Point>VAVLO</Point>
+      <Point>CK764</Point>
+      <Point>MARIM</Point>
+    </Symbol>
+    <Symbol Type="Hexagon">
+      <Point>OBE</Point>
+      <Point>TCE</Point>
+    </Symbol>
+    <Symbol Type="HollowSquare">
+      <Point>OBE</Point>
+      <Point>TCE</Point>
+    </Symbol>
+  </Map>
+  <Map Type="System" Name="RJCK_17_LABEL" Priority="2" Center="+43.040833+144.193056">
+    <Label>
+      <Point>MULNA</Point>
+      <Point>ENTOD</Point>
+      <Point>RUGMO</Point>
+      <Point>YUDOH</Point>
+      <Point>AKESI</Point>
+      <Point>IGAMO</Point>
+      <Point>RUNPA</Point>
+      <Point>KANPO</Point>
+      <Point>LEKUP</Point>
+      <Point>OTGET</Point>
+      <Point>ONAGA</Point>
+      <Point>CRANE</Point>
+      <Point>MARNY</Point>
+      <Point>ANLAP</Point>
+      <Point>VAVLO</Point>
+      <Point>CK764</Point>
+      <Point>MARIM</Point> 
+      <Point>OBE</Point>
+      <Point>TCE</Point>
+    </Label>
+  </Map>
+</Maps>

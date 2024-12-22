@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Maps>
+  <Map Type="System" Name="RJDC" Priority="0" Center="+33.930000+131.278611">
+    <Runway Name="07_25">
+      <Threshold Name="07" Position="+33.924673+131.266783" ExtendedCentrelineTrack="242" ExtendedCentrelineLength="21" ExtendedCentrelineTickInterval="2"/>
+      <Threshold Name="25" Position="+33.935148+131.290727" ExtendedCentrelineTrack="062" ExtendedCentrelineLength="5" ExtendedCentrelineTickInterval="2"/>
+    </Runway>
+    <Symbol Type="HollowTriangle">
+      <Point>HIMEH</Point>
+      <Point>ALFET</Point>
+      <Point>MARCO</Point>
+      <Point>MILAN</Point>
+      <Point>FIATO</Point>
+      <Point>KOHEI</Point>
+      <Point>KATTA</Point>
+      <Point>ASPEL</Point>
+      <Point>MOTOI</Point>
+      <Point>DEMIZ</Point>
+    </Symbol>
+    <Symbol Type="Hexagon">
+      <Point>MYE</Point>
+      <Point>TFE</Point>
+      <Point>UBE</Point>
+    </Symbol>
+    <Symbol Type="HollowSquare">
+      <Point>MYE</Point>
+      <Point>TFE</Point>
+      <Point>UBE</Point>
+    </Symbol>
+  </Map>
+  <Map Type="System" Name="RJDC_LABEL" Priority="2" Center="+33.930000+131.278611">
+    <Label>
+      <Point>HIMEH</Point>
+      <Point>ALFET</Point>
+      <Point>MARCO</Point>
+      <Point>MILAN</Point>
+      <Point>FIATO</Point>
+      <Point>KOHEI</Point>
+      <Point>KATTA</Point>
+      <Point>ASPEL</Point>
+      <Point>MOTOI</Point>
+      <Point>DEMIZ</Point>
+      <Point>MYE</Point>
+      <Point>TFE</Point>
+      <Point>UBE</Point>
+    </Label>
+  </Map>
+</Maps>

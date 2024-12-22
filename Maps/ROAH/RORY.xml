@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Maps>
+  <Map Type="System" Name="RORY" Priority="0" Center="+27.043889+128.401667">
+    <Runway Name="14_32">
+      <Threshold Name="14" Position="+27.047911+128.397659" ExtendedCentrelineTrack="318" ExtendedCentrelineLength="5" ExtendedCentrelineTickInterval="2" />
+      <Threshold Name="32" Position="+27.039852+128.405744" ExtendedCentrelineTrack="138" ExtendedCentrelineLength="5" ExtendedCentrelineTickInterval="2"/>
+    </Runway>
+    <Symbol Type="HollowTriangle">
+      <Point>MARIX</Point>
+      <Point>RY400</Point>
+      <Point>MIDIP</Point>
+      <Point>MEKAX</Point>
+      <Point>TONOD</Point>
+      <Point>OKUMA</Point>
+      <Point>ASATO</Point>
+      <Point>UPNAX</Point>
+      <Point>OVNON</Point>
+      <Point>VEMBU</Point>
+      <Point>OLMAN</Point>
+      <Point>RULUG</Point>
+      <Point>KAGIM</Point>  
+    </Symbol>
+    <Symbol Type="Hexagon">
+      <Point>ONC</Point>
+      <Point>YRE</Point>
+    </Symbol>
+    <Symbol Type="HollowSquare">
+      <Point>ONC</Point>
+      <Point>YRE</Point>
+    </Symbol>
+  </Map>
+  <Map Type="System" Name="RORY_LABEL" Priority="2" Center="+27.043889+128.401667">
+    <Label>
+      <Point>MARIX</Point>
+      <Point>RY400</Point>
+      <Point>MIDIP</Point>
+      <Point>MEKAX</Point>
+      <Point>TONOD</Point>
+      <Point>OKUMA</Point>
+      <Point>ASATO</Point>
+      <Point>UPNAX</Point>
+      <Point>OVNON</Point>
+      <Point>VEMBU</Point>
+      <Point>OLMAN</Point>
+      <Point>RULUG</Point>
+      <Point>KAGIM</Point>
+      <Point>ONC</Point>
+      <Point>YRE</Point>
+    </Label>
+  </Map>
+</Maps>

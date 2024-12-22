@@ -1,0 +1,118 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Maps>
+  <Map Type="System" Name="ROAH_36" Priority="0" Center="+26.193333+127.639722">
+    <Runway Name="18R_36L">
+      <Threshold Name="18R" Position="+26.203053+127.632424"/>
+      <Threshold Name="36L" Position="+26.178699+127.633562" ExtendedCentrelineTrack="177" ExtendedCentrelineLength="21" ExtendedCentrelineTickInterval="2"/>
+    </Runway>
+    <Runway Name="18L_36R">
+      <Threshold Name="18L" Position="+26.209332+127.645231"/>
+      <Threshold Name="36R" Position="+26.182158+127.646511" ExtendedCentrelineTrack="177" ExtendedCentrelineLength="21" ExtendedCentrelineTickInterval="2"/>
+    </Runway>
+    <Symbol Type="HollowTriangle">
+      <Point>H6R00</Point>
+      <Point>KIZNA</Point>
+      <Point>GELMA</Point>
+      <Point>TINTO</Point>
+      <Point>DORIS</Point>
+      <Point>GANJU</Point>
+      <Point>OLVAL</Point>
+      <Point>ESKOB</Point>
+      <Point>ADDAN</Point>
+      <Point>CHERY</Point>
+      <Point>AMAMI</Point>
+      <Point>OKUMA</Point>
+      <Point>VOLVO</Point>
+      <Point>YUGAF</Point>
+      <Point>SCUBA</Point>
+      <Point>TESLA</Point>
+      <Point>CHAMP</Point>
+      <Point>EISAR</Point>
+      <Point>LAVON</Point>
+      <Point>GUPTI</Point>
+      <Point>IHEYA</Point>
+      <Point>HASSA</Point>
+      <Point>SEIFA</Point>
+      <Point>ENTOK</Point>
+      <Point>VIGER</Point>
+      <Point>VELNO</Point>
+      <Point>LAFTY</Point>
+      <Point>BOOST</Point>
+      <Point>BLISS</Point>
+      <Point>UTAKI</Point>
+      <Point>H6L51</Point>
+      <Point>DEIJI</Point>
+      <Point>NATON</Point>
+      <Point>PRIUS</Point>
+      <Point>GEMNI</Point>
+      <Point>DODGE</Point>
+    </Symbol>
+    <Symbol Type="Hexagon">
+      <Point>NHC</Point>
+    </Symbol>
+    <Symbol Type="HollowSquare">
+      <Point>NHC</Point>
+    </Symbol>
+  </Map>
+  <Map Type="System" Name="ROAH_36_LABEL" Priority="2" Center="+26.193333+127.639722">
+    <Label>
+      <Point>H6R00</Point>
+      <Point>KIZNA</Point>
+      <Point>GELMA</Point>
+      <Point>TINTO</Point>
+      <Point>DORIS</Point>
+      <Point>GANJU</Point>
+      <Point>OLVAL</Point>
+      <Point>ESKOB</Point>
+      <Point>ADDAN</Point>
+      <Point>CHERY</Point>
+      <Point>AMAMI</Point>
+      <Point>OKUMA</Point>
+      <Point>VOLVO</Point>
+      <Point>YUGAF</Point>
+      <Point>SCUBA</Point>
+      <Point>TESLA</Point>
+      <Point>CHAMP</Point>
+      <Point>EISAR</Point>
+      <Point>LAVON</Point>
+      <Point>GUPTI</Point>
+      <Point>IHEYA</Point>
+      <Point>HASSA</Point>
+      <Point>SEIFA</Point>
+      <Point>ENTOK</Point>
+      <Point>VIGER</Point>
+      <Point>VELNO</Point>
+      <Point>LAFTY</Point>
+      <Point>BOOST</Point>
+      <Point>BLISS</Point>
+      <Point>UTAKI</Point>
+      <Point>H6L51</Point>
+      <Point>DEIJI</Point>
+      <Point>NATON</Point>
+      <Point>NAMIE</Point>
+      <Point>PRIUS</Point>
+      <Point>GEMNI</Point>
+      <Point>DODGE</Point>
+      <Point>NHC</Point>
+    </Label>
+  </Map>
+  <Map Type="System" Name="ROAH_STAR_36" Priority="0" Center="+26.193333+127.639722">
+    <Line Name="IHEYA_S" Pattern="Dotted">
+      <Point>
+        IHEYA/
+        HASSA/
+        SEIFA/
+      </Point>
+    </Line>
+  </Map>
+  <Map Type="System" Name="ROAH_IAP_36" Priority="0" CustomColourName="IAP" Center="+26.193333+127.639722">
+    <Line Name="IHEYA_S" Pattern="Dotted">
+      <Point>
+        SEIFA/
+        BLISS/
+        BOOST/
+        +26.178699+127.633562
+      </Point>
+    </Line>
+  </Map>
+</Maps>

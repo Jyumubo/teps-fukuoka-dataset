@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Maps>
+  <Map Type="System" Name="RJOW" Priority="0" Center="+34.676389+131.790278">
+    <Runway Name="11_29">
+      <Threshold Name="11" Position="+34.678691+131.779757" ExtendedCentrelineTrack="285" ExtendedCentrelineLength="5" ExtendedCentrelineTickInterval="2" />
+      <Threshold Name="29" Position="+34.674092+131.800855" ExtendedCentrelineTrack="105" ExtendedCentrelineLength="5" ExtendedCentrelineTickInterval="2"/>
+    </Runway>
+    <Symbol Type="HollowTriangle">
+      <Point>SAMBA</Point>
+      <Point>CARNY</Point>
+      <Point>BAARU</Point>
+      <Point>OW100</Point>
+      <Point>OSPEL</Point>
+      <Point>VIBEL</Point>
+      <Point>BLUES</Point>
+      <Point>KADAD</Point>
+      <Point>TOGIL</Point>
+      <Point>ENRAB</Point>
+    </Symbol>
+    <Symbol Type="Hexagon">
+      <Point>IME</Point>
+      <Point>XZE</Point>
+    </Symbol>
+    <Symbol Type="HollowSquare">
+      <Point>IME</Point>
+      <Point>XZE</Point>
+    </Symbol>
+  </Map>
+  <Map Type="System" Name="RJOW_LABEL" Priority="2" Center="+34.676389+131.790278">
+    <Label>
+      <Point>SAMBA</Point>
+      <Point>CARNY</Point>
+      <Point>BAARU</Point>
+      <Point>OW100</Point>
+      <Point>OSPEL</Point>
+      <Point>VIBEL</Point>
+      <Point>BLUES</Point>
+      <Point>KADAD</Point>
+      <Point>TOGIL</Point>
+      <Point>ENRAB</Point>
+      <Point>IME</Point>
+      <Point>XZE</Point>
+    </Label>
+  </Map>
+</Maps>

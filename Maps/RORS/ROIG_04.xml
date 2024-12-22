@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Maps>
+  <Map Type="System" Name="ROIG_04" Priority="0" Center="+24.396389+124.245000">
+    <Runway Name="04_22">
+      <Threshold Name="04" Position="+24.389099+124.239352" ExtendedCentrelineTrack="216" ExtendedCentrelineLength="21" ExtendedCentrelineTickInterval="2" />
+      <Threshold Name="22" Position="+24.403783+124.250895" />
+    </Runway>
+    <Symbol Type="HollowTriangle">
+      <Point>IG400</Point>
+      <Point>IG401</Point>
+      <Point>IG402</Point>
+      <Point>AYAKA</Point>
+      <Point>GAHRA</Point>
+      <Point>GUSUK</Point>
+      <Point>KOHAM</Point>
+      <Point>BUKRO</Point>
+      <Point>JOTTO</Point>
+      <Point>DIANA</Point>
+      <Point>MASAN</Point>
+      <Point>YAIMA</Point>
+      <Point>BALAS</Point>
+      <Point>BANNA</Point>
+      <Point>VENAD</Point>
+      <Point>KIDAK</Point>
+      <Point>SEIJI</Point>
+      <Point>SIZKU</Point>
+      <Point>GANAS</Point>
+    </Symbol>
+    <Symbol Type="Hexagon">
+      <Point>MJC</Point>
+      <Point>IGE</Point>
+    </Symbol>
+    <Symbol Type="HollowSquare">
+      <Point>MJC</Point>
+      <Point>IGE</Point>
+    </Symbol>
+  </Map>
+  <Map Type="System" Name="ROIG_04_LABEL" Priority="2" Center="+24.396389+124.245000">
+    <Label>
+      <Point>IG400</Point>
+      <Point>IG401</Point>
+      <Point>IG402</Point>
+      <Point>AYAKA</Point>
+      <Point>GAHRA</Point>
+      <Point>GUSUK</Point>
+      <Point>KOHAM</Point>
+      <Point>BUKRO</Point>
+      <Point>JOTTO</Point>
+      <Point>DIANA</Point>
+      <Point>MASAN</Point>
+      <Point>YAIMA</Point>
+      <Point>BALAS</Point>
+      <Point>BANNA</Point>
+      <Point>VENAD</Point>
+      <Point>KIDAK</Point>
+      <Point>SEIJI</Point>
+      <Point>SIZKU</Point>
+      <Point>GANAS</Point>
+      <Point>MJC</Point>
+      <Point>IGE</Point>
+    </Label>
+  </Map>
+</Maps>

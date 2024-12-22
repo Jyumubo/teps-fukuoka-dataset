@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Maps>
+  <Map Type="System" Name="RJCM" Priority="0" Center="+43.880556+144.164167">
+    <Runway Name="18_36">
+      <Threshold Name="18" Position="+43.891801+144.162599" ExtendedCentrelineTrack="355" ExtendedCentrelineLength="5" ExtendedCentrelineTickInterval="2" />
+      <Threshold Name="36" Position="+43.869372+144.165490" ExtendedCentrelineTrack="175" ExtendedCentrelineLength="5" ExtendedCentrelineTickInterval="2"/>
+    </Runway>
+    <Symbol Type="HollowTriangle">
+      <Point>BUTUS</Point>
+      <Point>OSPIB</Point>
+      <Point>MENIB</Point>
+      <Point>NICOL</Point>
+      <Point>OLSIM</Point>
+      <Point>OLDUS</Point>
+      <Point>AKNEP</Point>
+      <Point>BISAK</Point>
+      <Point>NULKI</Point>
+      <Point>GINGA</Point>
+      <Point>OZORA</Point>
+      <Point>KIMUA</Point>
+      <Point>NEPPU</Point>
+      <Point>PONTO</Point>
+      <Point>RAUSU</Point>
+      <Point>CM853</Point>
+      <Point>KILOX</Point>
+      <Point>SHARO</Point>
+      <Point>TSUKA</Point>
+      <Point>MOHEA</Point>
+      <Point>FUKJU</Point>
+      <Point>SALON</Point>
+      <Point>MOKOT</Point>
+    </Symbol>
+    <Symbol Type="Hexagon">
+      <Point>TBE</Point>
+    </Symbol>
+    <Symbol Type="HollowSquare">
+      <Point>TBE</Point>
+    </Symbol>
+  </Map>
+  <Map Type="System" Name="RJCM_LABEL" Priority="2" Center="+43.880556+144.164167">
+    <Label>
+      <Point>BUTUS</Point>
+      <Point>OSPIB</Point>
+      <Point>MENIB</Point>
+      <Point>NICOL</Point>
+      <Point>OLSIM</Point>
+      <Point>OLDUS</Point>
+      <Point>AKNEP</Point>
+      <Point>BISAK</Point>
+      <Point>NULKI</Point>
+      <Point>GINGA</Point>
+      <Point>OZORA</Point>
+      <Point>KIMUA</Point>
+      <Point>NEPPU</Point>
+      <Point>PONTO</Point>
+      <Point>RAUSU</Point>
+      <Point>CM853</Point>
+      <Point>KILOX</Point>
+      <Point>SHARO</Point>
+      <Point>TSUKA</Point>
+      <Point>MOHEA</Point>
+      <Point>FUKJU</Point>
+      <Point>SALON</Point>
+      <Point>MOKOT</Point>
+      <Point>TBE</Point>
+    </Label>
+  </Map>
+</Maps>

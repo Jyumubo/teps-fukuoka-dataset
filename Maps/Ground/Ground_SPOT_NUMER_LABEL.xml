@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Maps>
+  <Map Type="Ground_INF" Name="SPOT_NUMBER_LABEL" Priority="0" Center="+353312.000+1394652.000">
+    <Label HasLeader="false" Alignment="Center" VerticalAlignment="Middle">
+      <Point Name="1">+37.953203+139.110208</Point>
+      <Point Name="2">+37.953314+139.110608</Point>
+      <Point Name="3">+37.953036+139.111308</Point>
+      <Point Name="4">+37.953017+139.111820</Point>
+      <Point Name="5">+37.953006+139.112420</Point>
+      <Point Name="6">+37.952995+139.113158</Point>
+      <Point Name="7">+37.952967+139.113953</Point>
+      <Point Name="8">+37.952920+139.114692</Point>
+      <Point Name="9">+37.952911+139.115458</Point>
+      <Point Name="10">+37.952853+139.116225</Point>
+      <Point Name="S1">+37.950031+139.113272</Point>
+      <Point Name="S2">+37.949818+139.113261</Point>
+      <Point Name="S3">+37.949598+139.113251</Point>
+      <Point Name="S4">+37.950056+139.113533</Point>
+      <Point Name="S5">+37.949890+139.113523</Point>
+      <Point Name="S6">+37.949717+139.113513</Point>
+      <Point Name="S7">+37.949548+139.113504</Point>
+      <Point Name="S8">+37.950045+139.113965</Point>
+      <Point Name="S9">+37.949870+139.113956</Point>
+      <Point Name="S10">+37.949698+139.113948</Point>
+      <Point Name="S11">+37.949528+139.113940</Point>
+      <Point Name="S12">+37.949990+139.114202</Point>
+      <Point Name="S13">+37.949774+139.114190</Point>
+      <Point Name="S14">+37.949557+139.114177</Point>
+    </Label>
+  </Map>
+</Maps>

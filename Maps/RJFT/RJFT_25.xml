@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Maps>
+  <Map Type="System" Name="RJFT_25" Priority="0" Center="+32.837222+130.855278">
+    <Runway Name="07_25">
+      <Threshold Name="07" Position="+32.831513+130.840589" ExtendedCentrelineTrack="245" ExtendedCentrelineLength="21" ExtendedCentrelineTickInterval="2"/>
+      <Threshold Name="25" Position="+32.843124+130.869532" ExtendedCentrelineTrack="065" ExtendedCentrelineLength="5" ExtendedCentrelineTickInterval="2"/>
+    </Runway>
+    <Symbol Type="HollowTriangle">
+      <Point>HINAG</Point>
+      <Point>RINDO</Point>
+      <Point>IRUKA</Point>
+      <Point>FT500</Point>
+      <Point>MIFNE</Point>
+      <Point>GOKAH</Point>
+      <Point>IWATO</Point>
+      <Point>DONAR</Point>
+      <Point>SPIDE</Point>
+      <Point>SALTY</Point>
+      <Point>KAZMA</Point>
+      <Point>KIKTI</Point>
+      <Point>ADRAG</Point>
+      <Point>FT752</Point>
+      <Point>MISMI</Point>
+      <Point>HINAG</Point>
+      <Point>TAKAS</Point>
+      <Point>ASONO</Point>
+      <Point>DIKAN</Point>
+      <Point>DOUJI</Point>
+      <Point>IGLAT</Point>
+      <Point>OMUTA</Point>
+    </Symbol>
+    <Symbol Type="Hexagon">
+      <Point>KUE</Point>
+      <Point>TFE</Point>
+      <Point>HKC</Point>
+      <Point>MZE</Point>
+      <Point>MYE</Point>        
+    </Symbol>
+    <Symbol Type="HollowSquare">
+      <Point>KUE</Point>
+      <Point>TFE</Point>
+      <Point>HKC</Point>
+      <Point>MZE</Point>
+      <Point>MYE</Point>      
+    </Symbol>
+  </Map>
+  <Map Type="System" Name="RJFT_25_LABEL" Priority="2" Center="+32.837222+130.855278">
+    <Label>
+      <Point>HINAG</Point>
+      <Point>RINDO</Point>
+      <Point>IRUKA</Point>
+      <Point>FT500</Point>
+      <Point>MIFNE</Point>
+      <Point>GOKAH</Point>
+      <Point>IWATO</Point>
+      <Point>DONAR</Point>
+      <Point>SPIDE</Point>
+      <Point>SALTY</Point>
+      <Point>KAZMA</Point>
+      <Point>KIKTI</Point>
+      <Point>ADRAG</Point>
+      <Point>FT752</Point>
+      <Point>MISMI</Point>
+      <Point>HINAG</Point>
+      <Point>TAKAS</Point>
+      <Point>ASONO</Point>
+      <Point>DIKAN</Point>
+      <Point>DOUJI</Point>
+      <Point>KUE</Point>
+      <Point>TFE</Point>
+      <Point>HKC</Point>
+      <Point>MZE</Point>
+      <Point>MYE</Point>      
+    </Label>
+  </Map>
+</Maps>

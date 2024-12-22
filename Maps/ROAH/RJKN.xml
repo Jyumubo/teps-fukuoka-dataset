@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Maps>
+  <Map Type="System" Name="RJKN" Priority="0" Center="+27.836389+128.881389">
+    <Runway Name="01_19">
+      <Threshold Name="01" Position="+27.827431+128.880407" ExtendedCentrelineTrack="186" ExtendedCentrelineLength="5" ExtendedCentrelineTickInterval="2" />
+      <Threshold Name="19" Position="+27.845407+128.882248" ExtendedCentrelineTrack="006" ExtendedCentrelineLength="5" ExtendedCentrelineTickInterval="2"/>
+    </Runway>
+    <Symbol Type="HollowTriangle">
+      <Point>KN901</Point>
+      <Point>KOKTO</Point>
+      <Point>SATOH</Point>
+      <Point>ANOXA</Point>
+      <Point>PINNE</Point>
+      <Point>MEKAX</Point>
+      <Point>KUNIG</Point>
+      <Point>KN101</Point>
+      <Point>KN902</Point>
+      <Point>KINEN</Point>
+      <Point>YUWAN</Point>
+      <Point>TOGYU</Point>
+      <Point>SHODA</Point>
+      <Point>ISENN</Point>
+      <Point>NAGOM</Point>
+      <Point>TOROS</Point>
+      <Point>KN951</Point>
+      <Point>HORAI</Point>
+      <Point>MOHRO</Point>
+      <Point>SOTEZ</Point>
+      <Point>CHOJU</Point>
+      <Point>KBIRI</Point>
+      <Point>KN950</Point>   
+      <Point>ANOXA</Point>    
+    </Symbol>
+    <Symbol Type="Hexagon">
+      <Point>TKE</Point>
+      <Point>AME</Point>
+      <Point>ONC</Point>
+    </Symbol>
+    <Symbol Type="HollowSquare">
+      <Point>TKE</Point>
+      <Point>AME</Point>
+      <Point>ONC</Point>
+    </Symbol>
+  </Map>
+  <Map Type="System" Name="RJKN_LABEL" Priority="2" Center="+27.836389+128.881389">
+    <Label>
+      <Point>KN901</Point>
+      <Point>KOKTO</Point>
+      <Point>SATOH</Point>
+      <Point>ANOXA</Point>
+      <Point>PINNE</Point>
+      <Point>MEKAX</Point>
+      <Point>KUNIG</Point>
+      <Point>KN101</Point>
+      <Point>KN902</Point>
+      <Point>KINEN</Point>
+      <Point>YUWAN</Point>
+      <Point>TOGYU</Point>
+      <Point>SHODA</Point>
+      <Point>ISENN</Point>
+      <Point>NAGOM</Point>
+      <Point>TOROS</Point>
+      <Point>KN951</Point>
+      <Point>HORAI</Point>
+      <Point>MOHRO</Point>
+      <Point>SOTEZ</Point>
+      <Point>CHOJU</Point>
+      <Point>KBIRI</Point>
+      <Point>KN950</Point>  
+      <Point>ANOXA</Point>       
+      <Point>TKE</Point>
+      <Point>AME</Point>
+      <Point>ONC</Point>
+    </Label>
+  </Map>
+</Maps>

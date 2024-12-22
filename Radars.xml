@@ -1,0 +1,494 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Radars>
+  <!-- ORSR -->
+  <Radar Name="OGA_ORSR_NR1" Type="SSR_ModeC" Elevation="441" MaxRange="250">
+    <Lat>39.977500</Lat>
+    <Long>139.709722</Long>
+  </Radar>
+  <Radar Name="OGA_ORSR_NR2" Type="SSR_ModeC" Elevation="441" MaxRange="250">
+    <Lat>39.977778</Lat>
+    <Long>139.709722</Long>
+  </Radar>
+  <Radar Name="IWAKI_ORSR_NR1" Type="SSR_ModeC" Elevation="2401" MaxRange="250">
+    <Lat>37.111945</Lat>
+    <Long>140.795556</Long>
+  </Radar>
+  <Radar Name="IWAKI_ORSR_NR2" Type="SSR_ModeC" Elevation="2401" MaxRange="250">
+    <Lat>37.111945</Lat>
+    <Long>140.795556</Long>
+  </Radar>
+  <Radar Name="HACHIJO_ORSR_NR1" Type="SSR_ModeC" Elevation="1066" MaxRange="250">
+    <Lat>33.079167</Lat>
+    <Long>139.815000</Long>
+  </Radar>
+  <Radar Name="HACHIJO_ORSR_NR2" Type="SSR_ModeC" Elevation="1066" MaxRange="250">
+    <Lat>33.079167</Lat>
+    <Long>139.815000</Long>
+  </Radar>
+  <Radar Name="FUKUE_ORSR_NR1" Type="SSR_ModeC" Elevation="1033" MaxRange="250">
+    <Lat>32.615000</Lat>
+    <Long>128.712222</Long>
+  </Radar>
+  <Radar Name="FUKUE_ORSR_NR2" Type="SSR_ModeC" Elevation="1033" MaxRange="250">
+    <Lat>32.614722</Lat>
+    <Long>128.712500</Long>
+  </Radar>
+  <Radar Name="KUMEJIMA_ORSR_NR1" Type="SSR_ModeC" Elevation="846" MaxRange="250">
+    <Lat>26.375556</Lat>
+    <Long>126.779445</Long>
+  </Radar>
+  <Radar Name="KUMEJIMA_ORSR_NR2" Type="SSR_ModeC" Elevation="846" MaxRange="250">
+    <Lat>26.375278</Lat>
+    <Long>126.779445</Long>
+  </Radar>
+
+  <!-- ARSR -->
+  <Radar Name="YOKOTSUDAKE_ARSR" Type="SSR_ModeC" Elevation="3854" MaxRange="200">
+    <Lat>41.937778</Lat>
+    <Long>140.771389</Long>
+  </Radar>
+  <Radar Name="JOBONZAN_ARSR" Type="SSR_ModeC" Elevation="1551" MaxRange="200">
+    <Lat>38.500833</Lat>
+    <Long>141.358611</Long>
+  </Radar>
+  <Radar Name="NOTO_ARSR" Type="SSR_ModeC" Elevation="751" MaxRange="200">
+    <Lat>37.295833</Lat>
+    <Long>136.954722</Long>
+  </Radar>
+  <Radar Name="KUSHIRO_ARSR" Type="SSR_ModeC" Elevation="475" MaxRange="200">
+    <Lat>43.028333</Lat>
+    <Long>144.553889</Long>
+  </Radar>
+  <Radar Name="HACHINOHE_ARSR" Type="SSR_ModeC" Elevation="501" MaxRange="200">
+    <Lat>40.500833</Lat>
+    <Long>141.591111</Long>
+  </Radar>
+  <Radar Name="YAMADA_ARSR" Type="SSR_ModeC" Elevation="127" MaxRange="200">
+    <Lat>35.779445</Lat>
+    <Long>140.527222</Long>
+  </Radar>
+  <Radar Name="HAKONE_ARSR" Type="SSR_ModeC" Elevation="2946" MaxRange="200">
+    <Lat>35.179445</Lat>
+    <Long>139.065000</Long>
+  </Radar>
+  <Radar Name="MIKAWA_ARSR" Type="SSR_ModeC" Elevation="1463" MaxRange="200">
+    <Lat>34.868611</Lat>
+    <Long>137.215278</Long>
+  </Radar>
+  <Radar Name="MIKUNISAN_ARSR" Type="SSR_ModeC" Elevation="2906" MaxRange="200">
+    <Lat>34.363056</Lat>
+    <Long>135.485278</Long>
+  </Radar>
+  <Radar Name="IMANOYAMA_ARSR" Type="SSR_ModeC" Elevation="2857" MaxRange="200">
+    <Lat>32.857222</Lat>
+    <Long>132.846667</Long>
+  </Radar>
+  <Radar Name="HIRATA_ARSR" Type="SSR_ModeC" Elevation="1364" MaxRange="200">
+    <Lat>35.471389</Lat>
+    <Long>132.788056</Long>
+  </Radar>
+  <Radar Name="SANGUNZAN_ARSR" Type="SSR_ModeC" Elevation="3047" MaxRange="200">
+    <Lat>33.555556</Lat>
+    <Long>130.583333</Long>
+  </Radar>
+  <Radar Name="KASEDA_ARSR" Type="SSR_ModeC" Elevation="1689" MaxRange="200">
+    <Lat>31.380556</Lat>
+    <Long>130.267222</Long>
+  </Radar>
+  <Radar Name="AMAMI_ARSR" Type="SSR_ModeC" Elevation="1043" MaxRange="200">
+    <Lat>28.415833</Lat>
+    <Long>129.570556</Long>
+  </Radar>
+  <Radar Name="YAEDAKE_ARSR" Type="SSR_ModeC" Elevation="1486" MaxRange="200">
+    <Lat>26.636389</Lat>
+    <Long>127.929167</Long>
+  </Radar>
+  <Radar Name="MIYAKOJIMA_ARSR" Type="SSR_ModeC" Elevation="170" MaxRange="200">
+    <Lat>24.788611</Lat>
+    <Long>125.295000</Long>
+  </Radar>
+
+  <!-- ASR/SSR -->
+  <Radar Name="RJCO_ASR" Type="PRI" Elevation="56" MaxRange="60">
+    <Lat>43.117500</Lat>
+    <Long>141.381389</Long>
+  </Radar>
+  <Radar Name="RJCO_SSR" Type="SSR_ModeC" Elevation="56" MaxRange="100">
+    <Lat>43.117500</Lat>
+    <Long>141.381389</Long>
+  </Radar>
+  <Radar Name="RJCC_ASR" Type="PRI" Elevation="79" MaxRange="60">
+    <Lat>42.775278</Lat>
+    <Long>141.692500</Long>
+  </Radar>
+  <Radar Name="RJCC_SSR" Type="SSR_ModeC" Elevation="79" MaxRange="100">
+    <Lat>42.775278</Lat>
+    <Long>141.692500</Long>
+  </Radar>
+  <Radar Name="RJCM_SSR" Type="SSR_ModeC" Elevation="139" MaxRange="100">
+    <Lat>43.880556</Lat>
+    <Long>144.164167</Long>
+  </Radar>
+  <Radar Name="RJCB_SSR" Type="SSR_ModeC" Elevation="520" MaxRange="100">
+    <Lat>42.733333</Lat>
+    <Long>143.217222</Long>
+  </Radar>
+  <Radar Name="RJEC_SSR" Type="SSR_ModeC" Elevation="720" MaxRange="100">
+    <Lat>43.670833</Lat>
+    <Long>142.447500</Long>
+  </Radar>
+  <Radar Name="RJCH_ASR" Type="PRI" Elevation="141" MaxRange="60">
+    <Lat>41.775556</Lat>
+    <Long>140.818611</Long>
+  </Radar>
+  <Radar Name="RJCH_SSR" Type="SSR_ModeC" Elevation="141" MaxRange="100">
+    <Lat>41.775556</Lat>
+    <Long>140.818611</Long>
+  </Radar>
+  <Radar Name="RJSM_ASR" Type="PRI" Elevation="149" MaxRange="60">
+    <Lat>40.713056</Lat>
+    <Long>141.374722</Long>
+  </Radar>
+  <Radar Name="RJSM_SSR" Type="SSR_ModeC" Elevation="149" MaxRange="100">
+    <Lat>40.713056</Lat>
+    <Long>141.374722</Long>
+  </Radar>
+  <Radar Name="RJSS_ASR" Type="PRI" Elevation="167" MaxRange="60">
+    <Lat>38.143889</Lat>
+    <Long>140.919445</Long>
+  </Radar>
+  <Radar Name="RJSS_SSR" Type="SSR_ModeC" Elevation="167" MaxRange="100">
+    <Lat>38.143889</Lat>
+    <Long>140.919445</Long>
+  </Radar>
+  <Radar Name="RJSN_ASR" Type="PRI" Elevation="34" MaxRange="60">
+    <Lat>37.950278</Lat>
+    <Long>139.109722</Long>
+  </Radar>
+  <Radar Name="RJSN_SSR" Type="SSR_ModeC" Elevation="34" MaxRange="100">
+    <Lat>37.950278</Lat>
+    <Long>139.109722</Long>
+  </Radar>
+  <Radar Name="RJSA_SSR" Type="SSR_ModeC" Elevation="680" MaxRange="100">
+    <Lat>40.733333</Lat>
+    <Long>140.688611</Long>
+  </Radar>
+  <Radar Name="RJSK_SSR" Type="SSR_ModeC" Elevation="335" MaxRange="100">
+    <Lat>39.615556</Lat>
+    <Long>140.218611</Long>
+  </Radar>
+  <Radar Name="RJTT_ASR_NR1" Type="PRI" Elevation="51" MaxRange="60">
+    <Lat>35.553333</Lat>
+    <Long>139.781111</Long>
+  </Radar>
+  <Radar Name="RJTT_SSR_NR1" Type="SSR_ModeC" Elevation="51" MaxRange="100">
+    <Lat>35.553333</Lat>
+    <Long>139.781111</Long>
+  </Radar>
+  <Radar Name="RJTT_ASR_NR2" Type="PRI" Elevation="51" MaxRange="60">
+    <Lat>35.553333</Lat>
+    <Long>139.781111</Long>
+  </Radar>
+  <Radar Name="RJTT_SSR_NR2" Type="SSR_ModeC" Elevation="51" MaxRange="100">
+    <Lat>35.553333</Lat>
+    <Long>139.781111</Long>
+  </Radar>
+  <Radar Name="RJAH_ASR" Type="PRI" Elevation="137" MaxRange="60">
+    <Lat>36.185556</Lat>
+    <Long>140.429722</Long>
+  </Radar>
+  <Radar Name="RJAH_SSR" Type="SSR_ModeC" Elevation="137" MaxRange="100">
+    <Lat>36.185556</Lat>
+    <Long>140.429722</Long>
+  </Radar>
+    <Radar Name="RJAA_ASR_NR1" Type="PRI" Elevation="165" MaxRange="60">
+    <Lat>35.765278</Lat>
+    <Long>140.385556</Long>
+  </Radar>
+  <Radar Name="RJAA_SSR_NR1" Type="SSR_ModeC" Elevation="165" MaxRange="100">
+    <Lat>35.765278</Lat>
+    <Long>140.385556</Long>
+  </Radar>
+  <Radar Name="RJAA_ASR_NR2" Type="PRI" Elevation="165" MaxRange="60">
+    <Lat>35.765278</Lat>
+    <Long>140.385556</Long>
+  </Radar>
+  <Radar Name="RJAA_SSR_NR2" Type="SSR_ModeC" Elevation="165" MaxRange="100">
+    <Lat>35.765278</Lat>
+    <Long>140.385556</Long>
+  </Radar>
+  <Radar Name="RJNK_ASR" Type="PRI" Elevation="52" MaxRange="60">
+    <Lat>36.389445</Lat>
+    <Long>136.411389</Long>
+  </Radar>
+  <Radar Name="RJNK_SSR" Type="SSR_ModeC" Elevation="52" MaxRange="100">
+    <Lat>36.389445</Lat>
+    <Long>136.411389</Long>
+  </Radar>
+  <Radar Name="RJNA_ASR" Type="PRI" Elevation="76" MaxRange="60">
+    <Lat>35.255000</Lat>
+    <Long>136.924445</Long>
+  </Radar>
+  <Radar Name="RJNA_SSR" Type="SSR_ModeC" Elevation="76" MaxRange="100">
+    <Lat>35.255000</Lat>
+    <Long>136.924445</Long>
+  </Radar>
+  <Radar Name="RJGG_ASR_NR1" Type="PRI" Elevation="76" MaxRange="60">
+    <Lat>34.858333</Lat>
+    <Long>136.805278</Long>
+  </Radar>
+  <Radar Name="RJGG_SSR_NR1" Type="SSR_ModeC" Elevation="76" MaxRange="100">
+    <Lat>34.858333</Lat>
+    <Long>136.805278</Long>
+  </Radar>
+  <Radar Name="RJGG_ASR_NR2" Type="PRI" Elevation="76" MaxRange="60">
+    <Lat>34.858333</Lat>
+    <Long>136.805278</Long>
+  </Radar>
+  <Radar Name="RJGG_SSR_NR2" Type="SSR_ModeC" Elevation="76" MaxRange="100">
+    <Lat>34.858333</Lat>
+    <Long>136.805278</Long>
+  </Radar>
+  <Radar Name="RJOO_ASR_NR1" Type="PRI" Elevation="79" MaxRange="60">
+    <Lat>34.797778</Lat>
+    <Long>135.430556</Long>
+  </Radar>
+  <Radar Name="RJOO_SSR_NR1" Type="SSR_ModeC" Elevation="79" MaxRange="100">
+    <Lat>34.797778</Lat>
+    <Long>135.430556</Long>
+  </Radar>
+  <Radar Name="RJOO_ASR_NR2" Type="PRI" Elevation="79" MaxRange="60">
+    <Lat>34.783056</Lat>
+    <Long>135.433333</Long>
+  </Radar>
+  <Radar Name="RJOO_SSR_NR2" Type="SSR_ModeC" Elevation="79" MaxRange="100">
+    <Lat>34.783056</Lat>
+    <Long>135.433333</Long>
+  </Radar>
+  <Radar Name="RJBB_ASR_NR1" Type="PRI" Elevation="47" MaxRange="60">
+    <Lat>34.443333</Lat>
+    <Long>135.253056</Long>
+  </Radar>
+  <Radar Name="RJBB_SSR_NR1" Type="SSR_ModeC" Elevation="47" MaxRange="100">
+    <Lat>34.443333</Lat>
+    <Long>135.253056</Long>
+  </Radar>
+  <Radar Name="RJBB_ASR_NR2" Type="PRI" Elevation="47" MaxRange="60">
+    <Lat>34.427778</Lat>
+    <Long>135.228611</Long>
+  </Radar>
+  <Radar Name="RJBB_SSR_NR2" Type="SSR_ModeC" Elevation="47" MaxRange="100">
+    <Lat>34.427778</Lat>
+    <Long>135.228611</Long>
+  </Radar>
+  <Radar Name="RJOS_ASR" Type="PRI" Elevation="67" MaxRange="60">
+    <Lat>34.130833</Lat>
+    <Long>134.597778</Long>
+  </Radar>
+  <Radar Name="RJOS_SSR" Type="SSR_ModeC" Elevation="67" MaxRange="100">
+    <Lat>34.130833</Lat>
+    <Long>134.597778</Long>
+  </Radar>
+  <Radar Name="RJOT_ASR" Type="PRI" Elevation="637" MaxRange="60">
+    <Lat>34.220833</Lat>
+    <Long>134.020833</Long>
+  </Radar>
+  <Radar Name="RJOT_SSR" Type="SSR_ModeC" Elevation="637" MaxRange="100">
+    <Lat>34.220833</Lat>
+    <Long>134.020833</Long>
+  </Radar>
+  <Radar Name="RJOK_ASR" Type="PRI" Elevation="59" MaxRange="60">
+    <Lat>33.545833</Lat>
+    <Long>133.677500</Long>
+  </Radar>
+  <Radar Name="RJOK_SSR" Type="SSR_ModeC" Elevation="59" MaxRange="100">
+    <Lat>33.545833</Lat>
+    <Long>133.677500</Long>
+  </Radar>
+  <Radar Name="RJOH_ASR" Type="PRI" Elevation="43" MaxRange="60">
+    <Lat>35.500833</Lat>
+    <Long>133.236945</Long>
+  </Radar>
+  <Radar Name="RJOH_SSR" Type="SSR_ModeC" Elevation="43" MaxRange="100">
+    <Lat>35.500833</Lat>
+    <Long>133.236945</Long>
+  </Radar>
+  <Radar Name="RJOA_ASR" Type="PRI" Elevation="1116" MaxRange="60">
+    <Lat>34.433889</Lat>
+    <Long>132.916111</Long>
+  </Radar>
+  <Radar Name="RJOA_SSR" Type="SSR_ModeC" Elevation="1116" MaxRange="100">
+    <Lat>34.433889</Lat>
+    <Long>132.916111</Long>
+  </Radar>
+  <Radar Name="RJOI_ASR" Type="PRI" Elevation="40" MaxRange="60">
+    <Lat>34.145000</Lat>
+    <Long>132.246945</Long>
+  </Radar>
+  <Radar Name="RJOI_SSR" Type="SSR_ModeC" Elevation="40" MaxRange="100">
+    <Lat>34.145000</Lat>
+    <Long>132.246945</Long>
+  </Radar>
+  <Radar Name="RJOM_SSR" Type="SSR_ModeC" Elevation="43" MaxRange="100">
+    <Lat>33.827222</Lat>
+    <Long>132.699722</Long>
+  </Radar>
+  <Radar Name="RJFR_SSR" Type="SSR_ModeC" Elevation="51" MaxRange="100">
+    <Lat>33.845556</Lat>
+    <Long>131.035000</Long>
+  </Radar>
+  <Radar Name="RJFZ_ASR" Type="PRI" Elevation="58" MaxRange="60">
+    <Lat>33.678056</Lat>
+    <Long>131.034445</Long>
+  </Radar>
+  <Radar Name="RJFZ_SSR" Type="SSR_ModeC" Elevation="58" MaxRange="100">
+    <Lat>33.678056</Lat>
+    <Long>131.034445</Long>
+  </Radar>
+  <Radar Name="RJFF_ASR_NR1" Type="PRI" Elevation="60" MaxRange="60">
+    <Lat>33.588611</Lat>
+    <Long>130.440278</Long>
+  </Radar>
+  <Radar Name="RJFF_SSR_NR1" Type="SSR_ModeC" Elevation="60" MaxRange="100">
+    <Lat>33.588611</Lat>
+    <Long>130.440278</Long>
+  </Radar>
+  <Radar Name="RJFF_ASR_NR2" Type="PRI" Elevation="60" MaxRange="60">
+    <Lat>33.580000</Lat>
+    <Long>130.446667</Long>
+  </Radar>
+  <Radar Name="RJFF_SSR_NR2" Type="SSR_ModeC" Elevation="60" MaxRange="100">
+    <Lat>33.580000</Lat>
+    <Long>130.446667</Long>
+  </Radar>
+  <Radar Name="RJFK_ASR_NR1" Type="PRI" Elevation="921" MaxRange="60">
+    <Lat>31.803333</Lat>
+    <Long>130.719445</Long>
+  </Radar>
+  <Radar Name="RJFK_SSR_NR1" Type="SSR_ModeC" Elevation="921" MaxRange="100">
+    <Lat>31.803333</Lat>
+    <Long>130.719445</Long>
+  </Radar>
+  <Radar Name="RJFK_ASR_NR2" Type="PRI" Elevation="921" MaxRange="60">
+    <Lat>31.803333</Lat>
+    <Long>130.719445</Long>
+  </Radar>
+  <Radar Name="RJFK_SSR_NR2" Type="SSR_ModeC" Elevation="921" MaxRange="100">
+    <Lat>31.803333</Lat>
+    <Long>130.719445</Long>
+  </Radar>
+  <Radar Name="RJFM_ASR_NR1" Type="PRI" Elevation="49" MaxRange="60">
+    <Lat>31.877222</Lat>
+    <Long>131.448611</Long>
+  </Radar>
+  <Radar Name="RJFM_SSR_NR1" Type="SSR_ModeC" Elevation="49" MaxRange="100">
+    <Lat>31.877222</Lat>
+    <Long>131.448611</Long>
+  </Radar>
+  <Radar Name="RJFM_ASR_NR2" Type="PRI" Elevation="49" MaxRange="60">
+    <Lat>31.877222</Lat>
+    <Long>131.448611</Long>
+  </Radar>
+  <Radar Name="RJFM_SSR_NR2" Type="SSR_ModeC" Elevation="49" MaxRange="100">
+    <Lat>31.877222</Lat>
+    <Long>131.448611</Long>
+  </Radar>
+  <Radar Name="ROAH_ASR_NR1" Type="PRI" Elevation="41" MaxRange="60">
+    <Lat>26.193333</Lat>
+    <Long>127.639722</Long>
+  </Radar>
+  <Radar Name="ROAH_SSR_NR1" Type="SSR_ModeC" Elevation="41" MaxRange="100">
+    <Lat>26.193333</Lat>
+    <Long>127.639722</Long>
+  </Radar>
+  <Radar Name="ROAH_ASR_NR2" Type="PRI" Elevation="41" MaxRange="60">
+    <Lat>26.193333</Lat>
+    <Long>127.639722</Long>
+  </Radar>
+  <Radar Name="ROAH_SSR_NR2" Type="SSR_ModeC" Elevation="41" MaxRange="100">
+    <Lat>26.193333</Lat>
+    <Long>127.639722</Long>
+  </Radar>
+  <Radar Name="RJFT_ASR" Type="PRI" Elevation="662" MaxRange="60">
+    <Lat>32.830278</Lat>
+    <Long>130.844722</Long>
+  </Radar>
+  <Radar Name="RJFT_SSR" Type="SSR_ModeC" Elevation="662" MaxRange="100">
+    <Lat>32.830278</Lat>
+    <Long>130.844722</Long>
+  </Radar>
+  <Radar Name="RJFU_ASR" Type="PRI" Elevation="38" MaxRange="60">
+    <Lat>32.916111</Lat>
+    <Long>129.907778</Long>
+  </Radar>
+  <Radar Name="RJFU_SSR" Type="SSR_ModeC" Elevation="38" MaxRange="100">
+    <Lat>32.916111</Lat>
+    <Long>129.907778</Long>
+  </Radar>
+  <Radar Name="RJFO_ASR" Type="PRI" Elevation="47" MaxRange="60">
+    <Lat>33.478333</Lat>
+    <Long>131.730833</Long>
+  </Radar>
+  <Radar Name="RJFO_SSR" Type="SSR_ModeC" Elevation="47" MaxRange="100">
+    <Lat>33.478333</Lat>
+    <Long>131.730833</Long>
+  </Radar>
+  <Radar Name="RORS_ASR" Type="PRI" Elevation="55" MaxRange="60">
+    <Lat>24.827222</Lat>
+    <Long>125.140833</Long>
+  </Radar>
+  <Radar Name="RORS_SSR" Type="SSR_ModeC" Elevation="55" MaxRange="100">
+    <Lat>24.827222</Lat>
+    <Long>125.140833</Long>
+  </Radar>
+  <Radar Name="ROIG_ASR" Type="PRI" Elevation="132" MaxRange="60">
+    <Lat>24.386111</Lat>
+    <Long>124.244722</Long>
+  </Radar>
+  <Radar Name="ROIG_SSR" Type="SSR_ModeC" Elevation="132" MaxRange="100">
+    <Lat>24.386111</Lat>
+    <Long>124.244722</Long>
+  </Radar>
+  <Radar Name="RJAW_ASR" Type="PRI" Elevation="424" MaxRange="60">
+    <Lat>24.386111</Lat>
+    <Long>124.244722</Long>
+  </Radar>
+  <Radar Name="RJAW_SSR" Type="SSR_ModeC" Elevation="424" MaxRange="100">
+    <Lat>24.784167</Lat>
+    <Long>141.322778</Long>
+  </Radar>
+
+  <!-- ASDE/MLAT -->
+  <Radar Name="RJCC_ASDE" Type="SMR" Elevation="69" MaxRange="3">
+    <Lat>42.775278</Lat>
+    <Long>141.692500</Long>
+  </Radar>
+  <Radar Name="RJAA_ASDE" Type="SMR" Elevation="135" MaxRange="3">
+    <Lat>35.765278</Lat>
+    <Long>140.385556</Long>
+  </Radar>
+  <Radar Name="RJTT_ASDE" Type="SMR" Elevation="21" MaxRange="3">
+    <Lat>35.553333</Lat>
+    <Long>139.781111</Long>
+  </Radar>
+  <Radar Name="RJGG_ASDE" Type="SMR" Elevation="12" MaxRange="3">
+    <Lat>34.858333</Lat>
+    <Long>136.805278</Long>
+  </Radar>
+  <Radar Name="RJOO_ASDE" Type="SMR" Elevation="39" MaxRange="3">
+    <Lat>34.784445</Lat>
+    <Long>135.439167</Long>
+  </Radar>
+  <Radar Name="RJBB_ASDE" Type="SMR" Elevation="17" MaxRange="3">
+    <Lat>34.434167</Lat>
+    <Long>135.232778</Long>
+  </Radar>
+  <Radar Name="RJFF_ASDE" Type="SMR" Elevation="30" MaxRange="3">
+    <Lat>33.584445</Lat>
+    <Long>130.451667</Long>
+  </Radar>
+  <Radar Name="ROAH_ASDE" Type="SMR" Elevation="11" MaxRange="3">
+    <Lat>33.584445</Lat>
+    <Long>130.451667</Long>
+  </Radar>
+</Radars>

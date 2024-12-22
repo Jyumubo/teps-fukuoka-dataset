@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Maps>
+  <Map Type="System" Name="ROTM" Priority="0" Center="+26.266667+127.750000">
+    <Runway Name="06_24">
+      <Threshold Name="06" Position="+26.267199106488064+127.74523493612712" ExtendedCentrelineTrack="235" ExtendedCentrelineLength="5" ExtendedCentrelineTickInterval="2" />
+      <Threshold Name="24" Position="+26.281379251996263+127.76776253934801" ExtendedCentrelineTrack="055" ExtendedCentrelineLength="5" ExtendedCentrelineTickInterval="2"/>
+    </Runway>
+    <Symbol Type="HollowTriangle">
+      <Point>WOBUM</Point>
+      <Point>HATAX</Point>
+      <Point>ADDAN</Point>
+      <Point>CHERY</Point>
+      <Point>BASHO</Point>
+      <Point>TAMAK</Point>
+      <Point>TEBEK</Point>
+      <Point>SAKON</Point>
+      <Point>NANJO</Point>
+      <Point>BUICK</Point>
+      <Point>TOPAT</Point>
+      <Point>CWBOY</Point>
+      <Point>BMPER</Point>
+      <Point>KKOLB</Point>
+      <Point>FFUSE</Point>
+      <Point>WIPKI</Point>
+      <Point>YYODA</Point>
+      <Point>ABBRA</Point>
+      <Point>KDABR</Point>
+      <Point>HABUU</Point>
+      <Point>HESVI</Point>
+      <Point>HIGAB</Point>
+      <Point>HUDIK</Point>
+      <Point>KASSY</Point>
+      <Point>ZANEE</Point>
+      <Point>BADME</Point>
+      <Point>WIKED</Point>
+      <Point>DEYED</Point>
+      <Point>AAWAY</Point>
+      <Point>DABNE</Point>    
+    </Symbol>
+    <Symbol Type="Hexagon">
+      <Point>NFO</Point>
+      <Point>TIT</Point>
+      <Point>ALT</Point>
+      <Point>NHC</Point>
+    </Symbol>
+    <Symbol Type="HollowSquare">
+      <Point>NFO</Point>
+      <Point>TIT</Point>
+      <Point>ALT</Point>
+      <Point>NHC</Point>
+    </Symbol>
+  </Map>
+  <Map Type="System" Name="ROTM_LABEL" Priority="2" Center="+26.266667+127.750000">
+    <Label>
+      <Point>WOBUM</Point>
+      <Point>HATAX</Point>
+      <Point>ADDAN</Point>
+      <Point>CHERY</Point>
+      <Point>BASHO</Point>
+      <Point>TAMAK</Point>
+      <Point>TEBEK</Point>
+      <Point>SAKON</Point>
+      <Point>NANJO</Point>
+      <Point>BUICK</Point>
+      <Point>TOPAT</Point>
+      <Point>CWBOY</Point>
+      <Point>BMPER</Point>
+      <Point>KKOLB</Point>
+      <Point>FFUSE</Point>
+      <Point>WIPKI</Point>
+      <Point>YYODA</Point>
+      <Point>ABBRA</Point>
+      <Point>KDABR</Point>
+      <Point>HABUU</Point>
+      <Point>HESVI</Point>
+      <Point>HIGAB</Point>
+      <Point>HUDIK</Point>
+      <Point>KASSY</Point>
+      <Point>ZANEE</Point>
+      <Point>BADME</Point>
+      <Point>WIKED</Point>
+      <Point>DEYED</Point>
+      <Point>AAWAY</Point>
+      <Point>DABNE</Point>
+      <Point>NFO</Point>
+      <Point>TIT</Point>
+      <Point>ALT</Point>
+      <Point>NHC</Point>
+    </Label>
+  </Map>
+</Maps>

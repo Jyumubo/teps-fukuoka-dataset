@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Maps>
+  <Map Type="System" Name="NDB" Priority="0" Center="+353312.000+1394652.000">
+    <Symbol Type="DotFillCircle">
+      <Point>CI</Point>
+      <Point>JD</Point>
+      <Point>OX</Point>
+      <Point>TS</Point>
+      <Point>XR</Point>
+    </Symbol>
+  </Map>
+</Maps>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Maps>
+  <Map Type="System" Name="DME" Priority="0" Center="+353312.000+1394652.000">
+    <Symbol Type="HollowSquare">
+      <Point>AJD</Point>
+      <Point>GBD</Point>
+      <Point>HYD</Point>
+      <Point>LHD</Point>
+      <Point>PQD</Point>
+      <Point>STD</Point>
+      <Point>TLD</Point>
+    </Symbol>
+  </Map>
+</Maps>

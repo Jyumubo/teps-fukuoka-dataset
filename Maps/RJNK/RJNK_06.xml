@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Maps>
+  <Map Type="System" Name="RJNK_10" Priority="0" Center="+36.393889+136.407500">
+    <Runway Name="06_24">
+      <Threshold Name="06" Position="+36.387042+136.395087" ExtendedCentrelineTrack="235" ExtendedCentrelineLength="21" ExtendedCentrelineTickInterval="2"/>
+      <Threshold Name="24" Position="+36.400839+136.419865"/>
+    </Runway>
+    <Symbol Type="HollowTriangle">
+      <Point>HAKUI</Point>
+      <Point>GINJO</Point>
+      <Point>GOLDO</Point>
+      <Point>SAKYU</Point>
+      <Point>KAETU</Point>
+      <Point>MANAH</Point>
+      <Point>SONBU</Point>
+      <Point>HIMMY</Point>
+      <Point>BURRI</Point>
+      <Point>MEGIS</Point>
+      <Point>KANOH</Point>
+      <Point>DAIJO</Point>
+      <Point>IMIZU</Point>
+      <Point>JYOZO</Point>
+      <Point>SAWRA</Point>
+      <Point>KRAGE</Point>
+      <Point>KOAJI</Point>
+      <Point>YARII</Point>
+      <Point>HESEN</Point>
+      <Point>EIHEI</Point>
+      <Point>DAIAN</Point>
+      <Point>SAIKO</Point>
+      <Point>AMAGO</Point>
+    </Symbol>
+    <Symbol Type="Hexagon">
+      <Point>NTE</Point>
+      <Point>KMC</Point>
+      <Point>KCC</Point>
+      <Point>YME</Point>
+    </Symbol>
+    <Symbol Type="HollowSquare">
+      <Point>NTE</Point>
+      <Point>KMC</Point>
+      <Point>KCC</Point>
+      <Point>YME</Point>
+    </Symbol>
+  </Map>
+  <Map Type="System" Name="RJNK_06_LABEL" Priority="2" Center="+36.393889+136.407500">
+    <Label>
+      <Point>HAKUI</Point>
+      <Point>GINJO</Point>
+      <Point>GOLDO</Point>
+      <Point>SAKYU</Point>
+      <Point>KAETU</Point>
+      <Point>MANAH</Point>
+      <Point>SONBU</Point>
+      <Point>HIMMY</Point>
+      <Point>BURRI</Point>
+      <Point>MEGIS</Point>
+      <Point>KANOH</Point>
+      <Point>DAIJO</Point>
+      <Point>IMIZU</Point>
+      <Point>JYOZO</Point>
+      <Point>SAWRA</Point>
+      <Point>KRAGE</Point>
+      <Point>KOAJI</Point>
+      <Point>YARII</Point>
+      <Point>HESEN</Point>
+      <Point>EIHEI</Point>
+      <Point>DAIAN</Point>
+      <Point>SAIKO</Point>
+      <Point>AMAGO</Point>
+      <Point>NTE</Point>
+      <Point>KMC</Point>
+      <Point>KCC</Point>
+      <Point>YME</Point>
+    </Label>
+  </Map>
+</Maps>

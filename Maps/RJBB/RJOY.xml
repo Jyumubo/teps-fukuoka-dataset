@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Maps>
+  <Map Type="System" Name="RJOY" Priority="0" Center="+34.596667+135.600556">
+    <Runway Name="09_27">
+      <Threshold Name="09" Position="+34.595596+135.589368" ExtendedCentrelineTrack="267" ExtendedCentrelineLength="5" ExtendedCentrelineTickInterval="2" />
+      <Threshold Name="27" Position="+34.596380+135.605580" ExtendedCentrelineTrack="087" ExtendedCentrelineLength="5" ExtendedCentrelineTickInterval="2"/>
+    </Runway>
+    <Runway Name="13_31">
+      <Threshold Name="13" Position="+34.600657+135.595905" ExtendedCentrelineTrack="309" ExtendedCentrelineLength="5" ExtendedCentrelineTickInterval="2" />
+      <Threshold Name="31" Position="+34.594098+135.606297" ExtendedCentrelineTrack="129" ExtendedCentrelineLength="5" ExtendedCentrelineTickInterval="2"/>
+    </Runway>
+    <Symbol Type="HollowTriangle">
+      <Point>ASUKA</Point>
+      <Point>IZUMI</Point>      
+    </Symbol>
+    <Symbol Type="Hexagon">
+      <Point>YOE</Point>
+      <Point>KCC</Point>
+    </Symbol>
+    <Symbol Type="HollowSquare">
+      <Point>YOE</Point>
+      <Point>KCC</Point>
+    </Symbol>
+  </Map>
+  <Map Type="System" Name="RJOY_LABEL" Priority="2" Center="+34.596667+135.600556">
+    <Label>
+      <Point>ASUKA</Point>
+      <Point>IZUMI</Point>      
+      <Point>YOE</Point>
+      <Point>KCC</Point>
+    </Label>
+  </Map>
+</Maps>

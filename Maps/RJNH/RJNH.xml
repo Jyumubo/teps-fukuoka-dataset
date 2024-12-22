@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Maps>
+  <Map Type="System" Name="RJNH" Priority="0" Center="+34.750278+137.703056">
+    <Runway Name="09_27">
+      <Threshold Name="09" Position="+34.750604+137.689422" ExtendedCentrelineTrack="270" ExtendedCentrelineLength="5" ExtendedCentrelineTickInterval="2" />
+      <Threshold Name="27" Position="+34.750431+137.717269" ExtendedCentrelineTrack="090" ExtendedCentrelineLength="5" ExtendedCentrelineTickInterval="2"/>
+    </Runway>
+    <Symbol Type="HollowTriangle">
+      <Point>SAGRA</Point>
+      <Point>HAMNA</Point>
+      <Point>DAIOH</Point>
+      <Point>KOSAI</Point>
+      <Point>IWATA</Point>
+    </Symbol>
+    <Symbol Type="Hexagon">
+      <Point>LHT</Point>
+      <Point>XMT</Point>
+    </Symbol>
+    <Symbol Type="HollowSquare">
+      <Point>LHT</Point>
+      <Point>XMT</Point>
+    </Symbol>
+  </Map>
+  <Map Type="System" Name="RJNH_LABEL" Priority="2" Center="+34.750278+137.703056">
+    <Label>
+      <Point>SAGRA</Point>
+      <Point>HAMNA</Point>
+      <Point>DAIOH</Point>
+      <Point>KOSAI</Point>
+      <Point>IWATA</Point>
+      <Point>LHT</Point>
+      <Point>XMT</Point>
+    </Label>
+  </Map>
+</Maps>

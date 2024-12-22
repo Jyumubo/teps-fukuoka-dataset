@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Maps>
+  <Map Type="System" Name="RJNK_24" Priority="0" Center="+36.393889+136.407500">
+    <Runway Name="06_24">
+      <Threshold Name="06" Position="+36.387042+136.395087"/>
+      <Threshold Name="24" Position="+36.400839+136.419865" ExtendedCentrelineTrack="055" ExtendedCentrelineLength="21" ExtendedCentrelineTickInterval="2"/>
+    </Runway>
+    <Symbol Type="HollowTriangle">
+      <Point>HAKUI</Point>
+      <Point>GINJO</Point>
+      <Point>GOLDO</Point>
+      <Point>SAKYU</Point>
+      <Point>AWAZU</Point>
+      <Point>MANAH</Point>
+      <Point>SONBU</Point>
+      <Point>HIMMY</Point>
+      <Point>GINRE</Point>
+      <Point>KINKA</Point>
+      <Point>IMIZU</Point>
+      <Point>YAMJI</Point>
+      <Point>ZEBRA</Point>
+      <Point>HIMRO</Point>
+      <Point>BURRI</Point>
+      <Point>YARII</Point>
+      <Point>HIDAH</Point>
+      <Point>GOSIK</Point>
+    </Symbol>
+    <Symbol Type="Hexagon">
+      <Point>NTE</Point>
+      <Point>KMC</Point>
+      <Point>KCC</Point>
+      <Point>YME</Point>
+    </Symbol>
+    <Symbol Type="HollowSquare">
+      <Point>NTE</Point>
+      <Point>KMC</Point>
+      <Point>KCC</Point>
+      <Point>YME</Point>
+    </Symbol>
+  </Map>
+  <Map Type="System" Name="RJNK_24_LABEL" Priority="2" Center="+36.393889+136.407500">
+    <Label>
+      <Point>HAKUI</Point>
+      <Point>GINJO</Point>
+      <Point>GOLDO</Point>
+      <Point>SAKYU</Point>
+      <Point>AWAZU</Point>
+      <Point>MANAH</Point>
+      <Point>SONBU</Point>
+      <Point>HIMMY</Point>
+      <Point>GINRE</Point>
+      <Point>KINKA</Point>
+      <Point>IMIZU</Point>
+      <Point>YAMJI</Point>
+      <Point>ZEBRA</Point>
+      <Point>HIMRO</Point>
+      <Point>BURRI</Point>
+      <Point>YARII</Point>
+      <Point>HIDAH</Point>
+      <Point>GOSIK</Point>
+      <Point>NTE</Point>
+      <Point>KMC</Point>
+      <Point>KCC</Point>
+      <Point>YME</Point>
+    </Label>
+  </Map>
+</Maps>

@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Maps>
+  <Map Type="System" Name="RJST" Priority="0" Center="+38.403056+141.211945">
+    <Runway Name="07_25">
+      <Threshold Name="07" Position="+38.395282+141.198270" ExtendedCentrelineTrack="239" ExtendedCentrelineLength="5" ExtendedCentrelineTickInterval="2" />
+      <Threshold Name="25" Position="+38.408110+141.224511" ExtendedCentrelineTrack="059" ExtendedCentrelineLength="5" ExtendedCentrelineTickInterval="2"/>
+    </Runway>
+    <Runway Name="15_33">
+      <Threshold Name="15" Position="+38.413763+141.209714" ExtendedCentrelineTrack="321" ExtendedCentrelineLength="5" ExtendedCentrelineTickInterval="2" />
+      <Threshold Name="33" Position="+38.403430+141.220807" ExtendedCentrelineTrack="141" ExtendedCentrelineLength="5" ExtendedCentrelineTickInterval="2"/>
+    </Runway>
+    <Symbol Type="HollowTriangle">
+      <Point>DAIWA</Point>
+      <Point>RIASU</Point>
+      <Point>MATSU</Point>
+      <Point>MIHAR</Point>
+      <Point>OLKUN</Point>
+      <Point>MOLLI</Point>
+    </Symbol>
+    <Symbol Type="Hexagon">
+      <Point>MXT</Point>
+      <Point>SDE</Point>
+      <Point>MIS</Point>
+      <Point>MQE</Point>
+      <Point>HUC</Point>
+      <Point>GOT</Point>
+    </Symbol>
+    <Symbol Type="HollowSquare">
+      <Point>MXT</Point>
+      <Point>SDE</Point>
+      <Point>MIS</Point>
+      <Point>MQE</Point>
+      <Point>HUC</Point>
+      <Point>GOT</Point>
+    </Symbol>
+  </Map>
+  <Map Type="System" Name="RJST_LABEL" Priority="2" Center="+38.403056+141.211945">
+    <Label>
+      <Point>DAIWA</Point>
+      <Point>RIASU</Point>
+      <Point>MATSU</Point>
+      <Point>MIHAR</Point>
+      <Point>OLKUN</Point>
+      <Point>MOLLI</Point>
+      <Point>MXT</Point>
+      <Point>SDE</Point>
+      <Point>MIS</Point>
+      <Point>MQE</Point>
+      <Point>HUC</Point>
+      <Point>GOT</Point>
+    </Label>
+  </Map>
+</Maps>

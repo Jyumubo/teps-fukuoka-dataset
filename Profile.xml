@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Profile Name="TEPS Fukuoka" FullName="Fukuoka Domestic">
+	<Version AIRAC="2411" Revision="a" PublishDate="20241105" UpdateURL="" />
+	<Servers>
+		<VATSIMStatus url="https://status.vatsim.net/" />
+		<GRIB url="https://sawbe.com/GRIB/" />
+		<G2G url="antifaff.vatsys.sawbe.com" port="64738" />
+		<SweatBox url="sweatbox.vatsim.net" />
+	</Servers>	
+</Profile>

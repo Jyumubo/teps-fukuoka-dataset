@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Maps>
+  <Map Type="System" Name="RJFZ" Priority="0" Center="+33.685000+131.040278">
+    <Runway Name="07_25">
+      <Threshold Name="07" Position="+33.681590+131.028593" ExtendedCentrelineTrack="250" ExtendedCentrelineLength="5" ExtendedCentrelineTickInterval="2"/>
+      <Threshold Name="25" Position="+33.689035+131.052941" ExtendedCentrelineTrack="070" ExtendedCentrelineLength="5" ExtendedCentrelineTickInterval="2"/>
+    </Runway>
+    <Symbol Type="HollowTriangle">
+      <Point>HIMEH</Point>
+      <Point>OGORI</Point>
+      <Point>KANMO</Point>
+      <Point>MINNE</Point>
+      <Point>SANKO</Point>
+      <Point>VABLA</Point>
+      <Point>USSAH</Point>
+    </Symbol>
+    <Symbol Type="Hexagon">
+      <Point>MIT</Point>
+      <Point>TFE</Point>
+      <Point>IWT</Point>
+      <Point>TQT</Point>
+    </Symbol>
+    <Symbol Type="HollowSquare">
+      <Point>MIT</Point>
+      <Point>TFE</Point>
+      <Point>IWT</Point>
+      <Point>TQT</Point>
+    </Symbol>
+  </Map>
+  <Map Type="System" Name="RJFZ_LABEL" Priority="2" Center="+33.685000+131.040278">
+    <Label>
+      <Point>HIMEH</Point>
+      <Point>OGORI</Point>
+      <Point>KANMO</Point>
+      <Point>MINNE</Point>
+      <Point>SANKO</Point>
+      <Point>VABLA</Point>
+      <Point>USSAH</Point>
+      <Point>MIT</Point>
+      <Point>TFE</Point>
+      <Point>IWT</Point>
+      <Point>TQT</Point>
+    </Label>
+  </Map>
+</Maps>

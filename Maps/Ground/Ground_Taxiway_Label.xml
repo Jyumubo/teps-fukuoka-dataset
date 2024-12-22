@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Maps>
+  <Map Type="Ground_INF" Name="TAXIWAY_LABEL" Priority="0" Center="+353312.000+1394652.000">
+    <Label HasLeader="false" Alignment="Center" VerticalAlignment="Middle">
+      <Point Name="B1">+37.954728+139.124255</Point>
+      <Point Name="B2">+37.955148+139.112524</Point>
+      <Point Name="B3">+37.955340+139.107150</Point>
+      <Point Name="B4">+37.955528+139.101878</Point>
+      <Point Name="B5">+37.955730+139.096206</Point>
+      <Point Name="A1">+37.948424+139.113213</Point>
+      <Point Name="A3">+37.959381+139.121807</Point>
+      <Point Name="P3">+37.954970+139.117502</Point>
+      <Point Name="P4">+37.957804+139.119578</Point>
+      <Point Name="S">+37.949507+139.114770</Point>
+      <Point Name="C1">+37.953733+139.120414</Point>
+      <Point Name="C2">+37.953842+139.117652</Point>
+      <Point Name="C3">+37.954698+139.114248</Point>
+      <Point Name="C4">+37.954867+139.109719</Point>
+      <Point Name="C5">+37.954393+139.103655</Point>
+      <Point Name="C6">+37.954620+139.097893</Point>
+    </Label>
+  </Map>
+</Maps>

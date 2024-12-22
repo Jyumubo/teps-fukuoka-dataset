@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Maps>
+  <Map Type="System" Name="RJFK_16" Priority="0" Center="+31.803333+130.719445">
+    <Runway Name="16_34">
+      <Threshold Name="16" Position="+31.815115+130.711465" ExtendedCentrelineTrack="330" ExtendedCentrelineLength="21" ExtendedCentrelineTickInterval="2"/>
+      <Threshold Name="34" Position="+31.791681+130.727299"/>
+    </Runway>
+    <Symbol Type="HollowTriangle">
+      <Point>FK602</Point>
+      <Point>FK601</Point>
+      <Point>ATRUK</Point>
+      <Point>SASIK</Point>
+      <Point>OICHI</Point>
+      <Point>SMIKO</Point>
+      <Point>MIDAI</Point>
+      <Point>OVSID</Point>
+      <Point>SPICA</Point>
+      <Point>DEMET</Point>
+      <Point>PERSE</Point>
+      <Point>OGOJO</Point>
+      <Point>OIDON</Point>
+      <Point>MOCOS</Point>
+      <Point>SEPPE</Point>
+      <Point>JADDO</Point>
+      <Point>YUKSA</Point>
+      <Point>WAZZE</Point>
+      <Point>VEKVO</Point>
+    </Symbol>
+    <Symbol Type="Hexagon">
+      <Point>HKC</Point>
+      <Point>KGE</Point>      
+    </Symbol>
+    <Symbol Type="HollowSquare">
+      <Point>HKC</Point>
+      <Point>KGE</Point>      
+    </Symbol>
+  </Map>
+  <Map Type="System" Name="RJFK_16_LABEL" Priority="2" Center="+31.803333+130.719445">
+    <Label>
+      <Point>FK602</Point>
+      <Point>FK601</Point>
+      <Point>ATRUK</Point>
+      <Point>SASIK</Point>
+      <Point>OICHI</Point>
+      <Point>SMIKO</Point>
+      <Point>MIDAI</Point>
+      <Point>FK602</Point>
+      <Point>OVSID</Point>
+      <Point>SASIK</Point>
+      <Point>SPICA</Point>
+      <Point>DEMET</Point>
+      <Point>PERSE</Point>
+      <Point>OGOJO</Point>
+      <Point>OIDON</Point>
+      <Point>MOCOS</Point>
+      <Point>SEPPE</Point>
+      <Point>JADDO</Point>
+      <Point>YUKSA</Point>
+      <Point>YUKSA</Point>
+      <Point>OGOJO</Point>
+      <Point>WAZZE</Point>
+      <Point>OIDON</Point>
+      <Point>VEKVO</Point>
+      <Point>HKC</Point>
+      <Point>KGE</Point> 
+    </Label>
+  </Map>
+</Maps>

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Maps>
+  <Map Type="System" Name="VOR_FAC" Priority="0" Center="+37.955833+139.111667">
+    <Runway Name="VOR10">
+      <Threshold Name="10" Position="+37.958294444444+139.11488611111" ExtendedCentrelineTrack="272" ExtendedCentrelineLength="15" ExtendedCentrelineTickInterval="2"/>
+      <Threshold Name="28" Position="+37.958294444444+139.11488611111" ExtendedCentrelineTrack="100" ExtendedCentrelineLength="15" ExtendedCentrelineTickInterval="2"/>
+    </Runway>
+    <Symbol Type="HollowTriangle">
+      <Point>AIBIS</Point>
+      <Point>AIBIS</Point>
+    </Symbol>
+    <Label>
+      <Point>AIBIS</Point>
+      <Point>BAJYO</Point>
+    </Label>
+  </Map>
+</Maps>

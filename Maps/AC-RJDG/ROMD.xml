@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Maps>
+  <Map Type="System" Name="ROMD" Priority="0" Center="+25.846667+131.263611">
+    <Runway Name="02_20">
+      <Threshold Name="02" Position="+25.840005+131.261450" ExtendedCentrelineTrack="196" ExtendedCentrelineLength="5" ExtendedCentrelineTickInterval="2" />
+      <Threshold Name="20" Position="+25.853023+131.265496" ExtendedCentrelineTrack="016" ExtendedCentrelineLength="5" ExtendedCentrelineTickInterval="2"/>
+    </Runway>
+    <Symbol Type="HollowTriangle">
+      <Point>CORCO</Point>
+      <Point>TOPAT</Point>
+      <Point>WHALE</Point>
+      <Point>SHIGE</Point>
+      <Point>KOHJO</Point>
+      <Point>KISHA</Point>
+      <Point>GATAN</Point>  
+    </Symbol>
+    <Symbol Type="Hexagon">
+      <Point>MDE</Point>
+    </Symbol>
+    <Symbol Type="HollowSquare">
+      <Point>MDE</Point>
+    </Symbol>
+  </Map>
+  <Map Type="System" Name="ROMD_LABEL" Priority="2" Center="+25.846667+131.263611">
+    <Label>
+      <Point>CORCO</Point>
+      <Point>TOPAT</Point>
+      <Point>WHALE</Point>
+      <Point>SHIGE</Point>
+      <Point>KOHJO</Point>
+      <Point>KISHA</Point>
+      <Point>GATAN</Point>   
+      <Point>MDE</Point>
+    </Label>
+  </Map>
+</Maps>

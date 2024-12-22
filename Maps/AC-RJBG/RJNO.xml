@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Maps>
+  <Map Type="System" Name="RJNO" Priority="0" Center="+36.178333+133.323333">
+    <Runway Name="08_26">
+      <Threshold Name="08" Position="+36.175004+133.313229" ExtendedCentrelineTrack="248" ExtendedCentrelineLength="5" ExtendedCentrelineTickInterval="2"/>
+      <Threshold Name="26" Position="+36.181809+133.333874" ExtendedCentrelineTrack="068" ExtendedCentrelineLength="5" ExtendedCentrelineTickInterval="2"/>
+    </Runway>
+    <Symbol Type="HollowTriangle">
+      <Point>DOZEN</Point>
+      <Point>DONDO</Point>
+      <Point>NAKAU</Point>
+      <Point>TIBRI</Point>
+      <Point>OKUNI</Point>
+      <Point>DISEN</Point>
+      <Point>TSUNO</Point>
+      <Point>SAIGO</Point>
+      <Point>ASAJI</Point>
+      <Point>NO850</Point>
+      <Point>TAKHI</Point>
+      <Point>NO650</Point>
+      <Point>NO651</Point>
+      <Point>JOUDO</Point>
+    </Symbol>
+    <Symbol Type="Hexagon">
+      <Point>OIE</Point>
+    </Symbol>
+    <Symbol Type="HollowSquare">
+      <Point>OIE</Point>
+    </Symbol>
+  </Map>
+  <Map Type="System" Name="RJNO_LABEL" Priority="2" Center="+36.178333+133.323333">
+    <Label>
+      <Point>DOZEN</Point>
+      <Point>DONDO</Point>
+      <Point>NAKAU</Point>
+      <Point>TIBRI</Point>
+      <Point>OKUNI</Point>
+      <Point>DISEN</Point>
+      <Point>TSUNO</Point>
+      <Point>SAIGO</Point>
+      <Point>ASAJI</Point>
+      <Point>NO850</Point>
+      <Point>TAKHI</Point>
+      <Point>NO650</Point>
+      <Point>NO651</Point>
+      <Point>JOUDO</Point>
+      <Point>OIE</Point>
+    </Label>
+  </Map>
+</Maps>

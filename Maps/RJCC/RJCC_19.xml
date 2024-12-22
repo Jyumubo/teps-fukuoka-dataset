@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Maps>
+  <Map Type="System" Name="RJCC_19" Priority="0" Center="+42.775278+141.692500">
+    <Runway Name="01L_19R">
+      <Threshold Name="01L" Position="+42.761645+141.692828"/>
+      <Threshold Name="19R" Position="+42.788442+141.688098" ExtendedCentrelineTrack="352" ExtendedCentrelineLength="21" ExtendedCentrelineTickInterval="2" />
+    </Runway>
+    <Runway Name="01R_19L">
+      <Threshold Name="01R" Position="+42.761988+141.696483"/>
+      <Threshold Name="19L" Position="+42.788803+141.691737" ExtendedCentrelineTrack="352" ExtendedCentrelineLength="21" ExtendedCentrelineTickInterval="2" />
+    </Runway>
+    <Symbol Type="HollowTriangle">
+      <Point>NEJIE</Point>
+      <Point>POWAN</Point>
+      <Point>ZALAR</Point>
+      <Point>DALBI</Point>
+      <Point>KURIS</Point>
+      <Point>CC06T</Point>
+      <Point>CC07T</Point>
+      <Point>TOBBY</Point>
+      <Point>NOHEY</Point>
+      <Point>APIOS</Point>
+      <Point>PANSU</Point>
+      <Point>BUTOS</Point>
+      <Point>CC02Y</Point>
+      <Point>CC02H</Point>
+      <Point>CC03H</Point>
+      <Point>REZOT</Point>
+      <Point>TEKKO</Point>
+      <Point>FUNKA</Point>
+      <Point>SAVIT</Point>
+      <Point>BOKSO</Point>
+      <Point>TAKNO</Point>
+      <Point>YASKN</Point>
+      <Point>MISTA</Point>
+      <Point>YOSAN</Point>
+      <Point>SHINE</Point>
+      <Point>ISIYA</Point>
+      <Point>MAOIE</Point>
+      <Point>NAPRO</Point>
+      <Point>KAORY</Point>
+      <Point>NAVER</Point>
+      <Point>FUJIM</Point>
+      <Point>C9R52</Point>
+      <Point>C9R53</Point>
+      <Point>C9R54</Point>
+      <Point>C9R55</Point>
+      <Point>NACKS</Point>
+      <Point>URESY</Point>
+      <Point>YOSHA</Point>
+      <Point>GUFFI</Point>
+      <Point>YOHCK</Point>
+      <Point>YUNEY</Point>
+      <Point>VANKM</Point>
+      <Point>NIKAP</Point>
+      <Point>WHITE</Point>
+      <Point>LOVER</Point>
+      <Point>NESIC</Point>
+      <Point>BANSU</Point>
+      <Point>ASIRI</Point>
+      <Point>PUNCH</Point>
+    </Symbol>
+    <Symbol Type="Hexagon">
+      <Point>CHE</Point>
+      <Point>HWE</Point>
+      <Point>MKE</Point>
+    </Symbol>
+    <Symbol Type="HollowSquare">
+      <Point>CHE</Point>
+      <Point>HWE</Point>
+      <Point>MKE</Point>
+    </Symbol>
+  </Map>
+  <Map Type="System" Name="RJCC_19_LABEL" Priority="2" Center="+42.775278+141.692500">
+    <Label>
+      <Point>NEJIE</Point>
+      <Point>POWAN</Point>
+      <Point>ZALAR</Point>
+      <Point>DALBI</Point>
+      <Point>KURIS</Point>
+      <Point>CC06T</Point>
+      <Point>CC07T</Point>
+      <Point>TOBBY</Point>
+      <Point>NOHEY</Point>
+      <Point>APIOS</Point>
+      <Point>PANSU</Point>
+      <Point>BUTOS</Point>
+      <Point>CC02Y</Point>
+      <Point>CC02H</Point>
+      <Point>CC03H</Point>
+      <Point>REZOT</Point>
+      <Point>TEKKO</Point>
+      <Point>FUNKA</Point>
+      <Point>SAVIT</Point>
+      <Point>BOKSO</Point>
+      <Point>TAKNO</Point>
+      <Point>YASKN</Point>
+      <Point>MISTA</Point>
+      <Point>YOSAN</Point>
+      <Point>SHINE</Point>
+      <Point>ISIYA</Point>
+      <Point>MAOIE</Point>
+      <Point>NAPRO</Point>
+      <Point>KAORY</Point>
+      <Point>NAVER</Point>
+      <Point>FUJIM</Point>
+      <Point>C9R52</Point>
+      <Point>C9R53</Point>
+      <Point>C9R54</Point>
+      <Point>C9R55</Point>
+      <Point>NACKS</Point>
+      <Point>URESY</Point>
+      <Point>YOSHA</Point>
+      <Point>GUFFI</Point>
+      <Point>YOHCK</Point>
+      <Point>YUNEY</Point>
+      <Point>VANKM</Point>
+      <Point>NIKAP</Point>
+      <Point>WHITE</Point>
+      <Point>LOVER</Point>
+      <Point>NESIC</Point>
+      <Point>BANSU</Point>
+      <Point>ASIRI</Point>
+      <Point>PUNCH</Point>
+      <Point>CHE</Point>
+      <Point>HWE</Point>
+      <Point>MKE</Point>
+    </Label>
+  </Map>
+</Maps>

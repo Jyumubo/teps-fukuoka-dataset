@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Maps>
+  <Map Type="System" Name="RJOK" Priority="0" Center="+33.546111+133.669445">
+    <Runway Name="14_32">
+      <Threshold Name="14" Position="+33.553347+133.659136" ExtendedCentrelineTrack="310" ExtendedCentrelineLength="5" ExtendedCentrelineTickInterval="2" />
+      <Threshold Name="32" Position="+33.538704+133.679624" ExtendedCentrelineTrack="130" ExtendedCentrelineLength="21" ExtendedCentrelineTickInterval="2"/>
+    </Runway>
+    <Symbol Type="HollowTriangle">
+      <Point>OK32A</Point>
+      <Point>OK14A</Point>
+      <Point>OK32C</Point>
+      <Point>OK14B</Point>
+      <Point>KAIFU</Point>
+      <Point>KARIN</Point>
+      <Point>OK32D</Point>
+      <Point>MUROT</Point>
+      <Point>MIYAT</Point>
+      <Point>MERID</Point>
+      <Point>OK32E</Point>
+      <Point>OK14C</Point>
+      <Point>YUZNO</Point>
+      <Point>OMOGO</Point>
+      <Point>POPPY</Point>
+      <Point>JYAMU</Point>
+      <Point>BATAK</Point>
+      <Point>CHEEZ</Point>
+      <Point>ANPAN</Point>
+      <Point>PANCH</Point>
+      <Point>OKITU</Point>
+      <Point>BIRKN</Point>
+      <Point>KABIL</Point>
+      <Point>DOKIN</Point>
+      <Point>NOITI</Point>
+      <Point>KATUO</Point>
+      <Point>NALKO</Point>  
+    </Symbol>
+    <Symbol Type="Hexagon">
+      <Point>KRE</Point>
+      <Point>KEC</Point>
+      <Point>SUC</Point>      
+    </Symbol>
+    <Symbol Type="HollowSquare">
+      <Point>KRE</Point>
+      <Point>KEC</Point>
+      <Point>SUC</Point>      
+    </Symbol>
+  </Map>
+  <Map Type="System" Name="RJOK_LABEL" Priority="2" Center="+33.546111+133.669445">
+    <Label>
+      <Point>OK32A</Point>
+      <Point>OK14A</Point>
+      <Point>OK32C</Point>
+      <Point>OK14B</Point>
+      <Point>KAIFU</Point>
+      <Point>KARIN</Point>
+      <Point>OK32D</Point>
+      <Point>MUROT</Point>
+      <Point>MIYAT</Point>
+      <Point>MERID</Point>
+      <Point>OK32E</Point>
+      <Point>OK14C</Point>
+      <Point>YUZNO</Point>
+      <Point>OMOGO</Point>
+      <Point>POPPY</Point>
+      <Point>JYAMU</Point>
+      <Point>BATAK</Point>
+      <Point>CHEEZ</Point>
+      <Point>ANPAN</Point>
+      <Point>PANCH</Point>
+      <Point>OKITU</Point>
+      <Point>BIRKN</Point>
+      <Point>KABIL</Point>
+      <Point>DOKIN</Point>
+      <Point>NOITI</Point>
+      <Point>KATUO</Point>
+      <Point>NALKO</Point>  
+      <Point>KRE</Point>
+      <Point>KEC</Point>
+      <Point>SUC</Point>      
+    </Label>
+  </Map>
+</Maps>

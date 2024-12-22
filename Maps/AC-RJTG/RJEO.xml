@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Maps>
+  <Map Type="System" Name="RJEO" Priority="0" Center="+42.071667+139.432778">
+    <Runway Name="13_31">
+      <Threshold Name="13" Position="+42.074972+139.425186" ExtendedCentrelineTrack="300" ExtendedCentrelineLength="5" ExtendedCentrelineTickInterval="2" />
+      <Threshold Name="31" Position="+42.068167+139.440885" ExtendedCentrelineTrack="120" ExtendedCentrelineLength="5" ExtendedCentrelineTickInterval="2"/>
+    </Runway>
+    <Symbol Type="HollowTriangle">
+      <Point>EO100</Point>
+      <Point>AONAE</Point>
+      <Point>ESASI</Point>
+      <Point>IKORU</Point>
+      <Point>EO350</Point>
+      <Point>EO351</Point>
+      <Point>EO352</Point>
+      <Point>EO353</Point>
+      <Point>LEDOP</Point>
+      <Point>WOONY</Point>
+    </Symbol>
+    <Symbol Type="Hexagon">
+      <Point>ORE</Point>
+    </Symbol>
+    <Symbol Type="HollowSquare">
+      <Point>ORE</Point>
+    </Symbol>
+  </Map>
+  <Map Type="System" Name="RJEO_LABEL" Priority="2" Center="+42.071667+139.432778">
+    <Label>
+      <Point>EO100</Point>
+      <Point>AONAE</Point>
+      <Point>ESASI</Point>
+      <Point>IKORU</Point>
+      <Point>EO350</Point>
+      <Point>EO351</Point>
+      <Point>EO352</Point>
+      <Point>EO353</Point>
+      <Point>LEDOP</Point>
+      <Point>WOONY</Point>
+      <Point>ORE</Point>
+    </Label>
+  </Map>
+</Maps>

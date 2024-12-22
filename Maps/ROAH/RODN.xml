@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Maps>
+  <Map Type="System" Name="RODN" Priority="0" Center="+26.355611+127.767633">
+    <Runway Name="05L_23R">
+      <Threshold Name="05R" Position="+26.344052+127.755051" ExtendedCentrelineTrack="231" ExtendedCentrelineLength="21" ExtendedCentrelineTickInterval="2" />
+      <Threshold Name="23L" Position="+26.364970+127.783769" ExtendedCentrelineTrack="051" ExtendedCentrelineLength="21" ExtendedCentrelineTickInterval="2"/>
+    </Runway>
+    <Runway Name="05R_23L">
+      <Threshold Name="05L" Position="+26.346239+127.751508" ExtendedCentrelineTrack="231" ExtendedCentrelineLength="21" ExtendedCentrelineTickInterval="2" />
+      <Threshold Name="23R" Position="+26.367167+127.780235" ExtendedCentrelineTrack="051" ExtendedCentrelineLength="21" ExtendedCentrelineTickInterval="2"/>
+    </Runway>
+    <Symbol Type="HollowTriangle">
+      <Point>CUNEK</Point>
+      <Point>TUCOF</Point>
+      <Point>EKAHI</Point>
+      <Point>EKOLU</Point>
+      <Point>CAMDA</Point>
+      <Point>HIVAS</Point>
+      <Point>JILEE</Point>
+      <Point>SNUUP</Point>
+      <Point>IDMEK</Point>
+      <Point>EBLIR</Point>
+      <Point>ADPEP</Point>
+      <Point>DUPIT</Point>
+      <Point>ADYEK</Point>
+      <Point>CIRUG</Point>
+      <Point>WITOT</Point>
+      <Point>SHOGN</Point>
+      <Point>ALSUR</Point>
+      <Point>COUCH</Point>
+      <Point>AVOLA</Point>
+      <Point>IMONO</Point>
+      <Point>LETOX</Point>
+      <Point>NUGAP</Point>
+      <Point>BYYRD</Point>
+      <Point>CITIK</Point>
+      <Point>MISAE</Point>
+      <Point>AGUON</Point>
+      <Point>TUKUP</Point>
+      <Point>CEBIT</Point>
+      <Point>BIMBE</Point>
+      <Point>LEXUS</Point>
+    </Symbol>
+    <Symbol Type="Hexagon">
+      <Point>KAD</Point>
+    </Symbol>
+    <Symbol Type="HollowSquare">
+      <Point>KAD</Point>
+    </Symbol>
+  </Map>
+  <Map Type="System" Name="RODN_LABEL" Priority="2" Center="+26.355611+127.767633">
+    <Label>
+      <Point>CUNEK</Point>
+      <Point>TUCOF</Point>
+      <Point>EKAHI</Point>
+      <Point>EKOLU</Point>
+      <Point>CAMDA</Point>
+      <Point>HIVAS</Point>
+      <Point>JILEE</Point>
+      <Point>SNUUP</Point>
+      <Point>IDMEK</Point>
+      <Point>EBLIR</Point>
+      <Point>ADPEP</Point>
+      <Point>DUPIT</Point>
+      <Point>ADYEK</Point>
+      <Point>CIRUG</Point>
+      <Point>WITOT</Point>
+      <Point>SHOGN</Point>
+      <Point>ALSUR</Point>
+      <Point>COUCH</Point>
+      <Point>AVOLA</Point>
+      <Point>IMONO</Point>
+      <Point>LETOX</Point>
+      <Point>NUGAP</Point>
+      <Point>BYYRD</Point>
+      <Point>CITIK</Point>
+      <Point>MISAE</Point>
+      <Point>AGUON</Point>
+      <Point>TUKUP</Point>
+      <Point>CEBIT</Point>
+      <Point>BIMBE</Point>
+      <Point>LEXUS</Point>
+      <Point>KAD</Point>
+    </Label>
+  </Map>
+</Maps>

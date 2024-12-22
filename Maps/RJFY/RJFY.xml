@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Maps>
+  <Map Type="System" Name="RJFY" Priority="0" Center="+31.368056+130.838056">
+    <Runway Name="08L_26R">
+      <Threshold Name="08L" Position="+31.367612+130.829980" ExtendedCentrelineTrack="253" ExtendedCentrelineLength="5" ExtendedCentrelineTickInterval="2" />
+      <Threshold Name="26R" Position="+31.369634+130.842433" ExtendedCentrelineTrack="073" ExtendedCentrelineLength="5" ExtendedCentrelineTickInterval="2"/>
+    </Runway>
+    <Runway Name="08R_26L">
+      <Threshold Name="08R" Position="+31.364901+130.827398" ExtendedCentrelineTrack="253" ExtendedCentrelineLength="5" ExtendedCentrelineTickInterval="2" />
+      <Threshold Name="26L" Position="+31.368659+130.850647" ExtendedCentrelineTrack="073" ExtendedCentrelineLength="21" ExtendedCentrelineTickInterval="2"/>
+    </Runway>
+    <Symbol Type="HollowTriangle">
+      <Point>EKORU</Point>
+      <Point>MAKRA</Point>
+      <Point>QUEEN</Point>
+      <Point>AIRAH</Point>
+      <Point>TILAN</Point>
+      <Point>DAGRI</Point>
+    </Symbol>
+    <Symbol Type="Hexagon">
+      <Point>JAT</Point>
+    </Symbol>
+    <Symbol Type="HollowSquare">
+      <Point>JAT</Point>
+    </Symbol>
+  </Map>
+  <Map Type="System" Name="RJFY_LABEL" Priority="2" Center="+31.368056+130.838056">
+    <Label>
+      <Point>EKORU</Point>
+      <Point>MAKRA</Point>
+      <Point>QUEEN</Point>
+      <Point>AIRAH</Point>
+      <Point>TILAN</Point>
+      <Point>DAGRI</Point>
+      <Point>JAT</Point>
+    </Label>
+  </Map>
+</Maps>

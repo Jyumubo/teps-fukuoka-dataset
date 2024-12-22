@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Maps>
+  <Map Type="System" Name="ROYN" Priority="0" Center="+24.467500+122.979722">
+    <Runway Name="04_26">
+      <Threshold Name="08" Position="+24.465084+122.970229" ExtendedCentrelineTrack="255" ExtendedCentrelineLength="5" ExtendedCentrelineTickInterval="2" />
+      <Threshold Name="26" Position="+24.469676+122.989320" ExtendedCentrelineTrack="075" ExtendedCentrelineLength="5" ExtendedCentrelineTickInterval="2"/>
+    </Runway>
+    <Symbol Type="HollowTriangle">
+      <Point>ABASA</Point>
+      <Point>YN600</Point>
+      <Point>AYAKA</Point>
+      <Point>TAKZO</Point>
+      <Point>ABASA</Point>
+      <Point>ISEKI</Point>
+      <Point>AGARI</Point>
+      <Point>ANGAI</Point>
+      <Point>GOTOH</Point>      
+    </Symbol>
+    <Symbol Type="Hexagon">
+      <Point>YNE</Point>
+    </Symbol>
+    <Symbol Type="HollowSquare">
+      <Point>YNE</Point>
+    </Symbol>
+  </Map>
+  <Map Type="System" Name="ROYN_LABEL" Priority="2" Center="+24.467500+122.979722">
+    <Label>
+      <Point>ABASA</Point>
+      <Point>YN600</Point>
+      <Point>AYAKA</Point>
+      <Point>TAKZO</Point>
+      <Point>ABASA</Point>
+      <Point>ISEKI</Point>
+      <Point>AGARI</Point>
+      <Point>ANGAI</Point>
+      <Point>GOTOH</Point>      
+      <Point>YNE</Point>
+    </Label>
+  </Map>
+</Maps>

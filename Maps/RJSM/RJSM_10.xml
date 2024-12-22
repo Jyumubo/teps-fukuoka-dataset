@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Maps>
+  <Map Type="System" Name="RJSM_10" Priority="0" Center="+40.703056+141.368333">
+    <Runway Name="10_28">
+      <Threshold Name="10" Position="+40.704438+141.350426" ExtendedCentrelineTrack="275" ExtendedCentrelineLength="21" ExtendedCentrelineTickInterval="2" />
+      <Threshold Name="28" Position="+40.702015+141.386293"/>
+    </Runway>
+    <Symbol Type="HollowTriangle">
+      <Point>ENKAI</Point>
+      <Point>JYONA</Point>
+      <Point>OLSAE</Point>
+      <Point>SAMBO</Point>
+      <Point>OMBOE</Point>
+      <Point>SESEA</Point>
+      <Point>HESEI</Point>
+      <Point>TASHO</Point>
+      <Point>REIWA</Point>
+      <Point>SHOJU</Point>
+      <Point>CHELL</Point>
+      <Point>UBESE</Point>
+      <Point>LIFTY</Point>
+      <Point>KASHH</Point>
+      <Point>KLYBR</Point>
+      <Point>WEASL</Point>
+      <Point>NADDY</Point>
+      <Point>HOSHI</Point>
+      <Point>BAXIL</Point>
+      <Point>DUKER</Point>
+      <Point>ELKID</Point>
+      <Point>KENII</Point>
+      <Point>JEDDY</Point>
+    </Symbol>
+    <Symbol Type="Hexagon">
+      <Point>MIS</Point>
+      <Point>HPE</Point>
+      <Point>MQE</Point>    
+    </Symbol>
+    <Symbol Type="HollowSquare">
+      <Point>MIS</Point>
+      <Point>HPE</Point>
+      <Point>MQE</Point>  
+    </Symbol>
+  </Map>
+  <Map Type="System" Name="RJSM_10_LABEL" Priority="2" Center="+40.703056+141.368333">
+    <Label>
+      <Point>ENKAI</Point>
+      <Point>JYONA</Point>
+      <Point>OLSAE</Point>
+      <Point>SAMBO</Point>
+      <Point>OMBOE</Point>
+      <Point>SESEA</Point>
+      <Point>HESEI</Point>
+      <Point>TASHO</Point>
+      <Point>REIWA</Point>
+      <Point>SHOJU</Point>
+      <Point>CHELL</Point>
+      <Point>UBESE</Point>
+      <Point>LIFTY</Point>
+      <Point>KASHH</Point>
+      <Point>KLYBR</Point>
+      <Point>WEASL</Point>
+      <Point>NADDY</Point>
+      <Point>HOSHI</Point>
+      <Point>BAXIL</Point>
+      <Point>DUKER</Point>
+      <Point>ELKID</Point>
+      <Point>KENII</Point>
+      <Point>JEDDY</Point>
+      <Point>MIS</Point>
+      <Point>HPE</Point>
+      <Point>MQE</Point>
+    </Label>
+  </Map>
+</Maps>

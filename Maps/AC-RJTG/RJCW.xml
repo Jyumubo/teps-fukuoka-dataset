@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Maps>
+  <Map Type="System" Name="RJCW" Priority="0" Center="+45.404445+141.802222">
+    <Runway Name="08_26">
+      <Threshold Name="08" Position="+45.400867+141.788967" ExtendedCentrelineTrack="249" ExtendedCentrelineLength="5" ExtendedCentrelineTickInterval="2" />
+      <Threshold Name="26" Position="+45.408012+141.815250" ExtendedCentrelineTrack="069" ExtendedCentrelineLength="5" ExtendedCentrelineTickInterval="2"/>
+    </Runway>
+    <Symbol Type="HollowTriangle">
+      <Point>RUMOI</Point>
+      <Point>WAPPY</Point>
+      <Point>YOROI</Point>
+      <Point>DASSY</Point>
+      <Point>KABTO</Point>
+      <Point>IKURA</Point>
+    </Symbol>
+    <Symbol Type="Hexagon">
+      <Point>WKE</Point>
+    </Symbol>
+    <Symbol Type="HollowSquare">
+      <Point>WKE</Point>
+    </Symbol>
+  </Map>
+  <Map Type="System" Name="RJCW_LABEL" Priority="2" Center="+45.404445+141.802222">
+    <Label>
+      <Point>RUMOI</Point>
+      <Point>WAPPY</Point>
+      <Point>YOROI</Point>
+      <Point>DASSY</Point>
+      <Point>KABTO</Point>
+      <Point>IKURA</Point>
+      <Point>WKE</Point>
+    </Label>
+  </Map>
+</Maps>

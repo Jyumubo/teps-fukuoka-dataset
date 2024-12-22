@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Maps>
+  <Map Type="System" Name="RJSK_28" Priority="0" Center="+39.615556+140.218611">
+    <Runway Name="10_28">
+      <Threshold Name="10" Position="+39.616946+140.204254"/>
+      <Threshold Name="28" Position="+39.614366+140.233090" ExtendedCentrelineTrack="096" ExtendedCentrelineLength="21" ExtendedCentrelineTickInterval="2" />
+    </Runway>
+    <Symbol Type="HollowTriangle">
+      <Point>NUPLI</Point>
+      <Point>IRNOG</Point>
+      <Point>TARAA</Point>
+      <Point>SK801</Point>
+      <Point>MUSHA</Point>
+      <Point>MAGGY</Point>
+      <Point>GAKKO</Point>
+      <Point>BIJIN</Point>
+      <Point>CHOKA</Point>
+      <Point>YAYOI</Point>
+      <Point>KENDI</Point>
+      <Point>NYUTO</Point>
+      <Point>KUREE</Point>
+      <Point>CHOKA</Point>
+      <Point>GIBAR</Point>
+    </Symbol>
+    <Symbol Type="Hexagon">
+      <Point>MRE</Point>
+      <Point>GTC</Point>
+      <Point>YTE</Point>
+      <Point>UWE</Point>    
+    </Symbol>
+    <Symbol Type="HollowSquare">
+      <Point>MRE</Point>
+      <Point>GTC</Point>
+      <Point>YTE</Point>
+      <Point>UWE</Point>   
+    </Symbol>
+  </Map>
+  <Map Type="System" Name="RJSK_28_LABEL" Priority="2" Center="+39.615556+140.218611">
+    <Label>
+      <Point>NUPLI</Point>
+      <Point>IRNOG</Point>
+      <Point>TARAA</Point>
+      <Point>SK801</Point>
+      <Point>MUSHA</Point>
+      <Point>MAGGY</Point>
+      <Point>GAKKO</Point>
+      <Point>BIJIN</Point>
+      <Point>CHOKA</Point>
+      <Point>YAYOI</Point>
+      <Point>KENDI</Point>
+      <Point>NYUTO</Point>
+      <Point>KUREE</Point>
+      <Point>CHOKA</Point>
+      <Point>GIBAR</Point>
+      <Point>MRE</Point>
+      <Point>GTC</Point>
+      <Point>YTE</Point>
+      <Point>UWE</Point>    
+    </Label>
+  </Map>
+</Maps>

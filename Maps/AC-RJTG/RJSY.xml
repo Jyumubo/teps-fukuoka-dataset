@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Maps>
+  <Map Type="System" Name="RJSY" Priority="0" Center="+38.812222+139.787222">
+    <Runway Name="09_27">
+      <Threshold Name="09" Position="+38.810706+139.775861" ExtendedCentrelineTrack="259" ExtendedCentrelineLength="5" ExtendedCentrelineTickInterval="2" />
+      <Threshold Name="27" Position="+38.814007+139.798552" ExtendedCentrelineTrack="079" ExtendedCentrelineLength="5" ExtendedCentrelineTickInterval="2"/>
+    </Runway>
+    <Symbol Type="HollowTriangle">
+      <Point>SY900</Point>
+      <Point>TADAT</Point>
+      <Point>ZUNDA</Point>
+      <Point>SY761</Point>
+      <Point>MOKKE</Point>
+      <Point>SY751</Point>
+      <Point>USUBA</Point>
+      <Point>SY951</Point>
+      <Point>SY952</Point>
+      <Point>SY953</Point>
+      <Point>YURAH</Point>
+      <Point>MOSSH</Point>
+      <Point>SY752</Point>
+      <Point>MINAM</Point>
+      <Point>ANNON</Point>
+    </Symbol>
+    <Symbol Type="Hexagon">
+      <Point>YSE</Point>
+      <Point>YTE</Point>
+    </Symbol>
+    <Symbol Type="HollowSquare">
+      <Point>YSE</Point>
+      <Point>YTE</Point>
+    </Symbol>
+  </Map>
+  <Map Type="System" Name="RJSY_LABEL" Priority="2" Center="+38.812222+139.787222">
+    <Label>
+      <Point>SY900</Point>
+      <Point>TADAT</Point>
+      <Point>ZUNDA</Point>
+      <Point>SY761</Point>
+      <Point>MOKKE</Point>
+      <Point>SY751</Point>
+      <Point>USUBA</Point>
+      <Point>SY951</Point>
+      <Point>SY952</Point>
+      <Point>SY953</Point>
+      <Point>YURAH</Point>
+      <Point>MOSSH</Point>
+      <Point>SY752</Point>
+      <Point>MINAM</Point>
+      <Point>ANNON</Point>
+      <Point>YSE</Point>
+      <Point>YTE</Point>
+    </Label>
+  </Map>
+</Maps>

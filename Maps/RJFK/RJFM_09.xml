@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Maps>
+  <Map Type="System" Name="RJFM_09" Priority="0" Center="+31.877222+131.448611">
+    <Runway Name="09_27">
+      <Threshold Name="09" Position="+31.876173+131.435277" ExtendedCentrelineTrack="264" ExtendedCentrelineLength="5" ExtendedCentrelineTickInterval="2"/>
+      <Threshold Name="27" Position="+31.878064+131.461606" ExtendedCentrelineTrack="084" ExtendedCentrelineLength="21" ExtendedCentrelineTickInterval="2"/>
+    </Runway>
+    <Symbol Type="HollowTriangle">
+      <Point>JACKY</Point>
+      <Point>FM900</Point>
+      <Point>NASAK</Point>
+      <Point>LALAG</Point>
+      <Point>SASIK</Point>
+      <Point>KIZAK</Point>
+      <Point>HIROS</Point>
+      <Point>MADOG</Point>
+      <Point>TORIK</Point>
+      <Point>SIIBA</Point>
+      <Point>ENBEN</Point>
+      <Point>FM957</Point>
+      <Point>MELAR</Point>
+      <Point>RYUGU</Point>
+      <Point>CHAGA</Point>
+      <Point>OYODO</Point>
+      <Point>HIMKA</Point>
+      <Point>SURFU</Point>
+      <Point>IKIME</Point>
+      <Point>SIROK</Point>
+      <Point>ESKAP</Point>
+      <Point>JOKER</Point>
+    </Symbol>
+    <Symbol Type="Hexagon">
+      <Point>MZE</Point>   
+    </Symbol>
+    <Symbol Type="HollowSquare">
+      <Point>MZE</Point>    
+    </Symbol>
+  </Map>
+  <Map Type="System" Name="RJFM_09_LABEL" Priority="2" Center="+31.877222+131.448611">
+    <Label>
+      <Point>JACKY</Point>
+      <Point>FM900</Point>
+      <Point>NASAK</Point>
+      <Point>LALAG</Point>
+      <Point>SASIK</Point>
+      <Point>KIZAK</Point>
+      <Point>HIROS</Point>
+      <Point>MADOG</Point>
+      <Point>TORIK</Point>
+      <Point>SIIBA</Point>
+      <Point>ENBEN</Point>
+      <Point>FM957</Point>
+      <Point>MELAR</Point>
+      <Point>RYUGU</Point>
+      <Point>CHAGA</Point>
+      <Point>OYODO</Point>
+      <Point>HIMKA</Point>
+      <Point>SURFU</Point>
+      <Point>IKIME</Point>
+      <Point>SIROK</Point>
+      <Point>ESKAP</Point>
+      <Point>JOKER</Point>
+      <Point>MZE</Point> 
+    </Label>
+  </Map>
+</Maps>
