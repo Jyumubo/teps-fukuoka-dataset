@@ -1127,7 +1127,7 @@
           <Line>Sapporo Ground</Line>
         </ControllerInfo>
     </Position>
-    <Position Name="Chitose Tower" Type="ASD" DefaultCenter="+42.775278+141.692500" DefaultRange="32" MagneticVariation="+9">
+    <Position Name="Chitose Tower" Type="ASD" DefaultCenter="+42.775278+141.692500" DefaultRange="32" MagneticVariation="+10">
         <Sectors>
         <Sector Name="CC LCL" />
         <Sector Name="CC LCL E" />
@@ -1324,7 +1324,7 @@
           <Line>Miyagi Tower</Line>
         </ControllerInfo>
     </Position>
-    <Position Name="Sendai Tower" Type="ASD" DefaultCenter="+38.139722+140.916945" DefaultRange="32" MagneticVariation="+8">
+    <Position Name="Sendai Tower" Type="ASD" DefaultCenter="+38.139722+140.916945" DefaultRange="32" MagneticVariation="+9">
         <Sectors>
         <Sector Name="SS LCL" />
         <Sector Name="SS GND" />
@@ -2142,7 +2142,7 @@
           <Line>Ozuki Ground</Line>
         </ControllerInfo>
     </Position>
-    <Position Name="Takamatsu Tower" Type="ASD" DefaultCenter="+34.214167+134.015556" DefaultRange="32" MagneticVariation="+7">
+    <Position Name="Takamatsu Tower" Type="ASD" DefaultCenter="+34.214167+134.015556" DefaultRange="32" MagneticVariation="+8">
         <Sectors>
           <Sector Name="OT LCL" />
         </Sectors>
@@ -2901,7 +2901,7 @@
           <Line>Tottori Radio</Line>
         </ControllerInfo>
     </Position>
-    <Position Name="Izumo Radio" Type="ASD" DefaultCenter="+35.413611+132.890000" DefaultRange="32" MagneticVariation="+7">
+    <Position Name="Izumo Radio" Type="ASD" DefaultCenter="+35.413611+132.890000" DefaultRange="32" MagneticVariation="+9">
         <Sectors>
         <Sector Name="OC AFIS" />
         </Sectors>
@@ -3036,7 +3036,7 @@
           <Line>Miyake Radio</Line>
         </ControllerInfo>
     </Position>
-    <Position Name="Ube Radio" Type="ASD" DefaultCenter="+33.930000+131.278611" DefaultRange="32" MagneticVariation="+7">
+    <Position Name="Ube Radio" Type="ASD" DefaultCenter="+33.930000+131.278611" DefaultRange="32" MagneticVariation="+8">
         <Sectors>
         <Sector Name="DC AFIS" />
         </Sectors>
@@ -3765,7 +3765,7 @@
       <Map Name="Ground/ALL_BLD" />
     </Maps>
   </Position>
-  <Position Name="RJOC" Type="ASMGCS" ASMGCSAirport="RJOC" DefaultCenter="+35.413611+132.890000" DefaultRange="2" MagneticVariation="+8" Rotation="0">
+  <Position Name="RJOC" Type="ASMGCS" ASMGCSAirport="RJOC" DefaultCenter="+35.413611+132.890000" DefaultRange="2" MagneticVariation="+9" Rotation="0">
     <Maps>
       <Map Name="Ground/ALL_RWY" />
       <Map Name="Ground/ALL_TWY" />
@@ -4031,7 +4031,7 @@
       <Map Name="Ground/ALL_BLD" />
     </Maps>
   </Position>
-  <Position Name="RJCC" Type="ASMGCS" ASMGCSAirport="RJCC" DefaultCenter="+42.775278+141.692500" DefaultRange="2" MagneticVariation="+8" Rotation="0">
+  <Position Name="RJCC" Type="ASMGCS" ASMGCSAirport="RJCC" DefaultCenter="+42.775278+141.692500" DefaultRange="2" MagneticVariation="+10" Rotation="0">
     <Maps>
       <Map Name="Ground/ALL_RWY" />
       <Map Name="Ground/ALL_TWY" />
@@ -4178,7 +4178,7 @@
       <Map Name="Ground/ALL_BLD" />
     </Maps>
   </Position>
-  <Position Name="RJSS" Type="ASMGCS" ASMGCSAirport="RJSS" DefaultCenter="+38.139722+140.916945" DefaultRange="2" MagneticVariation="+8" Rotation="0">
+  <Position Name="RJSS" Type="ASMGCS" ASMGCSAirport="RJSS" DefaultCenter="+38.139722+140.916945" DefaultRange="2" MagneticVariation="+9" Rotation="0">
     <Maps>
       <Map Name="Ground/ALL_RWY" />
       <Map Name="Ground/ALL_TWY" />
@@ -4347,7 +4347,7 @@
       <Map Name="Ground/ALL_BLD" />
     </Maps>
   </Position>
-  <Position Name="RJDC" Type="ASMGCS" ASMGCSAirport="RJDC" DefaultCenter="+33.930000+131.278611" DefaultRange="2" MagneticVariation="+7" Rotation="0">
+  <Position Name="RJDC" Type="ASMGCS" ASMGCSAirport="RJDC" DefaultCenter="+33.930000+131.278611" DefaultRange="2" MagneticVariation="+8" Rotation="0">
     <Maps>
       <Map Name="Ground/ALL_RWY" />
       <Map Name="Ground/ALL_TWY" />
