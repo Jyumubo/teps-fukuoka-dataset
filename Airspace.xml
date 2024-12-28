@@ -3217,15 +3217,15 @@
      <Route Runway="02">HANKA</Route>
      <Route Runway="20">HANKA</Route>
   </SID>
-  <SID Name="HPE2R" Airport="RJSI" Runways="02,20">
-     <Route Runway="02">KKE</Route>
-     <Route Runway="20">KKE</Route>
+  <SID Name="HPE3R" Airport="RJSI" Runways="02,20">
+     <Route Runway="02">HPE</Route>
+     <Route Runway="20">HPE</Route>
   </SID>
   <Approach Name="ILSY" Airport="RJSI" Runway="20">
      <Transition Name="WANKO">WANKO RYUHO TAIHO</Transition>
      <Route>SUIHO HIZME</Route>
   </Approach>
-  <SID Name="OHSHU1" Airport="RJSI" Runways="02,20">
+  <SID Name="OHSHU2" Airport="RJSI" Runways="02,20">
      <Route Runway="02">OHSHU</Route>
      <Route Runway="20">OHSHU</Route>
   </SID>
@@ -3519,7 +3519,7 @@
   <STAR Name="SHONAI" Airport="RJSY" Runways="27">
      <Route>YSE SY761 MOKKE</Route>
   </STAR>
-  <SID Name="YSE3R" Airport="RJSY" Runways="09,27">
+  <SID Name="YSE4R" Airport="RJSY" Runways="09,27">
      <Route Runway="09">YSE</Route>
      <Route Runway="27">YSE</Route>
   </SID>
@@ -7178,6 +7178,7 @@
         HPE/
         VINAR/
         ZAHAN/
+        ORORI/
         RUBIS/
         ASHRA/
         SASAP/
@@ -7298,6 +7299,7 @@
         HINAI/
         ORUMU/
         WAPPA/
+        MEMEB/
         YTE
         </Airway>
         <Airway Name="Y114">
@@ -7983,6 +7985,10 @@
         GOLDO/
         FINGA
         </Airway>
+        <Airway Name="Y307">
+        VIROP/
+        VIKET
+        </Airway>
         <Airway Name="Y31">
         GUSGI/
         SYOEN/
@@ -8018,6 +8024,12 @@
         HOKUU/
         YTE/
         ZUNDA/
+        RUBIS
+        </Airway>
+        <Airway Name="Y320">
+        UWE/
+        MEMEB/
+        TAKRA/
         RUBIS
         </Airway>
         <Airway Name="Y322">
@@ -8161,11 +8173,22 @@
         SOTOM/
         WAKIT
         </Airway>
+        <Airway Name="Y383">
+        KMC/
+        OHNNO/
+        HACHI/
+        MINOU/
+        KCC
+        </Airway>
         <Airway Name="Y384">
         KMC/
         AVNON/
         MENOU/
         ROKKO
+        </Airway>
+        <Airway Name="Y386">
+        KMC/
+        PEPAR
         </Airway>
         <Airway Name="Y39">
         MIHOU/
@@ -9707,10 +9730,6 @@
         YARII/
         MBE
         </Airway>
-        <Airway Name="KMC-TRE">
-        KMC/
-        TRE
-        </Airway>
         <Airway Name="KMC-JET">
         KMC/
         SONBU/
@@ -10153,10 +10172,6 @@
         <Airway Name="BLUES-SAMBA">
         BLUES/
         SAMBA
-        </Airway>
-        <Airway Name="TRE-KMC">
-        TRE/
-        KMC
         </Airway>
         <Airway Name="TRE-TOZAN">
         TRE/
@@ -10978,6 +10993,10 @@
     <!-- FIX2411 -->
     <Point Name="GUMIK" Type="FIX">+35.592139+139.883650</Point>
     <Point Name="SAROB" Type="FIX">+35.681403+139.991653</Point>
+    <!-- FIX2412 -->
+    <Point Name="MEMEB" Type="FIX">+38.888672+140.430892</Point>
+    <Point Name="ORORI" Type="FIX">+38.234436+140.776847</Point>
+    <Point Name="OLNOK" Type="FIX">+34.517253+135.506628</Point>
     <!-- FIX -->
     <Point Name="ABASA" Type="FIX">+24.439172222222+123.25232222222</Point>
     <Point Name="ABASI" Type="FIX">+44.000319444444+144.14275</Point>
