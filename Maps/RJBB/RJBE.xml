@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Maps>
-  <Map Type="System" Name="RJBE" Priority="0" Center="+34.632778+135.223889">
+  <Map Type="System" Name="RJBE" CustomColourName="ACA_MAP" Priority="0" Center="+34.632778+135.223889">
     <Runway Name="09_27">
       <Threshold Name="09" Position="+34.631643+135.210320" ExtendedCentrelineTrack="265" ExtendedCentrelineLength="21" ExtendedCentrelineTickInterval="2" />
       <Threshold Name="27" Position="+34.633760+135.237448" ExtendedCentrelineTrack="085" ExtendedCentrelineLength="5" ExtendedCentrelineTickInterval="2"/>

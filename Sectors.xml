@@ -5,25 +5,45 @@
     <Volumes></Volumes>
   </Sector>
   <!-- RJDG -->
+  <Sector FullName="DG Bandbox" Frequency="133.300" Callsign="RJDG_N_CTR" Name="DG N">
+    <Volumes>DG</Volumes>
+    <ResponsibleSectors>F01,T30,T31,T32,F02,F03,F04,F05,F07,T09,T10,T14,T25,T45,T46,T33,T34,T35,T36,T38,T39,N43,N44,N47,N48,N49,F08,F09,F10,F11,F12,F13,F14,N50,N51,N52,N53,N54,N55,F15,F16,F17</ResponsibleSectors>
+  </Sector>
   <Sector FullName="DG North" Frequency="133.300" Callsign="RJDG_N_CTR" Name="DG N">
     <Volumes>DG N</Volumes>
     <ResponsibleSectors>F01,T30,T31,T32</ResponsibleSectors>
+  </Sector>
+  <Sector FullName="DG Central" Frequency="133.600" Callsign="RJDG_C_CTR" Name="DG C">
+    <Volumes>DG C</Volumes>
+    <ResponsibleSectors>F02,F03,F04,F05,F07,T09,T10,T14,T25,T45,T46,T33,T34,T35,T36,T38,T39,N43,N44,N47,N48,N49,F08,F09,F10,F11,F12,F13,F14,N50,N51,N52,N53,N54</ResponsibleSectors>
+  </Sector>
+  <Sector FullName="DG East" Frequency="133.025" Callsign="RJDG_E_CTR" Name="DG W">
+    <Volumes>DG E</Volumes>
+    <ResponsibleSectors>F02,F03,F04,F05,F07,T09,T10,T14,T25,T45,T46,T33,T34,T35,T36,T38,T39,N43,N44,N47,N48,N49</ResponsibleSectors>
+  </Sector>
+  <Sector FullName="DG West" Frequency="133.600" Callsign="RJDG_W_CTR" Name="DG E">
+    <Volumes>DG W</Volumes>
+    <ResponsibleSectors>F08,F09,F10,F11,F12,F13,F14,N50,N51,N52,N53,N54</ResponsibleSectors>
   </Sector>
   <Sector FullName="DG South" Frequency="123.900" Callsign="RJDG_S_CTR" Name="DG S">
     <Volumes>DG S</Volumes>
     <ResponsibleSectors>N55,F15,F16,F17</ResponsibleSectors>
   </Sector>
-  <Sector FullName="F01" Frequency="133.3" Callsign="RJDG_01_CTR" Name="F01">
+  <Sector FullName="F01" Frequency="133.300" Callsign="RJDG_01_CTR" Name="F01">
     <Volumes>F01_335-UNL,F01_SFC-UNL</Volumes>
   </Sector>
-
+  <Sector FullName="F02" Frequency="128.200" Callsign="RJDG_02_CTR" Name="F02">
+    <Volumes>F02_335-UNL,F02_SFC-UNL</Volumes>
+  </Sector>
+  <Sector FullName="F03" Frequency="133.600" Callsign="RJDG_03_CTR" Name="F03">
+    <Volumes>F03_335-UNL,F03_SFC-UNL</Volumes>
+  </Sector>
   <Sector FullName="F04" Frequency="120.750" Callsign="RJDG_04_CTR" Name="F04">
     <Volumes>F04_335-UNL,F04_SFC-UNL</Volumes>
   </Sector>
   <Sector FullName="F05" Frequency="128.125" Callsign="RJDG_05_CTR" Name="F05">
     <Volumes>F05_335-UNL</Volumes>
   </Sector>
-  
   <Sector FullName="F07" Frequency="133.025" Callsign="RJDG_07_CTR" Name="F07">
     <Volumes>F07_335-UNL,F07_SFC-UNL</Volumes>
   </Sector>
@@ -56,13 +76,53 @@
   </Sector>
   <Sector FullName="F17" Frequency="123.900" Callsign="RJDG_17_CTR" Name="F17">
     <Volumes>F17_SFC-UNL,F17_RORS-CAP_160-UNL,F17_RORS-CAP_070-UNL_N,F17_RORS-CAP_070-UNL_S,F17_RORS-CAP_280-UNL,F17_ROAH-CAP_250-UNL</Volumes>
-    <ResponsibleSectors>ORS APP</ResponsibleSectors>
   </Sector>
   <!-- RJTG -->
+  <Sector FullName="TG Bandbox" Frequency="120.500" Callsign="RJTG_CTR" Name="TG">
+    <Volumes>TG</Volumes>
+    <ResponsibleSectors>T30,T31,T32,T09,T10,T14,T25,T38,T39,T46,T33,T34,T35,T36</ResponsibleSectors>
+  </Sector>
   <Sector FullName="TG North" Frequency="127.500" Callsign="RJTG_N_CTR" Name="TG N">
     <Volumes>TG N</Volumes>
     <ResponsibleSectors>T30,T31,T32</ResponsibleSectors>
   </Sector>
+  <Sector FullName="TG South" Frequency="120.500" Callsign="RJTG_S_CTR" Name="TG S">
+    <Volumes>TG S</Volumes>
+    <ResponsibleSectors>T09,T10,T14,T25,T38,T39,T46,T33,T34,T35,T36</ResponsibleSectors>
+  </Sector>
+  <Sector FullName="TG East" Frequency="124.100" Callsign="RJTG_E_CTR" Name="TG E">
+    <Volumes>TG E</Volumes>
+    <ResponsibleSectors>T33,T34,T35,T36</ResponsibleSectors>
+  </Sector>
+  <Sector FullName="TG West" Frequency="120.500" Callsign="RJTG_W_CTR" Name="TG W">
+    <Volumes>TG W</Volumes>
+    <ResponsibleSectors>T09,T10,T14,T25,T38,T39,T46</ResponsibleSectors>
+  </Sector>
+  <Sector FullName="T09" Frequency="123.700" Callsign="RJTG_09_CTR" Name="T09">
+    <Volumes>T09_SFC-UNL,T09_RJTT-CAP_240-UNL,T09_RJTT-CAP_230-UNL,T09_RJNH-CAP_140-UNL,T09_RJTT-CAP_060-UNL</Volumes>
+    <ResponsibleSectors></ResponsibleSectors>
+  </Sector>
+  <Sector FullName="T10" Frequency="125.900" Callsign="RJTG_10_CTR" Name="T10">
+    <Volumes>T10_SFC-UNL,T10_RJTT-CAP_240-UNL,T10_RJTT-CAP_230-UNL</Volumes>
+    <ResponsibleSectors></ResponsibleSectors>
+  </Sector>
+  <Sector FullName="T14" Frequency="133.700" Callsign="RJTG_14_CTR" Name="T14">
+    <Volumes>T14_SFC-UNL,T14_RJTT-CAP_240-UNL,T14_RJTT-CAP_230-UNL,T14_RJNH-CAP_140-UNL</Volumes>
+    <ResponsibleSectors></ResponsibleSectors>
+  </Sector>
+  <Sector FullName="T25" Frequency="133.350" Callsign="RJTG_25_CTR" Name="T25">
+    <Volumes>T25_285-UNL</Volumes>
+    <ResponsibleSectors></ResponsibleSectors>
+  </Sector>
+  <Sector FullName="T45" Frequency="125.700" Callsign="RJTG_45_CTR" Name="T45">
+    <Volumes>T45_SFC-285,T45_RJBB-CAP_200-335,T45_RJBB-CAP_180-335,T45_RJGG-CAP_120-335,T45_RJBB-CAP_180-285,T45_RJGG-CAP_120-285,T45_RJGG-CAP_150-285,T45_RJNH-CAP_140-285,T45_RJNH-CAP_060-285</Volumes>
+    <ResponsibleSectors></ResponsibleSectors>
+  </Sector>
+  <Sector FullName="T46" Frequency="133.500" Callsign="RJTG_46_CTR" Name="T46">
+    <Volumes>T46_SFC-335,T46_RJNH-CAP_140-335,T46_RJGG-CAP_120-335,T46_RJNH-CAP_060-335,T46_RJBB-CAP_180-335,T46_RJBB-CAP_200-335</Volumes>
+    <ResponsibleSectors></ResponsibleSectors>
+  </Sector>
+
   <Sector FullName="T30" Frequency="127.500" Callsign="RJTG_30_CTR" Name="T30">
     <Volumes>T30_SFC-335,T30_RJCH-CAP_130-335,T30_RJCC-CAP_200-335,T30_RJCC-CAP_160-335,T30_RJCO-CAP_110-335,T30_RJEC-CAP_180-335,T30_RJEC-CAP_130-335_N,T30_RJCO-CAP_080-335</Volumes>
     <ResponsibleSectors></ResponsibleSectors>
@@ -75,7 +135,51 @@
     <Volumes>T32_RJSK-CAP_180-335,T32_RJSM-CAP_200-335,T32_RJSM-CAP_150-335,T32_RJSM-CAP_170-335,T32_SFC-335_E,T32_SFC-335_W,T32_RJSK-CAP_130-245,T32_RJSM-CAP_200-245,T32_SFC-245</Volumes>
     <ResponsibleSectors></ResponsibleSectors>
   </Sector>
+  <Sector FullName="T33" Frequency="132.300" Callsign="RJTG_33_CTR" Name="T33">
+    <Volumes>T33_SFC-335,T33_RJSS-CAP_150-335,T33_RJST-CAP_060-335,T33_RJTY-CAP_230-335,T33_RJSN-CAP_080-335,T33_RJSN-CAP_140-335</Volumes>
+    <ResponsibleSectors></ResponsibleSectors>
+  </Sector>
+  <Sector FullName="T34" Frequency="118.900" Callsign="RJTG_34_CTR" Name="T34">
+    <Volumes>T34_SFC-335_S,T34_SFC-335_W,T34_SFC-335_N,T34_RJTT-CAP_240-335,T34_RJTU-CAP_040-335,T34_RJTU-CAP_070-335,T34_RJAH-CAP_100-335,T34_RJAH-CAP_130-335,T34_RJAH-CAP_230-335,T34_RJSS-CAP_150-335,T34_RJST-CAP_060-335,T34_RJST-CAP_100-335,T34_RJST-CAP_140-335</Volumes>
+    <ResponsibleSectors></ResponsibleSectors>
+  </Sector>
+  <Sector FullName="T35" Frequency="124.100" Callsign="RJTG_35_CTR" Name="T35">
+    <Volumes>T35_SFC-335,T35_RJTT-CAP_240-335,T35_RJTY-CAP_230-335,T35_RJTY-CAP_180-335,T35_RJTY-CAP_070-335,T35_RJTU-CAP_040-335</Volumes>
+    <ResponsibleSectors></ResponsibleSectors>
+  </Sector>
+  <Sector FullName="T36" Frequency="134.000" Callsign="RJTG_36_CTR" Name="T36">
+    <Volumes>T36_SFC-335,T36_RJAH-CAP_130-335,T36_RJAH-CAP_230-335,T36_RJTT-CAP_240-335</Volumes>
+    <ResponsibleSectors></ResponsibleSectors>
+  </Sector>
+  <Sector FullName="T38" Frequency="120.500" Callsign="RJTG_38_CTR" Name="T38">
+    <Volumes>T38_SFC-335,T38_SFC-195,T38_SFC-215,T38_RJTY-CAP_230-335,T38_RJTY-CAP_180-335,T38_RJTT-CAP_240-335,T38_RJTY-CAP_160-335</Volumes>
+    <ResponsibleSectors></ResponsibleSectors>
+  </Sector>
+  <Sector FullName="T39" Frequency="132.100" Callsign="RJTG_39_CTR" Name="T39">
+    <Volumes>T39_SFC-335,T39_215-335,T39_RJNH-CAP_060-335,T39_RJTY-CAP_160-335,T39_RJTY-CAP_240-335</Volumes>
+    <ResponsibleSectors></ResponsibleSectors>
+  </Sector>
   <!-- RJBG -->
+  <Sector FullName="BG Bandbox" Frequency="133.800" Callsign="RJBG_CTR" Name="BG">
+    <Volumes>BG</Volumes>
+    <ResponsibleSectors>N43,N44,N47,N48,N49,N50,N51,N52,N53,N54,N55</ResponsibleSectors>
+  </Sector>
+  <Sector FullName="BG North" Frequency="133.800" Callsign="RJBG_N_CTR" Name="BG N">
+    <Volumes>BG N</Volumes>
+    <ResponsibleSectors>N43,N44,N47,N48,N49,N50,N51,N52,N53,N54</ResponsibleSectors>
+  </Sector>
+  <Sector FullName="BG East" Frequency="133.800" Callsign="RJBG_E_CTR" Name="BG E">
+    <Volumes>BG E</Volumes>
+    <ResponsibleSectors>N43,N44,N47,N48,N49</ResponsibleSectors>
+  </Sector>
+  <Sector FullName="BG West" Frequency="132.500" Callsign="RJBG_W_CTR" Name="BG W">
+    <Volumes>BG W</Volumes>
+    <ResponsibleSectors>N50,N51,N52,N53,N54</ResponsibleSectors>
+  </Sector>
+  <Sector FullName="BG South" Frequency="132.350" Callsign="RJBG_S_CTR" Name="BG S">
+    <Volumes>BG S</Volumes>
+    <ResponsibleSectors>N55</ResponsibleSectors>
+  </Sector>
   <Sector FullName="N43" Frequency="132.450" Callsign="RJBG_43_CTR" Name="N43">
     <Volumes>N43_SFC-335,N43_RJNK-CAP_230-335,N43_RJNK-CAP_150-335,N43_RJNK-CAP_070-335,N43_RJGG-CAP_150-335,N43_RJTY-CAP_230-335</Volumes>
     <ResponsibleSectors></ResponsibleSectors>
@@ -84,7 +188,6 @@
     <Volumes>N44_SFC-335_N,N44_SFC-335_S,N44_RJGG-CAP_150-335,N44_RJGG-CAP_120-335,N44_RJBB-CAP_160-335,N44_RJBB-CAP_200-335,N44_195-335</Volumes>
     <ResponsibleSectors></ResponsibleSectors>
   </Sector>
-
 
   <Sector FullName="N47" Frequency="133.550" Callsign="RJBG_47_CTR" Name="N47">
     <Volumes>N47_SFC-335,N47_RJGG-CAP_150-335,N47_RJGG-CAP_120-335,N47_RJBB-CAP_150-335_W,N47_RJBB-CAP_190-335</Volumes>

@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Maps>
-  <Map Type="System" Name="RJOK" Priority="0" Center="+33.546111+133.669445">
+  <Map Type="System" Name="RJOK" CustomColourName="ACA_MAP" Priority="0" Center="+33.546111+133.669445">
     <Runway Name="14_32">
       <Threshold Name="14" Position="+33.553347+133.659136" ExtendedCentrelineTrack="310" ExtendedCentrelineLength="5" ExtendedCentrelineTickInterval="2" />
       <Threshold Name="32" Position="+33.538704+133.679624" ExtendedCentrelineTrack="130" ExtendedCentrelineLength="21" ExtendedCentrelineTickInterval="2"/>

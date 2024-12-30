@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Maps>
-  <Map Type="System" Name="RJOY" Priority="0" Center="+34.596667+135.600556">
+  <Map Type="System" Name="RJOY" CustomColourName="ACA_MAP" Priority="0" Center="+34.596667+135.600556">
     <Runway Name="09_27">
       <Threshold Name="09" Position="+34.595596+135.589368" ExtendedCentrelineTrack="267" ExtendedCentrelineLength="5" ExtendedCentrelineTickInterval="2" />
       <Threshold Name="27" Position="+34.596380+135.605580" ExtendedCentrelineTrack="087" ExtendedCentrelineLength="5" ExtendedCentrelineTickInterval="2"/>

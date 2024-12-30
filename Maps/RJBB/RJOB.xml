@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Maps>
-  <Map Type="System" Name="RJOB" Priority="0" Center="+34.756945+133.855278">
+  <Map Type="System" Name="RJOB" CustomColourName="ACA_MAP" Priority="0" Center="+34.756945+133.855278">
     <Runway Name="07_25">
       <Threshold Name="07" Position="+34.750019+133.841345" ExtendedCentrelineTrack="239" ExtendedCentrelineLength="21" ExtendedCentrelineTickInterval="2" />
       <Threshold Name="25" Position="+34.763835+133.869505" ExtendedCentrelineTrack="059" ExtendedCentrelineLength="21" ExtendedCentrelineTickInterval="2"/>

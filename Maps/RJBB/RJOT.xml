@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Maps>
-  <Map Type="System" Name="RJOT" Priority="0" Center="+34.214167+134.015556">
+  <Map Type="System" Name="RJOT" CustomColourName="ACA_MAP" Priority="0" Center="+34.214167+134.015556">
     <Runway Name="08_26">
       <Threshold Name="08" Position="+34.210731+134.002788" ExtendedCentrelineTrack="253" ExtendedCentrelineLength="5" ExtendedCentrelineTickInterval="2" />
       <Threshold Name="26" Position="+34.217371+134.028724" ExtendedCentrelineTrack="073" ExtendedCentrelineLength="21" ExtendedCentrelineTickInterval="2"/>

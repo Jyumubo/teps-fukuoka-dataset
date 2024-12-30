@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Maps>
-  <Map Type="System" Name="RJBB_24" Priority="0" Center="+34.434167+135.232778">
+  <Map Type="System" Name="RJBB_24" CustomColourName="ACA_MAP" Priority="0" Center="+34.434167+135.232778">
     <Runway Name="06R_24L">
       <Threshold Name="06R" Position="+34.417386+135.229262"/>
       <Threshold Name="24L" Position="+34.437231+135.258859" ExtendedCentrelineTrack="051" ExtendedCentrelineLength="11" ExtendedCentrelineTickInterval="2"/>
