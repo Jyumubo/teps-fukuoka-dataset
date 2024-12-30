@@ -3697,6 +3697,65 @@
       <Transition Name="NOPPY">NOPPY</Transition>
       <Route>NTE SIZMI</Route>
     </Approach>
+    <!-- RJOA-->
+    <SID Name="BOLIG2" Airport="RJOA" Runways="10,28">
+      <Route Runway="10">OA021 TOJYO BOLIG</Route>
+      <Route Runway="28">OA811 TOJYO BOLIG</Route>
+      <Transition Name="MIDER">IKUNO MIDER</Transition>
+    </SID>
+    <SID Name="KIJYY3" Airport="RJOA" Runways="10,28">
+      <Route Runway="10">OA021 TOJYO KIJYY</Route>
+      <Route Runway="28">OA811 TOJYO KIJYY</Route>
+      <Transition Name="TOZAN">TOZAN YME</Transition>
+    </SID>
+    <SID Name="MARCO2" Airport="RJOA" Runways="10,28">
+      <Route Runway="10">OA021 LEMON MARCO</Route>
+      <Route Runway="28">OA811 LEMON MARCO</Route>
+    </SID>
+    <SID Name="SINFO3" Airport="RJOA" Runways="10,28">
+      <Route Runway="10">OA021 AKANA SINFO</Route>
+      <Route Runway="28">OA811 AKAMA SINFO</Route>
+      <Transition Name="STAGE">STAGE</Transition>
+    </SID>
+    <SID Name="HGE4R" Airport="RJOA" Runways="10,28">
+      <Route Runway="10">HGE</Route>
+      <Route Runway="28">HGE</Route>
+    </SID>
+    <STAR Name="AXELA" Airport="RJOA" Runways="10">
+      <Route>AMURO CAROL TIIDA VISTA ATENZ AXELA</Route>
+    </STAR>
+    <STAR Name="DEMIO" Airport="RJOA" Runways="10">
+      <Route>AMURO MIATA DEMIO</Route>
+    </STAR>
+    <STAR Name="HGE" Airport="RJOA" Runways="10">
+      <Route>HGE MISEN</Route>
+    </STAR>
+    <STAR Name="MISEN" Airport="RJOA" Runways="10">
+      <Route>AMURO SAILA SEAWA MISEN</Route>
+    </STAR>
+    <STAR Name="VISTA" Airport="RJOA" Runways="28">
+      <Route>AMURO CAROL TIIDA VISTA</Route>
+    </STAR>
+    <STAR Name="PUNUP" Airport="RJOA" Runways="10">
+      <Route>AMURO AVDAK PUNUP</Route>
+    </STAR>
+    <Approach Name="ILSZ" Airport="RJOA" Runway="10">
+      <Route>MISEN MACKY</Route>
+    </Approach>
+    <Approach Name="ILSY" Airport="RJOA" Runway="10">
+      <Route>PUNUP PEGLU OA054 OA055 OA056 IGBAM</Route>
+    </Approach>
+    <Approach Name="RNPZ" Airport="RJOA" Runway="10">
+      <Route>DEMIO OA050 OA051 OA052</Route>
+    </Approach>
+    <Approach Name="RNPY" Airport="RJOA" Runway="10">
+      <Route>AXE;A OA061 OA062 OA052</Route>
+    </Approach>
+    <Approach Name="RNP" Airport="RJOA" Runway="28">
+      <Transition Name="MONTA">MONTA</Transition>
+      <Transition Name="ISOLA">ISOLA</Transition>
+      <Route>VISTA BUENA OA851 OA850</Route>
+    </Approach>
     <!-- RJOB-->
     <SID Name="CHIZU2" Airport="RJOB" Runways="07,25">
       <Route Runway="07">CHIZU</Route>
@@ -5922,7 +5981,7 @@
     <Route Runway="25">HVT</Route>
   </SID>
   <!-- RJSI-->
-  <SID Name="GTC5" Airport="RJSI" Runways="02,20">
+  <SID Name="GTC6" Airport="RJSI" Runways="02,20">
     <Route Runway="02">HPE GTC</Route>
     <Route Runway="20">HPE GTC</Route>
   </SID>
