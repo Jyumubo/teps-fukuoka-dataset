@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Maps>
-  <Map Type="System" Name="RJFU_14" Priority="0" Center="+32.916945+129.913611">
+  <Map Type="System" Name="RJFU_14" CustomColourName="ACA_MAP" Priority="0" Center="+32.916945+129.913611">
     <Runway Name="14_32">
       <Threshold Name="14" Position="+32.927006+129.902726" ExtendedCentrelineTrack="318" ExtendedCentrelineLength="21" ExtendedCentrelineTickInterval="2"/>
       <Threshold Name="32" Position="+32.906921+129.924185"/>
@@ -41,7 +41,7 @@
       <Point>DGC</Point>       
     </Symbol>
   </Map>
-  <Map Type="System" Name="RJFU_14_LABEL" Priority="2" Center="+32.916945+129.913611">
+  <Map Type="System" Name="RJFU_14_LABEL" CustomColourName="ACA_MAP" Priority="2" Center="+32.916945+129.913611">
     <Label>
       <Point>AKNAG</Point>
       <Point>MIGAP</Point>

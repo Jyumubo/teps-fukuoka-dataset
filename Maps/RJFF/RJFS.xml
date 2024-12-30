@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Maps>
-  <Map Type="System" Name="RJFS" Priority="0" Center="+33.149722+130.302222">
+  <Map Type="System" Name="RJFS" CustomColourName="ACA_MAP" Priority="0" Center="+33.149722+130.302222">
     <Runway Name="11_29">
       <Threshold Name="11" Position="+33.151155+130.291639" ExtendedCentrelineTrack="279" ExtendedCentrelineLength="5" ExtendedCentrelineTickInterval="2"/>
       <Threshold Name="29" Position="+33.148258+130.312801" ExtendedCentrelineTrack="99" ExtendedCentrelineLength="5" ExtendedCentrelineTickInterval="2"/>
@@ -38,7 +38,7 @@
       <Point>KUE</Point>
     </Symbol>
   </Map>
-  <Map Type="System" Name="RJFS_LABEL" Priority="2" Center="+33.149722+130.302222">
+  <Map Type="System" Name="RJFS_LABEL" CustomColourName="ACA_MAP" Priority="2" Center="+33.149722+130.302222">
     <Label>
       <Point>KIKYU</Point>
       <Point>WAITA</Point>

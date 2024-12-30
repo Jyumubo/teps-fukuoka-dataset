@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Maps>
-  <Map Type="System" Name="ROIG_04" Priority="0" Center="+24.396389+124.245000">
+  <Map Type="System" Name="ROIG_04" CustomColourName="ACA_MAP" Priority="0" Center="+24.396389+124.245000">
     <Runway Name="04_22">
       <Threshold Name="04" Position="+24.389099+124.239352" ExtendedCentrelineTrack="216" ExtendedCentrelineLength="21" ExtendedCentrelineTickInterval="2" />
       <Threshold Name="22" Position="+24.403783+124.250895" />
@@ -35,7 +35,7 @@
       <Point>IGE</Point>
     </Symbol>
   </Map>
-  <Map Type="System" Name="ROIG_04_LABEL" Priority="2" Center="+24.396389+124.245000">
+  <Map Type="System" Name="ROIG_04_LABEL" CustomColourName="ACA_MAP" Priority="2" Center="+24.396389+124.245000">
     <Label>
       <Point>IG400</Point>
       <Point>IG401</Point>

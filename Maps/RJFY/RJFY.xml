@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Maps>
-  <Map Type="System" Name="RJFY" Priority="0" Center="+31.368056+130.838056">
+  <Map Type="System" Name="RJFY" CustomColourName="ACA_MAP" Priority="0" Center="+31.368056+130.838056">
     <Runway Name="08L_26R">
       <Threshold Name="08L" Position="+31.367612+130.829980" ExtendedCentrelineTrack="253" ExtendedCentrelineLength="5" ExtendedCentrelineTickInterval="2" />
       <Threshold Name="26R" Position="+31.369634+130.842433" ExtendedCentrelineTrack="073" ExtendedCentrelineLength="5" ExtendedCentrelineTickInterval="2"/>
@@ -24,7 +24,7 @@
       <Point>JAT</Point>
     </Symbol>
   </Map>
-  <Map Type="System" Name="RJFY_LABEL" Priority="2" Center="+31.368056+130.838056">
+  <Map Type="System" Name="RJFY_LABEL" CustomColourName="ACA_MAP" Priority="2" Center="+31.368056+130.838056">
     <Label>
       <Point>EKORU</Point>
       <Point>MAKRA</Point>

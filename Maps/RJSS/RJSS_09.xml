@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Maps>
-  <Map Type="System" Name="RJSS_09" Priority="0" Center="+38.139722+140.916945">
+  <Map Type="System" Name="RJSS_09" CustomColourName="ACA_MAP" Priority="0" Center="+38.139722+140.916945">
     <Runway Name="09_27">
       <Threshold Name="09" Position="+38.138761+140.898762" ExtendedCentrelineTrack="263" ExtendedCentrelineLength="21" ExtendedCentrelineTickInterval="2" />
       <Threshold Name="27" Position="+38.142263+140.932696"/>
@@ -49,7 +49,7 @@
       <Point>IXE</Point>
     </Symbol>
   </Map>
-  <Map Type="System" Name="RJSS_09_LABEL" Priority="2" Center="+38.139722+140.916945">
+  <Map Type="System" Name="RJSS_09_LABEL" CustomColourName="ACA_MAP" Priority="2" Center="+38.139722+140.916945">
     <Label>
       <Point>SS901</Point>
       <Point>HAGNO</Point>

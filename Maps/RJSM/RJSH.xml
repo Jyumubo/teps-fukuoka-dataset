@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Maps>
-  <Map Type="System" Name="RJSH" Priority="0" Center="+40.551945+141.467222">
+  <Map Type="System" Name="RJSH" CustomColourName="ACA_MAP" Priority="0" Center="+40.551945+141.467222">
     <Runway Name="07_25">
       <Threshold Name="07" Position="+40.547494+141.455242" ExtendedCentrelineTrack="244" ExtendedCentrelineLength="5" ExtendedCentrelineTickInterval="2" />
       <Threshold Name="25" Position="+40.556524+141.479070" ExtendedCentrelineTrack="064" ExtendedCentrelineLength="21" ExtendedCentrelineTickInterval="2"/>
@@ -18,7 +18,7 @@
       <Point>HVT</Point>
     </Symbol>
   </Map>
-  <Map Type="System" Name="RJSH_LABEL" Priority="2" Center="+40.551945+141.467222">
+  <Map Type="System" Name="RJSH_LABEL" CustomColourName="ACA_MAP" Priority="2" Center="+40.551945+141.467222">
     <Label>
       <Point>OLSOX</Point>
       <Point>ASUDA</Point>

@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Maps>
-  <Map Type="System" Name="RORS_35" Priority="0" Center="+24.826667+125.144722">
+  <Map Type="System" Name="RORS_35" CustomColourName="ACA_MAP" Priority="0" Center="+24.826667+125.144722">
     <Runway Name="17_35">
       <Threshold Name="17" Position="+24.840020+125.141353"/>
       <Threshold Name="35" Position="+24.813755+125.148524" ExtendedCentrelineTrack="166" ExtendedCentrelineLength="21" ExtendedCentrelineTickInterval="2" />
@@ -27,7 +27,7 @@
       <Point>SJE</Point>
     </Symbol>
   </Map>
-  <Map Type="System" Name="RORS_35_LABEL" Priority="2" Center="+24.826667+125.144722">
+  <Map Type="System" Name="RORS_35_LABEL" CustomColourName="ACA_MAP" Priority="2" Center="+24.826667+125.144722">
     <Label>
       <Point>ANNIE</Point>
       <Point>BETTY</Point>

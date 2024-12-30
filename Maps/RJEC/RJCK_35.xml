@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Maps>
-  <Map Type="System" Name="RJCK_35" Priority="0" Center="+43.040833+144.193056">
+  <Map Type="System" Name="RJCK_35" CustomColourName="ACA_MAP" Priority="0" Center="+43.040833+144.193056">
     <Runway Name="17_35">
       <Threshold Name="17" Position="+43.051469+144.187482"/>
       <Threshold Name="35" Position="+43.030472+144.198492" ExtendedCentrelineTrack="159" ExtendedCentrelineLength="5" ExtendedCentrelineTickInterval="2" />
@@ -29,7 +29,7 @@
       <Point>TCE</Point>
     </Symbol>
   </Map>
-  <Map Type="System" Name="RJCK_35_LABEL" Priority="2" Center="+43.040833+144.193056">
+  <Map Type="System" Name="RJCK_35_LABEL" CustomColourName="ACA_MAP" Priority="2" Center="+43.040833+144.193056">
     <Label>
       <Point>TASAB</Point>
       <Point>MUBLA</Point>

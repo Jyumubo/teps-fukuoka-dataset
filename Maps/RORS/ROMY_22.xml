@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Maps>
-  <Map Type="System" Name="ROMY_22" Priority="0" Center="+24.782778+125.295000">
+  <Map Type="System" Name="ROMY_22" CustomColourName="ACA_MAP" Priority="0" Center="+24.782778+125.295000">
     <Runway Name="04_22">
       <Threshold Name="04" Position="+24.775751+125.289022"/>
       <Threshold Name="22" Position="+24.789912+125.301281" ExtendedCentrelineTrack="038" ExtendedCentrelineLength="21" ExtendedCentrelineTickInterval="2" />
@@ -26,7 +26,7 @@
       <Point>MJC</Point>
     </Symbol>
   </Map>
-  <Map Type="System" Name="ROMY_22_LABEL" Priority="2" Center="+24.782778+125.295000">
+  <Map Type="System" Name="ROMY_22_LABEL" CustomColourName="ACA_MAP" Priority="2" Center="+24.782778+125.295000">
     <Label>
       <Point>FREED</Point>
       <Point>PAYAO</Point>

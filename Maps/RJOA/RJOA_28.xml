@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Maps>
-  <Map Type="System" Name="RJOA_28" Priority="0" Center="+34.436111+132.919445">
+  <Map Type="System" Name="RJOA_28" CustomColourName="ACA_MAP" Priority="0" Center="+34.436111+132.919445">
     <Runway Name="10_28">
       <Threshold Name="10" Position="+34.436020+132.903132"/>
       <Threshold Name="28" Position="+34.436023+132.935758" ExtendedCentrelineTrack="090" ExtendedCentrelineLength="21" ExtendedCentrelineTickInterval="2"/>
@@ -35,7 +35,7 @@
       <Point>HGE</Point>
     </Symbol>
   </Map>
-  <Map Type="System" Name="RJOA_28_LABEL" Priority="2" Center="+34.436111+132.919445">
+  <Map Type="System" Name="RJOA_28_LABEL" CustomColourName="ACA_MAP" Priority="2" Center="+34.436111+132.919445">
     <Label>
       <Point>OA811</Point>
       <Point>TOJYO</Point>

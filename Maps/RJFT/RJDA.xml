@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Maps>
-  <Map Type="System" Name="RJDA" Priority="0" Center="+32.482222+130.158889">
+  <Map Type="System" Name="RJDA" CustomColourName="ACA_MAP" Priority="0" Center="+32.482222+130.158889">
     <Runway Name="13_31">
       <Threshold Name="13" Position="+32.485051+130.154504" ExtendedCentrelineTrack="305" ExtendedCentrelineLength="5" ExtendedCentrelineTickInterval="2" />
       <Threshold Name="31" Position="+32.479966+130.163199" ExtendedCentrelineTrack="125" ExtendedCentrelineLength="5" ExtendedCentrelineTickInterval="2"/>
@@ -25,7 +25,7 @@
       <Point>AKE</Point>
     </Symbol>
   </Map>
-  <Map Type="System" Name="RJDA_LABEL" Priority="2" Center="+32.482222+130.158889">
+  <Map Type="System" Name="RJDA_LABEL" CustomColourName="ACA_MAP" Priority="2" Center="+32.482222+130.158889">
     <Label>
       <Point>JABOH</Point>
       <Point>FUGEN</Point>

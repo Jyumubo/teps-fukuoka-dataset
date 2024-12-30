@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Maps>
-  <Map Type="System" Name="RJSN_28" Priority="0" Center="+37.955833+139.111667">
+  <Map Type="System" Name="RJSN_28" CustomColourName="ACA_MAP" Priority="0" Center="+37.955833+139.111667">
     <Runway Name="10_28">
       <Threshold Name="10" Position="+37.956836+139.095611"/>
       <Threshold Name="28" Position="+37.955787+139.124050" ExtendedCentrelineTrack="093" ExtendedCentrelineLength="21" ExtendedCentrelineTickInterval="2" />
@@ -37,7 +37,7 @@
       <Point>GTC</Point>
     </Symbol>
   </Map>
-  <Map Type="System" Name="RJSN_28_LABEL" Priority="2" Center="+37.955833+139.111667">
+  <Map Type="System" Name="RJSN_28_LABEL" CustomColourName="ACA_MAP" Priority="2" Center="+37.955833+139.111667">
     <Label>
       <Point>SN800</Point>
       <Point>MOKBA</Point>

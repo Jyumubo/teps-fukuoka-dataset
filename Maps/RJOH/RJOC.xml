@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Maps>
-  <Map Type="System" Name="RJOC" Priority="0" Center="+35.413611+132.890000">
+  <Map Type="System" Name="RJOC" CustomColourName="ACA_MAP" Priority="0" Center="+35.413611+132.890000">
     <Runway Name="07_25">
       <Threshold Name="07" Position="+35.409100+132.880476" ExtendedCentrelineTrack="239" ExtendedCentrelineLength="5" ExtendedCentrelineTickInterval="2"/>
       <Threshold Name="25" Position="+35.418277+132.899461" ExtendedCentrelineTrack="59" ExtendedCentrelineLength="5" ExtendedCentrelineTickInterval="2"/>
@@ -38,7 +38,7 @@
       <Point>XZE</Point>
     </Symbol>
   </Map>
-  <Map Type="System" Name="RJOC_LABEL" Priority="2" Center="+35.413611+132.890000">
+  <Map Type="System" Name="RJOC_LABEL" CustomColourName="ACA_MAP" Priority="2" Center="+35.413611+132.890000">
     <Label>
       <Point>DOZEN</Point>
       <Point>OC715</Point>

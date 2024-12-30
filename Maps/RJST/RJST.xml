@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Maps>
-  <Map Type="System" Name="RJST" Priority="0" Center="+38.403056+141.211945">
+  <Map Type="System" Name="RJST" CustomColourName="ACA_MAP" Priority="0" Center="+38.403056+141.211945">
     <Runway Name="07_25">
       <Threshold Name="07" Position="+38.395282+141.198270" ExtendedCentrelineTrack="239" ExtendedCentrelineLength="5" ExtendedCentrelineTickInterval="2" />
       <Threshold Name="25" Position="+38.408110+141.224511" ExtendedCentrelineTrack="059" ExtendedCentrelineLength="5" ExtendedCentrelineTickInterval="2"/>
@@ -34,7 +34,7 @@
       <Point>GOT</Point>
     </Symbol>
   </Map>
-  <Map Type="System" Name="RJST_LABEL" Priority="2" Center="+38.403056+141.211945">
+  <Map Type="System" Name="RJST_LABEL" CustomColourName="ACA_MAP" Priority="2" Center="+38.403056+141.211945">
     <Label>
       <Point>DAIWA</Point>
       <Point>RIASU</Point>

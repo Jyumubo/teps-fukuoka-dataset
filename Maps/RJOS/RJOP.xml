@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Maps>
-  <Map Type="System" Name="RJOP" Priority="0" Center="+34.005278+134.626389">
+  <Map Type="System" Name="RJOP" CustomColourName="ACA_MAP" Priority="0" Center="+34.005278+134.626389">
     <Runway Name="17_35">
       <Threshold Name="17" Position="+34.006332+134.626124" ExtendedCentrelineTrack="343" ExtendedCentrelineLength="5" ExtendedCentrelineTickInterval="2"/>
       <Threshold Name="35" Position="+34.004171+134.626838" ExtendedCentrelineTrack="163" ExtendedCentrelineLength="5" ExtendedCentrelineTickInterval="2"/>
@@ -17,7 +17,7 @@
       <Point>KJT</Point>
     </Symbol>
   </Map>
-  <Map Type="System" Name="RJOP_LABEL" Priority="2" Center="+34.005278+134.626389">
+  <Map Type="System" Name="RJOP_LABEL" CustomColourName="ACA_MAP" Priority="2" Center="+34.005278+134.626389">
     <Label>
       <Point>TOSAR</Point>
       <Point>ISIMA</Point>

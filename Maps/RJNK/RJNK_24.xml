@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Maps>
-  <Map Type="System" Name="RJNK_24" Priority="0" Center="+36.393889+136.407500">
+  <Map Type="System" Name="RJNK_24" CustomColourName="ACA_MAP" Priority="0" Center="+36.393889+136.407500">
     <Runway Name="06_24">
       <Threshold Name="06" Position="+36.387042+136.395087"/>
       <Threshold Name="24" Position="+36.400839+136.419865" ExtendedCentrelineTrack="055" ExtendedCentrelineLength="21" ExtendedCentrelineTickInterval="2"/>
@@ -38,7 +38,7 @@
       <Point>YME</Point>
     </Symbol>
   </Map>
-  <Map Type="System" Name="RJNK_24_LABEL" Priority="2" Center="+36.393889+136.407500">
+  <Map Type="System" Name="RJNK_24_LABEL" CustomColourName="ACA_MAP" Priority="2" Center="+36.393889+136.407500">
     <Label>
       <Point>HAKUI</Point>
       <Point>GINJO</Point>

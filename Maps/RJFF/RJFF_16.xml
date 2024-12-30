@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Maps>
-  <Map Type="System" Name="RJFF_16" Priority="0" Center="+33.584445+130.451667">
+  <Map Type="System" Name="RJFF_16" CustomColourName="ACA_MAP" Priority="0" Center="+33.584445+130.451667">
     <Runway Name="16_34">
       <Threshold Name="16" Position="+33.596904+130.443193" ExtendedCentrelineTrack="330" ExtendedCentrelineLength="21" ExtendedCentrelineTickInterval="2"/>
       <Threshold Name="34" Position="+33.574965+130.458192"/>
@@ -94,7 +94,7 @@
       <Point>MYE</Point> 
     </Symbol>
   </Map>
-  <Map Type="System" Name="RJFF_16_LABEL" Priority="2" Center="+33.584445+130.451667">
+  <Map Type="System" Name="RJFF_16_LABEL" CustomColourName="ACA_MAP" Priority="2" Center="+33.584445+130.451667">
     <Label>
       <Point>YAMEK</Point>
       <Point>DAIZE</Point>
@@ -174,7 +174,7 @@
       <Point>GUSPA</Point>    
     </Label>
   </Map>
-  <Map Type="System" Name="RJFF_STAR_16" Priority="0" Center="+33.584445+130.451667">
+  <Map Type="System" Name="RJFF_STAR_16" CustomColourName="ACA_MAP" Priority="0" Center="+33.584445+130.451667">
     <Line Name="OSTEP" Pattern="Dotted">
       <Point>
         OSTEP/
@@ -191,7 +191,7 @@
       </Point>
     </Line>
   </Map>
-  <Map Type="System" Name="RJFF_IAP_16" Priority="0" CustomColourName="IAP" Center="+33.584445+130.451667">
+  <Map Type="System" Name="RJFF_IAP_16" CustomColourName="ACA_MAP" Priority="0" CustomColourName="IAP" Center="+33.584445+130.451667">
     <Line Name="RNP" Pattern="Dotted">
       <Point>
         MALTS/

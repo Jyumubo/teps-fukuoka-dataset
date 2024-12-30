@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Maps>
-  <Map Type="System" Name="RJOM" Priority="0" Center="+33.827222+132.699722">
+  <Map Type="System" Name="RJOM" CustomColourName="ACA_MAP" Priority="0" Center="+33.827222+132.699722">
     <Runway Name="14_32">
       <Threshold Name="14" Position="+33.834583+132.689366" ExtendedCentrelineTrack="311" ExtendedCentrelineLength="21" ExtendedCentrelineTickInterval="2"/>
       <Threshold Name="32" Position="+33.819923+132.709890" ExtendedCentrelineTrack="131" ExtendedCentrelineLength="5" ExtendedCentrelineTickInterval="2"/>
@@ -38,7 +38,7 @@
       <Point>KRE</Point>
     </Symbol>
   </Map>
-  <Map Type="System" Name="RJOM_LABEL" Priority="2" Center="+33.827222+132.699722">
+  <Map Type="System" Name="RJOM_LABEL" CustomColourName="ACA_MAP" Priority="2" Center="+33.827222+132.699722">
     <Label>
       <Point>SHONO</Point>
       <Point>MARCO</Point>

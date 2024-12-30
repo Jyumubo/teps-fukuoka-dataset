@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Maps>
-  <Map Type="System" Name="RJFT_25" Priority="0" Center="+32.837222+130.855278">
+  <Map Type="System" Name="RJFT_25" CustomColourName="ACA_MAP" Priority="0" Center="+32.837222+130.855278">
     <Runway Name="07_25">
       <Threshold Name="07" Position="+32.831513+130.840589" ExtendedCentrelineTrack="245" ExtendedCentrelineLength="21" ExtendedCentrelineTickInterval="2"/>
       <Threshold Name="25" Position="+32.843124+130.869532" ExtendedCentrelineTrack="065" ExtendedCentrelineLength="5" ExtendedCentrelineTickInterval="2"/>
@@ -44,7 +44,7 @@
       <Point>MYE</Point>      
     </Symbol>
   </Map>
-  <Map Type="System" Name="RJFT_25_LABEL" Priority="2" Center="+32.837222+130.855278">
+  <Map Type="System" Name="RJFT_25_LABEL" CustomColourName="ACA_MAP" Priority="2" Center="+32.837222+130.855278">
     <Label>
       <Point>HINAG</Point>
       <Point>RINDO</Point>

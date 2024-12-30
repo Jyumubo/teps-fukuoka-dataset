@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Maps>
-  <Map Type="System" Name="RJCH_12" Priority="0" Center="+41.770000+140.821945">
+  <Map Type="System" Name="RJCH_12" CustomColourName="ACA_MAP" Priority="0" Center="+41.770000+140.821945">
     <Runway Name="12_30">
       <Threshold Name="12" Position="+41.774330+140.804885" ExtendedCentrelineTrack="288" ExtendedCentrelineLength="21" ExtendedCentrelineTickInterval="2" />
       <Threshold Name="30" Position="+41.765986+140.839239"/>
@@ -29,7 +29,7 @@
       <Point>UWE</Point>
     </Symbol>
   </Map>
-  <Map Type="System" Name="RJCH_12_LABEL" Priority="2" Center="+41.770000+140.821945">
+  <Map Type="System" Name="RJCH_12_LABEL" CustomColourName="ACA_MAP" Priority="2" Center="+41.770000+140.821945">
     <Label>
       <Point>ESASI</Point>
       <Point>TIKYU</Point>

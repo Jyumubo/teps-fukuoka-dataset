@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Maps>
-  <Map Type="System" Name="RJCJ_18" Priority="0" Center="+42.794445+141.666389">
+  <Map Type="System" Name="RJCJ_18" CustomColourName="ACA_MAP" Priority="0" Center="+42.794445+141.666389">
     <Runway Name="18L_36R">
       <Threshold Name="18L" Position="+42.810922+141.665633" ExtendedCentrelineTrack="352" ExtendedCentrelineLength="21" ExtendedCentrelineTickInterval="2" />
       <Threshold Name="36R" Position="+42.775227+141.671927"/>
@@ -48,7 +48,7 @@
       <Point>MKE</Point>
     </Symbol>
   </Map>
-  <Map Type="System" Name="RJCJ_18_LABEL" Priority="2" Center="+42.794445+141.666389">
+  <Map Type="System" Name="RJCJ_18_LABEL" CustomColourName="ACA_MAP" Priority="2" Center="+42.794445+141.666389">
     <Label>
       <Point>KURIS</Point>
       <Point>TOBBY</Point>

@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Maps>
-  <Map Type="System" Name="RJSK_28" Priority="0" Center="+39.615556+140.218611">
+  <Map Type="System" Name="RJSK_28" CustomColourName="ACA_MAP" Priority="0" Center="+39.615556+140.218611">
     <Runway Name="10_28">
       <Threshold Name="10" Position="+39.616946+140.204254"/>
       <Threshold Name="28" Position="+39.614366+140.233090" ExtendedCentrelineTrack="096" ExtendedCentrelineLength="21" ExtendedCentrelineTickInterval="2" />
@@ -35,7 +35,7 @@
       <Point>UWE</Point>   
     </Symbol>
   </Map>
-  <Map Type="System" Name="RJSK_28_LABEL" Priority="2" Center="+39.615556+140.218611">
+  <Map Type="System" Name="RJSK_28_LABEL" CustomColourName="ACA_MAP" Priority="2" Center="+39.615556+140.218611">
     <Label>
       <Point>NUPLI</Point>
       <Point>IRNOG</Point>

@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Maps>
-  <Map Type="System" Name="RJOS" Priority="0" Center="+34.132222+134.609167">
+  <Map Type="System" Name="RJOS" CustomColourName="ACA_MAP" Priority="0" Center="+34.132222+134.609167">
     <Runway Name="11_29">
       <Threshold Name="11" Position="+34.134720+134.596007" ExtendedCentrelineTrack="282" ExtendedCentrelineLength="5" ExtendedCentrelineTickInterval="2"/>
       <Threshold Name="29" Position="+34.129819+134.622522" ExtendedCentrelineTrack="102" ExtendedCentrelineLength="21" ExtendedCentrelineTickInterval="2"/>
@@ -29,7 +29,7 @@
       <Point>KEC</Point>
     </Symbol>
   </Map>
-  <Map Type="System" Name="RJOS_LABEL" Priority="2" Center="+34.132222+134.609167">
+  <Map Type="System" Name="RJOS_LABEL" CustomColourName="ACA_MAP" Priority="2" Center="+34.132222+134.609167">
     <Label>
       <Point>HATIS</Point>
       <Point>SIJIL</Point>

@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Maps>
-  <Map Type="System" Name="RJFN" Priority="0" Center="+32.083611+131.451389">
+  <Map Type="System" Name="RJFN" CustomColourName="ACA_MAP" Priority="0" Center="+32.083611+131.451389">
     <Runway Name="10_28">
       <Threshold Name="10" Position="+32.086178+131.437651" ExtendedCentrelineTrack="281" ExtendedCentrelineLength="5" ExtendedCentrelineTickInterval="2" />
       <Threshold Name="28" Position="+32.081274+131.465699" ExtendedCentrelineTrack="101" ExtendedCentrelineLength="21" ExtendedCentrelineTickInterval="2"/>
@@ -24,7 +24,7 @@
       <Point>NHT</Point>
     </Symbol>
   </Map>
-  <Map Type="System" Name="RJFN_LABEL" Priority="2" Center="+32.083611+131.451389">
+  <Map Type="System" Name="RJFN_LABEL" CustomColourName="ACA_MAP" Priority="2" Center="+32.083611+131.451389">
     <Label>
       <Point>NIPPO</Point>
       <Point>TENSO</Point>

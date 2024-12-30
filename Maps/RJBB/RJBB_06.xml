@@ -100,7 +100,7 @@
       <Point>TSC</Point>
     </Symbol>
   </Map>
-  <Map Type="System" Name="RJBB_06_LABEL" Priority="2" Center="+34.434167+135.232778">
+  <Map Type="System" Name="RJBB_06_LABEL" CustomColourName="ACA_MAP" Priority="2" Center="+34.434167+135.232778">
     <Label>
       <Point>B6R10</Point>
       <Point>B6R11</Point>

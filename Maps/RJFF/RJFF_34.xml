@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Maps>
-  <Map Type="System" Name="RJFF_34" Priority="0" Center="+33.584445+130.451667">
+  <Map Type="System" Name="RJFF_34" CustomColourName="ACA_MAP" Priority="0" Center="+33.584445+130.451667">
     <Runway Name="16_34">
       <Threshold Name="16" Position="+33.596904+130.443193"/>
       <Threshold Name="34" Position="+33.574965+130.458192" ExtendedCentrelineTrack="150" ExtendedCentrelineLength="21" ExtendedCentrelineTickInterval="2"/>
@@ -83,7 +83,7 @@
       <Point>MYE</Point>
     </Symbol>
   </Map>
-  <Map Type="System" Name="RJFF_34_LABEL" Priority="2" Center="+33.584445+130.451667">
+  <Map Type="System" Name="RJFF_34_LABEL" CustomColourName="ACA_MAP" Priority="2" Center="+33.584445+130.451667">
     <Label>
       <Point>YURRU</Point>
       <Point>YAMEK</Point>

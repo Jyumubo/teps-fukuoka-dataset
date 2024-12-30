@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Maps>
-  <Map Type="System" Name="RJEC" Priority="0" Center="+43.670833+142.447500">
+  <Map Type="System" Name="RJEC" CustomColourName="ACA_MAP" Priority="0" Center="+43.670833+142.447500">
     <Runway Name="16_34">
       <Threshold Name="16" Position="+43.680861+142.440805" ExtendedCentrelineTrack="334" ExtendedCentrelineLength="5" ExtendedCentrelineTickInterval="2" />
       <Threshold Name="34" Position="+43.660579+142.454331" ExtendedCentrelineTrack="154" ExtendedCentrelineLength="5" ExtendedCentrelineTickInterval="2"/>
@@ -20,7 +20,7 @@
       <Point>AWE</Point>
     </Symbol>
   </Map>
-  <Map Type="System" Name="RJEC_LABEL" Priority="2" Center="+43.670833+142.447500">
+  <Map Type="System" Name="RJEC_LABEL" CustomColourName="ACA_MAP" Priority="2" Center="+43.670833+142.447500">
     <Label>
       <Point>KAGRA</Point>
       <Point>ASIBE</Point>

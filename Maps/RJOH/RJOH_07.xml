@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Maps>
-  <Map Type="System" Name="RJOH_07" Priority="0" Center="+35.493333+133.239167">
+  <Map Type="System" Name="RJOH_07" CustomColourName="ACA_MAP" Priority="0" Center="+35.493333+133.239167">
     <Runway Name="07_25">
       <Threshold Name="07" Position="+35.488420+133.226819" ExtendedCentrelineTrack="243" ExtendedCentrelineLength="21" ExtendedCentrelineTickInterval="2"/>
       <Threshold Name="25" Position="+35.498327+133.251604"/>
@@ -39,7 +39,7 @@
       <Point>JET</Point>
     </Symbol>
   </Map>
-  <Map Type="System" Name="RJOH_07_LABEL" Priority="2" Center="+35.493333+133.239167">
+  <Map Type="System" Name="RJOH_07_LABEL" CustomColourName="ACA_MAP" Priority="2" Center="+35.493333+133.239167">
     <Label>
       <Point>DOZEN</Point>
       <Point>INABA</Point>

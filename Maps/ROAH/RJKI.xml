@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Maps>
-  <Map Type="System" Name="RJKI" Priority="0" Center="+28.321389+129.928056">
+  <Map Type="System" Name="RJKI" CustomColourName="ACA_MAP" Priority="0" Center="+28.321389+129.928056">
     <Runway Name="07_25">
       <Threshold Name="07" Position="+28.319404+129.922309" ExtendedCentrelineTrack="243" ExtendedCentrelineLength="5" ExtendedCentrelineTickInterval="2" />
       <Threshold Name="25" Position="+28.323838+129.933454" ExtendedCentrelineTrack="063" ExtendedCentrelineLength="5" ExtendedCentrelineTickInterval="2"/>
@@ -33,7 +33,7 @@
       <Point>AME</Point>
     </Symbol>
   </Map>
-  <Map Type="System" Name="RJKI_LABEL" Priority="2" Center="+28.321389+129.928056">
+  <Map Type="System" Name="RJKI_LABEL" CustomColourName="ACA_MAP" Priority="2" Center="+28.321389+129.928056">
     <Label>
       <Point>KI773</Point>
       <Point>BOROS</Point>

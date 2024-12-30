@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Maps>
-  <Map Type="System" Name="ROAH_36" Priority="0" Center="+26.193333+127.639722">
+  <Map Type="System" Name="ROAH_36" CustomColourName="ACA_MAP" Priority="0" Center="+26.193333+127.639722">
     <Runway Name="18R_36L">
       <Threshold Name="18R" Position="+26.203053+127.632424"/>
       <Threshold Name="36L" Position="+26.178699+127.633562" ExtendedCentrelineTrack="177" ExtendedCentrelineLength="21" ExtendedCentrelineTickInterval="2"/>
@@ -54,7 +54,7 @@
       <Point>NHC</Point>
     </Symbol>
   </Map>
-  <Map Type="System" Name="ROAH_36_LABEL" Priority="2" Center="+26.193333+127.639722">
+  <Map Type="System" Name="ROAH_36_LABEL" CustomColourName="ACA_MAP" Priority="2" Center="+26.193333+127.639722">
     <Label>
       <Point>H6R00</Point>
       <Point>KIZNA</Point>
@@ -96,7 +96,7 @@
       <Point>NHC</Point>
     </Label>
   </Map>
-  <Map Type="System" Name="ROAH_STAR_36" Priority="0" Center="+26.193333+127.639722">
+  <Map Type="System" Name="ROAH_STAR_36" CustomColourName="ACA_MAP" Priority="0" Center="+26.193333+127.639722">
     <Line Name="IHEYA_S" Pattern="Dotted">
       <Point>
         IHEYA/
@@ -105,7 +105,7 @@
       </Point>
     </Line>
   </Map>
-  <Map Type="System" Name="ROAH_IAP_36" Priority="0" CustomColourName="IAP" Center="+26.193333+127.639722">
+  <Map Type="System" Name="ROAH_IAP_36" CustomColourName="ACA_MAP" Priority="0" CustomColourName="IAP" Center="+26.193333+127.639722">
     <Line Name="IHEYA_S" Pattern="Dotted">
       <Point>
         SEIFA/

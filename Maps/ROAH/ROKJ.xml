@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Maps>
-  <Map Type="System" Name="ROKJ" Priority="0" Center="+26.363611+126.713889">
+  <Map Type="System" Name="ROKJ" CustomColourName="ACA_MAP" Priority="0" Center="+26.363611+126.713889">
     <Runway Name="03_21">
       <Threshold Name="03" Position="+26.355067+126.710164" ExtendedCentrelineTrack="201" ExtendedCentrelineLength="21" ExtendedCentrelineTickInterval="2" />
       <Threshold Name="21" Position="+26.371896+126.717416" ExtendedCentrelineTrack="021" ExtendedCentrelineLength="5" ExtendedCentrelineTickInterval="2"/>
@@ -23,7 +23,7 @@
       <Point>KXC</Point>
     </Symbol>
   </Map>
-  <Map Type="System" Name="ROKJ_LABEL" Priority="2" Center="+26.363611+126.713889">
+  <Map Type="System" Name="ROKJ_LABEL" CustomColourName="ACA_MAP" Priority="2" Center="+26.363611+126.713889">
     <Label>
       <Point>KJ300</Point>
       <Point>DUFFY</Point>

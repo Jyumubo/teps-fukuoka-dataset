@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Maps>
-  <Map Type="System" Name="RJFM_27" Priority="0" Center="+31.877222+131.448611">
+  <Map Type="System" Name="RJFM_27" CustomColourName="ACA_MAP" Priority="0" Center="+31.877222+131.448611">
     <Runway Name="09_27">
       <Threshold Name="09" Position="+31.876173+131.435277"/>
       <Threshold Name="27" Position="+31.878064+131.461606" ExtendedCentrelineTrack="085" ExtendedCentrelineLength="21" ExtendedCentrelineTickInterval="2"/>
@@ -40,7 +40,7 @@
       <Point>MZE</Point>    
     </Symbol>
   </Map>
-  <Map Type="System" Name="RJFM_27_LABEL" Priority="2" Center="+31.877222+131.448611">
+  <Map Type="System" Name="RJFM_27_LABEL" CustomColourName="ACA_MAP" Priority="2" Center="+31.877222+131.448611">
     <Label>
       <Point>JACKY</Point>
       <Point>FM703</Point>

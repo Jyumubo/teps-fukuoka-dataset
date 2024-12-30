@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Maps>
-  <Map Type="System" Name="RJKN" Priority="0" Center="+27.836389+128.881389">
+  <Map Type="System" Name="RJKN" CustomColourName="ACA_MAP" Priority="0" Center="+27.836389+128.881389">
     <Runway Name="01_19">
       <Threshold Name="01" Position="+27.827431+128.880407" ExtendedCentrelineTrack="186" ExtendedCentrelineLength="5" ExtendedCentrelineTickInterval="2" />
       <Threshold Name="19" Position="+27.845407+128.882248" ExtendedCentrelineTrack="006" ExtendedCentrelineLength="5" ExtendedCentrelineTickInterval="2"/>
@@ -42,7 +42,7 @@
       <Point>ONC</Point>
     </Symbol>
   </Map>
-  <Map Type="System" Name="RJKN_LABEL" Priority="2" Center="+27.836389+128.881389">
+  <Map Type="System" Name="RJKN_LABEL" CustomColourName="ACA_MAP" Priority="2" Center="+27.836389+128.881389">
     <Label>
       <Point>KN901</Point>
       <Point>KOKTO</Point>

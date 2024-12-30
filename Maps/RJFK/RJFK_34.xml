@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Maps>
-  <Map Type="System" Name="RJFK_34" Priority="0" Center="+31.803333+130.719445">
+  <Map Type="System" Name="RJFK_34" CustomColourName="ACA_MAP" Priority="0" Center="+31.803333+130.719445">
     <Runway Name="16_34">
       <Threshold Name="16" Position="+31.815115+130.711465"/>
       <Threshold Name="34" Position="+31.791681+130.727299" ExtendedCentrelineTrack="150" ExtendedCentrelineLength="21" ExtendedCentrelineTickInterval="2"/>
@@ -39,7 +39,7 @@
       <Point>KGE</Point>      
     </Symbol>
   </Map>
-  <Map Type="System" Name="RJFK_34_LABEL" Priority="2" Center="+31.803333+130.719445">
+  <Map Type="System" Name="RJFK_34_LABEL" CustomColourName="ACA_MAP" Priority="2" Center="+31.803333+130.719445">
     <Label>
       <Point>OVSID</Point>
       <Point>ATRUK</Point>

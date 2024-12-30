@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Maps>
-  <Map Type="System" Name="RJNF" Priority="0" Center="+36.142778+136.223889">
+  <Map Type="System" Name="RJNF" CustomColourName="ACA_MAP" Priority="0" Center="+36.142778+136.223889">
     <Runway Name="18_36">
       <Threshold Name="18" Position="+36.148240+136.223445" ExtendedCentrelineTrack="356" ExtendedCentrelineLength="5" ExtendedCentrelineTickInterval="2" />
       <Threshold Name="36" Position="+36.137463+136.224395" ExtendedCentrelineTrack="176" ExtendedCentrelineLength="5" ExtendedCentrelineTickInterval="2"/>
@@ -12,7 +12,7 @@
       <Point>AWARA</Point>
     </Symbol>
   </Map>
-  <Map Type="System" Name="RJNF_LABEL" Priority="2" Center="+36.142778+136.223889">
+  <Map Type="System" Name="RJNF_LABEL" CustomColourName="ACA_MAP" Priority="2" Center="+36.142778+136.223889">
     <Label>
       <Point>AWARA</Point>
       <Point>GOZEN</Point>

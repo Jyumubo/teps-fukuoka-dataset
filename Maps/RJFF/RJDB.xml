@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Maps>
-  <Map Type="System" Name="RJDB" Priority="0" Center="+33.749167+129.785833">
+  <Map Type="System" Name="RJDB" CustomColourName="ACA_MAP" Priority="0" Center="+33.749167+129.785833">
     <Runway Name="02_20">
       <Threshold Name="02" Position="+33.743681+129.784652" ExtendedCentrelineTrack="189" ExtendedCentrelineLength="5" ExtendedCentrelineTickInterval="2"/>
       <Threshold Name="20" Position="+33.754373+129.786758" ExtendedCentrelineTrack="009" ExtendedCentrelineLength="5" ExtendedCentrelineTickInterval="2"/>
@@ -27,7 +27,7 @@
       <Point>KUE</Point>
     </Symbol>
   </Map>
-  <Map Type="System" Name="RJDB_LABEL" Priority="2" Center="+33.749167+129.785833">
+  <Map Type="System" Name="RJDB_LABEL" CustomColourName="ACA_MAP" Priority="2" Center="+33.749167+129.785833">
     <Label>
       <Point>AKNAG</Point>
       <Point>GAMJA</Point>

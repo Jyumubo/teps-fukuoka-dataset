@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Maps>
-  <Map Type="System" Name="RJCC_01" Priority="0" Center="+42.775278+141.692500">
+  <Map Type="System" Name="RJCC_01" CustomColourName="ACA_MAP" Priority="0" Center="+42.775278+141.692500">
     <Runway Name="01L_19R">
       <Threshold Name="01L" Position="+42.761645+141.692828" ExtendedCentrelineTrack="172" ExtendedCentrelineLength="21" ExtendedCentrelineTickInterval="2" />
       <Threshold Name="19R" Position="+42.788442+141.688098"/>
@@ -60,7 +60,7 @@
       <Point>MKE</Point>
     </Symbol>
   </Map>
-  <Map Type="System" Name="RJCC_01_LABEL" Priority="2" Center="+42.775278+141.692500">
+  <Map Type="System" Name="RJCC_01_LABEL" CustomColourName="ACA_MAP" Priority="2" Center="+42.775278+141.692500">
     <Label>
       <Point>CC01T</Point>
       <Point>CC02T</Point>

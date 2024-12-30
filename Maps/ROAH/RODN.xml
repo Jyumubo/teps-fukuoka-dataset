@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Maps>
-  <Map Type="System" Name="RODN" Priority="0" Center="+26.355611+127.767633">
+  <Map Type="System" Name="RODN" CustomColourName="ACA_MAP" Priority="0" Center="+26.355611+127.767633">
     <Runway Name="05L_23R">
       <Threshold Name="05R" Position="+26.344052+127.755051" ExtendedCentrelineTrack="231" ExtendedCentrelineLength="21" ExtendedCentrelineTickInterval="2" />
       <Threshold Name="23L" Position="+26.364970+127.783769" ExtendedCentrelineTrack="051" ExtendedCentrelineLength="21" ExtendedCentrelineTickInterval="2"/>
@@ -48,7 +48,7 @@
       <Point>KAD</Point>
     </Symbol>
   </Map>
-  <Map Type="System" Name="RODN_LABEL" Priority="2" Center="+26.355611+127.767633">
+  <Map Type="System" Name="RODN_LABEL" CustomColourName="ACA_MAP" Priority="2" Center="+26.355611+127.767633">
     <Label>
       <Point>CUNEK</Point>
       <Point>TUCOF</Point>

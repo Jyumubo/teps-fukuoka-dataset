@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Maps>
-  <Map Type="System" Name="RJCO_14" Priority="0" Center="+43.117500+141.381389">
+  <Map Type="System" Name="RJCO_14" CustomColourName="ACA_MAP" Priority="0" Center="+43.117500+141.381389">
     <Runway Name="14_32">
       <Threshold Name="14" Position="+43.122203+141.374740" ExtendedCentrelineTrack="315" ExtendedCentrelineLength="21" ExtendedCentrelineTickInterval="2" />
       <Threshold Name="32" Position="+43.112639+141.387862"/>
@@ -28,7 +28,7 @@
       <Point>SPE</Point>
     </Symbol>
   </Map>
-  <Map Type="System" Name="RJCO_14_LABEL" Priority="2" Center="+43.117500+141.381389">
+  <Map Type="System" Name="RJCO_14_LABEL" CustomColourName="ACA_MAP" Priority="2" Center="+43.117500+141.381389">
     <Label>
       <Point>YAFFL</Point>
       <Point>FUUTA</Point>

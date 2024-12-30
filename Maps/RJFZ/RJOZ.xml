@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Maps>
-  <Map Type="System" Name="RJOZ" Priority="0" Center="+34.046945+131.052500">
+  <Map Type="System" Name="RJOZ" CustomColourName="ACA_MAP" Priority="0" Center="+34.046945+131.052500">
     <Runway Name="17_35">
       <Threshold Name="17" Position="+34.055062+131.047934" ExtendedCentrelineTrack="341" ExtendedCentrelineLength="5" ExtendedCentrelineTickInterval="2"/>
       <Threshold Name="35" Position="+34.044832+131.052333" ExtendedCentrelineTrack="161" ExtendedCentrelineLength="5" ExtendedCentrelineTickInterval="2"/>
@@ -24,7 +24,7 @@
       <Point>IWT</Point>
     </Symbol>
   </Map>
-  <Map Type="System" Name="RJOZ_LABEL" Priority="2" Center="+34.046945+131.052500">
+  <Map Type="System" Name="RJOZ_LABEL" CustomColourName="ACA_MAP" Priority="2" Center="+34.046945+131.052500">
     <Label>
       <Point>MAZYA</Point>
       <Point>ARSAR</Point>

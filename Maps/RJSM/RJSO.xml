@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Maps>
-  <Map Type="System" Name="RJSO" Priority="0" Center="+41.232778+141.132222">
+  <Map Type="System" Name="RJSO" CustomColourName="ACA_MAP" Priority="0" Center="+41.232778+141.132222">
     <Runway Name="04_22">
       <Threshold Name="04" Position="+41.230651+141.130094" ExtendedCentrelineTrack="214" ExtendedCentrelineLength="5" ExtendedCentrelineTickInterval="2" />
       <Threshold Name="22" Position="+41.235068+141.134191" ExtendedCentrelineTrack="034" ExtendedCentrelineLength="5" ExtendedCentrelineTickInterval="2"/>
@@ -20,7 +20,7 @@
       <Point>MIS</Point>
     </Symbol>
   </Map>
-  <Map Type="System" Name="RJSO_LABEL" Priority="2" Center="+41.232778+141.132222">
+  <Map Type="System" Name="RJSO_LABEL" CustomColourName="ACA_MAP" Priority="2" Center="+41.232778+141.132222">
     <Label>
       <Point>MUTSU</Point>
       <Point>BATTL</Point>

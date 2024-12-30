@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Maps>
-  <Map Type="System" Name="RJSI" Priority="0" Center="+39.428611+141.135278">
+  <Map Type="System" Name="RJSI" CustomColourName="ACA_MAP" Priority="0" Center="+39.428611+141.135278">
     <Runway Name="02_20">
       <Threshold Name="02" Position="+39.417645+141.132700" ExtendedCentrelineTrack="199" ExtendedCentrelineLength="5" ExtendedCentrelineTickInterval="2" />
       <Threshold Name="20" Position="+39.439756+141.138117" ExtendedCentrelineTrack="019" ExtendedCentrelineLength="5" ExtendedCentrelineTickInterval="2"/>
@@ -39,7 +39,7 @@
       <Point>GTC</Point>
     </Symbol>
   </Map>
-  <Map Type="System" Name="RJSI_LABEL" Priority="2" Center="+39.428611+141.135278">
+  <Map Type="System" Name="RJSI_LABEL" CustomColourName="ACA_MAP" Priority="2" Center="+39.428611+141.135278">
     <Label>
       <Point>HANKA</Point>
       <Point>ONSHU</Point>

@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Maps>
-  <Map Type="System" Name="RJSA" Priority="0" Center="+40.733333+140.688611">
+  <Map Type="System" Name="RJSA" CustomColourName="ACA_MAP" Priority="0" Center="+40.733333+140.688611">
     <Runway Name="06_24">
       <Threshold Name="06" Position="+40.724943+140.674591" ExtendedCentrelineTrack="232" ExtendedCentrelineLength="5" ExtendedCentrelineTickInterval="2" />
       <Threshold Name="24" Position="+40.741594+140.702589" ExtendedCentrelineTrack="052" ExtendedCentrelineLength="5" ExtendedCentrelineTickInterval="2"/>
@@ -34,7 +34,7 @@
       <Point>UWE</Point>
     </Symbol>
   </Map>
-  <Map Type="System" Name="RJSA_LABEL" Priority="2" Center="+40.733333+140.688611">
+  <Map Type="System" Name="RJSA_LABEL" CustomColourName="ACA_MAP" Priority="2" Center="+40.733333+140.688611">
     <Label>
       <Point>GONOU</Point>
       <Point>NYUDO</Point>

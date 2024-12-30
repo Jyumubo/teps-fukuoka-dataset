@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Maps>
-  <Map Type="System" Name="RJKB" Priority="0" Center="+27.431667+128.705556">
+  <Map Type="System" Name="RJKB" CustomColourName="ACA_MAP" Priority="0" Center="+27.431667+128.705556">
     <Runway Name="04_22">
       <Threshold Name="04" Position="+27.426581+128.701715" ExtendedCentrelineTrack="214" ExtendedCentrelineLength="5" ExtendedCentrelineTickInterval="2" />
       <Threshold Name="22" Position="+27.436647+128.709366" ExtendedCentrelineTrack="034" ExtendedCentrelineLength="5" ExtendedCentrelineTickInterval="2"/>
@@ -38,7 +38,7 @@
       <Point>ONC</Point>
     </Symbol>
   </Map>
-  <Map Type="System" Name="RJKB_LABEL" Priority="2" Center="+27.431667+128.705556">
+  <Map Type="System" Name="RJKB_LABEL" CustomColourName="ACA_MAP" Priority="2" Center="+27.431667+128.705556">
     <Label>
       <Point>ASATO</Point>
       <Point>AZEFU</Point>

@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Maps>
-  <Map Type="System" Name="ROAH_18" Priority="0" Center="+26.193333+127.639722">
+  <Map Type="System" Name="ROAH_18" CustomColourName="ACA_MAP" Priority="0" Center="+26.193333+127.639722">
     <Runway Name="18R_36L">
       <Threshold Name="18R" Position="+26.203053+127.632424" ExtendedCentrelineTrack="357" ExtendedCentrelineLength="21" ExtendedCentrelineTickInterval="2" />
       <Threshold Name="36L" Position="+26.178699+127.633562"/>
@@ -49,7 +49,7 @@
       <Point>NHC</Point>
     </Symbol>
   </Map>
-  <Map Type="System" Name="ROAH_18_LABEL" Priority="2" Center="+26.193333+127.639722">
+  <Map Type="System" Name="ROAH_18_LABEL" CustomColourName="ACA_MAP" Priority="2" Center="+26.193333+127.639722">
     <Label>
       <Point>H8L00</Point>
       <Point>VIGER</Point>

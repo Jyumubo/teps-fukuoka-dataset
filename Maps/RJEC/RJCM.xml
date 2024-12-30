@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Maps>
-  <Map Type="System" Name="RJCM" Priority="0" Center="+43.880556+144.164167">
+  <Map Type="System" Name="RJCM" CustomColourName="ACA_MAP" Priority="0" Center="+43.880556+144.164167">
     <Runway Name="18_36">
       <Threshold Name="18" Position="+43.891801+144.162599" ExtendedCentrelineTrack="355" ExtendedCentrelineLength="5" ExtendedCentrelineTickInterval="2" />
       <Threshold Name="36" Position="+43.869372+144.165490" ExtendedCentrelineTrack="175" ExtendedCentrelineLength="5" ExtendedCentrelineTickInterval="2"/>
@@ -37,7 +37,7 @@
       <Point>TBE</Point>
     </Symbol>
   </Map>
-  <Map Type="System" Name="RJCM_LABEL" Priority="2" Center="+43.880556+144.164167">
+  <Map Type="System" Name="RJCM_LABEL" CustomColourName="ACA_MAP" Priority="2" Center="+43.880556+144.164167">
     <Label>
       <Point>BUTUS</Point>
       <Point>OSPIB</Point>
