@@ -5,7 +5,7 @@
     <Volumes></Volumes>
   </Sector>
   <!-- RJDG -->
-  <Sector FullName="DG Bandbox" Frequency="133.300" Callsign="RJDG_N_CTR" Name="DG N">
+  <Sector FullName="DG Bandbox" Frequency="133.300" Callsign="RJDG_CTR" Name="DG">
     <Volumes>DG</Volumes>
     <ResponsibleSectors>F01,T30,T31,T32,F02,F03,F04,F05,F07,T09,T10,T14,T25,T45,T46,T33,T34,T35,T36,T38,T39,N43,N44,N47,N48,N49,F08,F09,F10,F11,F12,F13,F14,N50,N51,N52,N53,N54,N55,F15,F16,F17</ResponsibleSectors>
   </Sector>

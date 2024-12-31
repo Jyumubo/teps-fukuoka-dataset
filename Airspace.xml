@@ -2180,6 +2180,361 @@
         <STAR Name="ABASA" ApproachName="RNP" />
       </Runway>
     </Airport>
+    <Airport Name="RJTT">
+      <Runway Name="34L" DataRunway="34L">
+        <SID Name="BEKLA\dA" />
+        <SID Name="GUSRO\d" />
+        <SID Name="LAXAS\d" />
+        <SID Name="NINOX\d" />
+        <SID Name="ROVER\dA" />
+        <SID Name="RUTAS\d" />
+        <SID Name="TIARA\dA" />
+        <SID Name="VAMOS\d" />
+        <SID Name="ISOGO\d" />
+        <SID Name="OPPAR\d" />
+        <SID Name="SYE\d" />
+        <SID Name="VADAR\d" />
+        <STAR Name="XAC1K" ApproachName="ILSX" />
+        <STAR Name="AKSEL1K" ApproachName="ILSX" />
+        <STAR Name="AROSA1K" ApproachName="ILSX" />
+        <STAR Name="XAC1A" ApproachName="ILSZ" />
+        <STAR Name="AKSEL1A" ApproachName="ILSZ" />
+        <STAR Name="AROSA1A" ApproachName="ILSZ" />
+        <STAR Name="GODIN1C" ApproachName="ILSZ" />
+        <STAR Name="POLIX1C" ApproachName="ILSZ" />
+        <STAR Name="ADDUM" ApproachName="ILSZ" />
+      </Runway>
+      <Runway Name="S4L" DataRunway="34L">
+        <STAR Name="GODIN2K" ApproachName="ILSX" />
+        <STAR Name="POLIX2K" ApproachName="ILSX" />
+        <STAR Name="GODIN2A" ApproachName="ILSZ" />
+        <STAR Name="POLIX2A" ApproachName="ILSZ" />
+        <STAR Name="XAC2C" ApproachName="ILSZ" />
+        <STAR Name="AKSEL2C" ApproachName="ILSZ" />
+        <STAR Name="AROSA2C" ApproachName="ILSZ" />
+      </Runway>
+      <Runway Name="N4L" DataRunway="34L">
+        <STAR Name="XAC_NIGHT" ApproachName="ILSX" />
+        <STAR Name="AKSEL_NIGHT" ApproachName="ILSX" />
+        <STAR Name="AROSA_NIGHT" ApproachName="ILSX" />
+        <STAR Name="MESSE_NIGHT" ApproachName="ILSX" />
+      </Runway>
+      <Runway Name="34R" DataRunway="34R">
+        <SID Name="BEKLA\dA" />
+        <SID Name="BEKLA\dB" />
+        <SID Name="BEKLA\dC" />
+        <SID Name="GUSRO\d" />
+        <SID Name="LAXAS\d" />
+        <SID Name="NINOX\d" />
+        <SID Name="ROVER\dA" />
+        <SID Name="ROVER\dB" />
+        <SID Name="ROVER\dC" />
+        <SID Name="RUTAS\d" />
+        <SID Name="TIARA\dA" />
+        <SID Name="TIARA\dB" />
+        <SID Name="TIARA\dC" />
+        <SID Name="VAMOS\d" />
+        <SID Name="ISOGO\d" />
+        <SID Name="OPPAR\d" />
+        <SID Name="SYE\d" />
+        <SID Name="VADAR\d" />
+        <STAR Name="XAC1A" ApproachName="ILSZ" />
+        <STAR Name="AKSEL1A" ApproachName="ILSZ" />
+        <STAR Name="AROSA1A" ApproachName="ILSZ" />
+        <STAR Name="GODIN1C" ApproachName="ILSZ" />
+        <STAR Name="POLIX1C" ApproachName="ILSZ" />
+        <STAR Name="GODIN1H" ApproachName="HWVS" />
+        <STAR Name="POLIX1H" ApproachName="HWVS" />
+        <STAR Name="SINGO" ApproachName="ILSZ" />
+      </Runway>
+      <Runway Name="S4R" DataRunway="34R">
+        <STAR Name="GODIN2A" ApproachName="ILSZ" />
+        <STAR Name="POLIX2A" ApproachName="ILSZ" />
+        <STAR Name="XAC2C" ApproachName="ILSZ" />
+        <STAR Name="AKSEL2C" ApproachName="ILSZ" />
+        <STAR Name="AROSA2C" ApproachName="ILSZ" />
+        <STAR Name="XAC2H" ApproachName="HWVS" />
+        <STAR Name="AKSEL2H" ApproachName="HWVS" />
+        <STAR Name="AROSA2H" ApproachName="HWVS" />
+      </Runway>
+      <Runway Name="N4R" DataRunway="34R">
+        <STAR Name="XAC_NIGHT" ApproachName="ILSY" />
+        <STAR Name="AKSEL_NIGHT" ApproachName="ILSY" />
+        <STAR Name="AROSA_NIGHT" ApproachName="ILSY" />
+        <STAR Name="MESSE_NIGHT" ApproachName="ILSY" />
+      </Runway>
+      <Runway Name="22" DataRunway="22">
+        <SID Name="GUSRO\d" />
+        <SID Name="LAXAS\d" />
+        <SID Name="NINOX\d" />
+        <SID Name="VAMOS\d" />
+        <STAR Name="XAC1B" ApproachName="LDAW" />
+        <STAR Name="XAC2B" ApproachName="LDAW" />
+        <STAR Name="AKSEL1B" ApproachName="LDAW" />
+        <STAR Name="AKSEL2B" ApproachName="LDAW" />
+        <STAR Name="AROSA1B" ApproachName="LDAW" />
+        <STAR Name="AROSA2B" ApproachName="LDAW" />
+        <STAR Name="GODIN1D" ApproachName="LDAX" />
+        <STAR Name="POLIX1D" ApproachName="LDAX" />
+        <STAR Name="BONUS" ApproachName="LDAX" />
+      </Runway>
+      <Runway Name="I22" DataRunway="22">
+        <STAR Name="XAC1N" ApproachName="ILS" />
+        <STAR Name="XAC2N" ApproachName="ILS" />
+        <STAR Name="AKSEL1N" ApproachName="ILS" />
+        <STAR Name="AKSEL2N" ApproachName="ILS" />
+        <STAR Name="AROSA1N" ApproachName="ILS" />
+        <STAR Name="AROSA2N" ApproachName="ILS" />
+        <STAR Name="GODIN1S" ApproachName="ILS" />
+        <STAR Name="POLIX1S" ApproachName="ILS" />
+      </Runway>
+      <Runway Name="23" DataRunway="23">
+        <STAR Name="XAC1B" ApproachName="LDAX" />
+        <STAR Name="XAC2B" ApproachName="LDAX" />
+        <STAR Name="AKSEL1B" ApproachName="LDAX" />
+        <STAR Name="AKSEL2B" ApproachName="LDAX" />
+        <STAR Name="AROSA1B" ApproachName="LDAX" />
+        <STAR Name="AROSA2B" ApproachName="LDAX" />
+        <STAR Name="GODIN1D" ApproachName="LDAW" />
+        <STAR Name="POLIX1D" ApproachName="LDAW" />
+        <STAR Name="DOYLE" ApproachName="LDAX" />
+      </Runway>
+      <Runway Name="I23" DataRunway="23">
+        <STAR Name="XAC1N" ApproachName="ILSZ" />
+        <STAR Name="XAC2N" ApproachName="ILSZ" />
+        <STAR Name="AKSEL1N" ApproachName="ILSZ" />
+        <STAR Name="AKSEL2N" ApproachName="ILSZ" />
+        <STAR Name="AROSA1N" ApproachName="ILSZ" />
+        <STAR Name="AROSA2N" ApproachName="ILSZ" />
+        <STAR Name="GODIN1S" ApproachName="ILSZ" />
+        <STAR Name="POLIX1S" ApproachName="ILSZ" />
+      </Runway>
+      <Runway Name="LY2" DataRunway="23">
+        <STAR Name="XAC_NIGHT" ApproachName="LDAY" />
+        <STAR Name="AKSEL_NIGHT" ApproachName="LDAY" />
+        <STAR Name="AROSA_NIGHT" ApproachName="LDAY" />
+        <STAR Name="MESSE_NIGHT" ApproachName="LDAY" />
+      </Runway>
+      <Runway Name="IY2" DataRunway="23">
+        <STAR Name="XAC_NIGHT" ApproachName="ILSY" />
+        <STAR Name="AKSEL_NIGHT" ApproachName="ILSY" />
+        <STAR Name="AROSA_NIGHT" ApproachName="ILSY" />
+        <STAR Name="MESSE_NIGHT" ApproachName="ILSY" />
+      </Runway>
+      <Runway Name="16L" DataRunway="16L">
+        <SID Name="BEKLA\dA" />
+        <SID Name="BEKLA\dB" />
+        <SID Name="BEKLA\dC" />
+        <SID Name="GUSRO\d" />
+        <SID Name="LAXAS\d" />
+        <SID Name="NINOX\d" />
+        <SID Name="ROVER\dA" />
+        <SID Name="ROVER\dB" />
+        <SID Name="ROVER\dC" />
+        <SID Name="RUTAS\d" />
+        <SID Name="TIARA\dA" />
+        <SID Name="TIARA\dB" />
+        <SID Name="TIARA\dC" />
+        <SID Name="VAMOS\d" />
+        <SID Name="ISOGO\d" />
+        <SID Name="OPPAR\d" />
+        <SID Name="SYE\d" />
+        <SID Name="VADAR\d" />
+        <STAR Name="XAC_L" ApproachName="RNP" />
+        <STAR Name="AKSEL_L" ApproachName="RNP" />
+        <STAR Name="AROSA_L" ApproachName="RNP" />
+        <STAR Name="GODIN_L" ApproachName="RNP" />
+        <STAR Name="POLIX_L" ApproachName="RNP" />
+      </Runway>
+      <Runway Name="N6L" DataRunway="16L">
+        <STAR Name="XAC_V" ApproachName="VORA" />
+        <STAR Name="AKSEL_V" ApproachName="VORA" />
+        <STAR Name="AROSA_V" ApproachName="VORA" />
+        <STAR Name="MESSE_V" ApproachName="VORA" />
+      </Runway>
+      <Runway Name="16R" DataRunway="16R">
+        <SID Name="BEKLA\dA" />
+        <SID Name="BEKLA\dB" />
+        <SID Name="BEKLA\dC" />
+        <SID Name="GUSRO\d" />
+        <SID Name="LAXAS\d" />
+        <SID Name="NINOX\d" />
+        <SID Name="ROVER\dA" />
+        <SID Name="ROVER\dB" />
+        <SID Name="ROVER\dC" />
+        <SID Name="RUTAS\d" />
+        <SID Name="TIARA\dA" />
+        <SID Name="TIARA\dB" />
+        <SID Name="TIARA\dC" />
+        <SID Name="VAMOS\d" />
+        <SID Name="ISOGO\d" />
+        <SID Name="OPPAR\d" />
+        <SID Name="SYE\d" />
+        <SID Name="VADAR\d" />
+        <STAR Name="XAC_R" ApproachName="RNP" />
+        <STAR Name="AKSEL_R" ApproachName="RNP" />
+        <STAR Name="AROSA_R" ApproachName="RNP" />
+        <STAR Name="GODIN_R" ApproachName="RNP" />
+        <STAR Name="POLIX_R" ApproachName="RNP" />
+      </Runway>
+      <Runway Name="05" DataRunway="05">
+        <SID Name="BEKLA\dA" />
+        <SID Name="BEKLA\dB" />
+        <SID Name="BEKLA\dC" />
+        <SID Name="GUSRO\d" />
+        <SID Name="LAXAS\d" />
+        <SID Name="NINOX\d" />
+        <SID Name="ROVER\dA" />
+        <SID Name="ROVER\dB" />
+        <SID Name="ROVER\dC" />
+        <SID Name="RUTAS\d" />
+        <SID Name="TIARA\dA" />
+        <SID Name="TIARA\dB" />
+        <SID Name="TIARA\dC" />
+        <SID Name="VAMOS\d" />
+        <SID Name="ISOGO\d" />
+        <SID Name="OPPAR\d" />
+        <SID Name="SYE\d" />
+        <SID Name="VADAR\d" />
+      </Runway>
+      <Runway Name="04" DataRunway="04">
+        <SID Name="BEKLA\dA" />
+        <SID Name="GUSRO\d" />
+        <SID Name="LAXAS\d" />
+        <SID Name="NINOX\d" />
+        <SID Name="ROVER\dA" />
+        <SID Name="RUTAS\d" />
+        <SID Name="TIARA\dA" />
+        <SID Name="VAMOS\d" />
+        <SID Name="ISOGO\d" />
+        <SID Name="OPPAR\d" />
+        <SID Name="SYE\d" />
+        <SID Name="VADAR\d" />
+      </Runway>
+    </Airport>
+    <Airport Name="RJAA">
+      <Runway Name="16L" DataRunway="16L">
+        <SID Name="BORLO\d" />
+        <SID Name="GULBO\d" />
+        <SID Name="OLVAN\d" />
+        <SID Name="PEDLA\d" />
+        <SID Name="PIGOK\d" />
+        <SID Name="REDEK\d" />
+        <SID Name="TETRA\d" />
+        <STAR Name="LUBLA_N" ApproachName="ILSZ" />
+        <STAR Name="LUBLA_G" ApproachName="ILSZ" />
+        <STAR Name="RUTAS_N" ApproachName="ILSZ" />
+        <STAR Name="RUTAS_G" ApproachName="ILSZ" />
+        <STAR Name="SUPOK_N" ApproachName="ILSZ" />
+        <STAR Name="SUPOK_G" ApproachName="ILSZ" />
+        <STAR Name="SWAMP_N" ApproachName="ILSZ" />
+        <STAR Name="SWAMP_G" ApproachName="ILSZ" />
+      </Runway>
+      <Runway Name="Y6L" DataRunway="16L">
+        <STAR Name="LUBLA_N" ApproachName="ILSY" />
+        <STAR Name="LUBLA_G" ApproachName="ILSY" />
+        <STAR Name="RUTAS_N" ApproachName="ILSY" />
+        <STAR Name="RUTAS_G" ApproachName="ILSY" />
+        <STAR Name="SUPOK_N" ApproachName="ILSY" />
+        <STAR Name="SUPOK_G" ApproachName="ILSY" />
+        <STAR Name="SWAMP_N" ApproachName="ILSY" />
+        <STAR Name="SWAMP_G" ApproachName="ILSY" />
+      </Runway>
+      <Runway Name="X6L" DataRunway="16L">
+        <STAR Name="BINKS_N" ApproachName="ILSX" />
+        <STAR Name="BOSPA_N" ApproachName="ILSX" />
+        <STAR Name="LAKES_N" ApproachName="ILSX" />
+      </Runway>
+      <Runway Name="16R" DataRunway="16R">
+        <SID Name="AKAGI\d" />
+        <SID Name="BORLO\d" />
+        <SID Name="GULBO\d" />
+        <SID Name="OLVAN\d" />
+        <SID Name="PEDLA\d" />
+        <SID Name="PIGOK\d" />
+        <SID Name="REDEK\d" />
+        <SID Name="SAKURA\d" />
+        <SID Name="SUNNS\d" />
+        <SID Name="TETRA\d" />
+        <STAR Name="LUBLA_N" ApproachName="ILSZ" />
+        <STAR Name="LUBLA_G" ApproachName="ILSZ" />
+        <STAR Name="RUTAS_N" ApproachName="ILSZ" />
+        <STAR Name="RUTAS_G" ApproachName="ILSZ" />
+        <STAR Name="SUPOK_N" ApproachName="ILSZ" />
+        <STAR Name="SUPOK_G" ApproachName="ILSZ" />
+        <STAR Name="SWAMP_N" ApproachName="ILSZ" />
+        <STAR Name="SWAMP_G" ApproachName="ILSZ" />
+      </Runway>
+      <Runway Name="Y6R" DataRunway="16R">
+        <STAR Name="BINKS_N" ApproachName="ILSY" />
+        <STAR Name="BOSPA_N" ApproachName="ILSY" />
+        <STAR Name="LAKES_N" ApproachName="ILSY" />
+        <STAR Name="LUBLA_N" ApproachName="ILSY" />
+        <STAR Name="LUBLA_G" ApproachName="ILSY" />
+        <STAR Name="RUTAS_N" ApproachName="ILSY" />
+        <STAR Name="RUTAS_G" ApproachName="ILSY" />
+        <STAR Name="SUPOK_N" ApproachName="ILSY" />
+        <STAR Name="SUPOK_G" ApproachName="ILSY" />
+        <STAR Name="SWAMP_N" ApproachName="ILSY" />
+        <STAR Name="SWAMP_G" ApproachName="ILSY" />
+      </Runway>
+      <Runway Name="34L" DataRunway="34L">
+        <SID Name="AKAGI\d" />
+        <SID Name="BORLO\d" />
+        <SID Name="GULBO\d" />
+        <SID Name="OLVAN\d" />
+        <SID Name="PEDLA\d" />
+        <SID Name="PIGOK\d" />
+        <SID Name="REDEK\d" />
+        <SID Name="SAKURA\d" />
+        <SID Name="SUNNS\d" />
+        <SID Name="TETRA\d" />
+        <STAR Name="BINKS_S_A" ApproachName="ILS" />
+        <STAR Name="BOSPA_S_A" ApproachName="ILS" />
+        <STAR Name="SWAMP_S_A" ApproachName="ILS" />
+        <STAR Name="LUBLA_E" ApproachName="ILS" />
+        <STAR Name="LUBLA_T" ApproachName="ILS" />
+        <STAR Name="RUTAS_E" ApproachName="ILS" />
+        <STAR Name="RUTAS_T" ApproachName="ILS" />
+        <STAR Name="SUPOK_E" ApproachName="ILS" />
+        <STAR Name="SUPOK_T" ApproachName="ILS" />
+        <STAR Name="SWAMP_E" ApproachName="ILS" />
+        <STAR Name="SWAMP_T" ApproachName="ILS" />
+      </Runway>
+      <Runway Name="34R" DataRunway="34R">
+        <SID Name="BORLO\d" />
+        <SID Name="GULBO\d" />
+        <SID Name="OLVAN\d" />
+        <SID Name="PEDLA\d" />
+        <SID Name="PIGOK\d" />
+        <SID Name="REDEK\d" />
+        <SID Name="TETRA\d" />
+        <STAR Name="BINKS_S_B" ApproachName="ILSZ" />
+        <STAR Name="BOSPA_S_B" ApproachName="ILSZ" />
+        <STAR Name="SWAMP_S_B" ApproachName="ILSZ" />
+        <STAR Name="LUBLA_E" ApproachName="ILSZ" />
+        <STAR Name="LUBLA_T" ApproachName="ILSZ" />
+        <STAR Name="RUTAS_E" ApproachName="ILSZ" />
+        <STAR Name="RUTAS_T" ApproachName="ILSZ" />
+        <STAR Name="SUPOK_E" ApproachName="ILSZ" />
+        <STAR Name="SUPOK_T" ApproachName="ILSZ" />
+        <STAR Name="SWAMP_E" ApproachName="ILSZ" />
+        <STAR Name="SWAMP_T" ApproachName="ILSZ" />
+      </Runway>
+      <Runway Name="Y4R" DataRunway="34R">
+        <STAR Name="BINKS_S_B" ApproachName="ILSY" />
+        <STAR Name="BOSPA_S_B" ApproachName="ILSY" />
+        <STAR Name="SWAMP_S_B" ApproachName="ILSY" />
+        <STAR Name="LUBLA_E" ApproachName="ILSY" />
+        <STAR Name="LUBLA_T" ApproachName="ILSY" />
+        <STAR Name="RUTAS_E" ApproachName="ILSY" />
+        <STAR Name="RUTAS_T" ApproachName="ILSY" />
+        <STAR Name="SUPOK_E" ApproachName="ILSY" />
+        <STAR Name="SUPOK_T" ApproachName="ILSY" />
+        <STAR Name="SWAMP_E" ApproachName="ILSY" />
+        <STAR Name="SWAMP_T" ApproachName="ILSY" />
+      </Runway>
+    </Airport>
   </SystemRunways>
   <SIDSTARs>
     <!-- RJAF-->
@@ -6439,6 +6794,576 @@
       <Route Runway="28">GFT HOUBA</Route>
       <Transition Name="GTC">KROBE GTC</Transition>
    </SID>
+<!-- RJTT-->
+   <SID Name="BEKLA3A" Airport="RJTT" Runways="04,05,34L,34R,16L,16R">
+      <Route Runway="04">TORAM PLUTO KAIJI INTEL RAGOS BEKLA</Route>
+      <Route Runway="05">TT501 TT502 LOCUP TT503 KAMAT LAYER BEKLA</Route>
+      <Route Runway="34L">TORAM PLUTO KAIJI INTEL RAGOS BEKLA</Route>
+      <Route Runway="34R">TORAM PLUTO KAIJI INTEL RAGOS BEKLA</Route>
+      <Route Runway="16L">T6L23 WELDA PLUTO KAIJI INTEL RAGOS BEKLA</Route>
+      <Route Runway="16R">T6R13 HATBA KAMAT LAYER BEKLA</Route>
+   </SID>
+   <SID Name="BEKLA3B" Airport="RJTT" Runways="05,34R,16L,16R">
+      <Route Runway="05">TT501 TT502 LOCUP TT503 KAMAT LAYER BEKLA</Route>
+      <Route Runway="34R">ARAKA EDOJO OHEDO INTEL RAGOS BEKLA</Route>
+      <Route Runway="16L">T6L23 WELDA PLUTO KAIJI INTEL RAGOS BEKLA</Route>
+      <Route Runway="16R">T6R13 HATBA KAMAT LAYER BEKLA</Route>
+   </SID>
+   <SID Name="BEKLA4C" Airport="RJTT" Runways="05,34R,16L,16R">
+      <Route Runway="05">TT501 TT502 LOCUP TT503 KAMAT LAYER BEKLA</Route>
+      <Route Runway="34R">ARAKA EDOJO OHEDO INTEL RAGOS BEKLA</Route>
+      <Route Runway="16L">T6L31 DAMBO T6L32 LESMO KAIJI INTEL RAGOS BEKLA</Route>
+      <Route Runway="16R">T6R11 WELDA PLUTO KAIJI INTEL RAGOS BEKLA</Route>
+   </SID>
+   <SID Name="GUSRO1" Airport="RJTT" Runways="04,05,22,34L,34R,16L,16R">
+      <Route Runway="04">TT502 LOCUP TT503 KAMAT LAYER GUSRO</Route>
+      <Route Runway="05">TT501 TT502 LOCUP TT503 KAMAT LAYER GUSRO</Route>
+      <Route Runway="22">HOBBS BASSA UMUKI PIPER SATOL CURVA GUSRO</Route>
+      <Route Runway="34L">TT502 LOCUP TT503 KAMAT LAYER GUSRO</Route>
+      <Route Runway="34R">TT502 LOCUP TT503 KAMAT LAYER GUSRO</Route>
+      <Route Runway="16L">T6L43 HATBA KAMAT LAYER GUSRO</Route>
+      <Route Runway="16R">T6R13 HATBA KAMAT LAYER GUSRO</Route>
+   </SID>
+   <SID Name="LAXAS4" Airport="RJTT" Runways="04,05,22,34L,34R,16L,16R">
+      <Route Runway="04">TT502 LOCUP TAURA IMOLA LAXAS</Route>
+      <Route Runway="05">TT501 TT502 LOCUP TAURA IMOLA LAXAS</Route>
+      <Route Runway="22">HOBBS BASSA UMUKI PIPER SATOL IMOLA LAXAS</Route>
+      <Route Runway="34L">TT502 LOCUP TAURA IMOLA LAXAS</Route>
+      <Route Runway="34R">TT502 LOCUP TAURA IMOLA LAXAS</Route>
+      <Route Runway="16L">T6L21 TAURA IMOLA LAXAS</Route>
+      <Route Runway="16R">T6R11 TAURA IMOLA LAXAS</Route>
+   </SID>
+   <SID Name="NINOX4" Airport="RJTT" Runways="04,05,22,34L,34R,16L,16R">
+      <Route Runway="04">TT502 LOCUP BAYGE SEIKO NINOX</Route>
+      <Route Runway="05">TT501 TT502 LOCUP BAYGE SEIKO NINOX</Route>
+      <Route Runway="22">HOBBS BASSA UMUKI PIPER SATOL CURVA NINOX</Route>
+      <Route Runway="34L">TT502 LOCUP BAYGE SEIKO NINOX</Route>
+      <Route Runway="34R">TT502 LOCUP BAYGE SEIKO NINOX</Route>
+      <Route Runway="16L">T6L22 TT631 BAYGE SEIKO NINOX</Route>
+      <Route Runway="16R">T6R12 TT631 BAYGE SEIKO NINOX</Route>
+   </SID>
+   <SID Name="ROVER3A" Airport="RJTT" Runways="04,05,34L,34R,16L,16R">
+      <Route Runway="04">TORAM PLUTO KAIJI SPOON ROVER</Route>
+      <Route Runway="05">PLUTO KAIJI SPOON ROVER</Route>
+      <Route Runway="34L">TORAM PLUTO KAIJI SPOON ROVER</Route>
+      <Route Runway="34R">TORAM PLUTO KAIJI SPOON ROVER</Route>
+      <Route Runway="16L">T6L23 WELDA PLUTO KAIJI SPOON ROVER</Route>
+      <Route Runway="16R">T6R11 WELDA PLUTO KAIJI SPOON ROVER</Route>
+      <Transition Name="AKAGI">CLARK AKAGI</Transition>
+      <Transition Name="BRUCE">BRUCE</Transition>
+      <Transition Name="AGRIS">BRUCE AGRIS</Transition>
+      <Transition Name="INUBO">BRUCE LEWIS SILVA INUBO</Transition>
+   </SID>
+   <SID Name="ROVER3B" Airport="RJTT" Runways="05,34R,16L,16R">
+      <Route Runway="05">PLUTO KAIJI SPOON ROVER</Route>
+      <Route Runway="34R">ARAKA EDOJO OHEDO SPOON ROVER</Route>
+      <Route Runway="16L">T6L23 WELDA PLUTO KAIJI SPOON ROVER</Route>
+      <Route Runway="16R">T6R13 WELDA PLUTO KAIJI SPOON ROVER</Route>
+      <Transition Name="AKAGI">CLARK AKAGI</Transition>
+      <Transition Name="BRUCE">BRUCE</Transition>
+      <Transition Name="AGRIS">BRUCE AGRIS</Transition>
+      <Transition Name="INUBO">BRUCE LEWIS SILVA INUBO</Transition>
+   </SID>
+   <SID Name="ROVER3C" Airport="RJTT" Runways="05,34R,16L,16R">
+      <Route Runway="05">PLUTO KAIJI SPOON ROVER</Route>
+      <Route Runway="34R">ARAKA EDOJO OHEDO SPOON ROVER</Route>
+      <Route Runway="16L">T6L31 DAMBO T6L32 LESMO KAIJI SPOON ROVER</Route>
+      <Route Runway="16R">T6R11 WELDA PLUTO KAIJI SPOON ROVER</Route>
+      <Transition Name="AKAGI">CLARK AKAGI</Transition>
+      <Transition Name="BRUCE">BRUCE</Transition>
+      <Transition Name="AGRIS">BRUCE AGRIS</Transition>
+      <Transition Name="INUBO">BRUCE LEWIS SILVA INUBO</Transition>
+   </SID>
+   <SID Name="RUTAS3" Airport="RJTT" Runways="04,05,34L,34R,16L,16R">
+      <Route Runway="04">TT502 LOCUP VAMOS UTIBO RUTAS</Route>
+      <Route Runway="05">TT501 TT502 LOCUP VAMOS UTIBO RUTAS</Route>
+      <Route Runway="34L">TT502 LOCUP VAMOS UTIBO RUTAS</Route>
+      <Route Runway="34R">TT502 LOCUP VAMOS UTIBO RUTAS</Route>
+      <Route Runway="16L">T6L21 VAMOS UTIBO RUTAS</Route>
+      <Route Runway="16R">T6R11 VAMOS UTIBO RUTAS</Route>
+   </SID>
+   <SID Name="TIARA2A" Airport="RJTT" Runways="04,05,34L,34R,16L,16R">
+      <Route Runway="04">TORAM PLUTO KAIJI INTEL LAYER</Route>
+      <Route Runway="05">TT501 TT502 LOCUP TT503 KAMAT LAYER</Route>
+      <Route Runway="34L">TORAM PLUTO KAIJI INTEL LAYER</Route>
+      <Route Runway="34R">TORAM PLUTO KAIJI INTEL LAYER</Route>
+      <Route Runway="16L">T6L23 WELDA PLUTO KAIJI INTEL LAYER</Route>
+      <Route Runway="16R">T6R13 HATBA KAMAT LAYER</Route>
+      <Transition Name="TIARA">TIARA</Transition>
+   </SID>
+   <SID Name="TIARA2B" Airport="RJTT" Runways="05,34R,16L,16R">
+      <Route Runway="05">TT501 TT502 LOCUP TT503 KAMAT LAYER</Route>
+      <Route Runway="34R">ARAKA EDOJO OHEDO INTEL LAYER</Route>
+      <Route Runway="16L">T6L23 WELDA PLUTO KAIJI SPOON ROVER</Route>
+      <Route Runway="16R">T6R13 WELDA PLUTO KAIJI SPOON ROVER</Route>
+      <Transition Name="TIARA">TIARA</Transition>
+   </SID>
+   <SID Name="TIARA2C" Airport="RJTT" Runways="05,34R,16L,16R">
+      <Route Runway="05">TT501 TT502 LOCUP TT503 KAMAT LAYER</Route>
+      <Route Runway="34R">ARAKA EDOJO OHEDO INTEL LAYER</Route>
+      <Route Runway="16L">T6L23 WELDA PLUTO KAIJI INTEL LAYER</Route>
+      <Route Runway="16R">T6R11 WELDA PLUTO KAIJI INTEL LAYER</Route>
+      <Transition Name="TIARA">TIARA</Transition>
+   </SID>
+   <SID Name="VAMOS4" Airport="RJTT" Runways="04,05,22,34L,34R,16L,16R">
+      <Route Runway="04">TT502 LOCUP VAMOS</Route>
+      <Route Runway="05">TT501 TT502 LOCUP VAMOS</Route>
+      <Route Runway="22">HOBBS BASSA VAMOS</Route>
+      <Route Runway="34L">TT502 LOCUP VAMOS</Route>
+      <Route Runway="34R">TT502 LOCUP VAMOS</Route>
+      <Route Runway="16L">T6L21 VAMOS</Route>
+      <Route Runway="16R">T6R11 VAMOSS</Route>
+      <Transition Name="DRAKY">DRAKY XAC</Transition>
+      <Transition Name="TATEYAMA">UTIBO</Transition>
+   </SID>
+   <SID Name="ISOGO2" Airport="RJTT" Runways="04,05,34L,34R,16L,16R">
+      <Route Runway="04">VADAR</Route>
+      <Route Runway="05">VADAR</Route>
+      <Route Runway="34L">VADAR</Route>
+      <Route Runway="34R">VADAR</Route>
+      <Route Runway="16L">VADAR</Route>
+      <Route Runway="16R">VADAR</Route>
+      <Transition Name="XAC">XAC</Transition>
+      <Transition Name="CHIKURA">UTIBO</Transition>
+   </SID>
+   <SID Name="OPPAR3" Airport="RJTT" Runways="04,05,34L,34R,16L,16R">
+      <Route Runway="04">OPPAR</Route>
+      <Route Runway="05">OPPAR</Route>
+      <Route Runway="34L">OPPAR</Route>
+      <Route Runway="34R">OPPAR</Route>
+      <Route Runway="16L">OPPAR</Route>
+      <Route Runway="16R">OPPAR</Route>
+      <Transition Name="JYOGA">JYOGA</Transition>
+      <Transition Name="UTIBO">UTIBO</Transition>
+   </SID>
+   <SID Name="SYE3" Airport="RJTT" Runways="04,05,34L,34R,16L,16R">
+      <Route Runway="04">SYE</Route>
+      <Route Runway="05">SYE</Route>
+      <Route Runway="34L">SYE</Route>
+      <Route Runway="34R">SYE</Route>
+      <Route Runway="16L">SYE</Route>
+      <Route Runway="16R">SYE</Route>
+   </SID>
+   <SID Name="VADAR1" Airport="RJTT" Runways="04,05,34L,34R,16L,16R">
+      <Route Runway="04">VADAR</Route>
+      <Route Runway="05">VADAR</Route>
+      <Route Runway="34L">VADAR</Route>
+      <Route Runway="34R">VADAR</Route>
+      <Route Runway="16L">VADAR</Route>
+      <Route Runway="16R">VADAR</Route>
+      <Transition Name="XAC">XAC</Transition>
+      <Transition Name="CHIKURA">UTIBO</Transition>
+   </SID>
+    <STAR Name="AKSEL1A" Airport="RJTT" Runways="34L,34R">
+      <Route>AKSEL TT454 TT455 TT456 WALLY WEDGE ARLON</Route>
+    </STAR>
+    <STAR Name="AKSEL2C" Airport="RJTT" Runways="34L,34R">
+      <Route>AKSEL CLONE TT460 TT461 CIVIC TT462 TT463 TT464 EPSON CREAM</Route>
+    </STAR>
+    <STAR Name="AKSEL1K" Airport="RJTT" Runways="34L,34R">
+      <Route>AKSEL TT454 TT455 TT456 WALLY WEDGE UMUKI KAIHO</Route>
+    </STAR>
+    <STAR Name="AKSEL1B" Airport="RJTT" Runways="22,23">
+      <Route>AKSEL SALLY TT253 TT254 TT255 STOWE SHAFT BACON</Route>
+    </STAR>
+    <STAR Name="AKSEL2B" Airport="RJTT" Runways="22,23">
+      <Route>AKSEL LAFIT STING SPARK SHAFT BACON</Route>
+    </STAR>
+    <STAR Name="AKSEL2H" Airport="RJTT" Runways="34R">
+      <Route>AKSEL CLONE TT460 TT461 CIVIC TT462 TT463 TT464 EPSON CREAM CLOAK CAMEL CACAO</Route>
+    </STAR>
+    <STAR Name="XAC2H" Airport="RJTT" Runways="34R">
+      <Route>XAC CLONE TT460 TT461 CIVIC TT462 TT463 TT464 EPSON CREAM CLOAK CAMEL CACAO</Route>
+    </STAR>
+    <STAR Name="AROSA2H" Airport="RJTT" Runways="34R">
+      <Route>AROSA AVEEY TT460 TT461 CIVIC TT462 TT463 TT464 EPSON CREAM CLOAK CAMEL CACAO</Route>
+    </STAR>
+    <STAR Name="AKSEL_L" Airport="RJTT" Runways="16L">
+      <Route>AKSEL SALLY TT253 TT254 TT255 STOWE SHAFT SNOKE SPINE SOPPY SNARE SACHS SANDY</Route>
+    </STAR>
+    <STAR Name="AKSEL_R" Airport="RJTT" Runways="16R">
+      <Route>AKSEL SALLY SCOUT SCOPE T6R70 NUMAN NORIK T6R71 T6R72 NURSE NEURO NIGEL NATTY</Route>
+    </STAR>
+    <STAR Name="AKSEL1N" Airport="RJTT" Runways="22,23">
+      <Route>AKSEL SALLY TT253 TT254 TT255 STOWE SHAFT NYLON</Route>
+    </STAR>
+    <STAR Name="AKSEL2N" Airport="RJTT" Runways="22,23">
+      <Route>AKSEL LAFIT STING SPARK SHAFT NYLON</Route>
+    </STAR>
+    <STAR Name="AKSEL_NIGHT" Airport="RJTT" Runways="34L,34R,23">
+      <Route>AKSEL UTIBO UMUKI KAIHO</Route>
+    </STAR>
+    <STAR Name="XAC_NIGHT" Airport="RJTT" Runways="34L,34R,23">
+      <Route>XAC UTIBO UMUKI KAIHO</Route>
+    </STAR>
+    <STAR Name="AROSA_NIGHT" Airport="RJTT" Runways="34L,34R,23">
+      <Route>AROSA UTIBO UMUKI KAIHO</Route>
+    </STAR>
+    <STAR Name="MESSE_NIGHT" Airport="RJTT" Runways="34L,34R,23">
+      <Route>MESSE UTIBO UMUKI KAIHO</Route>
+    </STAR>
+    <STAR Name="AKSEL_V" Airport="RJTT" Runways="16L">
+      <Route>AKSEL UTIBO UMUKI KAIHO LD225 DARKS</Route>
+    </STAR>
+    <STAR Name="XAC_V" Airport="RJTT" Runways="16L">
+      <Route>XAC UTIBO UMUKI KAIHO LD225 DARKS</Route>
+    </STAR>
+    <STAR Name="AROSA_V" Airport="RJTT" Runways="16L">
+      <Route>AROSA UTIBO UMUKI KAIHO LD225 DARKS</Route>
+    </STAR>
+    <STAR Name="MESSE_V" Airport="RJTT" Runways="16L">
+      <Route>MESSE UTIBO UMUKI KAIHO LD225 DARKS</Route>
+    </STAR>
+    <STAR Name="AROSA1A" Airport="RJTT" Runways="34L,34R">
+      <Route>AROSA AVEEY TT457 TT458 TT459 WALTZ WEDGE ARLON</Route>
+    </STAR>
+    <STAR Name="AROSA2C" Airport="RJTT" Runways="34L,34R">
+      <Route>AROSA AVEEY TT460 TT461 CIVIC TT462 TT463 TT464 EPSON CREAM</Route>
+    </STAR>
+    <STAR Name="AROSA1K" Airport="RJTT" Runways="34L,34R">
+      <Route>AROSA AVEEY TT457 TT458 TT459 WALTZ WEDGE UMUKI KAIHO</Route>
+    </STAR>
+    <STAR Name="AROSA1B" Airport="RJTT" Runways="22,23">
+      <Route>AROSA AVEEY ALDEN TT256 TT257 SLICK SHAFT BACON</Route>
+    </STAR>
+    <STAR Name="AROSA2B" Airport="RJTT" Runways="22,23">
+      <Route>AROSA AVEEY STING SPARK SHAFT BACON</Route>
+    </STAR>
+    <STAR Name="AROSA_L" Airport="RJTT" Runways="16L">
+      <Route>AROSA AVEEY ALDEN TT256 TT257 SLICK SHAFT SNOKE SPINE SOPPY SNARE SACHS SANDY</Route>
+    </STAR>
+    <STAR Name="AROSA_R" Airport="RJTT" Runways="16R">
+      <Route>AROSA AVEEY ALDEN TT256 TT257 SCOUT SCOPE T6R70 NUMAN NORIK T6R71 T6R72 NURSE NEURO NIGEL NATTY</Route>
+    </STAR>
+    <STAR Name="AROSA1N" Airport="RJTT" Runways="22,23">
+      <Route>AROSA AVEEY ALDEN SLICK SHAFT NYLON</Route>
+    </STAR>
+    <STAR Name="AROSA2N" Airport="RJTT" Runways="22,23">
+      <Route>AROSA AVEEY STING SPARK SHAFT NYLON</Route>
+    </STAR>
+    <STAR Name="XAC1A" Airport="RJTT" Runways="34L,34R">
+      <Route>XAC ANZAX TT450 TT451 TT452 TT453 WANDA WEDGE ARLON</Route>
+    </STAR>
+    <STAR Name="XAC2C" Airport="RJTT" Runways="34L,34R">
+      <Route>XAC CLONE TT460 TT461 CIVIC TT462 TT463 TT464 EPSON CREAM</Route>
+    </STAR>
+    <STAR Name="XAC1K" Airport="RJTT" Runways="34L,34R">
+      <Route>XAC ANZAX TT450 TT451 TT452 TT453 WANDA WEDGE UMUKI KAIHO</Route>
+    </STAR>
+    <STAR Name="XAC1B" Airport="RJTT" Runways="22,23">
+      <Route>XAC ANZAC SOLAR SCOUT TT250 TT251 TT252 STOCK SHAFT BACON</Route>
+    </STAR>
+    <STAR Name="XAC2B" Airport="RJTT" Runways="22,23">
+      <Route>XAC AKSEL LAFIT STING SPARK SHAFT BACON</Route>
+    </STAR>
+    <STAR Name="XAC_L" Airport="RJTT" Runways="16L">
+      <Route>XAC ANZAC SOLAR SCOUT TT250 TT251 TT252 STOCK SHAFT SNOKE SPINE SOPPY SNARE SACHS SANDY</Route>
+    </STAR>
+    <STAR Name="XAC_R" Airport="RJTT" Runways="16R">
+      <Route>XAC ANZAC SOLAR SCOUT SCOPE T6R70 NUMAN NORIK T6R71 T6R72 NURSE NEURO NIGEL NATTY</Route>
+    </STAR>
+    <STAR Name="XAC1N" Airport="RJTT" Runways="22,23">
+      <Route>XAC ANZAC SCOUT TT250 TT251 TT252 STOCK SHAFT NYLON</Route>
+    </STAR>
+    <STAR Name="XAC2N" Airport="RJTT" Runways="22,23">
+      <Route>XAC AKSEL LAFIT STING SPARK SHAFT NYLON</Route>
+    </STAR>
+    <STAR Name="POLIX1C" Airport="RJTT" Runways="34L,34R">
+      <Route>POLIX CHIPS COLOR COPSE COACH TT465 TT466 TT467 EDDIE CREAM</Route>
+    </STAR>
+    <STAR Name="POLIX1H" Airport="RJTT" Runways="34L,34R">
+      <Route>POLIX CHIPS COLOR COPSE COACH TT465 TT466 TT467 EDDIE CREAM CLOAK CAMEL CACAO</Route>
+    </STAR>
+    <STAR Name="POLIX2A" Airport="RJTT" Runways="34L,34R">
+      <Route>POLIX CHIPS COLOR COPSE COACH TT465 TT466 TT467 EDDIE TT468 ANDEN ARLON</Route>
+    </STAR>
+    <STAR Name="POLIX2K" Airport="RJTT" Runways="34L,34R">
+      <Route>POLIX CHIPS COLOR COPSE COACH TT465 TT466 TT467 EDDIE TT468 ANDEN UMUKI KAIHO</Route>
+    </STAR>
+    <STAR Name="POLIX1D" Airport="RJTT" Runways="22,23">
+      <Route>POLIX GODIN NOVEL DREAD DENNY DATUM</Route>
+    </STAR>
+    <STAR Name="POLIX1S" Airport="RJTT" Runways="22,23">
+      <Route>POLIX GODIN NOVEL SCREW STEAM</Route>
+    </STAR>
+    <STAR Name="POLIX_L" Airport="RJTT" Runways="16L">
+      <Route>POLIX GODIN NOVEL NAMCO TT680 TT681 NILUS SNARE SANDY</Route>
+    </STAR>
+    <STAR Name="POLIX_R" Airport="RJTT" Runways="16R">
+      <Route>POLIX GODIN NOVEL NAMCO TT680 TT681 NILUS NEURO NIGEL NATTY</Route>
+    </STAR>
+    <STAR Name="GODIN1C" Airport="RJTT" Runways="34L,34R">
+      <Route>GODIN CHIPS COLOR COPSE COACH TT465 TT466 TT467 EDDIE CREAM</Route>
+    </STAR>
+    <STAR Name="GODIN1H" Airport="RJTT" Runways="34L,34R">
+      <Route>GODIN CHIPS COLOR COPSE COACH TT465 TT466 TT467 EDDIE CREAM CLOAK CAMEL CACAO</Route>
+    </STAR>
+    <STAR Name="GODIN2A" Airport="RJTT" Runways="34L,34R">
+      <Route>GODIN CHIPS COLOR COPSE COACH TT465 TT466 TT467 EDDIE TT468 ANDEN ARLON</Route>
+    </STAR>
+    <STAR Name="GODIN2K" Airport="RJTT" Runways="34L,34R">
+      <Route>GODIN CHIPS COLOR COPSE COACH TT465 TT466 TT467 EDDIE TT468 ANDEN UMUKI KAIHO</Route>
+    </STAR>
+    <STAR Name="GODIN1D" Airport="RJTT" Runways="22,23">
+      <Route>GODIN NOVEL DREAD DENNY DATUM</Route>
+    </STAR>
+    <STAR Name="GODIN1S" Airport="RJTT" Runways="22,23">
+      <Route>GODIN NOVEL SCREW STEAM</Route>
+    </STAR>
+    <STAR Name="GODIN_L" Airport="RJTT" Runways="16L">
+      <Route>GODIN NOVEL NAMCO TT680 TT681 NILUS SNARE SANDY</Route>
+    </STAR>
+    <STAR Name="GODIN_R" Airport="RJTT" Runways="16R">
+      <Route>GODIN NOVEL NAMCO TT680 TT681 NILUS NEURO NIGEL NATTY</Route>
+    </STAR>
+    <STAR Name="ADDUM" Airport="RJTT" Runways="34L">
+      <Route>ADDUM ARLON</Route>
+    </STAR>
+    <STAR Name="BONUS" Airport="RJTT" Runways="22">
+      <Route>ADDUM ARLON BONUS</Route>
+    </STAR>
+    <STAR Name="DOYLE" Airport="RJTT" Runways="23">
+      <Route>STONE DOYLE</Route>
+    </STAR>
+    <STAR Name="SINGO" Airport="RJTT" Runways="34R">
+      <Route>STONE SINGO</Route>
+    </STAR>
+  <Approach Name="ILSX" Airport="RJTT" Runway="34L">
+    <Route>KAIHO AVION ALLIE AZURE</Route>
+  </Approach>
+  <Approach Name="ILSZ" Airport="RJTT" Runway="34L">
+    <Transition Name="CREAM">CREAM</Transition>
+    <Route>ARLON APOLO</Route>
+  </Approach>
+  <Approach Name="ILSZ" Airport="RJTT" Runway="34R">
+    <Transition Name="SINGO">SINGO</Transition>
+    <Transition Name="CREAM">CREAM CLOAK</Transition>
+    <Transition Name="ARLON">ARLON</Transition>
+    <Route>CAMEL CACAO</Route>
+  </Approach>
+  <Approach Name="HWVS" Airport="RJTT" Runway="34R">
+    <Route>CACAO</Route>
+  </Approach>
+  <Approach Name="ILSY" Airport="RJTT" Runway="34R">
+    <Route>KAIHO CURVY CECIL CREST</Route>
+  </Approach>
+  <Approach Name="LDAW" Airport="RJTT" Runway="22">
+    <Route>BACON BIBLO BEAST BONDO</Route>
+  </Approach>
+  <Approach Name="LDAX" Airport="RJTT" Runway="22">
+    <Transition Name="DATUM">DATUM DYUKE</Transition>
+    <Route>BONUS BONDO</Route>
+  </Approach>
+  <Approach Name="ILS" Airport="RJTT" Runway="22">
+    <Transition Name="STEAM">STEAM NINJA</Transition>
+    <Transition Name="NYLON">NYLON NIFTY</Transition>
+    <Route>NEXUS NITRO</Route>
+  </Approach>
+  <Approach Name="LDAX" Airport="RJTT" Runway="23">
+    <Transition Name="BACON">BACON</Transition>
+    <Route>DOYLE DAMBO</Route>
+  </Approach>
+  <Approach Name="LDAW" Airport="RJTT" Runway="23">
+    <Route>DATUM DARIO DISCO DANON DEANE DAMBO</Route>
+  </Approach>
+  <Approach Name="LDAY" Airport="RJTT" Runway="23">
+    <Route>KAIHO LD225 LD224 DARKS DOMEL</Route>
+  </Approach>
+  <Approach Name="ILSZ" Airport="RJTT" Runway="23">
+    <Transition Name="STEAM">STEAM SWEET SNAKE</Transition>
+    <Transition Name="NYLON">NYLON</Transition>
+    <Route>SMILE SAROB</Route>
+  </Approach>
+  <Approach Name="ILSY" Airport="RJTT" Runway="23">
+    <Route>KAIHO LD225 LD224 LD223 DAIYA LUBBY GUMIK</Route>
+  </Approach>
+  <Approach Name="RNP" Airport="RJTT" Runway="16L">
+    <Route>SANDY LYCEE LAUDA T6L61 T6L64</Route>
+  </Approach>
+  <Approach Name="RNP" Airport="RJTT" Runway="16R">
+    <Route>NATTY RACER REMUS ROWAN RIPOD T6R73 T6R74</Route>
+  </Approach>
+  <Approach Name="VORA" Airport="RJTT" Runway="16R">
+    <Route>DARKS SAZAN</Route>
+  </Approach>
+<!-- RJAA-->
+   <SID Name="AKAGI4" Airport="RJAA" Runways="16R,34L">
+      <Route Runway="16R">NRE LOPIA YAOKO AKAGI</Route>
+      <Route Runway="34L">NRE LOPIA YAOKO AKAGI</Route>
+   </SID>
+   <SID Name="BORLO2" Airport="RJAA" Runways="16L,16R,34L,34R">
+      <Route Runway="16L">BEAMS A6L21 OLVAN GRAYL BORLO</Route>
+      <Route Runway="16R">ASPEN A6R12 OLVAN GRAYL BORLO</Route>
+      <Route Runway="34L">ARIES A4L11 A4L12 A4L13 A4L14 ROONY CHUMS CUPID BORLO</Route>
+      <Route Runway="34R">BOXER A4R21 A4R22 A4R23 PEGAS LUCCA CUPID BORLO</Route>
+   </SID>
+   <SID Name="GULBO2" Airport="RJAA" Runways="16L,16R,34L,34R">
+      <Route Runway="16L">BEAMS A6L21 OLVAN TAPIR GULBO</Route>
+      <Route Runway="16R">ASPEN A6R12 OLVAN TAPIR GULBO</Route>
+      <Route Runway="34L">ARIES A4L11 A4L12 A4L13 A4L14 ROONY CHUMS CUPID GULBO</Route>
+      <Route Runway="34R">BOXER A4R21 A4R22 A4R23 PEGAS LUCCA CUPID GULBO</Route>
+   </SID>
+   <SID Name="OLVAN2" Airport="RJAA" Runways="16L,16R,34L,34R">
+      <Route Runway="16L">BEAMS A6L21 OLVAN</Route>
+      <Route Runway="16R">ASPEN A6R12 OLVAN</Route>
+      <Route Runway="34L">ARIES A4L11 A4L12 A4L13 A4L14 ROONY CHUMS OLVAN</Route>
+      <Route Runway="34R">BOXER A4R21 A4R22 A4R23 PEGAS LUCCA OLVAN</Route>
+      <Transition Name="SAMUS">SAMUS</Transition>
+   </SID>
+   <SID Name="PEDLA1" Airport="RJAA" Runways="16L,16R,34L,34R">
+      <Route Runway="16L">BEAMS A6L21 DAITO PEDLA</Route>
+      <Route Runway="16R">ASPEN A6R11 DAITO PEDLA</Route>
+      <Route Runway="34L">ASTRA AA433 DAITO PEDLA</Route>
+      <Route Runway="34R">BOXER AA433 DAITO PEDLA</Route>
+   </SID>
+   <SID Name="PIGOK2" Airport="RJAA" Runways="16L,16R,34L,34R">
+      <Route Runway="16L">BEAMS A6L21 AA631 AA632 ACURE PAGOT PIGOK</Route>
+      <Route Runway="16R">ASPEN A6R12 KUJYU PIGOK</Route>
+      <Route Runway="34L">ARIES A4L11 A4L12 A4L13 A4L14 ROONY IBURA ADRIA ROSSO PIGOK</Route>
+      <Route Runway="34R">BOXER A4R21 A4R22 A4R23 PEGAS GULID ROSSO PIGOK</Route>
+   </SID>
+   <SID Name="REDEK2" Airport="RJAA" Runways="16L,16R,34L,34R">
+      <Route Runway="16L">BEAMS A6L21 AA631 AA632 ACURE PAGOT REDEK</Route>
+      <Route Runway="16R">ASPEN A6R12 KUJYU REDEK</Route>
+      <Route Runway="34L">ARIES A4L11 A4L12 A4L13 A4L14 ROONY IBURA GULID PORCO REDEK</Route>
+      <Route Runway="34R">BOXER A4R21 A4R22 A4R23 PEGAS GULID PORCO REDEK</Route>
+   </SID>
+   <SID Name="SAKURA5" Airport="RJAA" Runways="16R,34L">
+      <Route Runway="16R">NRE TETRA</Route>
+      <Route Runway="34L">NRE TETRA</Route>
+      <Transition Name="AGRIS">XRADIX WHARF KIMIN</Transition>
+      <Transition Name="ENPAR">RAMBA ENPAR</Transition>
+      <Transition Name="KIMIN">RADIX WHARF KIMIN</Transition>
+      <Transition Name="SZE">HME SZE</Transition>
+   </SID>
+   <SID Name="SUNNS2" Airport="RJAA" Runways="16R,34L">
+      <Route Runway="16R">ROUSY SUNNS</Route>
+      <Route Runway="34L">NRE ROUSY SUNNS</Route>
+   </SID>
+   <SID Name="TETRA8" Airport="RJAA" Runways="16L,16R,34L,34R">
+      <Route Runway="16L">BEAMS A6L21 AA631 AA632 PHLOX TETRA</Route>
+      <Route Runway="16R">ASPEN A6R11 A6R13 A6R14 TETRA</Route>
+      <Route Runway="34L">ARIES A4L11 A4L12 A4L13 A4L14 ROONY ASTON TETRA</Route>
+      <Route Runway="34R">BOXER A4R21 A4R22 A4R23 PEGAS ASTON TETRA</Route>
+      <Transition Name="AGRIS">XRADIX WHARF KIMIN</Transition>
+      <Transition Name="ENPAR">RAMBA ENPAR</Transition>
+      <Transition Name="KIMIN">RADIX WHARF KIMIN</Transition>
+      <Transition Name="SZE">HME SZE</Transition>
+   </SID>
+    <STAR Name="BINKS_N" Airport="RJAA" Runways="16L,16R">
+      <Route>BINKS SIMAK LAKES</Route>
+    </STAR>
+    <STAR Name="BOSPA_N" Airport="RJAA" Runways="16L,16R">
+      <Route>BOSPA SIMAK LAKES</Route>
+    </STAR>
+    <STAR Name="BINKS_S_A" Airport="RJAA" Runways="34L">
+      <Route>BINKS GIINA</Route>
+    </STAR>
+    <STAR Name="BOSPA_S_A" Airport="RJAA" Runways="34L">
+      <Route>BOSPA SIMAK GIINA</Route>
+    </STAR>
+    <STAR Name="BINKS_S_B" Airport="RJAA" Runways="34R">
+      <Route>BINKS TEMIS</Route>
+    </STAR>
+    <STAR Name="BOSPA_S_B" Airport="RJAA" Runways="34R">
+      <Route>BOSPA SIMAK TEMIS</Route>
+    </STAR>
+    <STAR Name="LAKES_N" Airport="RJAA" Runways="16L,16R">
+      <Route>SWAMP DANTE SIMAK LAKES</Route>
+    </STAR>
+    <STAR Name="SWAMP_S_A" Airport="RJAA" Runways="34L">
+      <Route>SWAMP DANTE SIMAK GIINA</Route>
+    </STAR>
+    <STAR Name="SWAMP_S_B" Airport="RJAA" Runways="34R">
+      <Route>SWAMP DANTE SIMAK TEMIS</Route>
+    </STAR>
+    <STAR Name="LUBLA_E" Airport="RJAA" Runways="34L,34R">
+      <Route>LUBLA TORCH CORGI ELGAR</Route>
+    </STAR>
+    <STAR Name="LUBLA_T" Airport="RJAA" Runways="34L,34R">
+      <Route>LUBLA SOFIA AA458 AA459 AA460 AA461 BELKS PEAKS TYLER</Route>
+    </STAR>
+    <STAR Name="LUBLA_G" Airport="RJAA" Runways="16L,16R">
+      <Route>LUBLA REGZA VOGUE AA658 AA659 SAFRA CASIO GEMIN</Route>
+    </STAR>
+    <STAR Name="LUBLA_N" Airport="RJAA" Runways="16L,16R">
+      <Route>LUBLA REGZA BARON NORMA</Route>
+    </STAR>
+    <STAR Name="RUTAS_E" Airport="RJAA" Runways="34L,34R">
+      <Route>RUTAS VENUS JARED AA451 AA452 AA453 YUMIL PEAKS TYLER</Route>
+    </STAR>
+    <STAR Name="RUTAS_T" Airport="RJAA" Runways="34L,34R">
+      <Route>RUTAS JITAN AQUOS SIGMA TORCH CORGI ELGAR</Route>
+    </STAR>
+    <STAR Name="RUTAS_G" Airport="RJAA" Runways="16L,16R">
+      <Route>RUTAS VENUS COPEN BOOTH AA651 AA652 GAMMA CASIO GEMIN</Route>
+    </STAR>
+    <STAR Name="RUTAS_N" Airport="RJAA" Runways="16L,16R">
+      <Route>RUTAS VENUS GAUDI BARON NORMA</Route>
+    </STAR>
+    <STAR Name="SUPOK_E" Airport="RJAA" Runways="34L,34R">
+      <Route>SUPOK PLOKY UNARI CORGI ELGAR</Route>
+    </STAR>
+    <STAR Name="SUPOK_T" Airport="RJAA" Runways="34L,34R">
+      <Route>SUPOK SOFIA AA458 AA459 AA460 AA461 BELKS PEAKS TYLER</Route>
+    </STAR>
+    <STAR Name="SUPOK_G" Airport="RJAA" Runways="16L,16R">
+      <Route>SUPOK AA657 REGZA VOGUE AA658 AA659 SAFRA CASIO GEMIN</Route>
+    </STAR>
+    <STAR Name="SUPOK_N" Airport="RJAA" Runways="16L,16R">
+      <Route>SUPOK AA657 BARON NORMA</Route>
+    </STAR>
+    <STAR Name="SWAMP_E" Airport="RJAA" Runways="34L,34R">
+      <Route>SWAMP VIXEN PLEIA MIFFY KARMA UNARI CORGI ELGAR</Route>
+    </STAR>
+    <STAR Name="SWAMP_T" Airport="RJAA" Runways="34L,34R">
+      <Route>SWAMP VIXEN PLEIA KARMA DREAM MCGEE AA455 AA456 AA457 HYDRA PEAKS TYLER</Route>
+    </STAR>
+    <STAR Name="SWAMP_G" Airport="RJAA" Runways="16L,16R">
+      <Route>SWAMP VIXEN PLEIA BETEL AA653 AA654 SPITZ CASIO GEMIN</Route>
+    </STAR>
+    <STAR Name="SWAMP_N" Airport="RJAA" Runways="16L,16R">
+      <Route>SWAMP VIXEN PLEIA AA655 AA656 AA657 BARON NORMA</Route>
+    </STAR>
+    <Approach Name="ILSZ" Airport="RJAA" Runway="16L">
+      <Transition Name="NORMA">NORMA LUNAR MARCH LARKS</Transition>
+      <Transition Name="GEMIN">GEMIN MARCH LARKS</Transition>
+      <Route>METIS CYGNY</Route>
+    </Approach>
+    <Approach Name="ILSY" Airport="RJAA" Runway="16L">
+      <Transition Name="NORMA">NORMA CURIO GLARE</Transition>
+      <Transition Name="GEMIN">GEMIN GLARE</Transition>
+      <Route>AMITY BIRDY</Route>
+    </Approach>
+    <Approach Name="ILSX" Airport="RJAA" Runway="16L">
+      <Route>LAKES INASY</Route>
+    </Approach>
+    <Approach Name="ILSZ" Airport="RJAA" Runway="16R">
+      <Transition Name="NORMA">NORMA ACELA PIXUS BROOK</Transition>
+      <Transition Name="GEMIN">GEMIN ACELA PIXUS BROOK</Transition>
+      <Route>KOALA GOKOR</Route>
+    </Approach>
+    <Approach Name="ILSY" Airport="RJAA" Runway="16R">
+      <Transition Name="NORMA">NORMA CURIO GLARE</Transition>
+      <Transition Name="GEMIN">GEMIN GLARE</Transition>
+      <Transition Name="LAKES">LAKES</Transition>
+      <Route>KONAN TENAG</Route>
+    </Approach>
+    <Approach Name="ILS" Airport="RJAA" Runway="34L">
+      <Transition Name="TYLER">TYLER</Transition>
+      <Transition Name="ELGAR">ELGAR HARPS</Transition>
+      <Route>GIINA COSMO</Route>
+    </Approach>
+    <Approach Name="ILSY" Airport="RJAA" Runway="34T">
+      <Transition Name="TYLER">TYLER</Transition>
+      <Transition Name="ELGAR">ELGAR FIONA</Transition>
+      <Route>TEMIS CROWN</Route>
+    </Approach>
+    <Approach Name="ILSZ" Airport="RJAA" Runway="34R">
+      <Transition Name="TYLER">TYLER</Transition>
+      <Transition Name="ELGAR">ELGAR FIONA</Transition>
+      <Route>TEMIS LAPIS</Route>
+    </Approach>
   </SIDSTARs>
   <Airways>
     <!-- OTR -->

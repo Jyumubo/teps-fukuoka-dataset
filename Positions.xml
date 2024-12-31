@@ -1,7 +1,72 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Positions xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <Group Name="RJDG">
-    <Position Name="DG North" Type="ASD" DefaultCenter="+424805.1471+1415557.6965" DefaultRange="554" VisibilityRange="600" MagneticVariation="+8">
+    <Position Name="DG Bandbox" Type="ASD" DefaultCenter="+342848.3691+1335234.1748" DefaultRange="2160" VisibilityRange="600" MagneticVariation="+7">
+      <Sectors>
+        <Sector Name="DG" />
+        <Sector Name="F01" />
+        <Sector Name="T30" />
+        <Sector Name="T31" />
+        <Sector Name="T32" />
+        <Sector Name="F02" />
+        <Sector Name="F03" />
+        <Sector Name="F04" />
+        <Sector Name="F05" />
+        <Sector Name="F07" />
+        <Sector Name="T09" />
+        <Sector Name="T10" />
+        <Sector Name="T14" />
+        <Sector Name="T25" />
+        <Sector Name="T45" />
+        <Sector Name="T46" />
+        <Sector Name="T33" />
+        <Sector Name="T34" />
+        <Sector Name="T35" />
+        <Sector Name="T36" />
+        <Sector Name="T38" />
+        <Sector Name="T39" />
+        <Sector Name="N43" />
+        <Sector Name="N44" />
+        <Sector Name="N47" />
+        <Sector Name="N48" />
+        <Sector Name="N49" />
+        <Sector Name="F08" />
+        <Sector Name="F09" />
+        <Sector Name="F10" />
+        <Sector Name="F11" />
+        <Sector Name="F12" />
+        <Sector Name="F13" />
+        <Sector Name="F14" />
+        <Sector Name="N50" />
+        <Sector Name="N51" />
+        <Sector Name="N52" />
+        <Sector Name="N53" />
+        <Sector Name="N54" />
+        <Sector Name="N55" />
+        <Sector Name="F15" />
+        <Sector Name="F16" />
+        <Sector Name="F17" />
+      </Sectors>
+      <ManualVisibility>
+        <Point>+374714.5413+1405920.3943</Point>
+        <Point>+290040.6632+1265514.7125</Point>
+      </ManualVisibility>
+      <Maps>
+        <Map Name="GEO" />
+        <Map Name="AC-RJDG/Sectors" />
+      </Maps>
+      <Strips Mode="State" Sort="Time">
+        <Window Type="State" State="Jurisdiction" Visible="true" />
+        <Window Type="State" State="Announced" Visible="true" />
+        <Window Type="State" State="Preactive" Visible="true" />
+      </Strips>
+      <CFL QuickLevel="9000" />
+      <ControllerInfo>
+        <Line>Fukuoka Control</Line>
+        <Line>Covering F01, F02, F03, F04, F05, F07, F08, F09, F10, F11, F12, F13, F14, F15, F16, F17 Sectors</Line>
+      </ControllerInfo>
+    </Position>
+    <Position Name="DG North" Type="ASD" DefaultCenter="+422147.3044+1414021.5515" DefaultRange="670" VisibilityRange="600" MagneticVariation="+10">
       <Sectors>
         <Sector Name="DG N" />
         <Sector Name="F01" />
@@ -10,10 +75,11 @@
         <Sector Name="T32" />
       </Sectors>
       <ManualVisibility>
-        <Point>+424805.1471+1415557.6965</Point>
+        <Point>+422147.3044+1414021.5515</Point>
       </ManualVisibility>
       <Maps>
         <Map Name="GEO" />
+        <Map Name="AC-RJDG/Sectors" />
       </Maps>
       <Strips Mode="State" Sort="Time">
         <Window Type="State" State="Jurisdiction" Visible="true" />
@@ -26,21 +92,50 @@
         <Line>Covering F01 Sector</Line>
       </ControllerInfo>
     </Position>
-    <Position Name="DG West" Type="ASD" DefaultCenter="+290724.6854+1275553.9063" DefaultRange="1038" VisibilityRange="600" MagneticVariation="+8" >
+    <Position Name="DG Central" Type="ASD" DefaultCenter="+353524.4263+1351806.3281" DefaultRange="1108" VisibilityRange="600" MagneticVariation="+7" >
       <Sectors>
-        <Sector Name="DG S" />
+        <Sector Name="DG C" />
+        <Sector Name="F02" />
+        <Sector Name="F03" />
+        <Sector Name="F04" />
+        <Sector Name="F05" />
+        <Sector Name="F07" />
+        <Sector Name="T09" />
+        <Sector Name="T10" />
+        <Sector Name="T14" />
+        <Sector Name="T25" />
+        <Sector Name="T45" />
+        <Sector Name="T46" />
+        <Sector Name="T33" />
+        <Sector Name="T34" />
+        <Sector Name="T35" />
+        <Sector Name="T36" />
+        <Sector Name="T38" />
+        <Sector Name="T39" />
+        <Sector Name="N43" />
+        <Sector Name="N44" />
+        <Sector Name="N47" />
+        <Sector Name="N48" />
+        <Sector Name="N49" />
+        <Sector Name="F08" />
+        <Sector Name="F09" />
+        <Sector Name="F10" />
+        <Sector Name="F11" />
         <Sector Name="F12" />
         <Sector Name="F13" />
         <Sector Name="F14" />
-        <Sector Name="F15" />
-        <Sector Name="F16" />
-        <Sector Name="F17" />
+        <Sector Name="N50" />
+        <Sector Name="N51" />
+        <Sector Name="N52" />
+        <Sector Name="N53" />
+        <Sector Name="N54" />
       </Sectors>
       <ManualVisibility>
-        <Point>+290724.6854+1275553.9063</Point>
+        <Point>+342802.9956+1351207.4597</Point>
       </ManualVisibility>
       <Maps>
         <Map Name="GEO" />
+        <Map Name="AC-RJDG/Sectors" />
       </Maps>
       <Strips Mode="State" Sort="Time">
         <Window Type="State" State="Jurisdiction" Visible="true" />
@@ -50,12 +145,91 @@
       <CFL QuickLevel="9000" />
       <ControllerInfo>
         <Line>Fukuoka Control</Line>
-        <Line>Covering F17, F16, F15, F14, F13, F12 Sectors</Line>
+        <Line>Covering F02, F03, F04, F05, F07, F08, F09, F10, F11, F12, F13, F14 Sectors</Line>
       </ControllerInfo>
     </Position>
-  <Position Name="DG South" Type="ASD" DefaultCenter="+255205.7065+1272335.2588" DefaultRange="748" VisibilityRange="600" MagneticVariation="+5" >
+    <Position Name="DG East" Type="ASD" DefaultCenter="+353721.1835+1375015.5823" DefaultRange="1148" VisibilityRange="600" MagneticVariation="+8" >
+      <Sectors>
+        <Sector Name="DG E" />
+        <Sector Name="F02" />
+        <Sector Name="F03" />
+        <Sector Name="F04" />
+        <Sector Name="F05" />
+        <Sector Name="F07" />
+        <Sector Name="T09" />
+        <Sector Name="T10" />
+        <Sector Name="T14" />
+        <Sector Name="T25" />
+        <Sector Name="T45" />
+        <Sector Name="T46" />
+        <Sector Name="T33" />
+        <Sector Name="T34" />
+        <Sector Name="T35" />
+        <Sector Name="T36" />
+        <Sector Name="T38" />
+        <Sector Name="T39" />
+        <Sector Name="N43" />
+        <Sector Name="N44" />
+        <Sector Name="N47" />
+        <Sector Name="N48" />
+        <Sector Name="N49" />
+      </Sectors>
+      <ManualVisibility>
+        <Point>+353721.1835+1375015.5823</Point>
+      </ManualVisibility>
+      <Maps>
+        <Map Name="GEO" />
+        <Map Name="AC-RJDG/Sectors" />
+      </Maps>
+      <Strips Mode="State" Sort="Time">
+        <Window Type="State" State="Jurisdiction" Visible="true" />
+        <Window Type="State" State="Announced" Visible="true" />
+        <Window Type="State" State="Preactive" Visible="true" />
+      </Strips>
+      <CFL QuickLevel="9000" />
+      <ControllerInfo>
+        <Line>Fukuoka Control</Line>
+        <Line>Covering F02, F03, F04, F05, F07 Sectors</Line>
+      </ControllerInfo>
+    </Position>
+    <Position Name="DG West" Type="ASD" DefaultCenter="+334229.9542+1323953.7012" DefaultRange="833" VisibilityRange="600" MagneticVariation="+8" >
+      <Sectors>
+        <Sector Name="DG W" />
+        <Sector Name="F08" />
+        <Sector Name="F09" />
+        <Sector Name="F10" />
+        <Sector Name="F11" />
+        <Sector Name="F12" />
+        <Sector Name="F13" />
+        <Sector Name="F14" />
+        <Sector Name="N50" />
+        <Sector Name="N51" />
+        <Sector Name="N52" />
+        <Sector Name="N53" />
+        <Sector Name="N54" />
+      </Sectors>
+      <ManualVisibility>
+        <Point>+334229.9542+1323953.7012</Point>
+      </ManualVisibility>
+      <Maps>
+        <Map Name="GEO" />
+        <Map Name="AC-RJDG/Sectors" />
+      </Maps>
+      <Strips Mode="State" Sort="Time">
+        <Window Type="State" State="Jurisdiction" Visible="true" />
+        <Window Type="State" State="Announced" Visible="true" />
+        <Window Type="State" State="Preactive" Visible="true" />
+      </Strips>
+      <CFL QuickLevel="9000" />
+      <ControllerInfo>
+        <Line>Fukuoka Control</Line>
+        <Line>Covering F08, F09, F10, F11, F12, F13, F14 Sectors</Line>
+      </ControllerInfo>
+    </Position>
+  <Position Name="DG South" Type="ASD" DefaultCenter="+262713.7837+1272856.0321" DefaultRange="986" VisibilityRange="600" MagneticVariation="+5" >
       <Sectors>
         <Sector Name="DG S" />
+        <Sector Name="N55" />
         <Sector Name="F15" />
         <Sector Name="F16" />
         <Sector Name="F17" />
@@ -65,6 +239,7 @@
       </ManualVisibility>
       <Maps>
         <Map Name="GEO" />
+        <Map Name="AC-RJDG/Sectors" />
       </Maps>
       <Strips Mode="State" Sort="Time">
         <Window Type="State" State="Jurisdiction" Visible="true" />
@@ -74,7 +249,7 @@
       <CFL QuickLevel="9000" />
       <ControllerInfo>
         <Line>Fukuoka Control</Line>
-        <Line>Covering F15 Sector</Line>
+        <Line>Covering F15, F16, F17 Sectors</Line>
       </ControllerInfo>
     </Position>
     <Position Name="F01" Type="ASD" DefaultCenter="+421226.4111+1411458.407" DefaultRange="531" VisibilityRange="600" MagneticVariation="+9">
@@ -377,7 +552,44 @@
     </Position>
   </Group>
   <Group Name="RJTG">
-    <Position Name="TG North" Type="ASD" DefaultCenter="+424805.1471+1415557.6965" DefaultRange="554" VisibilityRange="600" MagneticVariation="+9">
+    <Position Name="TG Bandbox" Type="ASD" DefaultCenter="+380758.6469+1410501.9043" DefaultRange="1437" VisibilityRange="600" MagneticVariation="+9">
+      <Sectors>
+        <Sector Name="TG" />
+        <Sector Name="T30" />
+        <Sector Name="T31" />
+        <Sector Name="T32" />
+        <Sector Name="T09" />
+        <Sector Name="T10" />
+        <Sector Name="T14" />
+        <Sector Name="T25" />
+        <Sector Name="T38" />
+        <Sector Name="T39" />
+        <Sector Name="T45" />
+        <Sector Name="T46" />
+        <Sector Name="T33" />
+        <Sector Name="T34" />
+        <Sector Name="T35" />
+        <Sector Name="T36" />
+      </Sectors>
+      <ManualVisibility>
+        <Point>+380758.6469+1410501.9043</Point>
+      </ManualVisibility>
+      <Maps>
+        <Map Name="GEO" />
+        <Map Name="AC-RJTG/Sectors" />
+      </Maps>
+      <Strips Mode="State" Sort="Time">
+        <Window Type="State" State="Jurisdiction" Visible="true" />
+        <Window Type="State" State="Announced" Visible="true" />
+        <Window Type="State" State="Preactive" Visible="true" />
+      </Strips>
+      <CFL QuickLevel="9000" />
+      <ControllerInfo>
+        <Line>Tokyo Control</Line>
+        <Line>Covering T30, T31, T32, T33, T34, T35, T36, T38, T39, T09, T10, T14, T25, T45, T46 Sectors</Line>
+      </ControllerInfo>
+    </Position>
+    <Position Name="TG North" Type="ASD" DefaultCenter="+422218.4232+1420411.1475/" DefaultRange="664" VisibilityRange="600" MagneticVariation="+9">
       <Sectors>
         <Sector Name="TG N" />
         <Sector Name="T30" />
@@ -385,10 +597,11 @@
         <Sector Name="T32" />
       </Sectors>
       <ManualVisibility>
-        <Point>+424805.1471+1415557.6965</Point>
+        <Point>+422218.4232+1420411.1475/</Point>
       </ManualVisibility>
       <Maps>
         <Map Name="GEO" />
+        <Map Name="AC-RJTG/Sectors" />
       </Maps>
       <Strips Mode="State" Sort="Time">
         <Window Type="State" State="Jurisdiction" Visible="true" />
@@ -399,6 +612,96 @@
       <ControllerInfo>
         <Line>Tokyo Control</Line>
         <Line>Covering T30, T31, T32 Sectors</Line>
+      </ControllerInfo>
+    </Position>
+    <Position Name="TG South" Type="ASD" DefaultCenter="+352513.3255+1392714.7107" DefaultRange="981" VisibilityRange="600" MagneticVariation="+8">
+      <Sectors>
+        <Sector Name="TG S" />
+        <Sector Name="T09" />
+        <Sector Name="T10" />
+        <Sector Name="T14" />
+        <Sector Name="T25" />
+        <Sector Name="T38" />
+        <Sector Name="T39" />
+        <Sector Name="T45" />
+        <Sector Name="T46" />
+        <Sector Name="T33" />
+        <Sector Name="T34" />
+        <Sector Name="T35" />
+        <Sector Name="T36" />
+      </Sectors>
+      <ManualVisibility>
+        <Point>+352513.3255+1392714.7107</Point>
+      </ManualVisibility>
+      <Maps>
+        <Map Name="GEO" />
+        <Map Name="AC-RJTG/Sectors" />
+      </Maps>
+      <Strips Mode="State" Sort="Time">
+        <Window Type="State" State="Jurisdiction" Visible="true" />
+        <Window Type="State" State="Announced" Visible="true" />
+        <Window Type="State" State="Preactive" Visible="true" />
+      </Strips>
+      <CFL QuickLevel="9000" />
+      <ControllerInfo>
+        <Line>Tokyo Control</Line>
+        <Line>Covering T09, T10, T14, T25, T38, T39, T45, T46, T33, T34, T35, T36 Sectors</Line>
+      </ControllerInfo>
+    </Position>
+    <Position Name="TG East" Type="ASD" DefaultCenter="+370533.3527+1403314.7327" DefaultRange="609" VisibilityRange="600" MagneticVariation="+8">
+      <Sectors>
+        <Sector Name="TG E" />
+        <Sector Name="T33" />
+        <Sector Name="T34" />
+        <Sector Name="T35" />
+        <Sector Name="T36" />
+      </Sectors>
+      <ManualVisibility>
+        <Point>+370533.3527+1403314.7327</Point>
+      </ManualVisibility>
+      <Maps>
+        <Map Name="GEO" />
+        <Map Name="AC-RJTG/Sectors" />
+      </Maps>
+      <Strips Mode="State" Sort="Time">
+        <Window Type="State" State="Jurisdiction" Visible="true" />
+        <Window Type="State" State="Announced" Visible="true" />
+        <Window Type="State" State="Preactive" Visible="true" />
+      </Strips>
+      <CFL QuickLevel="9000" />
+      <ControllerInfo>
+        <Line>Tokyo Control</Line>
+        <Line>Covering T33, T34, T35, T36 Sectors</Line>
+      </ControllerInfo>
+    </Position>
+    <Position Name="TG West" Type="ASD" DefaultCenter="+330737.0587+1374457.2534" DefaultRange="609" VisibilityRange="600" MagneticVariation="+8">
+      <Sectors>
+        <Sector Name="TG W" />
+        <Sector Name="T09" />
+        <Sector Name="T10" />
+        <Sector Name="T14" />
+        <Sector Name="T25" />
+        <Sector Name="T38" />
+        <Sector Name="T39" />
+        <Sector Name="T45" />
+        <Sector Name="T46" />
+      </Sectors>
+      <ManualVisibility>
+        <Point>+330737.0587+1374457.2534</Point>
+      </ManualVisibility>
+      <Maps>
+        <Map Name="GEO" />
+        <Map Name="AC-RJTG/Sectors" />
+      </Maps>
+      <Strips Mode="State" Sort="Time">
+        <Window Type="State" State="Jurisdiction" Visible="true" />
+        <Window Type="State" State="Announced" Visible="true" />
+        <Window Type="State" State="Preactive" Visible="true" />
+      </Strips>
+      <CFL QuickLevel="9000" />
+      <ControllerInfo>
+        <Line>Tokyo Control</Line>
+        <Line>Covering T09, T10, T14, T25, T38, T39, T45, T46 Sectors</Line>
       </ControllerInfo>
     </Position>
     <Position Name="T30" Type="ASD" DefaultCenter="+433210.0919+1424009.4116" DefaultRange="425" VisibilityRange="600" MagneticVariation="+9">
@@ -466,6 +769,148 @@
     </Position>
   </Group>
   <Group Name="RJBG">
+    <Position Name="BG Bandbox" Type="ASD" DefaultCenter="+322214.523+1325028.2715" DefaultRange="1046" VisibilityRange="600" MagneticVariation="+7">
+      <Sectors>
+        <Sector Name="BG" />
+        <Sector Name="N43" />
+        <Sector Name="N44" />
+        <Sector Name="N47" />
+        <Sector Name="N48" />
+        <Sector Name="N49" />
+        <Sector Name="N50" />
+        <Sector Name="N51" />
+        <Sector Name="N52" />
+        <Sector Name="N53" />
+        <Sector Name="N54" />
+        <Sector Name="N55" />
+      </Sectors>
+      <ManualVisibility>
+        <Point>+322214.523+1325028.2715</Point>
+      </ManualVisibility>
+      <Maps>
+        <Map Name="GEO" />
+        <Map Name="AC-RJBG/Sectors" />
+      </Maps>
+      <Strips Mode="State" Sort="Time">
+        <Window Type="State" State="Jurisdiction" Visible="true" />
+        <Window Type="State" State="Announced" Visible="true" />
+        <Window Type="State" State="Preactive" Visible="true" />
+      </Strips>
+      <CFL QuickLevel="9000" />
+      <ControllerInfo>
+        <Line>Kobe Control</Line>
+        <Line>Covering N43, N44, N47, N48, N49, N50, N51, N52, N53, N54, N55 Sectors</Line>
+      </ControllerInfo>
+    </Position>
+    <Position Name="BG North" Type="ASD" DefaultCenter="+333749.3359+1332808.324" DefaultRange="794" VisibilityRange="600" MagneticVariation="+8">
+      <Sectors>
+        <Sector Name="BG N" />
+        <Sector Name="N43" />
+        <Sector Name="N44" />
+        <Sector Name="N47" />
+        <Sector Name="N48" />
+        <Sector Name="N49" />
+        <Sector Name="N50" />
+        <Sector Name="N51" />
+        <Sector Name="N52" />
+        <Sector Name="N53" />
+        <Sector Name="N54" />
+      </Sectors>
+      <ManualVisibility>
+        <Point>+333749.3359+1332808.324</Point>
+      </ManualVisibility>
+      <Maps>
+        <Map Name="GEO" />
+        <Map Name="AC-RJBG/Sectors" />
+      </Maps>
+      <Strips Mode="State" Sort="Time">
+        <Window Type="State" State="Jurisdiction" Visible="true" />
+        <Window Type="State" State="Announced" Visible="true" />
+        <Window Type="State" State="Preactive" Visible="true" />
+      </Strips>
+      <CFL QuickLevel="9000" />
+      <ControllerInfo>
+        <Line>Kobe Control</Line>
+        <Line>Covering N43, N44, N47, N48, N49, N50, N51, N52, N53, N54 Sectors</Line>
+      </ControllerInfo>
+    </Position>
+    <Position Name="BG East" Type="ASD" DefaultCenter="+360501.918+1352353.9905" DefaultRange="399" VisibilityRange="600" MagneticVariation="+8">
+      <Sectors>
+        <Sector Name="BG E" />
+        <Sector Name="N43" />
+        <Sector Name="N44" />
+        <Sector Name="N47" />
+        <Sector Name="N48" />
+        <Sector Name="N49" />
+      </Sectors>
+      <ManualVisibility>
+        <Point>+360501.918+1352353.9905</Point>
+      </ManualVisibility>
+      <Maps>
+        <Map Name="GEO" />
+        <Map Name="AC-RJBG/Sectors" />
+      </Maps>
+      <Strips Mode="State" Sort="Time">
+        <Window Type="State" State="Jurisdiction" Visible="true" />
+        <Window Type="State" State="Announced" Visible="true" />
+        <Window Type="State" State="Preactive" Visible="true" />
+      </Strips>
+      <CFL QuickLevel="9000" />
+      <ControllerInfo>
+        <Line>Kobe Control</Line>
+        <Line>Covering N43, N44, N47, N48, N49 Sectors</Line>
+      </ControllerInfo>
+    </Position>
+    <Position Name="BG West" Type="ASD" DefaultCenter="+325054.7211+1311915.6519" DefaultRange="542" VisibilityRange="600" MagneticVariation="+8">
+      <Sectors>
+        <Sector Name="BG W" />
+        <Sector Name="N50" />
+        <Sector Name="N51" />
+        <Sector Name="N52" />
+        <Sector Name="N53" />
+        <Sector Name="N54" />
+      </Sectors>
+      <ManualVisibility>
+        <Point>+325054.7211+1311915.6519</Point>
+      </ManualVisibility>
+      <Maps>
+        <Map Name="GEO" />
+        <Map Name="AC-RJBG/Sectors" />
+      </Maps>
+      <Strips Mode="State" Sort="Time">
+        <Window Type="State" State="Jurisdiction" Visible="true" />
+        <Window Type="State" State="Announced" Visible="true" />
+        <Window Type="State" State="Preactive" Visible="true" />
+      </Strips>
+      <CFL QuickLevel="9000" />
+      <ControllerInfo>
+        <Line>Kobe Control</Line>
+        <Line>Covering N50, N51, N52, N53, N54 Sectors</Line>
+      </ControllerInfo>
+    </Position>
+    <Position Name="BG South" Type="ASD" DefaultCenter="+281554.8492+1283900.3625" DefaultRange="474" VisibilityRange="600" MagneticVariation="+5">
+      <Sectors>
+        <Sector Name="BG S" />
+        <Sector Name="N55" />
+      </Sectors>
+      <ManualVisibility>
+        <Point>+281554.8492+1283900.3625</Point>
+      </ManualVisibility>
+      <Maps>
+        <Map Name="GEO" />
+        <Map Name="AC-RJBG/Sectors" />
+      </Maps>
+      <Strips Mode="State" Sort="Time">
+        <Window Type="State" State="Jurisdiction" Visible="true" />
+        <Window Type="State" State="Announced" Visible="true" />
+        <Window Type="State" State="Preactive" Visible="true" />
+      </Strips>
+      <CFL QuickLevel="9000" />
+      <ControllerInfo>
+        <Line>Kobe Control</Line>
+        <Line>Covering N55 Sector</Line>
+      </ControllerInfo>
+    </Position>
     <Position Name="N43" Type="ASD" DefaultCenter="+370331.1023+1372223.573" DefaultRange="230" VisibilityRange="600" MagneticVariation="+8">
       <Sectors>
         <Sector Name="N43" />
@@ -475,6 +920,7 @@
       </ManualVisibility>
       <Maps>
         <Map Name="GEO" />
+        <Map Name="AC-RJBG/Sectors" />
       </Maps>
       <Strips Mode="State" Sort="Time">
         <Window Type="State" State="Jurisdiction" Visible="true" />
@@ -701,28 +1147,464 @@
     </Position>
   </Group>
   <Group Name="Approach">
-    <Position Name="Niigata Approach" Type="ASD" DefaultCenter="+37.955833+139.111667" DefaultRange="200" VisibilityRange="150" MagneticVariation="+8">
+    <Position Name="Hidaka Approach" Type="ASD" DefaultCenter="+430903.9056+1431728.0408" DefaultRange="231" VisibilityRange="150" MagneticVariation="+10">
       <Sectors>
-        <Sector Name="SN APP" />
-        <Sector Name="SN DEP" />
+        <Sector Name="EC APP" />
       </Sectors>
       <ManualVisibility>
-        <Point>+37.955833+139.111667</Point>
+        <Point>+430903.9056+1431728.0408</Point>
       </ManualVisibility>
       <Maps>
         <Map Name="GEO" />
-        <Map Name="RJSN/ACA" />
-        <Map Name="RJSN/MVA" />
+        <Map Name="ACA/ACA" />
+        <Map Name="MVA_AIRSPACE" />
       </Maps>
-      <Strips Mode="Beacon" Sort="Alpha">
-        <Window Type="ADEP" Beacon="RJSN" Visible="true" />
+      <Strips Mode="State" Sort="Time">
+        <Window Type="State" State="Jurisdiction" Visible="true" />
+        <Window Type="State" State="Announced" Visible="true" />
+        <Window Type="State" State="Preactive" Visible="true" />
       </Strips>
-      <CFL QuickLevel="16000"/>
-      <ArrivalLists>
-        <Airport Name="RJSN" />
-      </ArrivalLists>
+      <CFL QuickLevel="9000"/>
+      <ControllerInfo>
+        <Line>Hidaka Approach</Line>
+        <Line>Covering RJEC, RJCB, RJCK, RJCM, RJCN, RJCT</Line>
+      </ControllerInfo>
+    </Position>
+    <Position Name="Sapporo Approach" Type="ASD" DefaultCenter="+431844.5606+1411438.6865" DefaultRange="111" VisibilityRange="150" MagneticVariation="+9">
+      <Sectors>
+        <Sector Name="CO APP" />
+      </Sectors>
+      <ManualVisibility>
+        <Point>+431844.5606+1411438.6865</Point>
+      </ManualVisibility>
+      <Maps>
+        <Map Name="GEO" />
+        <Map Name="ACA/ACA" />
+        <Map Name="MVA_AIRSPACE" />
+      </Maps>
+      <Strips Mode="State" Sort="Time">
+        <Window Type="State" State="Jurisdiction" Visible="true" />
+        <Window Type="State" State="Announced" Visible="true" />
+        <Window Type="State" State="Preactive" Visible="true" />
+      </Strips>
+      <CFL QuickLevel="9000"/>
+      <ControllerInfo>
+        <Line>Sapporo Approach</Line>
+        <Line>Covering RJCO</Line>
+      </ControllerInfo>
+    </Position>
+    <Position Name="Chitose Approach" Type="ASD" DefaultCenter="+424725.4453+1414036.4929" DefaultRange="270" VisibilityRange="150" MagneticVariation="+10">
+      <Sectors>
+        <Sector Name="CC APP" />
+      </Sectors>
+      <ManualVisibility>
+        <Point>+424725.4453+1414036.4929</Point>
+      </ManualVisibility>
+      <Maps>
+        <Map Name="GEO" />
+        <Map Name="ACA/ACA" />
+        <Map Name="MVA_AIRSPACE" />
+      </Maps>
+      <Strips Mode="State" Sort="Time">
+        <Window Type="State" State="Jurisdiction" Visible="true" />
+        <Window Type="State" State="Announced" Visible="true" />
+        <Window Type="State" State="Preactive" Visible="true" />
+      </Strips>
+      <CFL QuickLevel="9000"/>
+      <ControllerInfo>
+        <Line>Chitose Approach</Line>
+        <Line>Covering RJCC, RJCJ</Line>
+      </ControllerInfo>
+    </Position>
+    <Position Name="Hakodate Approach" Type="ASD" DefaultCenter="+414512.6892+1403226.0632" DefaultRange="180" VisibilityRange="150" MagneticVariation="+9">
+      <Sectors>
+        <Sector Name="CH APP" />
+      </Sectors>
+      <ManualVisibility>
+        <Point>+414512.6892+1403226.0632</Point>
+      </ManualVisibility>
+      <Maps>
+        <Map Name="GEO" />
+        <Map Name="ACA/ACA" />
+        <Map Name="MVA_AIRSPACE" />
+      </Maps>
+      <Strips Mode="State" Sort="Time">
+        <Window Type="State" State="Jurisdiction" Visible="true" />
+        <Window Type="State" State="Announced" Visible="true" />
+        <Window Type="State" State="Preactive" Visible="true" />
+      </Strips>
+      <CFL QuickLevel="9000"/>
+      <ControllerInfo>
+        <Line>Hakodate Approach</Line>
+        <Line>Covering RJCH</Line>
+      </ControllerInfo>
+    </Position>
+    <Position Name="Misawa Approach" Type="ASD" DefaultCenter="+404151.5982+1413205.8484" DefaultRange="180" VisibilityRange="150" MagneticVariation="+8">
+      <Sectors>
+        <Sector Name="SM APP" />
+      </Sectors>
+      <ManualVisibility>
+        <Point>+404151.5982+1413205.8484</Point>
+      </ManualVisibility>
+      <Maps>
+        <Map Name="GEO" />
+        <Map Name="ACA/ACA" />
+        <Map Name="MVA_AIRSPACE" />
+      </Maps>
+      <Strips Mode="State" Sort="Time">
+        <Window Type="State" State="Jurisdiction" Visible="true" />
+        <Window Type="State" State="Announced" Visible="true" />
+        <Window Type="State" State="Preactive" Visible="true" />
+      </Strips>
+      <CFL QuickLevel="9000"/>
+      <ControllerInfo>
+        <Line>Misawa Approach</Line>
+        <Line>Covering RJSM, RJSO, RJSH</Line>
+      </ControllerInfo>
+    </Position>
+    <Position Name="Shirakami Approach" Type="ASD" DefaultCenter="+401303.4351+1405509.5764" DefaultRange="262" VisibilityRange="150" MagneticVariation="+8">
+      <Sectors>
+        <Sector Name="SK APP" />
+      </Sectors>
+      <ManualVisibility>
+        <Point>+401303.4351+1405509.5764</Point>
+      </ManualVisibility>
+      <Maps>
+        <Map Name="GEO" />
+        <Map Name="ACA/ACA" />
+        <Map Name="MVA_AIRSPACE" />
+      </Maps>
+      <Strips Mode="State" Sort="Time">
+        <Window Type="State" State="Jurisdiction" Visible="true" />
+        <Window Type="State" State="Announced" Visible="true" />
+        <Window Type="State" State="Preactive" Visible="true" />
+      </Strips>
+      <CFL QuickLevel="9000"/>
+      <ControllerInfo>
+        <Line>Shirakami Approach</Line>
+        <Line>Covering RJSK, RJSR, RJSA, RJSI</Line>
+      </ControllerInfo>
+    </Position>
+    <Position Name="Matsushima Approach" Type="ASD" DefaultCenter="+383348.6667+1412424.917" DefaultRange="153" VisibilityRange="150" MagneticVariation="+7">
+      <Sectors>
+        <Sector Name="ST APP" />
+      </Sectors>
+      <ManualVisibility>
+        <Point>+383348.6667+1412424.917</Point>
+      </ManualVisibility>
+      <Maps>
+        <Map Name="GEO" />
+        <Map Name="ACA/ACA" />
+        <Map Name="MVA_AIRSPACE" />
+      </Maps>
+      <Strips Mode="State" Sort="Time">
+        <Window Type="State" State="Jurisdiction" Visible="true" />
+        <Window Type="State" State="Announced" Visible="true" />
+        <Window Type="State" State="Preactive" Visible="true" />
+      </Strips>
+      <CFL QuickLevel="9000"/>
+      <ControllerInfo>
+        <Line>Matsushima Approach</Line>
+        <Line>Covering RJST, RJSU</Line>
+      </ControllerInfo>
+    </Position>
+    <Position Name="Sendai Approach" Type="ASD" DefaultCenter="+375656.1026+1410021.2585" DefaultRange="135" VisibilityRange="150" MagneticVariation="+9">
+      <Sectors>
+        <Sector Name="SS APP" />
+      </Sectors>
+      <ManualVisibility>
+        <Point>+375656.1026+1410021.2585</Point>
+      </ManualVisibility>
+      <Maps>
+        <Map Name="GEO" />
+        <Map Name="ACA/ACA" />
+        <Map Name="MVA_AIRSPACE" />
+      </Maps>
+      <Strips Mode="State" Sort="Time">
+        <Window Type="State" State="Jurisdiction" Visible="true" />
+        <Window Type="State" State="Announced" Visible="true" />
+        <Window Type="State" State="Preactive" Visible="true" />
+      </Strips>
+      <CFL QuickLevel="9000"/>
+      <ControllerInfo>
+        <Line>Sendai Approach</Line>
+        <Line>Covering RJSS</Line>
+      </ControllerInfo>
+    </Position>
+    <Position Name="Nigata Approach" Type="ASD" DefaultCenter="+375619.2847+1390125.8582" DefaultRange="126" VisibilityRange="150" MagneticVariation="+8">
+      <Sectors>
+        <Sector Name="SN APP" />
+      </Sectors>
+      <ManualVisibility>
+        <Point>+375619.2847+1390125.8582</Point>
+      </ManualVisibility>
+      <Maps>
+        <Map Name="GEO" />
+        <Map Name="ACA/ACA" />
+        <Map Name="MVA_AIRSPACE" />
+      </Maps>
+      <Strips Mode="State" Sort="Time">
+        <Window Type="State" State="Jurisdiction" Visible="true" />
+        <Window Type="State" State="Announced" Visible="true" />
+        <Window Type="State" State="Preactive" Visible="true" />
+      </Strips>
+      <CFL QuickLevel="9000"/>
       <ControllerInfo>
         <Line>Nigata Approach</Line>
+        <Line>Covering RJSN</Line>
+      </ControllerInfo>
+    </Position>
+    <Position Name="Utsunomiya Approach" Type="ASD" DefaultCenter="+363633.6951+1395334.9841" DefaultRange="61" VisibilityRange="150" MagneticVariation="+8">
+      <Sectors>
+        <Sector Name="TU APP" />
+      </Sectors>
+      <ManualVisibility>
+        <Point>+363633.6951+1395334.9841</Point>
+      </ManualVisibility>
+      <Maps>
+        <Map Name="GEO" />
+        <Map Name="ACA/ACA" />
+        <Map Name="MVA_AIRSPACE" />
+      </Maps>
+      <Strips Mode="State" Sort="Time">
+        <Window Type="State" State="Jurisdiction" Visible="true" />
+        <Window Type="State" State="Announced" Visible="true" />
+        <Window Type="State" State="Preactive" Visible="true" />
+      </Strips>
+      <CFL QuickLevel="9000"/>
+      <ControllerInfo>
+        <Line>Utsunomiya Approach</Line>
+        <Line>Covering RJTU</Line>
+      </ControllerInfo>
+    </Position>
+    <Position Name="Hyakuri Approach" Type="ASD" DefaultCenter="+362723.2114+1405532.9224" DefaultRange="150" VisibilityRange="150" MagneticVariation="+7">
+      <Sectors>
+        <Sector Name="AH APP" />
+      </Sectors>
+      <ManualVisibility>
+        <Point>+362723.2114+1405532.9224</Point>
+      </ManualVisibility>
+      <Maps>
+        <Map Name="GEO" />
+        <Map Name="ACA/ACA" />
+        <Map Name="MVA_AIRSPACE" />
+      </Maps>
+      <Strips Mode="State" Sort="Time">
+        <Window Type="State" State="Jurisdiction" Visible="true" />
+        <Window Type="State" State="Announced" Visible="true" />
+        <Window Type="State" State="Preactive" Visible="true" />
+      </Strips>
+      <CFL QuickLevel="9000"/>
+      <ControllerInfo>
+        <Line>Hyakuri Approach</Line>
+        <Line>Covering RJAH</Line>
+      </ControllerInfo>
+    </Position>
+    <Position Name="Tokyo Approach" Type="ASD" DefaultCenter="+352334.4898+1401226.1914" DefaultRange="263" VisibilityRange="150" MagneticVariation="+8">
+      <Sectors>
+        <Sector Name="TT APP" />
+      </Sectors>
+      <ManualVisibility>
+        <Point>+352334.4898+1401226.1914</Point>
+      </ManualVisibility>
+      <Maps>
+        <Map Name="GEO" />
+        <Map Name="ACA/ACA" />
+        <Map Name="MVA_AIRSPACE" />
+      </Maps>
+      <Strips Mode="State" Sort="Time">
+        <Window Type="State" State="Jurisdiction" Visible="true" />
+        <Window Type="State" State="Announced" Visible="true" />
+        <Window Type="State" State="Preactive" Visible="true" />
+      </Strips>
+      <CFL QuickLevel="9000"/>
+      <ControllerInfo>
+        <Line>Tokyo Approach</Line>
+        <Line>Covering RJTT, RJAA, RJTI, RJTK, RJTL, RJTE, RJTO, RJAZ, RJAN</Line>
+      </ControllerInfo>
+    </Position>
+    <Position Name="Yokota Approach" Type="ASD" DefaultCenter="+361029.1596+1390009.8328" DefaultRange="263" VisibilityRange="150" MagneticVariation="+7">
+      <Sectors>
+        <Sector Name="TY APP" />
+      </Sectors>
+      <ManualVisibility>
+        <Point>+361029.1596+1390009.8328</Point>
+      </ManualVisibility>
+      <Maps>
+        <Map Name="GEO" />
+        <Map Name="ACA/ACA" />
+        <Map Name="MVA_AIRSPACE" />
+      </Maps>
+      <Strips Mode="State" Sort="Time">
+        <Window Type="State" State="Jurisdiction" Visible="true" />
+        <Window Type="State" State="Announced" Visible="true" />
+        <Window Type="State" State="Preactive" Visible="true" />
+      </Strips>
+      <CFL QuickLevel="9000"/>
+      <ControllerInfo>
+        <Line>Yokota Approach</Line>
+        <Line>Covering RJTY, RJTA, RJTR, RJTF, RJTC, RJTJ, RJTS</Line>
+      </ControllerInfo>
+    </Position>
+    <Position Name="Hamamatsu Approach" Type="ASD" DefaultCenter="+342915.7388+1372820.7935" DefaultRange="155" VisibilityRange="150" MagneticVariation="+8">
+      <Sectors>
+        <Sector Name="NH APP" />
+      </Sectors>
+      <ManualVisibility>
+        <Point>+342915.7388+1372820.7935</Point>
+      </ManualVisibility>
+      <Maps>
+        <Map Name="GEO" />
+        <Map Name="ACA/ACA" />
+        <Map Name="MVA_AIRSPACE" />
+      </Maps>
+      <Strips Mode="State" Sort="Time">
+        <Window Type="State" State="Jurisdiction" Visible="true" />
+        <Window Type="State" State="Announced" Visible="true" />
+        <Window Type="State" State="Preactive" Visible="true" />
+      </Strips>
+      <CFL QuickLevel="9000"/>
+      <ControllerInfo>
+        <Line>Hamamatsu Approach</Line>
+        <Line>Covering RJNH</Line>
+      </ControllerInfo>
+    </Position>
+    <Position Name="Akeno Approach" Type="ASD" DefaultCenter="+343357.6617+1365132.6514" DefaultRange="113" VisibilityRange="150" MagneticVariation="+8">
+      <Sectors>
+        <Sector Name="OE APP" />
+      </Sectors>
+      <ManualVisibility>
+        <Point>+343357.6617+1365132.6514</Point>
+      </ManualVisibility>
+      <Maps>
+        <Map Name="GEO" />
+        <Map Name="ACA/ACA" />
+        <Map Name="MVA_AIRSPACE" />
+      </Maps>
+      <Strips Mode="State" Sort="Time">
+        <Window Type="State" State="Jurisdiction" Visible="true" />
+        <Window Type="State" State="Announced" Visible="true" />
+        <Window Type="State" State="Preactive" Visible="true" />
+      </Strips>
+      <CFL QuickLevel="9000"/>
+      <ControllerInfo>
+        <Line>Akeno Approach</Line>
+        <Line>Covering RJOE</Line>
+      </ControllerInfo>
+    </Position>
+    <Position Name="Centrair Approach" Type="ASD" DefaultCenter="+345703.2162+1364525.3235" DefaultRange="199" VisibilityRange="150" MagneticVariation="+7">
+      <Sectors>
+        <Sector Name="GG APP" />
+      </Sectors>
+      <ManualVisibility>
+        <Point>+345703.2162+1364525.3235</Point>
+      </ManualVisibility>
+      <Maps>
+        <Map Name="GEO" />
+        <Map Name="ACA/ACA" />
+        <Map Name="MVA_AIRSPACE" />
+      </Maps>
+      <Strips Mode="State" Sort="Time">
+        <Window Type="State" State="Jurisdiction" Visible="true" />
+        <Window Type="State" State="Announced" Visible="true" />
+        <Window Type="State" State="Preactive" Visible="true" />
+      </Strips>
+      <CFL QuickLevel="9000"/>
+      <ControllerInfo>
+        <Line>Centrair Approach</Line>
+        <Line>Covering RJGg, RJNA, RJNG</Line>
+      </ControllerInfo>
+    </Position>
+    <Position Name="Komatsu Approach" Type="ASD" DefaultCenter="+363139.4812+1361052.2034" DefaultRange="161" VisibilityRange="150" MagneticVariation="+8">
+      <Sectors>
+        <Sector Name="NK APP" />
+      </Sectors>
+      <ManualVisibility>
+        <Point>+363139.4812+1361052.2034</Point>
+      </ManualVisibility>
+      <Maps>
+        <Map Name="GEO" />
+        <Map Name="ACA/ACA" />
+        <Map Name="MVA_AIRSPACE" />
+      </Maps>
+      <Strips Mode="State" Sort="Time">
+        <Window Type="State" State="Jurisdiction" Visible="true" />
+        <Window Type="State" State="Announced" Visible="true" />
+        <Window Type="State" State="Preactive" Visible="true" />
+      </Strips>
+      <CFL QuickLevel="9000"/>
+      <ControllerInfo>
+        <Line>Komatsu Approach</Line>
+        <Line>Covering RJNK, RJNF</Line>
+      </ControllerInfo>
+    </Position>
+    <Position Name="Kansai Approach" Type="ASD" DefaultCenter="+340840.8344+1342912.8137" DefaultRange="229" VisibilityRange="150" MagneticVariation="+8">
+      <Sectors>
+        <Sector Name="BB APP" />
+      </Sectors>
+      <ManualVisibility>
+        <Point>+340840.8344+1342912.8137</Point>
+      </ManualVisibility>
+      <Maps>
+        <Map Name="GEO" />
+        <Map Name="ACA/ACA" />
+        <Map Name="MVA_AIRSPACE" />
+      </Maps>
+      <Strips Mode="State" Sort="Time">
+        <Window Type="State" State="Jurisdiction" Visible="true" />
+        <Window Type="State" State="Announced" Visible="true" />
+        <Window Type="State" State="Preactive" Visible="true" />
+      </Strips>
+      <CFL QuickLevel="9000"/>
+      <ControllerInfo>
+        <Line>Kansai Approach</Line>
+        <Line>Covering RJBB, RJOO, RJBE, RJOY, RJOB, RJOT, RJOK, RJBK</Line>
+      </ControllerInfo>
+    </Position>
+    <Position Name="Tokushima Approach" Type="ASD" DefaultCenter="+335714.6008+1344238.1116" DefaultRange="98" VisibilityRange="150" MagneticVariation="+8">
+      <Sectors>
+        <Sector Name="OS APP" />
+      </Sectors>
+      <ManualVisibility>
+        <Point>+335714.6008+1344238.1116</Point>
+      </ManualVisibility>
+      <Maps>
+        <Map Name="GEO" />
+        <Map Name="ACA/ACA" />
+        <Map Name="MVA_AIRSPACE" />
+      </Maps>
+      <Strips Mode="State" Sort="Time">
+        <Window Type="State" State="Jurisdiction" Visible="true" />
+        <Window Type="State" State="Announced" Visible="true" />
+        <Window Type="State" State="Preactive" Visible="true" />
+      </Strips>
+      <CFL QuickLevel="9000"/>
+      <ControllerInfo>
+        <Line>Tokushima Approach</Line>
+        <Line>Covering RJOS, RJOP</Line>
+      </ControllerInfo>
+    </Position>
+    <Position Name="Miho Approach" Type="ASD" DefaultCenter="+353253.7213+1330947.439" DefaultRange="130" VisibilityRange="150" MagneticVariation="+8">
+      <Sectors>
+        <Sector Name="OH APP" />
+      </Sectors>
+      <ManualVisibility>
+        <Point>+353253.7213+1330947.439</Point>
+      </ManualVisibility>
+      <Maps>
+        <Map Name="GEO" />
+        <Map Name="ACA/ACA" />
+        <Map Name="MVA_AIRSPACE" />
+      </Maps>
+      <Strips Mode="State" Sort="Time">
+        <Window Type="State" State="Jurisdiction" Visible="true" />
+        <Window Type="State" State="Announced" Visible="true" />
+        <Window Type="State" State="Preactive" Visible="true" />
+      </Strips>
+      <CFL QuickLevel="9000"/>
+      <ControllerInfo>
+        <Line>Miho Approach</Line>
+        <Line>Covering RJOH, RJOC</Line>
       </ControllerInfo>
     </Position>
     <Position Name="Hiroshima Approach" Type="ASD" DefaultCenter="+343217.7823+1325826.2866" DefaultRange="80" VisibilityRange="150" MagneticVariation="+8">
@@ -734,7 +1616,8 @@
       </ManualVisibility>
       <Maps>
         <Map Name="GEO" />
-        <Map Name="ACA" />
+        <Map Name="ACA/ACA" />
+        <Map Name="MVA_AIRSPACE" />
       </Maps>
       <Strips Mode="State" Sort="Time">
         <Window Type="State" State="Jurisdiction" Visible="true" />
@@ -759,7 +1642,8 @@
       </ManualVisibility>
       <Maps>
         <Map Name="GEO" />
-        <Map Name="ACA" />
+        <Map Name="ACA/ACA" />
+        <Map Name="MVA_AIRSPACE" />
       </Maps>
       <Strips Mode="State" Sort="Time">
         <Window Type="State" State="Jurisdiction" Visible="true" />
@@ -784,7 +1668,8 @@
       </ManualVisibility>
       <Maps>
         <Map Name="GEO" />
-        <Map Name="ACA" />
+        <Map Name="ACA/ACA" />
+        <Map Name="MVA_AIRSPACE" />
       </Maps>
       <Strips Mode="State" Sort="Time">
         <Window Type="State" State="Jurisdiction" Visible="true" />
@@ -809,8 +1694,8 @@
       </ManualVisibility>
       <Maps>
         <Map Name="GEO" />
-        <Map Name="ACA" />
-        <Map Name="RJFF/MVA_RJFF" />
+        <Map Name="ACA/ACA" />
+        <Map Name="MVA_AIRSPACE" />
       </Maps>
       <Strips Mode="State" Sort="Time">
         <Window Type="State" State="Jurisdiction" Visible="true" />
@@ -835,8 +1720,8 @@
       </ManualVisibility>
       <Maps>
         <Map Name="GEO" />
-        <Map Name="ACA" />
-        <Map Name="RJFO/MVA_RJFO" />
+        <Map Name="ACA/ACA" />
+        <Map Name="MVA_AIRSPACE" />
       </Maps>
       <Strips Mode="State" Sort="Time">
         <Window Type="State" State="Jurisdiction" Visible="true" />
@@ -861,7 +1746,8 @@
       </ManualVisibility>
       <Maps>
         <Map Name="GEO" />
-        <Map Name="ACA" />
+        <Map Name="ACA/ACA" />
+        <Map Name="MVA_AIRSPACE" />
       </Maps>
       <Strips Mode="State" Sort="Time">
         <Window Type="State" State="Jurisdiction" Visible="true" />
@@ -886,8 +1772,8 @@
       </ManualVisibility>
       <Maps>
         <Map Name="GEO" />
-        <Map Name="ACA" />
-        <Map Name="RJFT/MVA_RJFT" />
+        <Map Name="ACA/ACA" />
+        <Map Name="MVA_AIRSPACE" />
       </Maps>
       <Strips Mode="State" Sort="Time">
         <Window Type="State" State="Jurisdiction" Visible="true" />
@@ -912,7 +1798,8 @@
       </ManualVisibility>
       <Maps>
         <Map Name="GEO" />
-        <Map Name="ACA" />
+        <Map Name="ACA/ACA" />
+        <Map Name="MVA_AIRSPACE" />
       </Maps>
       <Strips Mode="State" Sort="Time">
         <Window Type="State" State="Jurisdiction" Visible="true" />
@@ -937,7 +1824,8 @@
       </ManualVisibility>
       <Maps>
         <Map Name="GEO" />
-        <Map Name="ACA" />
+        <Map Name="ACA/ACA" />
+        <Map Name="MVA_AIRSPACE" />
       </Maps>
       <Strips Mode="State" Sort="Time">
         <Window Type="State" State="Jurisdiction" Visible="true" />
@@ -962,9 +1850,8 @@
       </ManualVisibility>
       <Maps>
         <Map Name="GEO" />
-        <Map Name="ACA" />
-        <Map Name="ROAH/MVA_ROAH" />
-        <Map Name="ROAH/MVA_RJKA" />
+        <Map Name="ACA/ACA" />
+        <Map Name="MVA_AIRSPACE" />
       </Maps>
       <Strips Mode="State" Sort="Time">
         <Window Type="State" State="Jurisdiction" Visible="true" />
@@ -991,7 +1878,8 @@
       </ManualVisibility>
       <Maps>
         <Map Name="GEO" />
-        <Map Name="ACA" />
+        <Map Name="ACA/ACA" />
+        <Map Name="MVA_AIRSPACE" />
       </Maps>
       <Strips Mode="State" Sort="Time">
         <Window Type="State" State="Jurisdiction" Visible="true" />
