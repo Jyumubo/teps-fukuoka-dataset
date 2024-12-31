@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Maps>
+  <Map Type="System" Name="RJAH_21" CustomColourName="ACA_MAP" Priority="0" Center="+36.181667+140.414722">
+    <Runway Name="03R_21L">
+      <Threshold Name="03R" Position="+36.169715+140.410459"/>
+      <Threshold Name="21L" Position="+36.192619+140.420675" ExtendedCentrelineTrack="020" ExtendedCentrelineLength="21" ExtendedCentrelineTickInterval="2" />
+    </Runway>
+    <Runway Name="03L_21R">
+      <Threshold Name="03L" Position="+36.170342+140.408266"/>
+      <Threshold Name="21R" Position="+36.193269+140.418492" ExtendedCentrelineTrack="020" ExtendedCentrelineLength="21" ExtendedCentrelineTickInterval="2" />
+    </Runway>
+    <Symbol Type="HollowTriangle">
+        <Point>DAPPE</Point>
+        <Point>ANKOH</Point>
+        <Point>H1R00</Point>
+        <Point>LICEN</Point>
+        <Point>OGITU</Point>
+        <Point>HOKTA</Point>
+        <Point>NAKAH</Point>
+        <Point>OKUJI</Point>
+        <Point>JYUOH</Point>
+        <Point>TAIYO</Point>
+        <Point>YAMAD</Point>
+        <Point>TATSU</Point>
+        <Point>ITAKO</Point>
+        <Point>MAGRY</Point>
+        <Point>DAIGO</Point>
+    </Symbol>
+    <Symbol Type="Hexagon">
+        <Point>HUC</Point>
+        <Point>CVT</Point>
+        <Point>GOT</Point>
+        <Point>MXT</Point>
+        <Point>IXE</Point>
+    </Symbol>
+    <Symbol Type="HollowSquare">
+        <Point>HUC</Point>
+        <Point>CVT</Point>
+        <Point>GOT</Point>
+        <Point>MXT</Point>
+        <Point>IXE</Point>
+    </Symbol>
+  </Map>
+  <Map Type="System" Name="RJAH_21_LABEL" CustomColourName="ACA_MAP" Priority="2" Center="+36.181667+140.414722">
+    <Label>
+        <Point>DAPPE</Point>
+        <Point>ANKOH</Point>
+        <Point>H1R00</Point>
+        <Point>LICEN</Point>
+        <Point>OGITU</Point>
+        <Point>HOKTA</Point>
+        <Point>NAKAH</Point>
+        <Point>OKUJI</Point>
+        <Point>JYUOH</Point>
+        <Point>TAIYO</Point>
+        <Point>YAMAD</Point>
+        <Point>TATSU</Point>
+        <Point>ITAKO</Point>
+        <Point>MAGRY</Point>
+        <Point>DAIGO</Point>   
+        <Point>HUC</Point>
+        <Point>CVT</Point>
+        <Point>GOT</Point>
+        <Point>MXT</Point>
+        <Point>IXE</Point>
+    </Label>
+  </Map>
+</Maps>

@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Maps>
+  <Map Type="System" Name="RJTJ" CustomColourName="ACA_MAP" Priority="0" Center="+35.841945+139.410556">
+    <Runway Name="17_35">
+      <Threshold Name="17" Position="+35.850666+139.406795" ExtendedCentrelineTrack="339" ExtendedCentrelineLength="5" ExtendedCentrelineTickInterval="2" />
+      <Threshold Name="35" Position="+35.833679+139.414436" ExtendedCentrelineTrack="159" ExtendedCentrelineLength="5" ExtendedCentrelineTickInterval="2"/>
+    </Runway>
+    <Symbol Type="HollowTriangle">
+        <Point>OMIYA</Point>
+        <Point>OGAWA</Point>
+        <Point>KANAI</Point>
+    </Symbol>
+    <Symbol Type="Hexagon">
+        <Point>YLT</Point>
+    </Symbol>
+    <Symbol Type="HollowSquare">
+        <Point>YLT</Point>
+    </Symbol>
+  </Map>
+  <Map Type="System" Name="RJTJ_LABEL" CustomColourName="ACA_MAP" Priority="2" Center="+35.841945+139.410556">
+    <Label>
+        <Point>OMIYA</Point>
+        <Point>OGAWA</Point>
+        <Point>KANAI</Point>
+        <Point>YLT</Point>
+    </Label>
+  </Map>
+</Maps>

@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Maps>
+  <Map Type="System" Name="RJTE" CustomColourName="ACA_MAP" Priority="0" Center="+34.987500+139.831945">
+    <Runway Name="09_27">
+      <Threshold Name="09" Position="+34.986871+139.827504" ExtendedCentrelineTrack="265" ExtendedCentrelineLength="5" ExtendedCentrelineTickInterval="2" />
+      <Threshold Name="27" Position="+34.987091+139.830785" ExtendedCentrelineTrack="085" ExtendedCentrelineLength="5" ExtendedCentrelineTickInterval="2"/>
+    </Runway>
+    <Symbol Type="HollowTriangle">
+        <Point>SAPIM</Point>
+        <Point>OLSAS</Point>
+        <Point>UKAKU</Point>
+    </Symbol>
+    <Symbol Type="Hexagon">
+        <Point>TET</Point>
+    </Symbol>
+    <Symbol Type="HollowSquare">
+        <Point>TET</Point>
+    </Symbol>
+  </Map>
+  <Map Type="System" Name="RJTE_LABEL" CustomColourName="ACA_MAP" Priority="2" Center="+34.987500+139.831945">
+    <Label>
+        <Point>SAPIM</Point>
+        <Point>OLSAS</Point>
+        <Point>UKAKU</Point>
+        <Point>TET</Point>
+    </Label>
+  </Map>
+</Maps>

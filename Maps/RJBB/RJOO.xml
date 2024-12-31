@@ -6,7 +6,7 @@
       <Threshold Name="14R" Position="+34.791316+135.428687" ExtendedCentrelineTrack="315" ExtendedCentrelineLength="5" ExtendedCentrelineTickInterval="2"/>
     </Runway>
     <Runway Name="32R_14L">
-      <Threshold Name="32R" Position="+34.783603+135.442796" ExtendedCentrelineTrack="135" ExtendedCentrelineLength="21" ExtendedCentrelineTickInterval="2" />
+      <Threshold Name="32R" Position="+34.783603+135.442796" ExtendedCentrelineTrack="135" ExtendedCentrelineLength="5" ExtendedCentrelineTickInterval="2" />
       <Threshold Name="14L" Position="+34.795274+135.428673" ExtendedCentrelineTrack="315" ExtendedCentrelineLength="5" ExtendedCentrelineTickInterval="2"/>
     </Runway>
     <Symbol Type="HollowTriangle">

@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Maps>
+  <Map Type="System" Name="RJNY" Priority="0" Center="+34.812778+138.298056">
+    <Runway Name="09_27">
+      <Threshold Name="09" Position="+34.812235+138.289831" ExtendedCentrelineTrack="267" ExtendedCentrelineLength="5" ExtendedCentrelineTickInterval="2" />
+      <Threshold Name="27" Position="+34.812947+138.306205" ExtendedCentrelineTrack="087" ExtendedCentrelineLength="5" ExtendedCentrelineTickInterval="2"/>
+    </Runway>
+    <Symbol Type="HollowTriangle">
+      <Point>KUNOH</Point>
+      <Point>ONMAE</Point>
+      <Point>SRUGA</Point>
+    </Symbol>
+    <Symbol Type="Hexagon">
+      <Point>XAC</Point>
+      <Point>YZT</Point>
+      <Point>SZE</Point>
+    </Symbol>
+    <Symbol Type="HollowSquare">
+      <Point>XAC</Point>
+      <Point>YZT</Point>
+      <Point>SZE</Point>
+    </Symbol>
+  </Map>
+  <Map Type="System" Name="RJNY_LABEL" Priority="2" Center="+34.812778+138.298056">
+    <Label>
+      <Point>KUNOH</Point>
+      <Point>ONMAE</Point>
+      <Point>SRUGA</Point>
+      <Point>XAC</Point>
+      <Point>YZT</Point>
+      <Point>SZE</Point>
+    </Label>
+  </Map>
+</Maps>

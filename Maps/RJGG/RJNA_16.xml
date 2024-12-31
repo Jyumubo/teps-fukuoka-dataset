@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Maps>
+  <Map Type="System" Name="RJNA_16" CustomColourName="ACA_MAP" Priority="0" Center="+35.255000+136.924445">
+    <Runway Name="16_34">
+      <Threshold Name="16" Position="+35.266438+136.917418" ExtendedCentrelineTrack="332" ExtendedCentrelineLength="21" ExtendedCentrelineTickInterval="2"/>
+      <Threshold Name="34" Position="+35.244539+136.931351"/>
+    </Runway>
+    <Symbol Type="HollowTriangle">
+      <Point>HOUBA</Point>
+      <Point>STRAW</Point>
+      <Point>KROBE</Point>
+      <Point>IBUKI</Point>
+      <Point>ADGUN</Point>
+      <Point>MIDER</Point>
+      <Point>HACHI</Point>
+      <Point>OHNNO</Point>
+      <Point>MORIZ</Point>
+      <Point>SHIMA</Point>
+      <Point>MUGEN</Point>
+      <Point>CHAUS</Point>
+      <Point>TALMI</Point>
+      <Point>HEIAN</Point>
+      <Point>WAKIT</Point>
+      <Point>KAMMY</Point>
+      <Point>PIONE</Point>
+      <Point>DOZAN</Point>
+      <Point>SHINO</Point>
+      <Point>ORIBE</Point>
+      <Point>SIMON</Point>
+      <Point>MAMLA</Point>
+      <Point>KOHWA</Point>
+      <Point>RYUDO</Point>
+      <Point>GRIPP</Point>
+      <Point>DIMAC</Point>
+      <Point>MONET</Point>
+      <Point>MAPLE</Point>
+      <Point>AYANO</Point>
+    </Symbol>
+    <Symbol Type="Hexagon">
+      <Point>GTC</Point>
+      <Point>KMC</Point>
+      <Point>LHT</Point>
+      <Point>KCC</Point>
+    </Symbol>
+    <Symbol Type="HollowSquare">
+      <Point>GTC</Point>
+      <Point>KMC</Point>
+      <Point>LHT</Point>
+      <Point>KCC</Point>
+    </Symbol>
+  </Map>
+  <Map Type="System" Name="RJNA_16_LABEL" CustomColourName="ACA_MAP" Priority="2" Center="+35.255000+136.924445">
+    <Label>
+      <Point>HOUBA</Point>
+      <Point>STRAW</Point>
+      <Point>KROBE</Point>
+      <Point>IBUKI</Point>
+      <Point>ADGUN</Point>
+      <Point>MIDER</Point>
+      <Point>HACHI</Point>
+      <Point>OHNNO</Point>
+      <Point>MORIZ</Point>
+      <Point>SHIMA</Point>
+      <Point>MUGEN</Point>
+      <Point>CHAUS</Point>
+      <Point>TALMI</Point>
+      <Point>HEIAN</Point>
+      <Point>WAKIT</Point>
+      <Point>KAMMY</Point>
+      <Point>PIONE</Point>
+      <Point>DOZAN</Point>
+      <Point>SHINO</Point>
+      <Point>ORIBE</Point>
+      <Point>SIMON</Point>
+      <Point>MAMLA</Point>
+      <Point>KOHWA</Point>
+      <Point>RYUDO</Point>
+      <Point>GRIPP</Point>
+      <Point>DIMAC</Point>
+      <Point>MONET</Point>
+      <Point>MAPLE</Point>
+      <Point>AYANO</Point>
+      <Point>GTC</Point>
+      <Point>KMC</Point>
+      <Point>LHT</Point>
+      <Point>KCC</Point>
+    </Label>
+  </Map>
+</Maps>

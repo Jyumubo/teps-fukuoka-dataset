@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Maps>
+  <Map Type="System" Name="RJTL" CustomColourName="ACA_MAP" Priority="0" Center="+35.798889+140.012222">
+    <Runway Name="01_19">
+      <Threshold Name="01" Position="+35.788817+140.012422" ExtendedCentrelineTrack="179" ExtendedCentrelineLength="5" ExtendedCentrelineTickInterval="2" />
+      <Threshold Name="19" Position="+35.809108+140.011963" ExtendedCentrelineTrack="359" ExtendedCentrelineLength="21" ExtendedCentrelineTickInterval="2"/>
+    </Runway>
+    <Symbol Type="HollowTriangle">
+        <Point>KOGAR</Point>
+        <Point>TSUGA</Point>
+        <Point>GAMAR</Point>
+        <Point>OMIYA</Point>
+        <Point>YOHNE</Point>
+        <Point>ASEKI</Point>
+        <Point>BANDO</Point>
+        <Point>JOBAN</Point>
+    </Symbol>
+    <Symbol Type="Hexagon">
+        <Point>SHT</Point>
+        <Point>JDT</Point>
+    </Symbol>
+    <Symbol Type="HollowSquare">
+        <Point>SHT</Point>
+        <Point>JDT</Point>
+    </Symbol>
+  </Map>
+  <Map Type="System" Name="RJTL_LABEL" CustomColourName="ACA_MAP" Priority="2" Center="+35.798889+140.012222">
+    <Label>
+        <Point>KOGAR</Point>
+        <Point>TSUGA</Point>
+        <Point>GAMAR</Point>
+        <Point>OMIYA</Point>
+        <Point>YOHNE</Point>
+        <Point>ASEKI</Point>
+        <Point>BANDO</Point>
+        <Point>JOBAN</Point>
+        <Point>SHT</Point>
+        <Point>JDT</Point>
+    </Label>
+  </Map>
+</Maps>

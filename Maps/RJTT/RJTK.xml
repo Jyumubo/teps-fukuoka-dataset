@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Maps>
+  <Map Type="System" Name="RJTK" CustomColourName="ACA_MAP" Priority="0" Center="+35.395000+139.913056">
+    <Runway Name="02_20">
+      <Threshold Name="02" Position="+35.390328+139.907315" ExtendedCentrelineTrack="195" ExtendedCentrelineLength="5" ExtendedCentrelineTickInterval="2" />
+      <Threshold Name="20" Position="+35.406270+139.912690" ExtendedCentrelineTrack="015" ExtendedCentrelineLength="5" ExtendedCentrelineTickInterval="2"/>
+    </Runway>
+    <Symbol Type="HollowTriangle">
+        <Point>KOSKA</Point>
+        <Point>TSUGA</Point>
+        <Point>AMAHA</Point>
+        <Point>EGAWA</Point>
+    </Symbol>
+    <Symbol Type="Hexagon">
+        <Point>KZT</Point>
+        <Point>TET</Point>
+    </Symbol>
+    <Symbol Type="HollowSquare">
+        <Point>KZT</Point>
+        <Point>TET</Point>
+    </Symbol>
+  </Map>
+  <Map Type="System" Name="RJTK_LABEL" CustomColourName="ACA_MAP" Priority="2" Center="+35.395000+139.913056">
+    <Label>
+        <Point>KOSKA</Point>
+        <Point>TSUGA</Point>
+        <Point>AMAHA</Point>
+        <Point>EGAWA</Point>
+        <Point>KZT</Point>
+        <Point>TET</Point>
+    </Label>
+  </Map>
+</Maps>

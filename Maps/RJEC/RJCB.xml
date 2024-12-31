@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Maps>
-  <Map Type="System" Name="RJCB" CustomColourName="ACA_MAP" CustomColourName="ACA_MAP" Priority="0" Center="+42.733333+143.217222">
+  <Map Type="System" Name="RJCB" CustomColourName="ACA_MAP" Priority="0" Center="+42.733333+143.217222">
     <Runway Name="17_35">
       <Threshold Name="17" Position="+42.744146+143.212016" ExtendedCentrelineTrack="339" ExtendedCentrelineLength="5" ExtendedCentrelineTickInterval="2" />
       <Threshold Name="35" Position="+42.723068+143.222833" ExtendedCentrelineTrack="159" ExtendedCentrelineLength="5" ExtendedCentrelineTickInterval="2"/>
@@ -22,7 +22,7 @@
       <Point>OBE</Point>
     </Symbol>
   </Map>
-  <Map Type="System" Name="RJCB_LABEL" CustomColourName="ACA_MAP" CustomColourName="ACA_MAP" Priority="2" Center="+42.733333+143.217222">
+  <Map Type="System" Name="RJCB_LABEL" CustomColourName="ACA_MAP" Priority="2" Center="+42.733333+143.217222">
     <Label>
       <Point>NODUK</Point>
       <Point>RACKO</Point>

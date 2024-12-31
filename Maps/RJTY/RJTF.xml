@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Maps>
+  <Map Type="System" Name="RJTF" CustomColourName="ACA_MAP" Priority="0" Center="+35.671667+139.528056">
+    <Runway Name="17_35">
+      <Threshold Name="17" Position="+35.674991+139.526653" ExtendedCentrelineTrack="343" ExtendedCentrelineLength="5" ExtendedCentrelineTickInterval="2" />
+      <Threshold Name="35" Position="+35.668097+139.529209" ExtendedCentrelineTrack="163" ExtendedCentrelineLength="5" ExtendedCentrelineTickInterval="2"/>
+    </Runway>
+    <Symbol Type="HollowTriangle">
+        <Point>KOSKA</Point>
+        <Point>TF510</Point>
+        <Point>TF511</Point>
+        <Point>ARENA</Point>
+    </Symbol>
+  </Map>
+  <Map Type="System" Name="RJTF_LABEL" CustomColourName="ACA_MAP" Priority="2" Center="+35.671667+139.528056">
+    <Label>
+        <Point>KOSKA</Point>
+        <Point>TF510</Point>
+        <Point>TF511</Point>
+        <Point>ARENA</Point>
+    </Label>
+  </Map>
+</Maps>

@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Maps>
+  <Map Type="System" Name="RJNS" Priority="0" Center="+34.796111+138.189445">
+    <Runway Name="12_30">
+      <Threshold Name="12" Position="+34.800198+138.176817" ExtendedCentrelineTrack="292" ExtendedCentrelineLength="5" ExtendedCentrelineTickInterval="2" />
+      <Threshold Name="30" Position="+34.791750+138.202143" ExtendedCentrelineTrack="112" ExtendedCentrelineLength="5" ExtendedCentrelineTickInterval="2"/>
+    </Runway>
+    <Symbol Type="HollowTriangle">
+      <Point>ONMAE</Point>
+      <Point>NS301</Point>
+      <Point>NS302</Point>
+      <Point>NS303</Point>
+      <Point>FUJIK</Point>
+      <Point>KANZA</Point>
+      <Point>CHAUS</Point>
+      <Point>GAKKI</Point>
+      <Point>KAWAI</Point>
+      <Point>MOSLO</Point>
+      <Point>ENSYU</Point>
+      <Point>SUZKI</Point>
+      <Point>OHCHA</Point>
+      <Point>AOIKU</Point>
+      <Point>KOITO</Point>
+      <Point>UNAGI</Point>
+      <Point>TOROH</Point>
+    </Symbol>
+    <Symbol Type="Hexagon">
+      <Point>SZE</Point>
+    </Symbol>
+    <Symbol Type="HollowSquare">
+      <Point>SZE</Point>
+    </Symbol>
+  </Map>
+  <Map Type="System" Name="RJNS_LABEL" Priority="2" Center="+34.796111+138.189445">
+    <Label>
+      <Point>ONMAE</Point>
+      <Point>NS301</Point>
+      <Point>NS302</Point>
+      <Point>NS303</Point>
+      <Point>FUJIK</Point>
+      <Point>KANZA</Point>
+      <Point>CHAUS</Point>
+      <Point>GAKKI</Point>
+      <Point>KAWAI</Point>
+      <Point>MOSLO</Point>
+      <Point>ENSYU</Point>
+      <Point>SUZKI</Point>
+      <Point>OHCHA</Point>
+      <Point>AOIKU</Point>
+      <Point>KOITO</Point>
+      <Point>UNAGI</Point>
+      <Point>TOROH</Point>
+      <Point>SZE</Point>
+    </Label>
+  </Map>
+</Maps>

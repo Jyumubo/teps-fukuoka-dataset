@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Maps>
+  <Map Type="System" Name="RJFA" Priority="0" Center="+33.881389+130.651667">
+    <Runway Name="12_30">
+      <Threshold Name="12" Position="+33.885823+130.646285" ExtendedCentrelineTrack="295" ExtendedCentrelineLength="5" ExtendedCentrelineTickInterval="2" />
+      <Threshold Name="30" Position="+33.879424+130.662248" ExtendedCentrelineTrack="115" ExtendedCentrelineLength="5" ExtendedCentrelineTickInterval="2"/>
+    </Runway>
+    <Symbol Type="HollowTriangle">
+        <Point>AKLIP</Point>
+        <Point>HEIWA</Point>
+        <Point>KANMO</Point>
+        <Point>HEIWA</Point>
+    </Symbol>
+    <Symbol Type="Hexagon">
+        <Point>AHT</Point>
+        <Point>IWT</Point>
+        <Point>MIT</Point>
+    </Symbol>
+    <Symbol Type="HollowSquare">
+        <Point>AHT</Point>
+        <Point>IWT</Point>
+        <Point>MIT</Point>
+    </Symbol>
+  </Map>
+  <Map Type="System" Name="RJFA_LABEL" Priority="2" Center="+33.881389+130.651667">
+    <Label>
+        <Point>AKLIP</Point>
+        <Point>HEIWA</Point>
+        <Point>KANMO</Point>
+        <Point>HEIWA</Point>
+        <Point>AHT</Point>
+        <Point>IWT</Point>
+        <Point>MIT</Point>
+    </Label>
+  </Map>
+</Maps>

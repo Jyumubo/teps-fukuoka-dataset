@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Maps>
+  <Map Type="System" Name="RJTY" CustomColourName="ACA_MAP" Priority="0" Center="+35.748611+139.348611">
+    <Runway Name="18_36">
+      <Threshold Name="18" Position="+35.763409+139.345374" ExtendedCentrelineTrack="350" ExtendedCentrelineLength="21" ExtendedCentrelineTickInterval="2" />
+      <Threshold Name="36" Position="+35.733589+139.351628" ExtendedCentrelineTrack="170" ExtendedCentrelineLength="21" ExtendedCentrelineTickInterval="2"/>
+    </Runway>
+    <Symbol Type="HollowTriangle">
+        <Point>BREEE</Point>
+        <Point>BUSYU</Point>
+        <Point>TIMAP</Point>
+        <Point>ULENI</Point>
+        <Point>SETEE</Point>
+        <Point>STRAZ</Point>
+        <Point>IMOTU</Point>
+        <Point>KAVEV</Point>
+        <Point>BODAI</Point>
+        <Point>RISSA</Point>
+        <Point>OKURA</Point>
+        <Point>JENEL</Point>
+        <Point>TIDEM</Point>
+        <Point>WHILY</Point>
+        <Point>MESTR</Point>
+        <Point>KARMN</Point>
+    </Symbol>
+    <Symbol Type="Hexagon">
+        <Point>YOK</Point>
+    </Symbol>
+    <Symbol Type="HollowSquare">
+        <Point>YOK</Point>
+    </Symbol>
+  </Map>
+  <Map Type="System" Name="RJTY_LABEL" CustomColourName="ACA_MAP" Priority="2" Center="+35.748611+139.348611">
+    <Label>
+        <Point>BREEE</Point>
+        <Point>BUSYU</Point>
+        <Point>TIMAP</Point>
+        <Point>ULENI</Point>
+        <Point>SETEE</Point>
+        <Point>STRAZ</Point>
+        <Point>IMOTU</Point>
+        <Point>KAVEV</Point>
+        <Point>BODAI</Point>
+        <Point>RISSA</Point>
+        <Point>OKURA</Point>
+        <Point>JENEL</Point>
+        <Point>TIDEM</Point>
+        <Point>WHILY</Point>
+        <Point>MESTR</Point>
+        <Point>KARMN</Point>
+        <Point>YOK</Point>
+    </Label>
+  </Map>
+</Maps>

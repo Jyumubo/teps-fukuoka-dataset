@@ -174,7 +174,7 @@
       <Point>GUSPA</Point>    
     </Label>
   </Map>
-  <Map Type="System" Name="RJFF_STAR_16" CustomColourName="ACA_MAP" Priority="0" Center="+33.584445+130.451667">
+  <Map Type="System" Name="RJFF_STAR_16" Priority="0" Center="+33.584445+130.451667">
     <Line Name="OSTEP" Pattern="Dotted">
       <Point>
         OSTEP/
@@ -191,7 +191,7 @@
       </Point>
     </Line>
   </Map>
-  <Map Type="System" Name="RJFF_IAP_16" CustomColourName="ACA_MAP" Priority="0" CustomColourName="IAP" Center="+33.584445+130.451667">
+  <Map Type="System" Name="RJFF_IAP_16" Priority="0" CustomColourName="IAP" Center="+33.584445+130.451667">
     <Line Name="RNP" Pattern="Dotted">
       <Point>
         MALTS/

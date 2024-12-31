@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Maps>
+  <Map Type="System" Name="RJNG" Priority="0" Center="+35.394445+136.869445">
+    <Runway Name="10_28">
+      <Threshold Name="10" Position="+34.812235+138.289831" ExtendedCentrelineTrack="272" ExtendedCentrelineLength="5" ExtendedCentrelineTickInterval="2" />
+      <Threshold Name="28" Position="+34.812947+138.306205" ExtendedCentrelineTrack="092" ExtendedCentrelineLength="21" ExtendedCentrelineTickInterval="2"/>
+    </Runway>
+    <Symbol Type="HollowTriangle">
+      <Point>ALPUS</Point>
+      <Point>IBUKI</Point>
+      <Point>OHNNO</Point>
+      <Point>ADGUN</Point>
+      <Point>KROBE</Point>
+      <Point>HOUBA</Point>
+    </Symbol>
+    <Symbol Type="Hexagon">
+      <Point>GFT</Point>
+      <Point>KCC</Point>
+      <Point>GTC</Point>
+    </Symbol>
+    <Symbol Type="HollowSquare">
+      <Point>GFT</Point>
+      <Point>KCC</Point>
+      <Point>GTC</Point>
+    </Symbol>
+  </Map>
+  <Map Type="System" Name="RJNG_LABEL" Priority="2" Center="+35.394445+136.869445">
+    <Label>
+      <Point>ALPUS</Point>
+      <Point>IBUKI</Point>
+      <Point>OHNNO</Point>
+      <Point>ADGUN</Point>
+      <Point>KROBE</Point>
+      <Point>HOUBA</Point>
+      <Point>GFT</Point>
+      <Point>KCC</Point>
+      <Point>GTC</Point>
+    </Label>
+  </Map>
+</Maps>

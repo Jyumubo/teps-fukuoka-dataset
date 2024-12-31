@@ -1,0 +1,220 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Maps>
+  <Map Type="System" Name="RJTT_22_LDA" CustomColourName="ACA_MAP" Priority="0" Center="+35.553333+139.781111">
+    <Runway Name="16R_34L">
+      <Threshold Name="16R" Position="+35.556258+139.771705" />
+      <Threshold Name="34L" Position="+35.536595+139.785673"/>
+    </Runway>
+    <Runway Name="16L_34R">
+      <Threshold Name="16L" Position="+35.562864+139.788706"/>
+      <Threshold Name="34R" Position="+35.542506+139.803163" />
+    </Runway>
+    <Runway Name="04_22">
+      <Threshold Name="04" Position="+35.549025+139.761254"/>
+      <Threshold Name="22" Position="+35.567470+139.777103"/>
+    </Runway>
+    <Runway Name="05_23">
+      <Threshold Name="05" Position="+35.524008+139.803459"/>
+      <Threshold Name="23" Position="+35.540605+139.822118"/>
+    </Runway>
+    <Runway Name="L04_L22">
+      <Threshold Name="L04" Position="+35.603825+139.818981"/>
+      <Threshold Name="L22" Position="+35.603825+139.818981" ExtendedCentrelineTrack="269" ExtendedCentrelineLength="21" ExtendedCentrelineTickInterval="2" />
+    </Runway>
+    <Runway Name="L05_L23">
+      <Threshold Name="L05" Position="+35.569547+139.782258"/>
+      <Threshold Name="L23" Position="+35.569547+139.782258" ExtendedCentrelineTrack="269" ExtendedCentrelineLength="21" ExtendedCentrelineTickInterval="2"/>
+    </Runway>
+    <Symbol Type="HollowTriangle">
+        <Point>T6L23</Point>
+        <Point>WELDA</Point>
+        <Point>PLUTO</Point>
+        <Point>KAIJI</Point>
+        <Point>INTEL</Point>
+        <Point>RAGOS</Point>
+        <Point>BEKLA</Point>
+        <Point>T6R13</Point>
+        <Point>HATBA</Point>
+        <Point>KAMAT</Point>
+        <Point>LAYER</Point>
+        <Point>GUSRO</Point>
+        <Point>T6R11</Point>
+        <Point>TAURA</Point>
+        <Point>IMOLA</Point>
+        <Point>LAXAS</Point>
+        <Point>TT631</Point>
+        <Point>BAYGE</Point>
+        <Point>SEIKO</Point>
+        <Point>NINOX</Point>
+        <Point>SPOON</Point>
+        <Point>ROVER</Point>
+        <Point>CLARK</Point>
+        <Point>AKAGI</Point>
+        <Point>BRUCE</Point>
+        <Point>AGRIS</Point>
+        <Point>LEWIS</Point>
+        <Point>SILVA</Point>
+        <Point>INUBO</Point>
+        <Point>VAMOS</Point>
+        <Point>UTIBO</Point>
+        <Point>RUTAS</Point>
+        <Point>LATER</Point>
+        <Point>TIARA</Point>
+        <Point>DRAKY</Point>
+        <Point>VADAR</Point>
+        <Point>AKSEL</Point>
+        <Point>SALLY</Point>
+        <Point>TT253</Point>
+        <Point>TT254</Point>
+        <Point>TT255</Point>
+        <Point>STOWE</Point>
+        <Point>SHAFT</Point>
+        <Point>BACON</Point>
+        <Point>LAFIT</Point>
+        <Point>STING</Point>
+        <Point>SPARK</Point>
+        <Point>AROSA</Point>
+        <Point>AVEEY</Point>
+        <Point>ALDEN</Point>
+        <Point>TT256</Point>
+        <Point>TT457</Point>
+        <Point>SLICK</Point>
+        <Point>GODIN</Point>
+        <Point>NOVEL</Point>
+        <Point>DREAD</Point>
+        <Point>DENNY</Point>
+        <Point>DATUM</Point>
+        <Point>ANZAC</Point>
+        <Point>SOLAR</Point>
+        <Point>SCOUT</Point>
+        <Point>TT250</Point>
+        <Point>TT251</Point>
+        <Point>TT252</Point>
+        <Point>STOCK</Point>
+        <Point>POLIX</Point>
+        <Point>ADDUM</Point>
+        <Point>BONUS</Point>
+        <Point>STONE</Point>
+        <Point>DOYLE</Point>
+        <Point>SPENS</Point>
+        <Point>SELNO</Point>
+        <Point>TEDIX</Point>
+        <Point>TOPIT</Point>
+        <Point>MILIT</Point>
+        <Point>BIBLO</Point>
+        <Point>BEAST</Point>
+        <Point>BONDO</Point>
+        <Point>DYUKE</Point>
+        <Point>DARIO</Point>
+        <Point>DISCO</Point>
+        <Point>DANON</Point>
+        <Point>DEANE</Point>
+        <Point>DAMBO</Point>
+        <Point>DELCA</Point>
+        <Point>KASGA</Point>
+    </Symbol>
+    <Symbol Type="Hexagon">
+        <Point>XAC</Point>
+        <Point>SYE</Point>
+        <Point>HME</Point>
+    </Symbol>
+    <Symbol Type="HollowSquare">
+        <Point>XAC</Point>
+        <Point>SYE</Point>
+        <Point>HME</Point>
+    </Symbol>
+  </Map>
+  <Map Type="System" Name="RJTT_22_LDA_LABEL" CustomColourName="ACA_MAP" Priority="2" Center="+35.553333+139.781111">
+    <Label>
+        <Point>T6L23</Point>
+        <Point>WELDA</Point>
+        <Point>PLUTO</Point>
+        <Point>KAIJI</Point>
+        <Point>INTEL</Point>
+        <Point>RAGOS</Point>
+        <Point>BEKLA</Point>
+        <Point>T6R13</Point>
+        <Point>HATBA</Point>
+        <Point>KAMAT</Point>
+        <Point>LAYER</Point>
+        <Point>GUSRO</Point>
+        <Point>T6R11</Point>
+        <Point>TAURA</Point>
+        <Point>IMOLA</Point>
+        <Point>LAXAS</Point>
+        <Point>TT631</Point>
+        <Point>BAYGE</Point>
+        <Point>SEIKO</Point>
+        <Point>NINOX</Point>
+        <Point>SPOON</Point>
+        <Point>ROVER</Point>
+        <Point>CLARK</Point>
+        <Point>AKAGI</Point>
+        <Point>BRUCE</Point>
+        <Point>AGRIS</Point>
+        <Point>LEWIS</Point>
+        <Point>SILVA</Point>
+        <Point>INUBO</Point>
+        <Point>VAMOS</Point>
+        <Point>UTIBO</Point>
+        <Point>RUTAS</Point>
+        <Point>LATER</Point>
+        <Point>TIARA</Point>
+        <Point>DRAKY</Point>
+        <Point>VADAR</Point>
+        <Point>AKSEL</Point>
+        <Point>SALLY</Point>
+        <Point>TT253</Point>
+        <Point>TT254</Point>
+        <Point>TT255</Point>
+        <Point>STOWE</Point>
+        <Point>SHAFT</Point>
+        <Point>BACON</Point>
+        <Point>LAFIT</Point>
+        <Point>STING</Point>
+        <Point>SPARK</Point>
+        <Point>AROSA</Point>
+        <Point>AVEEY</Point>
+        <Point>ALDEN</Point>
+        <Point>TT256</Point>
+        <Point>TT457</Point>
+        <Point>SLICK</Point>
+        <Point>GODIN</Point>
+        <Point>NOVEL</Point>
+        <Point>DREAD</Point>
+        <Point>DENNY</Point>
+        <Point>DATUM</Point>
+        <Point>ANZAC</Point>
+        <Point>SOLAR</Point>
+        <Point>SCOUT</Point>
+        <Point>TT250</Point>
+        <Point>TT251</Point>
+        <Point>TT252</Point>
+        <Point>STOCK</Point>
+        <Point>POLIX</Point>
+        <Point>ADDUM</Point>
+        <Point>BONUS</Point>
+        <Point>STONE</Point>
+        <Point>DOYLE</Point>
+        <Point>SPENS</Point>
+        <Point>SELNO</Point>
+        <Point>TEDIX</Point>
+        <Point>TOPIT</Point>
+        <Point>MILIT</Point>
+        <Point>BIBLO</Point>
+        <Point>BEAST</Point>
+        <Point>BONDO</Point>
+        <Point>DYUKE</Point>
+        <Point>DARIO</Point>
+        <Point>DISCO</Point>
+        <Point>DANON</Point>
+        <Point>DEANE</Point>
+        <Point>DAMBO</Point>
+        <Point>DELCA</Point>
+        <Point>KASGA</Point>
+        <Point>XAC</Point>
+        <Point>SYE</Point>
+        <Point>HME</Point>
+    </Label>
+  </Map>
+</Maps>

@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Maps>
+  <Map Type="System" Name="RJTQ" Priority="0" Center="+34.073611+139.560278">
+    <Runway Name="02_20">
+      <Threshold Name="02" Position="+34.066981+139.557936" ExtendedCentrelineTrack="197" ExtendedCentrelineLength="5" ExtendedCentrelineTickInterval="2" />
+      <Threshold Name="20" Position="+34.077268+139.561694" ExtendedCentrelineTrack="017" ExtendedCentrelineLength="5" ExtendedCentrelineTickInterval="2"/>
+    </Runway>
+    <Symbol Type="HollowTriangle">
+        <Point>SCOTT</Point>
+        <Point>RASYA</Point>
+    </Symbol>
+    <Symbol Type="Hexagon">
+      <Point>MQE</Point>
+    </Symbol>
+    <Symbol Type="HollowSquare">
+      <Point>MQE</Point>
+    </Symbol>
+  </Map>
+  <Map Type="System" Name="RJTQ_LABEL" Priority="2" Center="+34.073611+139.560278">
+    <Label>
+        <Point>SCOTT</Point>
+        <Point>RASYA</Point>
+        <Point>MQE</Point>
+    </Label>
+  </Map>
+</Maps>

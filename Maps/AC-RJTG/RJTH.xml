@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Maps>
+  <Map Type="System" Name="RJTH" Priority="0" Center="+33.115000+139.785833">
+    <Runway Name="08_26">
+      <Threshold Name="08" Position="+33.111953+139.775844" ExtendedCentrelineTrack="250" ExtendedCentrelineLength="5" ExtendedCentrelineTickInterval="2" />
+      <Threshold Name="26" Position="+33.118257+139.795923" ExtendedCentrelineTrack="070" ExtendedCentrelineLength="5" ExtendedCentrelineTickInterval="2"/>
+    </Runway>
+    <Symbol Type="HollowTriangle">
+        <Point>TOPIT</Point>
+        <Point>SANGO</Point>
+        <Point>TH971</Point>
+        <Point>SHELL</Point>
+    </Symbol>
+    <Symbol Type="Hexagon">
+        <Point>HCE</Point>
+    </Symbol>
+    <Symbol Type="HollowSquare">
+        <Point>HCE</Point>
+    </Symbol>
+  </Map>
+  <Map Type="System" Name="RJTH_LABEL" Priority="2" Center="+33.115000+139.785833">
+    <Label>
+        <Point>TOPIT</Point>
+        <Point>SANGO</Point>
+        <Point>TH971</Point>
+        <Point>SHELL</Point>
+        <Point>HCE</Point>
+    </Label>
+  </Map>
+</Maps>

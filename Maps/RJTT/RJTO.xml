@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Maps>
+  <Map Type="System" Name="RJTO" CustomColourName="ACA_MAP" Priority="0" Center="+34.781945+139.360278">
+    <Runway Name="03_21">
+      <Threshold Name="03" Position="+34.774450+139.356899" ExtendedCentrelineTrack="199" ExtendedCentrelineLength="5" ExtendedCentrelineTickInterval="2" />
+      <Threshold Name="21" Position="+34.789697+139.363682" ExtendedCentrelineTrack="019" ExtendedCentrelineLength="5" ExtendedCentrelineTickInterval="2"/>
+    </Runway>
+    <Symbol Type="HollowTriangle">
+        <Point>HATSU</Point>
+    </Symbol>
+    <Symbol Type="Hexagon">
+        <Point>OSE</Point>
+    </Symbol>
+    <Symbol Type="HollowSquare">
+        <Point>OSE</Point>
+    </Symbol>
+  </Map>
+  <Map Type="System" Name="RJTO_LABEL" CustomColourName="ACA_MAP" Priority="2" Center="+34.781945+139.360278">
+    <Label>
+        <Point>HATSU</Point>
+        <Point>OSE</Point>
+    </Label>
+  </Map>
+</Maps>
