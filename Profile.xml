@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <Profile Name="TEPS Fukuoka" FullName="Fukuoka Domestic">
-	<Version AIRAC="2413" Revision="a" PublishDate="20241231" UpdateURL="https://github.com/Jyumubo/teps-fukuoka-dataset/raw/main/Published/" />
+	<Version AIRAC="2413" Revision="b" PublishDate="20241231" UpdateURL="https://github.com/Jyumubo/teps-fukuoka-dataset/raw/main/Published/" />
 	<Servers>
 		<VATSIMStatus url="https://status.vatsim.net/" />
 		<GRIB url="https://sawbe.com/GRIB/" />
