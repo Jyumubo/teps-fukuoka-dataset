@@ -11,11 +11,11 @@
     </Runway>
     <Runway Name="04_22">
       <Threshold Name="04" Position="+35.549025+139.761254"/>
-      <Threshold Name="22" Position="+35.567470+139.777103" ExtendedCentrelineTrack="214" ExtendedCentrelineLength="21" ExtendedCentrelineTickInterval="2" />
+      <Threshold Name="22" Position="+35.567470+139.777103" ExtendedCentrelineTrack="034" ExtendedCentrelineLength="21" ExtendedCentrelineTickInterval="2" />
     </Runway>
     <Runway Name="05_23">
       <Threshold Name="05" Position="+35.524008+139.803459"/>
-      <Threshold Name="23" Position="+35.540605+139.822118" ExtendedCentrelineTrack="224" ExtendedCentrelineLength="21" ExtendedCentrelineTickInterval="2"/>
+      <Threshold Name="23" Position="+35.540605+139.822118" ExtendedCentrelineTrack="044" ExtendedCentrelineLength="21" ExtendedCentrelineTickInterval="2"/>
     </Runway>
     <Symbol Type="HollowTriangle">
         <Point>T6L23</Point>

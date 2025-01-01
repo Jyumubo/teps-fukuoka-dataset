@@ -15,11 +15,11 @@
     </Runway>
     <Runway Name="05_23">
       <Threshold Name="05" Position="+35.524008+139.803459"/>
-      <Threshold Name="23" Position="+35.540605+139.822118" ExtendedCentrelineTrack="224" ExtendedCentrelineLength="21" ExtendedCentrelineTickInterval="2"/>
+      <Threshold Name="23" Position="+35.540605+139.822118" ExtendedCentrelineTrack="044" ExtendedCentrelineLength="21" ExtendedCentrelineTickInterval="2"/>
     </Runway>
     <Runway Name="L05_L23">
       <Threshold Name="L05" Position="+35.569547+139.782258"/>
-      <Threshold Name="L23" Position="+35.569547+139.782258" ExtendedCentrelineTrack="269" ExtendedCentrelineLength="21" ExtendedCentrelineTickInterval="2"/>
+      <Threshold Name="L23" Position="+35.569547+139.782258" ExtendedCentrelineTrack="089" ExtendedCentrelineLength="21" ExtendedCentrelineTickInterval="2"/>
     </Runway>
     <Symbol Type="HollowTriangle">
         <Point>OPPAR</Point>
