@@ -2203,6 +2203,13 @@
         <STAR Name="GODIN1C" ApproachName="ILSZ" />
         <STAR Name="POLIX1C" ApproachName="ILSZ" />
         <STAR Name="ADDUM" ApproachName="ILSZ" />
+        <STAR Name="GODIN2K" ApproachName="ILSX" />
+        <STAR Name="POLIX2K" ApproachName="ILSX" />
+        <STAR Name="GODIN2A" ApproachName="ILSZ" />
+        <STAR Name="POLIX2A" ApproachName="ILSZ" />
+        <STAR Name="XAC2C" ApproachName="ILSZ" />
+        <STAR Name="AKSEL2C" ApproachName="ILSZ" />
+        <STAR Name="AROSA2C" ApproachName="ILSZ" />
       </Runway>
       <Runway Name="S4L" DataRunway="34L">
         <STAR Name="GODIN2K" ApproachName="ILSX" />
@@ -2246,6 +2253,14 @@
         <STAR Name="GODIN1H" ApproachName="HWVS" />
         <STAR Name="POLIX1H" ApproachName="HWVS" />
         <STAR Name="SINGO" ApproachName="ILSZ" />
+        <STAR Name="GODIN2A" ApproachName="ILSZ" />
+        <STAR Name="POLIX2A" ApproachName="ILSZ" />
+        <STAR Name="XAC2C" ApproachName="ILSZ" />
+        <STAR Name="AKSEL2C" ApproachName="ILSZ" />
+        <STAR Name="AROSA2C" ApproachName="ILSZ" />
+        <STAR Name="XAC2H" ApproachName="HWVS" />
+        <STAR Name="AKSEL2H" ApproachName="HWVS" />
+        <STAR Name="AROSA2H" ApproachName="HWVS" />
       </Runway>
       <Runway Name="S4R" DataRunway="34R">
         <STAR Name="GODIN2A" ApproachName="ILSZ" />
@@ -7290,10 +7305,10 @@
       <Route>LUBLA REGZA BARON NORMA</Route>
     </STAR>
     <STAR Name="RUTAS_E" Airport="RJAA" Runways="34L,34R">
-      <Route>RUTAS VENUS JARED AA451 AA452 AA453 YUMIL PEAKS TYLER</Route>
+      <Route>RUTAS JITAN AQUOS SIGMA TORCH CORGI ELGAR</Route>
     </STAR>
     <STAR Name="RUTAS_T" Airport="RJAA" Runways="34L,34R">
-      <Route>RUTAS JITAN AQUOS SIGMA TORCH CORGI ELGAR</Route>
+      <Route>RUTAS VENUS JARED AA451 AA452 AA453 YUMIL PEAKS TYLER</Route>
     </STAR>
     <STAR Name="RUTAS_G" Airport="RJAA" Runways="16L,16R">
       <Route>RUTAS VENUS COPEN BOOTH AA651 AA652 GAMMA CASIO GEMIN</Route>
