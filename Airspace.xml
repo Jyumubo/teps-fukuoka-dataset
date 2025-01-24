@@ -3906,15 +3906,16 @@
       <Route Runway="36">AWARA</Route>
     </SID>
     <!-- RJNK-->
-    <SID Name="GINJO2" Airport="RJNK" Runways="06,24">
-      <Route Runway="06">HAKUI GINJO NTE</Route>
-      <Route Runway="24">HAKUI GINJO NTE</Route>
+    <SID Name="GINJO3" Airport="RJNK" Runways="06,24">
+      <Route Runway="06">SUMVU GINJO NTE</Route>
+      <Route Runway="24">SUMVU GINJO NTE</Route>
+      <Transition Name="KINZAN">GOLDO</Transition>
     </SID>
     <STAR Name="HIMMY_E" Airport="RJNK" Runways="24">
       <Route>HIMMY GINRE KINKA</Route>
     </STAR>
     <STAR Name="HIMMY_W" Airport="RJNK" Runways="06">
-      <Route>HIMMY BURRI MEGIS KANOH DAIJO</Route>
+      <Route>HIMMY IGMOP MEGIS KANOH DAIJO</Route>
     </STAR>
     <Approach Name="ILSZ" Airport="RJNK" Runway="06">
       <Route>DAIJO AMAGO</Route>
@@ -3923,19 +3924,20 @@
       <Route>IMIZU GINRE KINKA</Route>
     </STAR>
     <STAR Name="IMIZU_W" Airport="RJNK" Runways="06">
-      <Route>IMIZU JYOZO BURRI MEGIS KANOH DAIJO</Route>
+      <Route>IMIZU BOBEG IGMOP MEGIS KANOH DAIJO</Route>
     </STAR>
-    <SID Name="KAGA4" Airport="RJNK" Runways="06,24">
-      <Route Runway="06">SAKYU</Route>
-      <Route Runway="24">SAKYU</Route>
+    <SID Name="KAGA5" Airport="RJNK" Runways="06,24">
+      <Route Runway="06">SONBU</Route>
+      <Route Runway="24">SONBU</Route>
+      <Transition Name="YME">OGEKO YME</Transition>
     </SID>
     <STAR Name="KMC_E" Airport="RJNK" Runways="24">
-      <Route>KMC YAMJI ZEBRA HIMRO</Route>
+      <Route>KMC YAMJI IKIKI NOKAB</Route>
     </STAR>
     <STAR Name="KMC_W" Airport="RJNK" Runways="06">
       <Route>KMC SAWRA MEGIS KANOH DAIJO</Route>
     </STAR>
-    <SID Name="KMC3R" Airport="RJNK" Runways="06,24">
+    <SID Name="KMC4R" Airport="RJNK" Runways="06,24">
       <Route Runway="06">KMC</Route>
       <Route Runway="24">KMC</Route>
     </SID>
@@ -3944,17 +3946,17 @@
       <Route Runway="24">AWAZU MANAH</Route>
       <Transition Name="KOMAKI">KCC</Transition>
     </SID>
-    <SID Name="NTE2" Airport="RJNK" Runways="06,24">
+    <SID Name="NTE3" Airport="RJNK" Runways="06,24">
       <Route Runway="06">NTE</Route>
       <Route Runway="24">NTE</Route>
     </SID>
     <Approach Name="RNP" Airport="RJNK" Runway="24">
-      <Transition Name="HIMRO">HIMRO</Transition>
+      <Transition Name="NOKAB">NOKAB</Transition>
       <Transition Name="KINKA">KINKA</Transition>
       <Route>GOSIK NK451 NEJYO NK452</Route>
     </Approach>
     <STAR Name="SONBU_E" Airport="RJNK" Runways="24">
-      <Route>SONBU BURRI ZEBRA HIMRO</Route>
+      <Route>SONBU IGMOP IKIKI NOKAB</Route>
     </STAR>
     <STAR Name="SONBU_W" Airport="RJNK" Runways="06">
       <Route>SONBU KRAGE KOAJI DAIJO</Route>
@@ -3962,12 +3964,13 @@
     <SID Name="SONBU2" Airport="RJNK" Runways="06,24">
       <Route Runway="06">SONBU</Route>
       <Route Runway="24">SONBU</Route>
+      <Transition Name="TANGO">UGEDO YME</Transition>
     </SID>
     <STAR Name="YARII_E" Airport="RJNK" Runways="24">
       <Route>YARII HIDAH GINRE KINKA</Route>
     </STAR>
     <STAR Name="YARII_W" Airport="RJNK" Runways="06">
-      <Route>YARII HESEN EIHEI DAIAN SAIKO DAIJO</Route>
+      <Route>YARII IDOSU EIHEI DAIAN SAIKO DAIJO</Route>
     </STAR>
     <SID Name="YME4" Airport="RJNK" Runways="06,24">
       <Route Runway="06">YME</Route>
@@ -7634,6 +7637,7 @@
         UKATA/
         TOMOL/
         VASKO/
+        KAGUN/
         OMLET
         </Airway>
         <Airway Name="B597">
@@ -11996,6 +12000,33 @@
     <Point Name="MEMEB" Type="FIX">+38.888672+140.430892</Point>
     <Point Name="ORORI" Type="FIX">+38.234436+140.776847</Point>
     <Point Name="OLNOK" Type="FIX">+34.517253+135.506628</Point>
+    <!-- FIX2501 -->
+    <Point Name="BOBEG" Type="FIX">+36.777072+136.807231</Point>
+    <Point Name="ENDON" Type="FIX">+24.748828+141.227658</Point>
+    <Point Name="GUGOS" Type="FIX">+36.550650+135.924928</Point>
+    <Point Name="IDOSU" Type="FIX">+36.191936+136.566728</Point>
+    <Point Name="IGMOP" Type="FIX">+36.528811+136.278364</Point>
+    <Point Name="IGORI" Type="FIX">+24.843220+141.506897</Point>
+    <Point Name="IKELU" Type="FIX">+24.816583+141.420031</Point>
+    <Point Name="IKIKI" Type="FIX">+36.577453+136.467011</Point>
+    <Point Name="IKOPO" Type="FIX">+24.723553+141.159831</Point>
+    <Point Name="KABOL" Type="FIX">+36.592545+136.456020</Point>
+    <Point Name="KAGUN" Type="FIX">+24.781306+142.091428</Point>
+    <Point Name="NIKOP" Type="FIX">+25.525595+140.894847</Point>
+    <Point Name="NOKAB" Type="FIX">+36.598050+136.567303</Point>
+    <Point Name="ODODA" Type="FIX">+24.818947+141.416395</Point>
+    <Point Name="OGEKO" Type="FIX">+35.856417+135.370911</Point>
+    <Point Name="ONOSO" Type="FIX">+36.562236+136.429695</Point>
+    <Point Name="PUBEN" Type="FIX">+36.494520+136.430542</Point>
+    <Point Name="PUSAT" Type="FIX">+36.494520+136.430542</Point>
+    <Point Name="RURUG" Type="FIX">+24.785489+141.132128</Point>
+    <Point Name="SASGA" Type="FIX">+24.738733+141.218061</Point>
+    <Point Name="SUDOP" Type="FIX">+36.237906+136.165672</Point>
+    <Point Name="SUMVU" Type="FIX">+36.761061+136.657558</Point>
+    <Point Name="SUSLU" Type="FIX">+36.183603+136.242275</Point>
+    <Point Name="TOPON" Type="FIX">+24.700500+141.136631</Point>
+    <Point Name="UGARA" Type="FIX">+36.804900+136.511450</Point>
+    <Point Name="UGEDO" Type="FIX">+35.983886+135.508908</Point>
     <!-- FIX -->
     <Point Name="ABASA" Type="FIX">+24.439172222222+123.25232222222</Point>
     <Point Name="ABASI" Type="FIX">+44.000319444444+144.14275</Point>
@@ -12196,7 +12227,6 @@
     <Point Name="ASTRA" Type="FIX">+35.868638888889+140.30005555556</Point>
     <Point Name="ASUKA" Type="FIX">+34.767422222222+136.03186944444</Point>
     <Point Name="ATAMI" Type="FIX">+34.946827777778+139.26768611111</Point>
-    <Point Name="ATBUS" Type="FIX">+24.723086111111+141.15843611111</Point>
     <Point Name="ATENA" Type="FIX">+34.841280555556+136.70103888889</Point>
     <Point Name="ATENZ" Type="FIX">+34.342836111111+133.06614166667</Point>
     <Point Name="ATERA" Type="FIX">+38.264947222222+140.29423055556</Point>
@@ -12377,7 +12407,6 @@
     <Point Name="BULDO" Type="FIX">+43.540875+145.19025277778</Point>
     <Point Name="BUMER" Type="FIX">+34.756311111111+134.996475</Point>
     <Point Name="BUNNY" Type="FIX">+34.695847222222+136.95678888889</Point>
-    <Point Name="BURRI" Type="FIX">+36.528811111111+136.27836388889</Point>
     <Point Name="BURTN" Type="FIX">+34.296572222222+135.01018333333</Point>
     <Point Name="BUSNI" Type="FIX">+37.578180555556+140.33771111111</Point>
     <Point Name="BUSYU" Type="FIX">+35.794425+138.79873333333</Point>
@@ -12797,7 +12826,6 @@
     <Point Name="HAILY" Type="FIX">+36.264530555556+139.29643611111</Point>
     <Point Name="HAKBA" Type="FIX">+37.259952777778+137.88464166667</Point>
     <Point Name="HAKKA" Type="FIX">+36.842991666667+138.47917222222</Point>
-    <Point Name="HAKUI" Type="FIX">+36.764516666667+136.64811666667</Point>
     <Point Name="HALHI" Type="FIX">+35.627944444444+139.41119444444</Point>
     <Point Name="HALKA" Type="FIX">+34.218208333333+134.98401666667</Point>
     <Point Name="HALKI" Type="FIX">+37.323097222222+137.04022777778</Point>
@@ -12838,7 +12866,6 @@
     <Point Name="HENRO" Type="FIX">+33.902463888889+132.82363611111</Point>
     <Point Name="HERAI" Type="FIX">+36.339441666667+136.32889166667</Point>
     <Point Name="HERON" Type="FIX">+37.532194444444+140.598775</Point>
-    <Point Name="HESEN" Type="FIX">+36.191936111111+136.56672777778</Point>
     <Point Name="HIBAR" Type="FIX">+41.110638888889+140.75044444444</Point>
     <Point Name="HIBIS" Type="FIX">+34.248561111111+134.12500555556</Point>
     <Point Name="HIDAH" Type="FIX">+36.509941666667+137.03878611111</Point>
@@ -12849,7 +12876,6 @@
     <Point Name="HIMEH" Type="FIX">+33.737469444444+131.61423333333</Point>
     <Point Name="HIMKA" Type="FIX">+31.953688888889+131.49744166667</Point>
     <Point Name="HIMMY" Type="FIX">+36.821097222222+136.90191388889</Point>
-    <Point Name="HIMRO" Type="FIX">+36.59805+136.56730277778</Point>
     <Point Name="HINAG" Type="FIX">+32.395075+130.51491944444</Point>
     <Point Name="HINAI" Type="FIX">+40.291686111111+140.63831666667</Point>
     <Point Name="HINJA" Type="FIX">+28.739647222222+130.53397222222</Point>
@@ -13046,7 +13072,6 @@
     <Point Name="JYAMU" Type="FIX">+33.755236111111+133.84232222222</Point>
     <Point Name="JYOGA" Type="FIX">+35.146038888889+139.52635</Point>
     <Point Name="JYONA" Type="FIX">+40.808913888889+141.15736388889</Point>
-    <Point Name="JYOZO" Type="FIX">+36.778408333333+136.81010277778</Point>
     <Point Name="JYUGO" Type="FIX">+25.790255555556+131.24606388889</Point>
     <Point Name="JYUOH" Type="FIX">+36.606783333333+140.75151944444</Point>
     <Point Name="KABIL" Type="FIX">+33.481677777778+133.28816944444</Point>
@@ -13083,7 +13108,6 @@
     <Point Name="KALNA" Type="FIX">+39.153836111111+149.82550277778</Point>
     <Point Name="KALON" Type="FIX">+36.489941666667+139.6629</Point>
     <Point Name="KALOO" Type="FIX">+34.549780555556+135.08771111111</Point>
-    <Point Name="KAMAR" Type="FIX">+24.430255555556+140.71731944444</Point>
     <Point Name="KAMAT" Type="FIX">+35.564875+139.69691388889</Point>
     <Point Name="KAMDO" Type="FIX">+41.863411111111+141.25989166667</Point>
     <Point Name="KAMEO" Type="FIX">+34.950738888889+135.46783888889</Point>
@@ -13097,7 +13121,6 @@
     <Point Name="KAMSA" Type="FIX">+37.718022222222+133.73375555556</Point>
     <Point Name="KANAH" Type="FIX">+29.134311111111+129.68951944444</Point>
     <Point Name="KANBE" Type="FIX">+34.577666666667+133.26627777778</Point>
-    <Point Name="KANGO" Type="FIX">+24.648019444444+141.08589722222</Point>
     <Point Name="KANII" Type="FIX">+35.400111111111+137.06278611111</Point>
     <Point Name="KANMO" Type="FIX">+33.825222222222+130.98622777778</Point>
     <Point Name="KANNA" Type="FIX">+35.503130555556+134.68943055556</Point>
@@ -13139,7 +13162,6 @@
     <Point Name="KENSI" Type="FIX">+38.698805555556+139.58668333333</Point>
     <Point Name="KEPLA" Type="FIX">+31.658977777778+130.86483333333</Point>
     <Point Name="KEYAH" Type="FIX">+33.603161111111+130.05296944444</Point>
-    <Point Name="KIBIS" Type="FIX">+24.785033333333+141.13075833333</Point>
     <Point Name="KIBIZ" Type="FIX">+27.728077777778+128.85238055556</Point>
     <Point Name="KIBOM" Type="FIX">+36.451413888889+138.11131944444</Point>
     <Point Name="KICKS" Type="FIX">+26.114097222222+127.63658611111</Point>
@@ -13454,7 +13476,6 @@
     <Point Name="MILKU" Type="FIX">+43.496033333333+144.939075</Point>
     <Point Name="MILKY" Type="FIX">+43.0356+144.08956666667</Point>
     <Point Name="MILPS" Type="FIX">+45.298730555556+141.31166388889</Point>
-    <Point Name="MIMEL" Type="FIX">+24.819394444444+141.41774444444</Point>
     <Point Name="MIMMY" Type="FIX">+34.932583333333+134.53355</Point>
     <Point Name="MIMOD" Type="FIX">+29.589591666667+131.74829444444</Point>
     <Point Name="MINAC" Type="FIX">+34.923966666667+136.17399166667</Point>
@@ -13767,7 +13788,6 @@
     <Point Name="ONISO" Type="FIX">+43.017602777778+144.47368611111</Point>
     <Point Name="ONMAE" Type="FIX">+34.622980555556+138.36616111111</Point>
     <Point Name="ONOPA" Type="FIX">+34.508422222222+133.78451944444</Point>
-    <Point Name="ONSEN" Type="FIX">+24.817736111111+141.47780833333</Point>
     <Point Name="ONSKE" Type="FIX">+30.623036111111+130.64807222222</Point>
     <Point Name="ONUMA" Type="FIX">+37.298611111111+139.92444444444</Point>
     <Point Name="ONUMI" Type="FIX">+43.113483333333+142.75341388889</Point>
@@ -13850,7 +13870,6 @@
     <Point Name="PASPI" Type="FIX">+41.731358333333+140.95622222222</Point>
     <Point Name="PASRO" Type="FIX">+48.278997222222+160.68131388889</Point>
     <Point Name="PASSO" Type="FIX">+34.958566666667+136.52403333333</Point>
-    <Point Name="PATBA" Type="FIX">+24.748338888889+141.226275</Point>
     <Point Name="PATRA" Type="FIX">+41.844738888889+140.51301388889</Point>
     <Point Name="PAULO" Type="FIX">+27.503477777778+128.95230555556</Point>
     <Point Name="PAVGA" Type="FIX">+34.053030555556+129.55285277778</Point>
@@ -14090,7 +14109,6 @@
     <Point Name="SATKI" Type="FIX">+33.122411111111+133.22474166667</Point>
     <Point Name="SATOH" Type="FIX">+28.689536111111+128.95625833333</Point>
     <Point Name="SATOL" Type="FIX">+35.1037+139.67872777778</Point>
-    <Point Name="SAUNA" Type="FIX">+24.861344444444+141.57863333333</Point>
     <Point Name="SAVER" Type="FIX">+35.648913888889+139.95229722222</Point>
     <Point Name="SAVIT" Type="FIX">+42.474188888889+141.47510277778</Point>
     <Point Name="SAWAT" Type="FIX">+33.289641666667+133.06139166667</Point>
@@ -14264,7 +14282,6 @@
     <Point Name="SUNPI" Type="FIX">+34.459544444444+132.178925</Point>
     <Point Name="SUPOK" Type="FIX">+35.770591666667+141.46945555556</Point>
     <Point Name="SURFU" Type="FIX">+31.832683333333+131.50523055556</Point>
-    <Point Name="SURIB" Type="FIX">+24.798563888889+141.15005555556</Point>
     <Point Name="SUROV" Type="FIX">+34.100144444444+133.48543611111</Point>
     <Point Name="SUSAK" Type="FIX">+33.339502777778+133.50379166667</Point>
     <Point Name="SUSAR" Type="FIX">+35.232088888889+132.85516944444</Point>
@@ -14365,11 +14382,9 @@
     <Point Name="TESLA" Type="FIX">+27.209930555556+127.71271666667</Point>
     <Point Name="TETRA" Type="FIX">+35.773991666667+140.26549444444</Point>
     <Point Name="TETTA" Type="FIX">+26.250997222222+128.99914444444</Point>
-    <Point Name="TEZAN" Type="FIX">+24.98245+141.99734444444</Point>
     <Point Name="THETA" Type="FIX">+26.338888888889+127.53314166667</Point>
     <Point Name="TIARA" Type="FIX">+35.659452777778+139.33170833333</Point>
     <Point Name="TIBRI" Type="FIX">+35.974927777778+133.14008611111</Point>
-    <Point Name="TIDRI" Type="FIX">+25.606258333333+140.84866944444</Point>
     <Point Name="TIGER" Type="FIX">+34.680675+135.17130555556</Point>
     <Point Name="TIGRA" Type="FIX">+38.426880555556+139.20843055556</Point>
     <Point Name="TIIDA" Type="FIX">+34.515822222222+133.20187222222</Point>
@@ -14649,7 +14664,6 @@
     <Point Name="ZAKRO" Type="FIX">+33.975094444444+129.65127777778</Point>
     <Point Name="ZALAR" Type="FIX">+42.208422222222+140.82348888889</Point>
     <Point Name="ZARON" Type="FIX">+32.261586111111+131.80729166667</Point>
-    <Point Name="ZEBRA" Type="FIX">+36.577452777778+136.46701111111</Point>
     <Point Name="ZELBU" Type="FIX">+43.609058333333+142.47702777778</Point>
     <Point Name="ZOHRA" Type="FIX">+34.322572222222+135.08833611111</Point>
     <Point Name="ZOROH" Type="FIX">+33.911380555556+133.79669166667</Point>
@@ -14768,7 +14782,7 @@
     <Point Name="LHT" Type="Navaid" NavaidType="TAC" Frequency="114.700">+34.747352777778+137.71005833333</Point>
     <Point Name="FMT" Type="Navaid" NavaidType="TAC" Frequency="113.000">+34.038425+131.54574166667</Point>
     <Point Name="NEU" Type="Navaid" NavaidType="TAC" Frequency="109.800">+34.158408333333+132.24550277778</Point>
-    <Point Name="IJT" Type="Navaid" NavaidType="TAC" Frequency="109.800">+24.784544444444+141.31584722222</Point>
+    <Point Name="IJT" Type="Navaid" NavaidType="TAC" Frequency="109.800">+24.784553+141.315842</Point>
     <Point Name="JAT" Type="Navaid" NavaidType="TAC" Frequency="113.800">+31.362777777778+130.83027777778</Point>
     <Point Name="KJT" Type="Navaid" NavaidType="TAC" Frequency="113.550">+34.004166666667+134.62555555556</Point>
     <Point Name="XMT" Type="Navaid" NavaidType="TAC" Frequency="113.500">+34.704594444444+136.957425</Point>

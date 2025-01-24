@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Maps>
+  <Map Type="System" Name="RJNK_TAC" CustomColourName="ACA_MAP" Priority="0" Center="+36.393889+136.407500">
+    <Symbol Type="HollowTriangle">
+      <Point>UGARA</Point>
+      <Point>KABOL</Point>
+      <Point>PUSAT</Point>
+      <Point>GUGOS</Point>
+      <Point>SUDOP</Point>
+      <Point>ONOSO</Point>
+      <Point>SUSLO</Point>
+    </Symbol>
+    <Symbol Type="Hexagon">
+      <Point>KMC</Point>
+    </Symbol>
+    <Symbol Type="HollowSquare">
+      <Point>KMC</Point>
+    </Symbol>
+  </Map>
+  <Map Type="System" Name="RJNK_TAC_LABEL" CustomColourName="ACA_MAP" Priority="2" Center="+36.393889+136.407500">
+    <Label>
+      <Point>UGARA</Point>
+      <Point>KABOL</Point>
+      <Point>PUSAT</Point>
+      <Point>GUGOS</Point>
+      <Point>SUDOP</Point>
+      <Point>ONOSO</Point>
+      <Point>SUSLO</Point>
+      <Point>KMC</Point>
+    </Label>
+  </Map>
+</Maps>
