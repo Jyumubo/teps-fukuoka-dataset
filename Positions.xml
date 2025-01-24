@@ -1935,7 +1935,7 @@
           <Line>Tokachi Tower</Line>
         </ControllerInfo>
     </Position>
-    <Position Name="Obihiro Tower" Type="ASD" DefaultCenter="+42.733333+143.217222" DefaultRange="32" MagneticVariation="+9">
+    <Position Name="Obihiro Tower" Type="ASD" DefaultCenter="+42.733333+143.217222" DefaultRange="32" MagneticVariation="+10">
         <Sectors>
         <Sector Name="CB LCL" />
         </Sectors>
@@ -4961,7 +4961,7 @@
       <Map Name="Ground/ALL_BLD" />
     </Maps>
   </Position>
-  <Position Name="RJCB" Type="ASMGCS" ASMGCSAirport="RJCB" DefaultCenter="+42.733333+143.217222" DefaultRange="2" MagneticVariation="+8" Rotation="0">
+  <Position Name="RJCB" Type="ASMGCS" ASMGCSAirport="RJCB" DefaultCenter="+42.733333+143.217222" DefaultRange="2" MagneticVariation="+10" Rotation="0">
     <Maps>
       <Map Name="Ground/ALL_RWY" />
       <Map Name="Ground/ALL_TWY" />
